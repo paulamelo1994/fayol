@@ -1,0 +1,43 @@
+Elaborado el... 4 de Junio de 2019
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+1131666 | Cristian Andres Arroyave Redon | 3846 | 04:24:20
+1210239 | Alejandro  Fernandez Rendon | 3857 | 08:45:58
+1330084 | Diana Carolina Zapata Carvajal | 3841 | 00:12:21
+1338047 | Jackeline Realpe Ledezma | 3857 | 00:00:10
+1352841 | Anderson Murillo Hurtado | 3857 | 02:25:11
+1423033 | Duvan Alexis Tello Hinojosa | 3841 | 04:04:29
+1425154 | Daniela Andrea Giraldo | 3841 | 01:00:00
+1435850 | Luisa Fernanda Martinez Delgadillo | 3648 | 01:11:47
+1436547 | Luis Alejandro Martinez Mondragon | 3857 | 01:36:11
+1531152 | Luis Miguel Mejia Mosquera | 3845 | 01:00:00
+1536257 | Sandra Marcela Angrino Trochez | 3841 | 01:00:00
+1537970 | Andres Felipe Rojas Agudelo | 3845 | -00:09:47
+1538642 | Valeria Piedrahita | 3841 | 01:00:00
+1539987 | Valeria Prado Lemos | 3845 | 01:00:00
+1541692 | Trihester Hermilda Perez Diaz | 3841 | 01:00:00
+1623548 | Esteban Llanos Agudelo | 3857 | 01:32:35
+1630269 | Maria Parra | 3841 | -00:52:39
+1643654 | Alejandro  Saavedra | 3841 | 03:59:18
+1643962 | Diana Marcela Ospina Muñoz | 3841 | 02:05:13
+1646564 | Nicolas  MadroÑero | 3841 | 01:00:00
+1646729 | Juan Camilo Rodriguez Reinosa | 3841 | 02:00:00
+1724009 | Daniel Santiago Ospina Garcia | 3660 | 03:00:00
+1725396 | David Andres Gonzales Cruz | 3857 | 02:52:39
+1727086 | Victor Alfonso Zapara Balanta | 3845 | -00:09:22
+1727707 | Maria Carolina Vergara Arrieta | 3857 | 01:00:00
+1729077 | Maria Camila Uribe Gil | 3660 | 01:00:00
+1735480 | Luis Aster Ayala Martinez | 3845 | -00:09:04
+1735516 | Jhon Freddy Ocampo Valdez | 3845 | 03:47:54
+1735634 | William José Ibarra Ibañez | 3845 | 01:01:03
+1740431 | Patricia Rosero | 3845 | -00:13:00
+1744802 | Juliana Villota Galeano | 3857 | -00:17:59
+1746734 | Karen Sofia Rodriguez Arteaga | 3857 | 03:37:36
+1770802 | Esteban Rodriguez Echeverry | 3846 | 03:33:04
+1802646 | Fredy Benavides  Vivas | 7879 | 03:14:51
+1841968 | Andres Felipe Ramirez | 2635 | -00:57:52
+1844364 | Nathaly Jaramillo | 3845 | 02:52:51
+1928720 | Yiliana A. Roldan M. | 3857 | 02:52:34
+
+

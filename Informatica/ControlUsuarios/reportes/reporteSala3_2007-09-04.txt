@@ -1,0 +1,6 @@
+Elaborado el... 2007-09-04
+Mes: 1 de Marzo de 2007 al 31 de Marzo de 2007
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+
+

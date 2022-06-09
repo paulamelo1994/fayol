@@ -1,0 +1,44 @@
+Elaborado el... 2018-05-31
+Mes: 1 de Mayo de 2018 al 31 de Mayo de 2018
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1831864 | SEBASTIÁN  GRISALES | 3857 | 2018-05-02 | 12:09:42 | 14:09:42 | idiomas | pc02 | Investigacion
+1436900 | Ana Maria Mosquera Guevara | 3857 | 2018-05-02 | 10:07:44 | 12:07:44 | idiomas | pc14 | Investigacion
+1440765 | Maria Camila Jimenez Mazuera | 3857 | 2018-05-03 | 10:37:43 | 12:37:43 | idiomas | pc06 | Practica
+1741478 | Daniel Alejandro  Muñoz Castro | 3648 | 2018-05-03 | 10:38:06 | 12:38:06 | idiomas | pc08 | Practica
+1622982 | JUAN SEBASTIAN ARCILA  | 3857 | 2018-05-03 | 10:45:29 | 12:45:29 | idiomas | pc14 | Practica
+1633401 | John Henry Cardona Raigoza  | 3261 | 2018-05-07 | 14:49:10 | 16:49:10 | idiomas | pc02 | Investigacion
+1824249 | Anderson  Ceron Tulande | 2636 | 2018-05-07 | 16:09:25 | 18:09:25 | idiomas | pc03 | Practica
+1828546 | Evelyng Nathalia Osorio Mora | 2636 | 2018-05-07 | 17:02:17 | 19:02:17 | idiomas | pc04 | Practica
+1831489 | Luisa Maria  Alegria Alvarez | 2635 | 2018-05-07 | 17:19:56 | 19:19:56 | idiomas | pc06 | Practica
+1740443 | Maria Fernanda Arroyo Cuenu | 3751 | 2018-05-07 | 17:51:22 | 19:51:22 | idiomas | pc07 | Practica
+1336822 | Vanessa CEBALLOS DOMINGUEZ | 3648 | 2018-05-08 | 16:12:57 | 18:12:57 | idiomas | pc02 | Practica
+1342363 | Sara Juliana Arcila Quintero | 3648 | 2018-05-08 | 16:14:22 | 18:14:22 | idiomas | pc03 | Investigacion
+1235993 | Victor Hernan  Lopez | 3842 | 2018-05-08 | 16:22:43 | 18:22:43 | idiomas | pc05 | Practica
+1734213 | Jhon Arley Espinosa Arango | 3845 | 2018-05-08 | 16:47:06 | 18:47:06 | idiomas | pc05 | Practica
+1633401 | John Henry Cardona Raigoza  | 3261 | 2018-05-10 | 10:23:49 | 12:23:49 | idiomas | pc01 | Practica
+1633401 | John Henry Cardona Raigoza  | 3261 | 2018-05-11 | 09:49:17 | 11:49:17 | idiomas | pc01 | Practica
+1742679 | Diana Ximena Gomez Gallardo | 3646 | 2018-05-11 | 11:09:07 | 13:09:07 | idiomas | pc15 | Practica
+1730525 | Mateo  Betancourt Cajiao | 3660 | 2018-05-15 | 16:55:55 | 18:55:55 | idiomas | pc02 | Practica
+1831864 | SEBASTIÁN  GRISALES | 3857 | 2018-05-17 | 17:51:16 | 19:51:16 | idiomas | pc02 | Investigacion
+1828546 | Evelyng Nathalia Osorio Mora | 2636 | 2018-05-21 | 18:03:15 | 20:03:15 | idiomas | pc02 | Practica
+1124685 | JUAN PABLO CHAPAL VILLARREAL | 3263 | 2018-05-21 | 18:36:26 | 20:36:26 | idiomas | pc03 | Clase
+1741478 | Daniel Alejandro  Muñoz Castro | 3648 | 2018-05-22 | 11:38:19 | 13:38:19 | idiomas | pc05 | Practica
+1745354 | Diego Fernando  Vasquez Monterroza | 3648 | 2018-05-22 | 11:38:49 | 13:38:49 | idiomas | pc06 | Practica
+1633401 | John Henry Cardona Raigoza  | 3261 | 2018-05-23 | 18:53:32 | 20:53:32 | idiomas | pc02 | Practica
+1623548 | Esteban Llanos Agudelo | 3857 | 2018-05-23 | 19:03:46 | 21:03:46 | idiomas | pc03 | Investigacion
+1633192 | Kelly Alexandra Mulcue Guegia | 3857 | 2018-05-23 | 19:04:02 | 21:04:02 | idiomas | pc04 | Investigacion
+1748895 | Valentina  Beron Quilindo | 3648 | 2018-05-25 | 16:33:01 | 18:33:01 | idiomas | pc02 | Practica
+1741794 | Angie Cristina  Quinchia Amaguaña | 3648 | 2018-05-25 | 16:33:42 | 18:33:42 | idiomas | pc03 | Practica
+1742365 | Daniela Alejandra Ascuntar Benavidez  | 3648 | 2018-05-25 | 16:35:45 | 18:35:45 | idiomas | pc04 | Practica
+1742365 | Daniela Alejandra Ascuntar Benavidez  | 3648 | 2018-05-29 | 11:46:16 | 13:46:16 | idiomas | pc10 | Practica
+1436900 | Ana Maria Mosquera Guevara | 3857 | 2018-05-29 | 09:58:01 | 11:58:01 | idiomas | pc11 | Practica
+1436900 | Ana Maria Mosquera Guevara | 3857 | 2018-05-29 | 09:59:11 | 11:59:11 | idiomas | pc11 | Investigacion
+1742365 | Daniela Alejandra Ascuntar Benavidez  | 3648 | 2018-05-29 | 11:45:36 | 13:45:36 | idiomas | pc12 | Practica
+1437040 | Sandra Camila Tovar Parra | 3857 | 2018-05-29 | 09:58:21 | 11:58:21 | idiomas | pc12 | Investigacion
+1825004 | NASLY  CAMPO LASSO | 3857 | 2018-05-29 | 10:40:24 | 12:40:24 | idiomas | pc13 | Practica
+1537225 | DIEGO FERNANDO BUSTAMANTE GOMEZ | 3841 | 2018-05-30 | 15:45:39 | 17:45:39 | idiomas | pc01 | Practica
+1742365 | Daniela Alejandra Ascuntar Benavidez  | 3648 | 2018-05-30 | 17:43:48 | 19:43:48 | idiomas | pc02 | Investigacion
+1633401 | John Henry Cardona Raigoza  | 3261 | 2018-05-31 | 10:39:56 | 12:39:56 | idiomas | pc06 | Practica
+
+

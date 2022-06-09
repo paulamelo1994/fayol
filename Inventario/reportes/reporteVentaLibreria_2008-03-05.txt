@@ -1,0 +1,11 @@
+Elaborado el... 2008-03-05
+Del 2008-02-05 al 2008-02-05
+FECHA | BENEFICIARIO | VINCULACION|MATERIAL| CANTIDAD | PRECIO | DESCUENTO | TOTAL VENTA | REALIZADO POR
+
+2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 10000 | 0 | 10000 |deisy
+2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 10000 | 0 | 10000 |deisy
+2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 10000 | 0 | 10000 |deisy
+2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 10000 | 0 | 10000 |deisy
+ |  |  |  |  |  | Total Ventas | 40000  |
+
+

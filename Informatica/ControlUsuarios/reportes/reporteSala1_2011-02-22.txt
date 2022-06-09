@@ -1,0 +1,6 @@
+Elaborado el... 2011-02-22
+Mes: 1 de Marzo de 2011 al 31 de Marzo de 2011
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+
+

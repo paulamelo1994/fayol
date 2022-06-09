@@ -1,0 +1,418 @@
+Elaborado el... 2008-02-28
+Mes: 1 de Febrero de 2008 al 29 de Febrero de 2008
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+16652602 | Manuel Salvador Williams Aguilar | 1111 | 2008-02-07 | 14:29:45 | 15:29:45 | idiomas | pc01 | Practica
+0327363 | Carolina  Camacho Lenis | 3264 | 2008-02-09 | 09:08:03 | 10:08:03 | idiomas | pc01 |  
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-11 | 14:24:48 | 15:24:48 | idiomas | pc01 | Practica
+0431451 | HANYI LUCELY CACERES RIVAS | 3842 | 2008-02-11 | 10:21:39 | 11:21:39 | idiomas | pc01 | Practica
+0431451 | HANYI LUCELY CACERES RIVAS | 3842 | 2008-02-11 | 10:19:18 | 11:19:18 | idiomas | pc01 | Practica
+38602667 | Jenny Marcela Melo Velazco | 1111 | 2008-02-11 | 17:29:47 | 18:29:47 | idiomas | pc03 | Practica
+0024940 | YOLIMA INES ALBAN ARAGON | 3842 | 2008-02-11 | 10:44:55 | 11:44:55 | idiomas | pc03 | Practica
+14838282 | Andrés Ramiro Azuero Rodríguez | 3333 | 2008-02-11 | 17:01:13 | 18:01:13 | idiomas | pc05 | Practica
+0736690 | YENI ESTEFANI MELO ARAUJO | 3857 | 2008-02-12 | 14:26:37 | 15:26:37 | idiomas | pc01 | Practica
+0738115 | MARIAFERNANDA SANCHEZ HOLGUIN | 3857 | 2008-02-12 | 17:20:57 | 18:20:57 | idiomas | pc01 | Practica
+38602667 | Jenny Marcela Melo Velazco | 1111 | 2008-02-12 | 15:21:14 | 16:21:14 | idiomas | pc04 | Investigacion
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2008-02-13 | 08:30:24 | 09:30:24 | idiomas | pc01 | Practica
+0327074 | ALEJANDRO GONZALEZ ARANGO | 3846 | 2008-02-13 | 10:07:40 | 11:07:40 | idiomas | pc01 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-13 | 10:21:41 | 11:21:41 | idiomas | pc03 | Practica
+0441056 | JUAN CARLOS SARRIA ZAMBRANO | 3842 | 2008-02-13 | 09:03:35 | 10:03:35 | idiomas | pc03 | Practica
+0624296 | DIANA ALEXANDRA CASTILLA MATALLANA | 3857 | 2008-02-13 | 11:04:13 | 12:04:13 | idiomas | pc04 | Practica
+0538950 | DAIRO FERNANDO CEFERINO VIAFARA | 3842 | 2008-02-13 | 10:31:34 | 11:31:34 | idiomas | pc05 | Practica
+0625016 | EDUAR MAURICIO OTERO GOMEZ | 3842 | 2008-02-13 | 10:29:43 | 11:29:43 | idiomas | pc06 | Practica
+0623826 | CLAUDIA FERNANDA RAMIREZ MUñOZ | 3857 | 2008-02-13 | 11:05:03 | 12:05:03 | idiomas | pc06 | Practica
+0637978 | JUAN CAMILO SANCHEZ GONZALEZ | 3842 | 2008-02-13 | 09:48:52 | 10:48:52 | idiomas | pc07 | Practica
+0625016 | EDUAR MAURICIO OTERO GOMEZ | 3842 | 2008-02-13 | 10:32:21 | 11:32:21 | idiomas | pc08 | Practica
+0624505 | HAMILTON MEJIA GUTIERREZ | 3842 | 2008-02-13 | 10:00:10 | 11:00:10 | idiomas | pc09 | Practica
+0624505 | HAMILTON MEJIA GUTIERREZ | 3842 | 2008-02-15 | 14:15:39 | 15:15:39 | idiomas | pc01 | Practica
+0538950 | DAIRO FERNANDO CEFERINO VIAFARA | 3842 | 2008-02-15 | 15:09:43 | 16:09:43 | idiomas | pc03 | Practica
+0422122 | IVAN DARIO ECHEVERRY | 3842 | 2008-02-15 | 14:15:52 | 15:15:52 | idiomas | pc03 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2008-02-15 | 14:41:53 | 15:41:53 | idiomas | pc05 | Practica
+0741288 | Sussan Cruz Sanchez | 3857 | 2008-02-15 | 14:41:36 | 15:41:36 | idiomas | pc07 | Practica
+0228218 | ISABEL CRISTINA LOZANO MARIN | 3845 | 2008-02-16 | 11:05:40 | 12:05:40 | idiomas | pc03 | Practica
+0740281 | Angela PAtricia Sanche Sanches Parada | 3857 | 2008-02-16 | 09:30:05 | 10:30:05 | idiomas | pc04 | Practica
+0745516 | Katerine Estefani Garcia Cardona | 3857 | 2008-02-16 | 09:30:30 | 10:30:30 | idiomas | pc06 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-18 | 14:07:44 | 15:07:44 | idiomas | pc01 | Practica
+0433607 | DUVAN FERNANDO ROJAS QUINAYAZ | 3857 | 2008-02-18 | 10:11:07 | 11:11:07 | idiomas | pc01 | Practica
+14838282 | Andrés Ramiro Azuero Rodríguez | 3333 | 2008-02-18 | 16:39:35 | 17:39:35 | idiomas | pc01 | Practica
+14838282 | Andrés Ramiro Azuero Rodríguez | 3333 | 2008-02-18 | 08:47:08 | 09:47:08 | idiomas | pc03 | Practica
+0734026 | EDWIN FERNEY MANZANO MATA | 3842 | 2008-02-18 | 14:27:33 | 15:27:33 | idiomas | pc03 | Practica
+0734964 | Ana Maria Cedeño Gallego | 3857 | 2008-02-18 | 11:10:33 | 12:10:33 | idiomas | pc03 | Practica
+0422122 | IVAN DARIO ECHEVERRY | 3842 | 2008-02-18 | 09:59:40 | 10:59:40 | idiomas | pc03 | Practica
+38602667 | Jenny Marcela Melo Velazco | 1111 | 2008-02-18 | 16:43:04 | 17:43:04 | idiomas | pc03 | Practica
+0644530 | CAROLINA SANTIAGO SANDOVAL | 3842 | 2008-02-18 | 08:34:51 | 09:34:51 | idiomas | pc04 | Practica
+0644530 | CAROLINA SANTIAGO SANDOVAL | 3842 | 2008-02-18 | 08:48:41 | 09:48:41 | idiomas | pc05 | Practica
+0731287 | lina vanessa  LOPEZ ARENAS | 3842 | 2008-02-18 | 14:27:54 | 15:27:54 | idiomas | pc05 | Practica
+0633195 | ANDREA BURBANO VARGAS | 3842 | 2008-02-18 | 09:17:25 | 10:17:25 | idiomas | pc07 | Practica
+0522054 | JUAN DAVID CASTAñO ARROYO | 3846 | 2008-02-18 | 14:30:33 | 15:30:33 | idiomas | pc07 | Practica
+0829022 | Yamila Andrea  Velez | 3846 | 2008-02-18 | 14:43:52 | 15:43:52 | idiomas | pc09 | Practica
+0827311 | GINETTE VANESA QUINTERO OLGUIN | 3857 | 2008-02-18 | 15:50:07 | 16:50:07 | idiomas | pc12 | Practica
+0827343 | Jairo Alexander Zapata Rengifo | 3857 | 2008-02-18 | 15:50:24 | 16:50:24 | idiomas | pc13 | Practica
+0445102 | JEFFERSON ANDRES VELEZ MARTINEZ | 3857 | 2008-02-19 | 14:50:02 | 15:50:02 | idiomas | pc01 | Practica
+0354280 | DIANA VANESSA GUTIERREZ MEJIA | 3846 | 2008-02-19 | 15:04:05 | 16:04:05 | idiomas | pc01 | Practica
+0522278 | ELVER HERNANDO ROTAVISTA RUGE | 3857 | 2008-02-19 | 11:21:51 | 12:21:51 | idiomas | pc01 | Practica
+94424086 | David Marquez Herrera | 1111 | 2008-02-19 | 16:32:10 | 17:32:10 | idiomas | pc01 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-19 | 16:43:22 | 17:43:22 | idiomas | pc03 | Practica
+0746209 | edwin alexander VELANDIA  GUERRRERO | 2832 | 2008-02-19 | 11:02:39 | 12:02:39 | idiomas | pc03 | Practica
+0522184 | LUIS MANUEL MEJIA RODAS | 3846 | 2008-02-19 | 10:33:30 | 11:33:30 | idiomas | pc05 | Practica
+0439281 | FLOR STELLA ROMERO MARTINEZ | 3857 | 2008-02-19 | 15:56:55 | 16:56:55 | idiomas | pc05 | Practica
+0625993 | DANIEL GONZALEZ ZAMBRANO | 3857 | 2008-02-19 | 11:23:57 | 12:23:57 | idiomas | pc05 | Practica
+0522137 | JOHAN ALBERTO HUERGO LASSO | 3846 | 2008-02-19 | 10:33:55 | 11:33:55 | idiomas | pc07 | Practica
+0441414 | ANA MARIA OSORIO FANDIÑO | 3857 | 2008-02-19 | 16:11:44 | 17:11:44 | idiomas | pc07 | Practica
+0439992 | CATALINA PINTO OROZCO | 3857 | 2008-02-19 | 16:12:01 | 17:12:01 | idiomas | pc09 | Practica
+0439992 | CATALINA PINTO OROZCO | 3857 | 2008-02-20 | 10:18:42 | 11:18:42 | idiomas | pc01 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2008-02-20 | 08:36:41 | 09:36:41 | idiomas | pc01 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2008-02-20 | 08:32:16 | 09:32:16 | idiomas | pc03 | Practica
+0433607 | DUVAN FERNANDO ROJAS QUINAYAZ | 3857 | 2008-02-20 | 10:17:52 | 11:17:52 | idiomas | pc05 | Practica
+0744125 | Leidy Andrea Rojas Montenegro | 3857 | 2008-02-20 | 08:43:10 | 09:43:10 | idiomas | pc05 | Practica
+0741065 | JUAN FELIPE OSPINA RUIZ | 3857 | 2008-02-20 | 09:51:18 | 10:51:18 | idiomas | pc07 | Practica
+0637978 | JUAN CAMILO SANCHEZ GONZALEZ | 3842 | 2008-02-20 | 10:43:17 | 11:43:17 | idiomas | pc09 | Practica
+0823663 | LUZ ANGELICA OSORIO OSORIO | 3857 | 2008-02-21 | 09:47:13 | 10:47:13 | idiomas | pc01 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2008-02-21 | 08:22:46 | 09:22:46 | idiomas | pc01 | Practica
+0623380 | ANDRES FELIPE URBINA VELASQUEZ | 3846 | 2008-02-21 | 16:17:08 | 17:17:08 | idiomas | pc01 | Practica
+0732741 | PAOLA ANDREA FAJARDO PEREZ | 3845 | 2008-02-21 | 16:39:12 | 17:39:12 | idiomas | pc03 | Practica
+0633195 | ANDREA BURBANO VARGAS | 3842 | 2008-02-21 | 09:42:13 | 10:42:13 | idiomas | pc03 | Practica
+0746209 | edwin alexander VELANDIA  GUERRRERO | 2832 | 2008-02-21 | 14:12:04 | 15:12:04 | idiomas | pc03 | Practica
+0824809 | FRANCISCO JAVIER GIRALDO OCAMPO | 3857 | 2008-02-21 | 14:15:57 | 15:15:57 | idiomas | pc05 | Practica
+0826209 | ana yurani RAMIREZ CHICAIZA | 3857 | 2008-02-21 | 09:47:49 | 10:47:49 | idiomas | pc05 | Practica
+0626691 | VICTOR MIGUEL CHAVARRO URRUTIA | 3846 | 2008-02-21 | 14:16:22 | 15:16:22 | idiomas | pc07 | Practica
+0825946 | NESID VANESSA TEJADA MONTES | 3857 | 2008-02-21 | 09:48:14 | 10:48:14 | idiomas | pc07 | Practica
+0624346 | JAIRO LOZADA CARDOZO | 3846 | 2008-02-21 | 15:12:10 | 16:12:10 | idiomas | pc07 | Practica
+0824230 | anyely  yomara MEDINA VELASQUEZ | 3857 | 2008-02-21 | 14:16:36 | 15:16:36 | idiomas | pc09 | Practica
+0826109 | ANNY YENITHSA VARGAS MORALES | 3857 | 2008-02-21 | 10:40:35 | 11:40:35 | idiomas | pc09 | Practica
+0825911 | Maria Leidy Almendra Chocue | 3857 | 2008-02-21 | 14:20:47 | 15:20:47 | idiomas | pc11 | Practica
+0746788 | Monica Yaneth RIASCO MURILLO | 3842 | 2008-02-21 | 16:25:45 | 17:25:45 | idiomas | pc12 | Practica
+0750046 | Andres Felipe CORDOBA MARIN | 3842 | 2008-02-21 | 16:25:56 | 17:25:56 | idiomas | pc13 | Practica
+0822953 | RAQUEL SOFIA NOGUERA SALAS | 3857 | 2008-02-21 | 10:43:43 | 11:43:43 | idiomas | pc13 | Practica
+0825997 | Oscar David Muñoz Torres | 3857 | 2008-02-21 | 15:31:45 | 16:31:45 | idiomas | pc14 | Practica
+0828919 | YENNY MARCELA RIVERA HERNANDEZ | 3857 | 2008-02-21 | 10:44:46 | 11:44:46 | idiomas | pc14 | Practica
+0825706 | ana lucia PALACIOS MEJIA | 3857 | 2008-02-21 | 10:46:12 | 11:46:12 | idiomas | pc15 | Practica
+0825752 | Jeyson Felipe Montoya Trujillo | 3857 | 2008-02-21 | 15:32:23 | 16:32:23 | idiomas | pc16 | Practica
+0825044 | JOSE RODRIGO PEREZ RIVAS | 3857 | 2008-02-21 | 10:46:50 | 11:46:50 | idiomas | pc16 | Practica
+0827343 | Jairo Alexander Zapata Rengifo | 3857 | 2008-02-21 | 15:32:40 | 16:32:40 | idiomas | pc18 | Practica
+0624505 | HAMILTON MEJIA GUTIERREZ | 3842 | 2008-02-21 | 10:55:29 | 11:55:29 | idiomas | pc19 | Practica
+0827311 | GINETTE VANESA QUINTERO OLGUIN | 3857 | 2008-02-21 | 15:32:56 | 16:32:56 | idiomas | pc20 | Practica
+0624505 | HAMILTON MEJIA GUTIERREZ | 3842 | 2008-02-21 | 11:22:31 | 12:22:31 | idiomas | pc21 | Practica
+0431136 | ANA MARIA CORTES ROSERO | 3857 | 2008-02-21 | 10:55:04 | 11:55:04 | idiomas | pc22 | Practica
+0822953 | RAQUEL SOFIA NOGUERA SALAS | 3857 | 2008-02-22 | 09:04:32 | 10:04:32 | idiomas | pc01 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-22 | 15:20:20 | 16:20:20 | idiomas | pc01 | Practica
+0825706 | ana lucia PALACIOS MEJIA | 3857 | 2008-02-22 | 09:05:39 | 10:05:39 | idiomas | pc03 | Practica
+0825946 | NESID VANESSA TEJADA MONTES | 3857 | 2008-02-22 | 09:06:18 | 10:06:18 | idiomas | pc04 | Practica
+0824809 | FRANCISCO JAVIER GIRALDO OCAMPO | 3857 | 2008-02-22 | 09:06:41 | 10:06:41 | idiomas | pc05 | Practica
+0625470 | ANGIE LUGMAñA NARVAEZ | 3842 | 2008-02-22 | 10:29:51 | 11:29:51 | idiomas | pc05 | Practica
+0825044 | JOSE RODRIGO PEREZ RIVAS | 3857 | 2008-02-22 | 09:09:58 | 10:09:58 | idiomas | pc06 | Practica
+0625016 | EDUAR MAURICIO OTERO GOMEZ | 3842 | 2008-02-22 | 10:39:39 | 11:39:39 | idiomas | pc06 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-22 | 15:20:37 | 16:20:37 | idiomas | pc07 | Practica
+0825044 | JOSE RODRIGO PEREZ RIVAS | 3857 | 2008-02-22 | 09:12:36 | 10:12:36 | idiomas | pc08 | Practica
+0823536 | Jackeline Muñoz Meneses | 3846 | 2008-02-22 | 15:20:51 | 16:20:51 | idiomas | pc09 | Practica
+0827311 | GINETTE VANESA QUINTERO OLGUIN | 3857 | 2008-02-22 | 09:13:47 | 10:13:47 | idiomas | pc10 | Practica
+0829027 | JULIAN PEREZ HURTADO | 3857 | 2008-02-22 | 09:14:12 | 10:14:12 | idiomas | pc11 | Practica
+0825098 | Nathalia  Etayo Bermudez | 3857 | 2008-02-22 | 09:16:15 | 10:16:15 | idiomas | pc12 | Practica
+0823235 | hernan dario GUEVARA VELASCO | 3857 | 2008-02-22 | 09:17:51 | 10:17:51 | idiomas | pc13 | Clase
+0825997 | Oscar David Muñoz Torres | 3857 | 2008-02-22 | 09:18:25 | 10:18:25 | idiomas | pc14 | Clase
+0824712 | Nelson David Beltrán | 3857 | 2008-02-22 | 09:15:37 | 10:15:37 | idiomas | pc14 | Practica
+0827343 | Jairo Alexander Zapata Rengifo | 3857 | 2008-02-22 | 09:18:50 | 10:18:50 | idiomas | pc15 | Clase
+0825752 | Jeyson Felipe Montoya Trujillo | 3857 | 2008-02-22 | 09:19:08 | 10:19:08 | idiomas | pc16 | Clase
+0826693 | Maria Alejandra Torres Blandon | 3857 | 2008-02-22 | 09:20:01 | 10:20:01 | idiomas | pc17 | Clase
+0826005 | VICTOR STIVEN CORDOBA HURTADO | 3857 | 2008-02-22 | 09:21:18 | 10:21:18 | idiomas | pc19 | Clase
+0823663 | LUZ ANGELICA OSORIO OSORIO | 3857 | 2008-02-22 | 09:21:39 | 10:21:39 | idiomas | pc20 | Clase
+0826109 | ANNY YENITHSA VARGAS MORALES | 3857 | 2008-02-22 | 09:23:04 | 10:23:04 | idiomas | pc22 | Clase
+0745516 | Katerine Estefani Garcia Cardona | 3857 | 2008-02-23 | 09:31:11 | 10:31:11 | idiomas | pc07 | Practica
+12131029 | Alfonso Rodriguez Ramirez | 1111 | 2008-02-23 | 09:30:56 | 10:30:56 | idiomas | pc09 | Practica
+0330887 | LUISA FERNANDA PORRAS  HERNANDEZ | 3845 | 2008-02-23 | 08:34:23 | 09:34:23 | idiomas | pc11 | Practica
+0623726 | CHRISTIAN ALBERTO GARCIA SALAZAR | 3842 | 2008-02-23 | 10:58:03 | 11:58:03 | idiomas | pc11 | Practica
+0826005 | VICTOR STIVEN CORDOBA HURTADO | 3857 | 2008-02-25 | 10:12:51 | 11:12:51 | idiomas | pc01 | Practica
+0327074 | ALEJANDRO GONZALEZ ARANGO | 3846 | 2008-02-25 | 16:22:21 | 17:22:21 | idiomas | pc01 | Practica
+0740281 | Angela PAtricia Sanche Sanches Parada | 3857 | 2008-02-25 | 14:20:32 | 15:20:32 | idiomas | pc01 | Practica
+0422169 | CAROLINA GARCIA ESCOBAR | 3845 | 2008-02-25 | 09:59:44 | 10:59:44 | idiomas | pc03 | Practica
+0745516 | Katerine Estefani Garcia Cardona | 3857 | 2008-02-25 | 14:20:42 | 15:20:42 | idiomas | pc03 | Practica
+0633195 | ANDREA BURBANO VARGAS | 3842 | 2008-02-25 | 09:59:21 | 10:59:21 | idiomas | pc03 | Practica
+0746209 | edwin alexander VELANDIA  GUERRRERO | 2832 | 2008-02-25 | 16:07:06 | 17:07:06 | idiomas | pc05 | Practica
+0644530 | CAROLINA SANTIAGO SANDOVAL | 3842 | 2008-02-25 | 10:00:17 | 11:00:17 | idiomas | pc05 | Practica
+0827604 | Bonny Rubys Lara Ospino | 3842 | 2008-02-25 | 14:26:17 | 15:26:17 | idiomas | pc05 | Practica
+0731286 | LINA VANESSA RODRIGUEZ LASPRILLA | 3857 | 2008-02-25 | 14:21:21 | 15:21:21 | idiomas | pc07 | Practica
+0633195 | ANDREA BURBANO VARGAS | 3842 | 2008-02-25 | 10:00:39 | 11:00:39 | idiomas | pc07 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-25 | 15:53:49 | 16:53:49 | idiomas | pc07 | Practica
+0732335 | YOVANA ANDREA  BARNEY BERRIO | 3857 | 2008-02-25 | 14:21:36 | 15:21:36 | idiomas | pc09 | Practica
+0747749 | Daniel Alejandro Ruiz Morales | 3247 | 2008-02-25 | 10:00:56 | 11:00:56 | idiomas | pc09 | Practica
+0747749 | Daniel Alejandro Ruiz Morales | 3247 | 2008-02-25 | 10:01:24 | 11:01:24 | idiomas | pc09 | Practica
+0829022 | Yamila Andrea  Velez | 3846 | 2008-02-25 | 14:26:29 | 15:26:29 | idiomas | pc11 | Practica
+0825209 | Firavitova Riaños Jose David | 3857 | 2008-02-25 | 10:17:58 | 11:17:58 | idiomas | pc11 | Practica
+0645050 | WILLIAM FERNANDO RODRIGUEZ CHALACAN | 3842 | 2008-02-25 | 14:36:16 | 15:36:16 | idiomas | pc13 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-25 | 10:59:49 | 11:59:49 | idiomas | pc13 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-25 | 10:54:09 | 11:54:09 | idiomas | pc14 | Practica
+0637439 | CHRISTIAN AVILES ALZATE | 3842 | 2008-02-25 | 14:39:02 | 15:39:02 | idiomas | pc15 | Practica
+0626491 | OSCAR EDUARDO ZAMBRANO MORALES | 3842 | 2008-02-25 | 10:34:38 | 11:34:38 | idiomas | pc16 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-25 | 14:39:17 | 15:39:17 | idiomas | pc17 | Practica
+0433607 | DUVAN FERNANDO ROJAS QUINAYAZ | 3857 | 2008-02-25 | 10:27:32 | 11:27:32 | idiomas | pc18 | Practica
+16607827 | Francisco Antonio Henao Velasco | 1111 | 2008-02-25 | 10:26:24 | 11:26:24 | idiomas | pc19 | Practica
+0633267 | CARLOS ANDRES OTERO POLO | 3857 | 2008-02-25 | 14:39:31 | 15:39:31 | idiomas | pc19 | Practica
+14957253 | Carlos Arturo Mendoza Lenis | 1111 | 2008-02-25 | 10:25:33 | 11:25:33 | idiomas | pc20 | Practica
+0626491 | OSCAR EDUARDO ZAMBRANO MORALES | 3842 | 2008-02-25 | 14:43:27 | 15:43:27 | idiomas | pc21 | Practica
+0730180 | DIANA LIZETH GASCA MUÑOZ | 3857 | 2008-02-25 | 10:12:14 | 11:12:14 | idiomas | pc21 | Practica
+0734964 | Ana Maria Cedeño Gallego | 3857 | 2008-02-25 | 10:11:21 | 11:11:21 | idiomas | pc22 | Practica
+0741288 | Sussan Cruz Sanchez | 3857 | 2008-02-26 | 14:12:14 | 15:12:14 | idiomas | pc01 | Practica
+0826209 | ana yurani RAMIREZ CHICAIZA | 3857 | 2008-02-26 | 09:11:49 | 10:11:49 | idiomas | pc01 | Practica
+0741065 | JUAN FELIPE OSPINA RUIZ | 3857 | 2008-02-26 | 15:59:04 | 16:59:04 | idiomas | pc01 | Practica
+0751777 | ANDRES DAVID SALAZAR ALVAREZ | 3846 | 2008-02-26 | 17:13:06 | 18:13:06 | idiomas | pc01 | Practica
+0741164 | DANIELA  OCAMPO PORTILLA | 3857 | 2008-02-26 | 14:12:25 | 15:12:25 | idiomas | pc03 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-26 | 15:59:18 | 16:59:18 | idiomas | pc03 | Practica
+0630767 | LEIDY JOANA DOMINGUEZ MURILLO | 3842 | 2008-02-26 | 09:02:29 | 10:02:29 | idiomas | pc03 | Practica
+0322253 | ANDRES ALBERTO DELGADO ARIAS | 3842 | 2008-02-26 | 14:52:49 | 15:52:49 | idiomas | pc05 | Practica
+0645324 | LINA MARCELA ROSERO | 3842 | 2008-02-26 | 09:23:00 | 10:23:00 | idiomas | pc05 | Practica
+14957253 | Carlos Arturo Mendoza Lenis | 1111 | 2008-02-26 | 10:05:23 | 11:05:23 | idiomas | pc07 | Practica
+0731286 | LINA VANESSA RODRIGUEZ LASPRILLA | 3857 | 2008-02-26 | 15:02:11 | 16:02:11 | idiomas | pc07 | Practica
+0732335 | YOVANA ANDREA  BARNEY BERRIO | 3857 | 2008-02-26 | 15:02:24 | 16:02:24 | idiomas | pc09 | Practica
+0623380 | ANDRES FELIPE URBINA VELASQUEZ | 3846 | 2008-02-26 | 10:38:41 | 11:38:41 | idiomas | pc09 | Practica
+0825911 | Maria Leidy Almendra Chocue | 3857 | 2008-02-26 | 15:02:39 | 16:02:39 | idiomas | pc11 | Practica
+0645050 | WILLIAM FERNANDO RODRIGUEZ CHALACAN | 3842 | 2008-02-26 | 16:04:02 | 17:04:02 | idiomas | pc13 | Practica
+0637439 | CHRISTIAN AVILES ALZATE | 3842 | 2008-02-26 | 16:04:55 | 17:04:55 | idiomas | pc15 | Practica
+0734026 | EDWIN FERNEY MANZANO MATA | 3842 | 2008-02-26 | 17:16:30 | 18:16:30 | idiomas | pc17 | Practica
+0623625 | Jefferson Albeiro Castañeda Moyano | 3841 | 2008-02-27 | 08:22:56 | 09:22:56 | idiomas | pc01 | Practica
+0637978 | JUAN CAMILO SANCHEZ GONZALEZ | 3842 | 2008-02-27 | 11:07:51 | 12:07:51 | idiomas | pc01 | Practica
+9927405 | Gino Castro Cuenca | 3846 | 2008-02-27 | 10:03:02 | 11:03:02 | idiomas | pc01 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-27 | 10:32:08 | 11:32:08 | idiomas | pc03 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-27 | 10:29:03 | 11:29:03 | idiomas | pc03 | Practica
+0744125 | Leidy Andrea Rojas Montenegro | 3857 | 2008-02-27 | 08:25:46 | 09:25:46 | idiomas | pc03 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2008-02-27 | 08:40:56 | 09:40:56 | idiomas | pc05 | Practica
+0433607 | DUVAN FERNANDO ROJAS QUINAYAZ | 3857 | 2008-02-27 | 10:38:04 | 11:38:04 | idiomas | pc05 | Practica
+0438621 | NATHALY BEJARANO SERRANO | 3857 | 2008-02-27 | 10:40:16 | 11:40:16 | idiomas | pc06 | Practica
+0438621 | NATHALY BEJARANO SERRANO | 3857 | 2008-02-27 | 10:38:37 | 11:38:37 | idiomas | pc07 |  
+0747749 | Daniel Alejandro Ruiz Morales | 3247 | 2008-02-27 | 08:50:37 | 09:50:37 | idiomas | pc07 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2008-02-27 | 09:03:22 | 10:03:22 | idiomas | pc09 | Practica
+0738540 | PAOLA ANDREA GUTIERREZ TOVAR | 3857 | 2008-02-27 | 09:05:30 | 10:05:30 | idiomas | pc11 | Practica
+0738115 | MARIAFERNANDA SANCHEZ HOLGUIN | 3857 | 2008-02-27 | 09:21:48 | 10:21:48 | idiomas | pc18 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2008-02-27 | 10:58:18 | 11:58:18 | idiomas | pc18 | Practica
+0440143 | ANDREA DEL PILAR SOLANO BORJA | 3857 | 2008-02-27 | 10:46:54 | 11:46:54 | idiomas | pc22 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2008-02-27 | 09:13:41 | 10:13:41 | idiomas | pc22 | Practica
+0824809 | FRANCISCO JAVIER GIRALDO OCAMPO | 3857 | 2008-02-28 | 14:16:22 | 15:16:22 | idiomas | pc01 | Practica
+0826209 | ana yurani RAMIREZ CHICAIZA | 3857 | 2008-02-28 | 10:08:37 | 11:08:37 | idiomas | pc01 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2008-02-28 | 10:13:49 | 11:13:49 | idiomas | pc03 | Practica
+0623380 | ANDRES FELIPE URBINA VELASQUEZ | 3846 | 2008-02-28 | 15:32:11 | 16:32:11 | idiomas | pc03 | Practica
+0824230 | anyely  yomara MEDINA VELASQUEZ | 3857 | 2008-02-28 | 14:16:57 | 15:16:57 | idiomas | pc03 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2008-02-28 | 08:37:14 | 09:37:14 | idiomas | pc03 | Practica
+0827343 | Jairo Alexander Zapata Rengifo | 3857 | 2008-02-28 | 15:06:26 | 16:06:26 | idiomas | pc05 | Practica
+0624479 | LINA MARIA TARQUINO OSPINA | 3846 | 2008-02-28 | 08:15:04 | 09:15:04 | idiomas | pc05 | Practica
+0824922 | Silvia Lorena Segura de Perdomo | 3857 | 2008-02-28 | 10:12:57 | 11:12:57 | idiomas | pc05 | Practica
+0825997 | Oscar David Muñoz Torres | 3857 | 2008-02-28 | 15:10:34 | 16:10:34 | idiomas | pc07 | Practica
+0625903 | INDIRA MELISSA SHEK MUNZ | 3846 | 2008-02-28 | 08:18:43 | 09:18:43 | idiomas | pc07 | Practica
+0829743 | Rosa Silvana Obando Delgado | 3857 | 2008-02-28 | 10:16:44 | 11:16:44 | idiomas | pc07 | Practica
+0327074 | ALEJANDRO GONZALEZ ARANGO | 3846 | 2008-02-28 | 10:17:57 | 11:17:57 | idiomas | pc09 | Practica
+0826209 | ana yurani RAMIREZ CHICAIZA | 3857 | 2008-02-28 | 15:11:47 | 16:11:47 | idiomas | pc09 | Practica
+0825405 | carlos andres  VALLEJO GONZALES | 3857 | 2008-02-28 | 15:18:44 | 16:18:44 | idiomas | pc11 | Practica
+0825946 | NESID VANESSA TEJADA MONTES | 3857 | 2008-02-28 | 10:27:21 | 11:27:21 | idiomas | pc11 | Practica
+0624346 | JAIRO LOZADA CARDOZO | 3846 | 2008-02-28 | 15:33:47 | 16:33:47 | idiomas | pc13 | Practica
+0828573 | Soffi Tatiana Rodriguez Martinez | 3857 | 2008-02-28 | 10:33:15 | 11:33:15 | idiomas | pc20 | Practica
+6459706 | LUIS ARCELIO SALDARRIAGA BLANDON | 1111 | 2008-02-28 | 16:04:06 | 17:04:06 | idiomas | pc22 | Practica
+0826109 | ANNY YENITHSA VARGAS MORALES | 3857 | 2008-02-28 | 10:30:04 | 11:30:04 | idiomas | pc22 | Practica
+
+
+Elaborado el... 2008-02-28
+Mes: 1 de Febrero de 2008 al 29 de Febrero de 2008
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+16652602 | Manuel Salvador Williams Aguilar | 1111 | 2008-02-07 | 14:29:45 | 15:29:45 | idiomas | pc01 | Practica
+0327363 | Carolina  Camacho Lenis | 3264 | 2008-02-09 | 09:08:03 | 10:08:03 | idiomas | pc01 |  
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-11 | 14:24:48 | 15:24:48 | idiomas | pc01 | Practica
+0431451 | HANYI LUCELY CACERES RIVAS | 3842 | 2008-02-11 | 10:21:39 | 11:21:39 | idiomas | pc01 | Practica
+0431451 | HANYI LUCELY CACERES RIVAS | 3842 | 2008-02-11 | 10:19:18 | 11:19:18 | idiomas | pc01 | Practica
+38602667 | Jenny Marcela Melo Velazco | 1111 | 2008-02-11 | 17:29:47 | 18:29:47 | idiomas | pc03 | Practica
+0024940 | YOLIMA INES ALBAN ARAGON | 3842 | 2008-02-11 | 10:44:55 | 11:44:55 | idiomas | pc03 | Practica
+14838282 | Andrés Ramiro Azuero Rodríguez | 3333 | 2008-02-11 | 17:01:13 | 18:01:13 | idiomas | pc05 | Practica
+0736690 | YENI ESTEFANI MELO ARAUJO | 3857 | 2008-02-12 | 14:26:37 | 15:26:37 | idiomas | pc01 | Practica
+0738115 | MARIAFERNANDA SANCHEZ HOLGUIN | 3857 | 2008-02-12 | 17:20:57 | 18:20:57 | idiomas | pc01 | Practica
+38602667 | Jenny Marcela Melo Velazco | 1111 | 2008-02-12 | 15:21:14 | 16:21:14 | idiomas | pc04 | Investigacion
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2008-02-13 | 08:30:24 | 09:30:24 | idiomas | pc01 | Practica
+0327074 | ALEJANDRO GONZALEZ ARANGO | 3846 | 2008-02-13 | 10:07:40 | 11:07:40 | idiomas | pc01 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-13 | 10:21:41 | 11:21:41 | idiomas | pc03 | Practica
+0441056 | JUAN CARLOS SARRIA ZAMBRANO | 3842 | 2008-02-13 | 09:03:35 | 10:03:35 | idiomas | pc03 | Practica
+0624296 | DIANA ALEXANDRA CASTILLA MATALLANA | 3857 | 2008-02-13 | 11:04:13 | 12:04:13 | idiomas | pc04 | Practica
+0538950 | DAIRO FERNANDO CEFERINO VIAFARA | 3842 | 2008-02-13 | 10:31:34 | 11:31:34 | idiomas | pc05 | Practica
+0625016 | EDUAR MAURICIO OTERO GOMEZ | 3842 | 2008-02-13 | 10:29:43 | 11:29:43 | idiomas | pc06 | Practica
+0623826 | CLAUDIA FERNANDA RAMIREZ MUñOZ | 3857 | 2008-02-13 | 11:05:03 | 12:05:03 | idiomas | pc06 | Practica
+0637978 | JUAN CAMILO SANCHEZ GONZALEZ | 3842 | 2008-02-13 | 09:48:52 | 10:48:52 | idiomas | pc07 | Practica
+0625016 | EDUAR MAURICIO OTERO GOMEZ | 3842 | 2008-02-13 | 10:32:21 | 11:32:21 | idiomas | pc08 | Practica
+0624505 | HAMILTON MEJIA GUTIERREZ | 3842 | 2008-02-13 | 10:00:10 | 11:00:10 | idiomas | pc09 | Practica
+0624505 | HAMILTON MEJIA GUTIERREZ | 3842 | 2008-02-15 | 14:15:39 | 15:15:39 | idiomas | pc01 | Practica
+0538950 | DAIRO FERNANDO CEFERINO VIAFARA | 3842 | 2008-02-15 | 15:09:43 | 16:09:43 | idiomas | pc03 | Practica
+0422122 | IVAN DARIO ECHEVERRY | 3842 | 2008-02-15 | 14:15:52 | 15:15:52 | idiomas | pc03 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2008-02-15 | 14:41:53 | 15:41:53 | idiomas | pc05 | Practica
+0741288 | Sussan Cruz Sanchez | 3857 | 2008-02-15 | 14:41:36 | 15:41:36 | idiomas | pc07 | Practica
+0228218 | ISABEL CRISTINA LOZANO MARIN | 3845 | 2008-02-16 | 11:05:40 | 12:05:40 | idiomas | pc03 | Practica
+0740281 | Angela PAtricia Sanche Sanches Parada | 3857 | 2008-02-16 | 09:30:05 | 10:30:05 | idiomas | pc04 | Practica
+0745516 | Katerine Estefani Garcia Cardona | 3857 | 2008-02-16 | 09:30:30 | 10:30:30 | idiomas | pc06 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-18 | 14:07:44 | 15:07:44 | idiomas | pc01 | Practica
+0433607 | DUVAN FERNANDO ROJAS QUINAYAZ | 3857 | 2008-02-18 | 10:11:07 | 11:11:07 | idiomas | pc01 | Practica
+14838282 | Andrés Ramiro Azuero Rodríguez | 3333 | 2008-02-18 | 16:39:35 | 17:39:35 | idiomas | pc01 | Practica
+14838282 | Andrés Ramiro Azuero Rodríguez | 3333 | 2008-02-18 | 08:47:08 | 09:47:08 | idiomas | pc03 | Practica
+0734026 | EDWIN FERNEY MANZANO MATA | 3842 | 2008-02-18 | 14:27:33 | 15:27:33 | idiomas | pc03 | Practica
+0734964 | Ana Maria Cedeño Gallego | 3857 | 2008-02-18 | 11:10:33 | 12:10:33 | idiomas | pc03 | Practica
+0422122 | IVAN DARIO ECHEVERRY | 3842 | 2008-02-18 | 09:59:40 | 10:59:40 | idiomas | pc03 | Practica
+38602667 | Jenny Marcela Melo Velazco | 1111 | 2008-02-18 | 16:43:04 | 17:43:04 | idiomas | pc03 | Practica
+0644530 | CAROLINA SANTIAGO SANDOVAL | 3842 | 2008-02-18 | 08:34:51 | 09:34:51 | idiomas | pc04 | Practica
+0644530 | CAROLINA SANTIAGO SANDOVAL | 3842 | 2008-02-18 | 08:48:41 | 09:48:41 | idiomas | pc05 | Practica
+0731287 | lina vanessa  LOPEZ ARENAS | 3842 | 2008-02-18 | 14:27:54 | 15:27:54 | idiomas | pc05 | Practica
+0633195 | ANDREA BURBANO VARGAS | 3842 | 2008-02-18 | 09:17:25 | 10:17:25 | idiomas | pc07 | Practica
+0522054 | JUAN DAVID CASTAñO ARROYO | 3846 | 2008-02-18 | 14:30:33 | 15:30:33 | idiomas | pc07 | Practica
+0829022 | Yamila Andrea  Velez | 3846 | 2008-02-18 | 14:43:52 | 15:43:52 | idiomas | pc09 | Practica
+0827311 | GINETTE VANESA QUINTERO OLGUIN | 3857 | 2008-02-18 | 15:50:07 | 16:50:07 | idiomas | pc12 | Practica
+0827343 | Jairo Alexander Zapata Rengifo | 3857 | 2008-02-18 | 15:50:24 | 16:50:24 | idiomas | pc13 | Practica
+0445102 | JEFFERSON ANDRES VELEZ MARTINEZ | 3857 | 2008-02-19 | 14:50:02 | 15:50:02 | idiomas | pc01 | Practica
+0354280 | DIANA VANESSA GUTIERREZ MEJIA | 3846 | 2008-02-19 | 15:04:05 | 16:04:05 | idiomas | pc01 | Practica
+0522278 | ELVER HERNANDO ROTAVISTA RUGE | 3857 | 2008-02-19 | 11:21:51 | 12:21:51 | idiomas | pc01 | Practica
+94424086 | David Marquez Herrera | 1111 | 2008-02-19 | 16:32:10 | 17:32:10 | idiomas | pc01 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-19 | 16:43:22 | 17:43:22 | idiomas | pc03 | Practica
+0746209 | edwin alexander VELANDIA  GUERRRERO | 2832 | 2008-02-19 | 11:02:39 | 12:02:39 | idiomas | pc03 | Practica
+0522184 | LUIS MANUEL MEJIA RODAS | 3846 | 2008-02-19 | 10:33:30 | 11:33:30 | idiomas | pc05 | Practica
+0439281 | FLOR STELLA ROMERO MARTINEZ | 3857 | 2008-02-19 | 15:56:55 | 16:56:55 | idiomas | pc05 | Practica
+0625993 | DANIEL GONZALEZ ZAMBRANO | 3857 | 2008-02-19 | 11:23:57 | 12:23:57 | idiomas | pc05 | Practica
+0522137 | JOHAN ALBERTO HUERGO LASSO | 3846 | 2008-02-19 | 10:33:55 | 11:33:55 | idiomas | pc07 | Practica
+0441414 | ANA MARIA OSORIO FANDIÑO | 3857 | 2008-02-19 | 16:11:44 | 17:11:44 | idiomas | pc07 | Practica
+0439992 | CATALINA PINTO OROZCO | 3857 | 2008-02-19 | 16:12:01 | 17:12:01 | idiomas | pc09 | Practica
+0439992 | CATALINA PINTO OROZCO | 3857 | 2008-02-20 | 10:18:42 | 11:18:42 | idiomas | pc01 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2008-02-20 | 08:36:41 | 09:36:41 | idiomas | pc01 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2008-02-20 | 08:32:16 | 09:32:16 | idiomas | pc03 | Practica
+0433607 | DUVAN FERNANDO ROJAS QUINAYAZ | 3857 | 2008-02-20 | 10:17:52 | 11:17:52 | idiomas | pc05 | Practica
+0744125 | Leidy Andrea Rojas Montenegro | 3857 | 2008-02-20 | 08:43:10 | 09:43:10 | idiomas | pc05 | Practica
+0741065 | JUAN FELIPE OSPINA RUIZ | 3857 | 2008-02-20 | 09:51:18 | 10:51:18 | idiomas | pc07 | Practica
+0637978 | JUAN CAMILO SANCHEZ GONZALEZ | 3842 | 2008-02-20 | 10:43:17 | 11:43:17 | idiomas | pc09 | Practica
+0823663 | LUZ ANGELICA OSORIO OSORIO | 3857 | 2008-02-21 | 09:47:13 | 10:47:13 | idiomas | pc01 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2008-02-21 | 08:22:46 | 09:22:46 | idiomas | pc01 | Practica
+0623380 | ANDRES FELIPE URBINA VELASQUEZ | 3846 | 2008-02-21 | 16:17:08 | 17:17:08 | idiomas | pc01 | Practica
+0732741 | PAOLA ANDREA FAJARDO PEREZ | 3845 | 2008-02-21 | 16:39:12 | 17:39:12 | idiomas | pc03 | Practica
+0633195 | ANDREA BURBANO VARGAS | 3842 | 2008-02-21 | 09:42:13 | 10:42:13 | idiomas | pc03 | Practica
+0746209 | edwin alexander VELANDIA  GUERRRERO | 2832 | 2008-02-21 | 14:12:04 | 15:12:04 | idiomas | pc03 | Practica
+0824809 | FRANCISCO JAVIER GIRALDO OCAMPO | 3857 | 2008-02-21 | 14:15:57 | 15:15:57 | idiomas | pc05 | Practica
+0826209 | ana yurani RAMIREZ CHICAIZA | 3857 | 2008-02-21 | 09:47:49 | 10:47:49 | idiomas | pc05 | Practica
+0626691 | VICTOR MIGUEL CHAVARRO URRUTIA | 3846 | 2008-02-21 | 14:16:22 | 15:16:22 | idiomas | pc07 | Practica
+0825946 | NESID VANESSA TEJADA MONTES | 3857 | 2008-02-21 | 09:48:14 | 10:48:14 | idiomas | pc07 | Practica
+0624346 | JAIRO LOZADA CARDOZO | 3846 | 2008-02-21 | 15:12:10 | 16:12:10 | idiomas | pc07 | Practica
+0824230 | anyely  yomara MEDINA VELASQUEZ | 3857 | 2008-02-21 | 14:16:36 | 15:16:36 | idiomas | pc09 | Practica
+0826109 | ANNY YENITHSA VARGAS MORALES | 3857 | 2008-02-21 | 10:40:35 | 11:40:35 | idiomas | pc09 | Practica
+0825911 | Maria Leidy Almendra Chocue | 3857 | 2008-02-21 | 14:20:47 | 15:20:47 | idiomas | pc11 | Practica
+0746788 | Monica Yaneth RIASCO MURILLO | 3842 | 2008-02-21 | 16:25:45 | 17:25:45 | idiomas | pc12 | Practica
+0750046 | Andres Felipe CORDOBA MARIN | 3842 | 2008-02-21 | 16:25:56 | 17:25:56 | idiomas | pc13 | Practica
+0822953 | RAQUEL SOFIA NOGUERA SALAS | 3857 | 2008-02-21 | 10:43:43 | 11:43:43 | idiomas | pc13 | Practica
+0825997 | Oscar David Muñoz Torres | 3857 | 2008-02-21 | 15:31:45 | 16:31:45 | idiomas | pc14 | Practica
+0828919 | YENNY MARCELA RIVERA HERNANDEZ | 3857 | 2008-02-21 | 10:44:46 | 11:44:46 | idiomas | pc14 | Practica
+0825706 | ana lucia PALACIOS MEJIA | 3857 | 2008-02-21 | 10:46:12 | 11:46:12 | idiomas | pc15 | Practica
+0825752 | Jeyson Felipe Montoya Trujillo | 3857 | 2008-02-21 | 15:32:23 | 16:32:23 | idiomas | pc16 | Practica
+0825044 | JOSE RODRIGO PEREZ RIVAS | 3857 | 2008-02-21 | 10:46:50 | 11:46:50 | idiomas | pc16 | Practica
+0827343 | Jairo Alexander Zapata Rengifo | 3857 | 2008-02-21 | 15:32:40 | 16:32:40 | idiomas | pc18 | Practica
+0624505 | HAMILTON MEJIA GUTIERREZ | 3842 | 2008-02-21 | 10:55:29 | 11:55:29 | idiomas | pc19 | Practica
+0827311 | GINETTE VANESA QUINTERO OLGUIN | 3857 | 2008-02-21 | 15:32:56 | 16:32:56 | idiomas | pc20 | Practica
+0624505 | HAMILTON MEJIA GUTIERREZ | 3842 | 2008-02-21 | 11:22:31 | 12:22:31 | idiomas | pc21 | Practica
+0431136 | ANA MARIA CORTES ROSERO | 3857 | 2008-02-21 | 10:55:04 | 11:55:04 | idiomas | pc22 | Practica
+0822953 | RAQUEL SOFIA NOGUERA SALAS | 3857 | 2008-02-22 | 09:04:32 | 10:04:32 | idiomas | pc01 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-22 | 15:20:20 | 16:20:20 | idiomas | pc01 | Practica
+0825706 | ana lucia PALACIOS MEJIA | 3857 | 2008-02-22 | 09:05:39 | 10:05:39 | idiomas | pc03 | Practica
+0825946 | NESID VANESSA TEJADA MONTES | 3857 | 2008-02-22 | 09:06:18 | 10:06:18 | idiomas | pc04 | Practica
+0824809 | FRANCISCO JAVIER GIRALDO OCAMPO | 3857 | 2008-02-22 | 09:06:41 | 10:06:41 | idiomas | pc05 | Practica
+0625470 | ANGIE LUGMAñA NARVAEZ | 3842 | 2008-02-22 | 10:29:51 | 11:29:51 | idiomas | pc05 | Practica
+0825044 | JOSE RODRIGO PEREZ RIVAS | 3857 | 2008-02-22 | 09:09:58 | 10:09:58 | idiomas | pc06 | Practica
+0625016 | EDUAR MAURICIO OTERO GOMEZ | 3842 | 2008-02-22 | 10:39:39 | 11:39:39 | idiomas | pc06 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-22 | 15:20:37 | 16:20:37 | idiomas | pc07 | Practica
+0825044 | JOSE RODRIGO PEREZ RIVAS | 3857 | 2008-02-22 | 09:12:36 | 10:12:36 | idiomas | pc08 | Practica
+0823536 | Jackeline Muñoz Meneses | 3846 | 2008-02-22 | 15:20:51 | 16:20:51 | idiomas | pc09 | Practica
+0827311 | GINETTE VANESA QUINTERO OLGUIN | 3857 | 2008-02-22 | 09:13:47 | 10:13:47 | idiomas | pc10 | Practica
+0829027 | JULIAN PEREZ HURTADO | 3857 | 2008-02-22 | 09:14:12 | 10:14:12 | idiomas | pc11 | Practica
+0825098 | Nathalia  Etayo Bermudez | 3857 | 2008-02-22 | 09:16:15 | 10:16:15 | idiomas | pc12 | Practica
+0823235 | hernan dario GUEVARA VELASCO | 3857 | 2008-02-22 | 09:17:51 | 10:17:51 | idiomas | pc13 | Clase
+0825997 | Oscar David Muñoz Torres | 3857 | 2008-02-22 | 09:18:25 | 10:18:25 | idiomas | pc14 | Clase
+0824712 | Nelson David Beltrán | 3857 | 2008-02-22 | 09:15:37 | 10:15:37 | idiomas | pc14 | Practica
+0827343 | Jairo Alexander Zapata Rengifo | 3857 | 2008-02-22 | 09:18:50 | 10:18:50 | idiomas | pc15 | Clase
+0825752 | Jeyson Felipe Montoya Trujillo | 3857 | 2008-02-22 | 09:19:08 | 10:19:08 | idiomas | pc16 | Clase
+0826693 | Maria Alejandra Torres Blandon | 3857 | 2008-02-22 | 09:20:01 | 10:20:01 | idiomas | pc17 | Clase
+0826005 | VICTOR STIVEN CORDOBA HURTADO | 3857 | 2008-02-22 | 09:21:18 | 10:21:18 | idiomas | pc19 | Clase
+0823663 | LUZ ANGELICA OSORIO OSORIO | 3857 | 2008-02-22 | 09:21:39 | 10:21:39 | idiomas | pc20 | Clase
+0826109 | ANNY YENITHSA VARGAS MORALES | 3857 | 2008-02-22 | 09:23:04 | 10:23:04 | idiomas | pc22 | Clase
+0745516 | Katerine Estefani Garcia Cardona | 3857 | 2008-02-23 | 09:31:11 | 10:31:11 | idiomas | pc07 | Practica
+12131029 | Alfonso Rodriguez Ramirez | 1111 | 2008-02-23 | 09:30:56 | 10:30:56 | idiomas | pc09 | Practica
+0330887 | LUISA FERNANDA PORRAS  HERNANDEZ | 3845 | 2008-02-23 | 08:34:23 | 09:34:23 | idiomas | pc11 | Practica
+0623726 | CHRISTIAN ALBERTO GARCIA SALAZAR | 3842 | 2008-02-23 | 10:58:03 | 11:58:03 | idiomas | pc11 | Practica
+0826005 | VICTOR STIVEN CORDOBA HURTADO | 3857 | 2008-02-25 | 10:12:51 | 11:12:51 | idiomas | pc01 | Practica
+0327074 | ALEJANDRO GONZALEZ ARANGO | 3846 | 2008-02-25 | 16:22:21 | 17:22:21 | idiomas | pc01 | Practica
+0740281 | Angela PAtricia Sanche Sanches Parada | 3857 | 2008-02-25 | 14:20:32 | 15:20:32 | idiomas | pc01 | Practica
+0422169 | CAROLINA GARCIA ESCOBAR | 3845 | 2008-02-25 | 09:59:44 | 10:59:44 | idiomas | pc03 | Practica
+0745516 | Katerine Estefani Garcia Cardona | 3857 | 2008-02-25 | 14:20:42 | 15:20:42 | idiomas | pc03 | Practica
+0633195 | ANDREA BURBANO VARGAS | 3842 | 2008-02-25 | 09:59:21 | 10:59:21 | idiomas | pc03 | Practica
+0746209 | edwin alexander VELANDIA  GUERRRERO | 2832 | 2008-02-25 | 16:07:06 | 17:07:06 | idiomas | pc05 | Practica
+0644530 | CAROLINA SANTIAGO SANDOVAL | 3842 | 2008-02-25 | 10:00:17 | 11:00:17 | idiomas | pc05 | Practica
+0827604 | Bonny Rubys Lara Ospino | 3842 | 2008-02-25 | 14:26:17 | 15:26:17 | idiomas | pc05 | Practica
+0731286 | LINA VANESSA RODRIGUEZ LASPRILLA | 3857 | 2008-02-25 | 14:21:21 | 15:21:21 | idiomas | pc07 | Practica
+0633195 | ANDREA BURBANO VARGAS | 3842 | 2008-02-25 | 10:00:39 | 11:00:39 | idiomas | pc07 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-25 | 15:53:49 | 16:53:49 | idiomas | pc07 | Practica
+0732335 | YOVANA ANDREA  BARNEY BERRIO | 3857 | 2008-02-25 | 14:21:36 | 15:21:36 | idiomas | pc09 | Practica
+0747749 | Daniel Alejandro Ruiz Morales | 3247 | 2008-02-25 | 10:00:56 | 11:00:56 | idiomas | pc09 | Practica
+0747749 | Daniel Alejandro Ruiz Morales | 3247 | 2008-02-25 | 10:01:24 | 11:01:24 | idiomas | pc09 | Practica
+0829022 | Yamila Andrea  Velez | 3846 | 2008-02-25 | 14:26:29 | 15:26:29 | idiomas | pc11 | Practica
+0825209 | Firavitova Riaños Jose David | 3857 | 2008-02-25 | 10:17:58 | 11:17:58 | idiomas | pc11 | Practica
+0645050 | WILLIAM FERNANDO RODRIGUEZ CHALACAN | 3842 | 2008-02-25 | 14:36:16 | 15:36:16 | idiomas | pc13 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-25 | 10:59:49 | 11:59:49 | idiomas | pc13 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-25 | 10:54:09 | 11:54:09 | idiomas | pc14 | Practica
+0637439 | CHRISTIAN AVILES ALZATE | 3842 | 2008-02-25 | 14:39:02 | 15:39:02 | idiomas | pc15 | Practica
+0626491 | OSCAR EDUARDO ZAMBRANO MORALES | 3842 | 2008-02-25 | 10:34:38 | 11:34:38 | idiomas | pc16 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-25 | 14:39:17 | 15:39:17 | idiomas | pc17 | Practica
+0433607 | DUVAN FERNANDO ROJAS QUINAYAZ | 3857 | 2008-02-25 | 10:27:32 | 11:27:32 | idiomas | pc18 | Practica
+16607827 | Francisco Antonio Henao Velasco | 1111 | 2008-02-25 | 10:26:24 | 11:26:24 | idiomas | pc19 | Practica
+0633267 | CARLOS ANDRES OTERO POLO | 3857 | 2008-02-25 | 14:39:31 | 15:39:31 | idiomas | pc19 | Practica
+14957253 | Carlos Arturo Mendoza Lenis | 1111 | 2008-02-25 | 10:25:33 | 11:25:33 | idiomas | pc20 | Practica
+0626491 | OSCAR EDUARDO ZAMBRANO MORALES | 3842 | 2008-02-25 | 14:43:27 | 15:43:27 | idiomas | pc21 | Practica
+0730180 | DIANA LIZETH GASCA MUÑOZ | 3857 | 2008-02-25 | 10:12:14 | 11:12:14 | idiomas | pc21 | Practica
+0734964 | Ana Maria Cedeño Gallego | 3857 | 2008-02-25 | 10:11:21 | 11:11:21 | idiomas | pc22 | Practica
+0741288 | Sussan Cruz Sanchez | 3857 | 2008-02-26 | 14:12:14 | 15:12:14 | idiomas | pc01 | Practica
+0826209 | ana yurani RAMIREZ CHICAIZA | 3857 | 2008-02-26 | 09:11:49 | 10:11:49 | idiomas | pc01 | Practica
+0741065 | JUAN FELIPE OSPINA RUIZ | 3857 | 2008-02-26 | 15:59:04 | 16:59:04 | idiomas | pc01 | Practica
+0751777 | ANDRES DAVID SALAZAR ALVAREZ | 3846 | 2008-02-26 | 17:13:06 | 18:13:06 | idiomas | pc01 | Practica
+0741164 | DANIELA  OCAMPO PORTILLA | 3857 | 2008-02-26 | 14:12:25 | 15:12:25 | idiomas | pc03 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-26 | 15:59:18 | 16:59:18 | idiomas | pc03 | Practica
+0630767 | LEIDY JOANA DOMINGUEZ MURILLO | 3842 | 2008-02-26 | 09:02:29 | 10:02:29 | idiomas | pc03 | Practica
+0322253 | ANDRES ALBERTO DELGADO ARIAS | 3842 | 2008-02-26 | 14:52:49 | 15:52:49 | idiomas | pc05 | Practica
+0645324 | LINA MARCELA ROSERO | 3842 | 2008-02-26 | 09:23:00 | 10:23:00 | idiomas | pc05 | Practica
+14957253 | Carlos Arturo Mendoza Lenis | 1111 | 2008-02-26 | 10:05:23 | 11:05:23 | idiomas | pc07 | Practica
+0731286 | LINA VANESSA RODRIGUEZ LASPRILLA | 3857 | 2008-02-26 | 15:02:11 | 16:02:11 | idiomas | pc07 | Practica
+0732335 | YOVANA ANDREA  BARNEY BERRIO | 3857 | 2008-02-26 | 15:02:24 | 16:02:24 | idiomas | pc09 | Practica
+0623380 | ANDRES FELIPE URBINA VELASQUEZ | 3846 | 2008-02-26 | 10:38:41 | 11:38:41 | idiomas | pc09 | Practica
+0825911 | Maria Leidy Almendra Chocue | 3857 | 2008-02-26 | 15:02:39 | 16:02:39 | idiomas | pc11 | Practica
+0645050 | WILLIAM FERNANDO RODRIGUEZ CHALACAN | 3842 | 2008-02-26 | 16:04:02 | 17:04:02 | idiomas | pc13 | Practica
+0637439 | CHRISTIAN AVILES ALZATE | 3842 | 2008-02-26 | 16:04:55 | 17:04:55 | idiomas | pc15 | Practica
+0734026 | EDWIN FERNEY MANZANO MATA | 3842 | 2008-02-26 | 17:16:30 | 18:16:30 | idiomas | pc17 | Practica
+0623625 | Jefferson Albeiro Castañeda Moyano | 3841 | 2008-02-27 | 08:22:56 | 09:22:56 | idiomas | pc01 | Practica
+0637978 | JUAN CAMILO SANCHEZ GONZALEZ | 3842 | 2008-02-27 | 11:07:51 | 12:07:51 | idiomas | pc01 | Practica
+9927405 | Gino Castro Cuenca | 3846 | 2008-02-27 | 10:03:02 | 11:03:02 | idiomas | pc01 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2008-02-27 | 10:32:08 | 11:32:08 | idiomas | pc03 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2008-02-27 | 10:29:03 | 11:29:03 | idiomas | pc03 | Practica
+0744125 | Leidy Andrea Rojas Montenegro | 3857 | 2008-02-27 | 08:25:46 | 09:25:46 | idiomas | pc03 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2008-02-27 | 08:40:56 | 09:40:56 | idiomas | pc05 | Practica
+0433607 | DUVAN FERNANDO ROJAS QUINAYAZ | 3857 | 2008-02-27 | 10:38:04 | 11:38:04 | idiomas | pc05 | Practica
+0438621 | NATHALY BEJARANO SERRANO | 3857 | 2008-02-27 | 10:40:16 | 11:40:16 | idiomas | pc06 | Practica
+0438621 | NATHALY BEJARANO SERRANO | 3857 | 2008-02-27 | 10:38:37 | 11:38:37 | idiomas | pc07 |  
+0747749 | Daniel Alejandro Ruiz Morales | 3247 | 2008-02-27 | 08:50:37 | 09:50:37 | idiomas | pc07 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2008-02-27 | 09:03:22 | 10:03:22 | idiomas | pc09 | Practica
+0738540 | PAOLA ANDREA GUTIERREZ TOVAR | 3857 | 2008-02-27 | 09:05:30 | 10:05:30 | idiomas | pc11 | Practica
+0738115 | MARIAFERNANDA SANCHEZ HOLGUIN | 3857 | 2008-02-27 | 09:21:48 | 10:21:48 | idiomas | pc18 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2008-02-27 | 10:58:18 | 11:58:18 | idiomas | pc18 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2008-02-27 | 09:13:41 | 10:13:41 | idiomas | pc22 | Practica
+0440143 | ANDREA DEL PILAR SOLANO BORJA | 3857 | 2008-02-27 | 10:46:54 | 11:46:54 | idiomas | pc22 | Practica
+0824809 | FRANCISCO JAVIER GIRALDO OCAMPO | 3857 | 2008-02-28 | 14:16:22 | 15:16:22 | idiomas | pc01 | Practica
+0826209 | ana yurani RAMIREZ CHICAIZA | 3857 | 2008-02-28 | 10:08:37 | 11:08:37 | idiomas | pc01 | Practica
+0623380 | ANDRES FELIPE URBINA VELASQUEZ | 3846 | 2008-02-28 | 15:32:11 | 16:32:11 | idiomas | pc03 | Practica
+0824230 | anyely  yomara MEDINA VELASQUEZ | 3857 | 2008-02-28 | 14:16:57 | 15:16:57 | idiomas | pc03 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2008-02-28 | 10:13:49 | 11:13:49 | idiomas | pc03 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2008-02-28 | 08:37:14 | 09:37:14 | idiomas | pc03 | Practica
+0624479 | LINA MARIA TARQUINO OSPINA | 3846 | 2008-02-28 | 08:15:04 | 09:15:04 | idiomas | pc05 | Practica
+0827343 | Jairo Alexander Zapata Rengifo | 3857 | 2008-02-28 | 15:06:26 | 16:06:26 | idiomas | pc05 | Practica
+0824922 | Silvia Lorena Segura de Perdomo | 3857 | 2008-02-28 | 10:12:57 | 11:12:57 | idiomas | pc05 | Practica
+0825997 | Oscar David Muñoz Torres | 3857 | 2008-02-28 | 15:10:34 | 16:10:34 | idiomas | pc07 | Practica
+0625903 | INDIRA MELISSA SHEK MUNZ | 3846 | 2008-02-28 | 08:18:43 | 09:18:43 | idiomas | pc07 | Practica
+0829743 | Rosa Silvana Obando Delgado | 3857 | 2008-02-28 | 10:16:44 | 11:16:44 | idiomas | pc07 | Practica
+0826209 | ana yurani RAMIREZ CHICAIZA | 3857 | 2008-02-28 | 15:11:47 | 16:11:47 | idiomas | pc09 | Practica
+0327074 | ALEJANDRO GONZALEZ ARANGO | 3846 | 2008-02-28 | 10:17:57 | 11:17:57 | idiomas | pc09 | Practica
+0825405 | carlos andres  VALLEJO GONZALES | 3857 | 2008-02-28 | 15:18:44 | 16:18:44 | idiomas | pc11 | Practica
+0825946 | NESID VANESSA TEJADA MONTES | 3857 | 2008-02-28 | 10:27:21 | 11:27:21 | idiomas | pc11 | Practica
+0624346 | JAIRO LOZADA CARDOZO | 3846 | 2008-02-28 | 15:33:47 | 16:33:47 | idiomas | pc13 | Practica
+0828573 | Soffi Tatiana Rodriguez Martinez | 3857 | 2008-02-28 | 10:33:15 | 11:33:15 | idiomas | pc20 | Practica
+6459706 | LUIS ARCELIO SALDARRIAGA BLANDON | 1111 | 2008-02-28 | 16:04:06 | 17:04:06 | idiomas | pc22 | Practica
+0826109 | ANNY YENITHSA VARGAS MORALES | 3857 | 2008-02-28 | 10:30:04 | 11:30:04 | idiomas | pc22 | Practica
+
+

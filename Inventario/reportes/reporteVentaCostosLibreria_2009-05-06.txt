@@ -1,0 +1,48 @@
+Elaborado el... 2009-05-06
+Del 2009-02-01 al 2009-02-28
+COD VENTA | FECHA | BENEFICIARIO | VINCULACION|MATERIAL| CANTIDAD | PRECIO | DESCUENTO | TOTAL VENTA | REALIZADO POR
+
+ 529 | 2009-02-09 | Oscar Fabián Muñoz  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 530 | 2009-02-09 | Maria Juliana Rodriguez  | Estudiante | Cuaderno 5 Materias Administración  |5 | 5000 | 0 | 25000 | 0 | 50000 |Yuliana
+ 531 | 2009-02-09 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |4 | 5000 | 0 | 20000 | 0 | 40000 |Yuliana
+ 532 | 2009-02-11 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 533 | 2009-02-13 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |3 | 5000 | 0 | 15000 | 0 | 30000 |Yuliana
+ 534 | 2009-02-14 | No aplica  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 535 | 2009-02-14 | No aplica  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 536 | 2009-02-16 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 537 | 2009-02-17 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 538 | 2009-02-18 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 539 | 2009-02-19 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 540 | 2009-02-20 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ |	|	| 	|	|	|Total Costos	| 139150 |	Total Ventas| 288000 |
+
+
+Elaborado el... 2009-05-06
+Del 2009-02-01 al 2009-02-28
+COD VENTA | FECHA | BENEFICIARIO | VINCULACION|MATERIAL| CANTIDAD | PRECIO | DESCUENTO | TOTAL VENTA | REALIZADO POR
+
+ 529 | 2009-02-09 | Oscar Fabián Muñoz  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 530 | 2009-02-09 | Maria Juliana Rodriguez  | Estudiante | Cuaderno 5 Materias Administración  |5 | 5000 | 0 | 25000 | 0 | 50000 |Yuliana
+ 531 | 2009-02-09 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |4 | 5000 | 0 | 20000 | 0 | 40000 |Yuliana
+ 532 | 2009-02-11 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 533 | 2009-02-13 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |3 | 5000 | 0 | 15000 | 0 | 30000 |Yuliana
+ 534 | 2009-02-14 | No aplica  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 535 | 2009-02-14 | No aplica  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 536 | 2009-02-16 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 537 | 2009-02-17 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 538 | 2009-02-18 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 539 | 2009-02-19 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 540 | 2009-02-20 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ |	|	| 	|	|	|Total Costos	| 139150 |	Total Ventas| 288000 |
+
+
+Elaborado el... 2009-05-06
+Del 2009-02-09 al 2009-02-09
+COD VENTA | FECHA | BENEFICIARIO | VINCULACION|MATERIAL| CANTIDAD | PRECIO | DESCUENTO | TOTAL VENTA | REALIZADO POR
+
+ 529 | 2009-02-09 | Oscar Fabián Muñoz  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 530 | 2009-02-09 | Maria Juliana Rodriguez  | Estudiante | Cuaderno 5 Materias Administración  |5 | 5000 | 0 | 25000 | 0 | 50000 |Yuliana
+ 531 | 2009-02-09 | No aplica  | Estudiante | Cuaderno 5 Materias Administración  |4 | 5000 | 0 | 20000 | 0 | 40000 |Yuliana
+ |	|	| 	|	|	|Total Costos	| 67000 |	Total Ventas| 122000 |
+
+

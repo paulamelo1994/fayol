@@ -1,0 +1,612 @@
+Return-Path: <guillego40@gmail.com>
+X-Original-To: anaperez@mafalda.univalle.edu.co
+Delivered-To: anaperez@mafalda.univalle.edu.co
+Received: from ficose04.univalle.edu.co (ficose04.univalle.edu.co [192.168.248.69])
+	by mafalda.univalle.edu.co (Postfix) with ESMTP id 67067C1DE;
+	Mon, 22 Feb 2010 14:58:58 -0500 (COT)
+Received: from ficose04.univalle.edu.co (ficose04.univalle.edu.co [192.168.248.69])
+	by ficose04.univalle.edu.co (Postfix) with ESMTP id 4DCE048BEE;
+	Mon, 22 Feb 2010 14:54:17 -0500 (COT)
+Received: from proxse05.univalle.edu.co (proxse05.univalle.edu.co [192.168.248.35])
+	by ficose04.univalle.edu.co (Postfix) with ESMTP id 1245248BF3;
+	Mon, 22 Feb 2010 14:54:17 -0500 (COT)
+Received: from proxse05.univalle.edu.co (proxse21.univalle.edu.co [192.168.248.53])
+	by proxse05.univalle.edu.co (Postfix) with ESMTP id CB94D5CA02;
+	Mon, 22 Feb 2010 14:54:17 -0500 (COT)
+Received: from mail-yw0-f196.google.com (mail-yw0-f196.google.com [209.85.211.196])
+	by proxse05.univalle.edu.co (Postfix) with ESMTP id C0E975CDD9;
+	Mon, 22 Feb 2010 14:54:15 -0500 (COT)
+Received: by ywh34 with SMTP id 34so1312026ywh.17
+        for <multiple recipients>; Mon, 22 Feb 2010 11:54:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:received:received:message-id:from:to:subject
+         :date:mime-version:content-type:x-priority:x-msmail-priority
+         :x-mailer:disposition-notification-to:x-mimeole;
+        bh=jbvJrHvYfPOZk4r1biyrTzIiZNBgb8ObZkIDRWzipPk=;
+        b=qZuGpcQWL/Pd9+PIBTU1NlQtNHmMl0yiwbL5FZo2tQCM5VD8XK0jz7UdSzvbCrpbiI
+         LezWW2+lQCAOOf9ufP1Gb4QAwtMquEM64Z03OnmABLYgBfP3Bayecf9lb/LXK0llrz58
+         IVZ1pzcfZTrZFbnlxDs2jJN/LgSi0JL4O0lHg=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=message-id:from:to:subject:date:mime-version:content-type
+         :x-priority:x-msmail-priority:x-mailer:disposition-notification-to
+         :x-mimeole;
+        b=EcW1207xxYR1N3NM+OYqVDoiuW+RTKoIIbAJ3zz1V9GjWVxEB0jdTBWpCY3PubIj3m
+         +yaXyw8RuueJW0O+sz+41mQnNtrMl86yEQFjhRsmZrA7sbvQOchPaYT9aFFGxEsvLtnu
+         2zf34VCmNwHT6V5ZyKUx06ToM7Tx+aURtvUp8=
+Received: by 10.150.48.23 with SMTP id v23mr4038275ybv.184.1266868450452;
+        Mon, 22 Feb 2010 11:54:10 -0800 (PST)
+Received: from Guillermo1 ([190.146.71.251])
+        by mx.google.com with ESMTPS id 4sm1950529yxd.70.2010.02.22.11.53.55
+        (version=SSLv3 cipher=RC4-MD5);
+        Mon, 22 Feb 2010 11:54:05 -0800 (PST)
+Message-ID: <C68549527EC44B129844A5DF0CE28312@Guillermo1>
+From: =?utf-8?Q?Guillermo_Gordillo_Loaiza_-_Dire?=
+	=?utf-8?Q?ctor_de_Capacitaci=C3=B3n=2C_FUNDACION_?=
+	=?utf-8?Q?UNIVERSIDAD_DEL_VALLE?= <guillego40@gmail.com>
+To: <vicerrectoria@palmira.unal.edu.co>,
+	<valleregional@sena.edu.co>,
+	<sroldan@uao.edu.co>,
+	"Sanchez, Myriam \(BIOTEC-CIAT\)" <myriams@CGIAR.ORG>,
+	"Ricardo Paredes" <ricpare@gmail.com>,
+	<planeacion@cali.gov.co>,
+	"MONICA FRANCO" <mfranco@icesi.edu.co>,
+	<mercadeo@sos.com.co>,
+	<mchenriquez@puj.edu.co>,
+	<mccastro@cenicana.org>,
+	<mcacevedo@valledelcauca.gov.co>,
+	"Martha Cecilia Sanchez Mejia" <marthasanchezmejia@yahoo.com>,
+	"Martha Cecilia Betancourt M." <presidencia@procana.org>,
+	"LEO QUINTERO" <lquintero@caracol.com.co>,
+	<lcmanfredi@icesi.edu.co>,
+	"Juan Fernando Valdivieso" <jvaldivieso@terpel.com>,
+	<jpelaez@javerianacali.edu.co>,
+	<JPedraza@semana.com>,
+	"Jose Eduardo Hernandez P." <jehernandez@epsa.com.co>,
+	"Jose Bayona" <capacitacionempresa@gmail.com>,
+	=?utf-8?Q?Jose_Alberto_Mu=C3=B1oz_Piedrahita?= <jamunoz@epsa.com.co>,
+	<jorozco@corpoica.org.co>,
+	<jorge.berrio@smurfitkappa.com.co>,
+	<jcolmena@sucromiles.com.co>,
+	"Jairo Aristizabal Ossa" <jao@jairoaristizabalossa.com>,
+	"Jaime Prado" <jaimeg.prado@hotelesestelar.com>,
+	"JAIR LENIS" <jlenis@rcnradio.com>,
+	"Hernan Ramirez Hoffmann" <ramirezhoffmann@gmail.com>,
+	"'Hernan Ortiz'" <heortiz@emcali.net.co>,
+	"HENRY CARDONA" <hcardona@emcali.net.co>,
+	"HECTOR FABIO PEREA" <redaldeas@yahoo.com>,
+	<hbanguero@uao.edu.co>,
+	<gvillega@ccc.org.co>,
+	"Gilma Sanchez" <gsanchez@univalle.edu.co>,
+	<ggutierrez@manuelita.com>,
+	<ggpuerta@usbcali.edu.co>,
+	<ggnecco@sucromiles.com.co>,
+	<gerenciacomercial@elpais.com.co>,
+	<fvelasquez@icesi.edu.co>,
+	"Egresado" <egresado@univalle.edu.co>,
+	"Dir. de Extension y Educacion Continua" <extension@univalle.edu.co>,
+	<DARIO GOMEZ CARACOL (dgomez@caracol.com.co)>,
+	"COUNIVALLE" <egresadoscounivalle@emcali.net.co>,
+	"COMUNICACIONES FGAUV" <comunicaciones@fundacionuniversidad.org>,
+	<claudio_yepes@cecep.edu.co>,
+	"Carmenza Libreros Varela" <reygato71@hotmail.com>,
+	<carlosyepes@comfandi.com.co>,
+	"carlos omar saldarriaga" <cosaldarriaga@hotmail.com>,
+	"Carlos A. Yepez" <cyepes@ccc.org.co>,
+	"Capacitacion Empresarial" <capacitacionempresarial@emcali.net.co>,
+	"Beatriz Arango" <direccion.ejecutiva@aciemvalle.org>,
+	"Andres Felipe Solano Zuniga" <afsolano@javerianacali.edu.co>,
+	"Andres Felipe Salazar Toro" <andresftoro@javerianacali.edu.co>,
+	<amvelez@ccc.org.co>,
+	"ALFREDO GARCIA" <activos@elpais.com.co>,
+	<aidrodri@univalle.edu.co>,
+	=?utf-8?Q?Agr=C3=B3polis_del_Norte?= <agropolisdelnorte@gmail.com>,
+	"acopival" <acopival@emcali.net.co>,
+	<abeltran@cuao.edu.co>,
+	<aaldana@puj.edu.co>
+Subject: INVITACION CONFERENCIA
+Date: Mon, 22 Feb 2010 14:53:43 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0022_01CAB3CE.D3D1FE30"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Windows Mail 6.0.6001.18000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6001.18049
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-Virus-Scanned: ClamAV using ClamSMTP
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0022_01CAB3CE.D3D1FE30
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0023_01CAB3CE.D3D24C50"
+
+
+------=_NextPart_001_0023_01CAB3CE.D3D24C50
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+  LA UNIVERSIDAD DEL VALLE=20
+
+=C2=B7        LA ASOCIACION DE EGRESADOS Y,
+
+=C2=B7         LA FUNDACION UNIVERSIDAD DEL VALLE
+
+=20
+
+
+
+
+
+
+INVITAN A LA CONFERENCIA Y LECCION INAUGURAL DE LA MAESTR=C3=8DA EN =
+ECONOMIA APLICADA, NOVENA PROMOCION:
+
+ =E2=80=9CESTADO ACTUAL DE LAS TEOR=C3=8DAS MICRO Y =
+MACROECON=C3=93MICAS=E2=80=9D, a cargo del Doctor Manuel Ram=C3=ADrez =
+G=C3=B3mez, presidente de la Academia Colombiana de Ciencias =
+Econ=C3=B3micas, profesor del doctorado en Econom=C3=ADa de la =
+Universidad del Rosario y reconocido docente e investigador.
+
+=20
+
+LUGAR:                      Hotel Radisson Royal, Sal=C3=B3n =
+Ca=C3=B1averales.
+
+Carrera 100 B No. 11 A =E2=80=93 99, Barrio Ciudad Jard=C3=ADn - Cali.
+
+FECHA y HORA:        Viernes 5 de Marzo de 2010, 10:00 AM.
+
+=20
+
+CUPO LIMITADO =E2=80=93 REQUIERE INSCRIPCION PREVIA
+
+EVENTO SIN COSTO
+
+INFORMES E INSCRIPCIONES
+
+FUNDACION UNIVERSIDAD DEL VALLE
+
+Tel=C3=A9fonos y Fax: 331 80 04  - 315 0375.
+
+E-mails: seminari @ univalle. edu    diplomadosfgauv@gmail.com
+
+LLAME GRATIS DESDE CUALQUIER CIUDAD: 01 8000 11 05 11
+
+------=_NextPart_001_0023_01CAB3CE.D3D24C50
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<META content=3D"MSHTML 6.00.6001.18385" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DCalibri color=3D#800000></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DCalibri color=3D#800000></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DCalibri color=3D#800000>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><IMG height=3D124 hspace=3D12=20
+src=3D"cid:600D88CC6B9C428AA58FA34CF3147B40@Guillermo1" width=3D108 =
+align=3Dleft=20
+v:shapes=3D"_x0000_s1027"><IMG style=3D"WIDTH: 88px; HEIGHT: 134px" =
+height=3D140=20
+alt=3D[Grande] hspace=3D12 =
+src=3D"cid:E50147EA1EAD4FC086E0D2C4D32E758C@Guillermo1"=20
+width=3D102 align=3Dleft v:shapes=3D"Imagen_x0020_1"><B=20
+style=3D"mso-bidi-font-weight: normal"><?xml:namespace prefix =3D o ns =
+=3D=20
+"urn:schemas-microsoft-com:office:office" /><o:p></o:p></B></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN: 0cm 0cm 0pt 39.25pt; TEXT-INDENT: -18pt; TEXT-ALIGN: =
+center; mso-list: l0 level1 lfo1"=20
+align=3Dcenter><FONT color=3D#000000><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal; FONT-FAMILY: Symbol; =
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore"><SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'"></SPAN></SPAN></SPAN></FONT>&nbsp;</P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN: 0cm 0cm 0pt 39.25pt; TEXT-INDENT: -18pt; TEXT-ALIGN: =
+center; mso-list: l0 level1 lfo1"=20
+align=3Dcenter><FONT color=3D#000000><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal; FONT-FAMILY: Symbol; =
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore"><SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT face=3DArial>LA =
+UNIVERSIDAD DEL=20
+VALLE <o:p></o:p></FONT></SPAN></B></FONT></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN: 0cm 0cm 0pt 39.25pt; TEXT-INDENT: -18pt; TEXT-ALIGN: =
+center; mso-list: l0 level1 lfo1"=20
+align=3Dcenter><FONT color=3D#000000><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal; FONT-FAMILY: Symbol; =
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=C2=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN></SPAN><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT face=3DArial>LA =
+ASOCIACION DE=20
+EGRESADOS Y,<o:p></o:p></FONT></SPAN></B></FONT></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN: 0cm 0cm 0pt 39.25pt; TEXT-INDENT: -18pt; TEXT-ALIGN: =
+center; mso-list: l0 level1 lfo1"=20
+align=3Dcenter><FONT color=3D#000000><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal; FONT-FAMILY: Symbol; =
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=C2=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN></SPAN><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT face=3DArial><SPAN=20
+style=3D"mso-spacerun: yes">&nbsp;</SPAN>LA FUNDACION UNIVERSIDAD DEL=20
+VALLE<o:p></o:p></FONT></SPAN></B></FONT></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-STYLE: normal"><o:p><FONT face=3DArial color=3D#000000=20
+size=3D4>&nbsp;</FONT></o:p></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><o:p><FONT face=3DArial=20
+color=3D#000000></FONT></o:p></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><SPAN style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT =
+
+color=3D#000000><FONT face=3DCalibri color=3D#800000=20
+size=3D3></FONT></FONT></SPAN>&nbsp;</P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT =
+color=3D#000000><FONT=20
+face=3DArial></FONT></FONT></SPAN></B>&nbsp;</P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT =
+color=3D#000000><FONT=20
+face=3DArial>INVITAN A LA CONFERENCIA Y LECCION INAUGURAL DE LA =
+MAESTR=C3=8DA EN=20
+ECONOMIA APLICADA, NOVENA =
+PROMOCION:<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 20pt; FONT-STYLE: normal; FONT-FAMILY: 'Arial =
+Black','sans-serif'"><SPAN=20
+style=3D"mso-spacerun: yes"><FONT =
+color=3D#000000>&nbsp;</FONT></SPAN><SPAN=20
+style=3D"COLOR: red">=E2=80=9CESTADO ACTUAL DE LAS TEOR=C3=8DAS MICRO Y=20
+MACROECON=C3=93MICAS=E2=80=9D</SPAN><FONT color=3D#000000>, a cargo del =
+Doctor Manuel Ram=C3=ADrez=20
+G=C3=B3mez, </FONT></SPAN></B><SPAN=20
+style=3D"FONT-SIZE: 20pt; FONT-STYLE: normal; FONT-FAMILY: 'Arial =
+Black','sans-serif'"><FONT=20
+color=3D#000000>presidente de la Academia Colombiana de Ciencias =
+Econ=C3=B3micas,=20
+profesor del doctorado en Econom=C3=ADa de la Universidad del Rosario y =
+reconocido=20
+docente e investigador.<B=20
+style=3D"mso-bidi-font-weight: normal"><o:p></o:p></B></FONT></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: left" =
+align=3Dleft><B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><o:p><FONT face=3DArial=20
+color=3D#000000>&nbsp;</FONT></o:p></SPAN></B></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN: 0cm 0cm 0pt 106.2pt; TEXT-INDENT: -106.2pt; TEXT-ALIGN: =
+left"=20
+align=3Dleft><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT =
+color=3D#000000><FONT=20
+face=3DArial>LUGAR: <SPAN=20
+style=3D"mso-tab-count: =
+1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN><SPAN=20
+style=3D"mso-tab-count: =
+1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN>Hotel Radisson Royal, Sal=C3=B3n=20
+Ca=C3=B1averales.<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt 141.6pt; TEXT-ALIGN: =
+left"=20
+align=3Dleft><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT =
+color=3D#000000><FONT=20
+face=3DArial>Carrera 100 B No. 11 A =E2=80=93 99, Barrio Ciudad =
+Jard=C3=ADn -=20
+Cali.<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: left" =
+align=3Dleft><B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><FONT =
+color=3D#000000><FONT=20
+face=3DArial>FECHA y HORA: <SPAN=20
+style=3D"mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN>Viernes 5=20
+de Marzo de 2010, 10:00 AM.<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: left" =
+align=3Dleft><B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; FONT-STYLE: normal"><o:p><FONT face=3DArial=20
+color=3D#000000>&nbsp;</FONT></o:p></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; COLOR: red; FONT-STYLE: normal; FONT-FAMILY: =
+'Arial Black','sans-serif'">CUPO=20
+LIMITADO =E2=80=93 REQUIERE INSCRIPCION PREVIA<o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 14pt; COLOR: red; FONT-STYLE: normal; FONT-FAMILY: =
+'Arial Black','sans-serif'">EVENTO=20
+SIN COSTO<o:p></o:p></SPAN></B></P>
+<DIV=20
+style=3D"BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; =
+BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; PADDING-BOTTOM: =
+1pt; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 1pt; BORDER-BOTTOM: =
+windowtext 1pt solid; mso-element: para-border-div; mso-border-alt: =
+solid windowtext .5pt">
+<P class=3DMsoNormal=20
+style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: =
+medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm =
+0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium =
+none; TEXT-ALIGN: center; mso-border-alt: solid windowtext .5pt; =
+mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt"=20
+align=3Dcenter><B><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-STYLE: normal; mso-bidi-font-family: =
+Arial"><FONT=20
+color=3D#000000><FONT face=3DArial>INFORMES E=20
+INSCRIPCIONES<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P class=3DMsoNormal=20
+style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: =
+medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm =
+0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium =
+none; TEXT-ALIGN: center; mso-border-alt: solid windowtext .5pt; =
+mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt"=20
+align=3Dcenter><B><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-STYLE: normal; mso-bidi-font-family: =
+Arial"><FONT=20
+color=3D#000000><FONT face=3DArial>FUNDACION UNIVERSIDAD DEL=20
+VALLE<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P class=3DMsoNormal=20
+style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: =
+medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm =
+0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium =
+none; TEXT-ALIGN: center; mso-border-alt: solid windowtext .5pt; =
+mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt"=20
+align=3Dcenter><FONT color=3D#000000><FONT face=3DArial><B><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-STYLE: normal; mso-bidi-font-family: =
+Arial">Tel=C3=A9fonos=20
+y Fax:</SPAN></B><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-STYLE: normal; mso-bidi-font-weight: =
+bold; mso-bidi-font-family: Arial">=20
+331 80 04<SPAN style=3D"mso-spacerun: yes">&nbsp; </SPAN>- 315=20
+0375.<o:p></o:p></SPAN></FONT></FONT></P>
+<P class=3DMsoNormal=20
+style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: =
+medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; MARGIN: 0cm 0cm =
+0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: medium =
+none; TEXT-ALIGN: center; mso-border-alt: solid windowtext .5pt; =
+mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt"=20
+align=3Dcenter><FONT color=3D#000000><FONT face=3DArial><B><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-STYLE: normal; mso-bidi-font-family: =
+Arial">E-mails:</SPAN></B><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-STYLE: normal; mso-bidi-font-weight: =
+bold; mso-bidi-font-family: Arial">=20
+seminari @ univalle. edu<SPAN style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;=20
+</SPAN>diplomadosfgauv@gmail.com<o:p></o:p></SPAN></FONT></FONT></P>
+<P class=3DMsoNormal=20
+style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: =
+medium none; PADDING-LEFT: 0cm; BACKGROUND: black; PADDING-BOTTOM: 0cm; =
+MARGIN: 0cm 0cm 0pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none; TEXT-ALIGN: center; mso-border-alt: solid =
+windowtext .5pt; mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt; mso-shading: =
+windowtext; mso-pattern: solid auto"=20
+align=3Dcenter><B><SPAN=20
+style=3D"FONT-SIZE: 12pt; FONT-STYLE: normal; mso-bidi-font-family: =
+Arial"><FONT=20
+face=3DArial><FONT color=3D#ffffff>LLAME GRATIS DESDE CUALQUIER CIUDAD: =
+01 8000 11=20
+05 =
+11<o:p></o:p></FONT></FONT></SPAN></B></P></DIV></FONT></DIV></BODY></HTM=
+L>
+
+------=_NextPart_001_0023_01CAB3CE.D3D24C50--
+
+------=_NextPart_000_0022_01CAB3CE.D3D1FE30
+Content-Type: image/jpeg;
+	name="clip_image002.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <600D88CC6B9C428AA58FA34CF3147B40@Guillermo1>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAB8AGwDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDDPU0U
+HqaK8I/SArb8MeGbjxFe7RmO1jP76bHT2HvVfQNCuNf1JbSDKoPmllxwi/4+ley6dp1tpVjHZ2kY
+SKMYHqT3J9TXVQo87u9jx8yzD6vHkh8T/AWwsLXTLNLS0iWKGMcAfzPqayvFXiaHw9Y5GJLuUEQx
+H/0I+wq9resW2h6bJe3J4XhEHV27AV4xqmp3Or6hJe3b7pJD0HRR2A9hXVXqqmuWO542XYF4qftK
+nwr8X/W5d0nT73xZr/lyzMzykyTzHnavc/0Ar17TNKstHtFtrKBYkHU92PqT3Ncd8LrdBa39zj5z
+IsefQAZ/rXe0sNBKPM92PNsRKVb2K0jHoFZeueH7HXrQw3UYEgH7uYD5kPsf6VqUV0tJqzPKhOUJ
+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
+/9k=
+
+------=_NextPart_000_0022_01CAB3CE.D3D1FE30
+Content-Type: image/jpeg;
+	name="clip_image004.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <E50147EA1EAD4FC086E0D2C4D32E758C@Guillermo1>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACMAGYDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0f/io
+Na8W67aWniF9PtrF4VjjW1jkzvTJ5PPUfrVz/hHPFH/Q6zf+C+Kjw7/yPHi//rpa/wDoqusrnhBS
+V23u+r7nr4rFTozUIKNuWH2IveKb1avucn/wjnij/odZv/BfFR/wjnij/odZv/BfFXWUVfsY+f3v
+/M5v7Qrdo/8AgEP/AJE5P/hHPFH/AEOs3/gvio/4RzxR/wBDrN/4L4q6yij2MfP73/mH9oVu0f8A
+wCH/AMicn/wjnij/AKHWb/wXxUf8I54o/wCh1m/8F8VdZRR7GPn97/zD+0K3aP8A4BD/AORPHfGu
+ueK/COoW1qviSS6E0XmbjaxpjkjHQ1zH/CyfFv8A0F2/78x//E10Pxn/AOQ9p3/Xqf8A0I15pXkY
+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
+XTCXMrniYmiqNTkTv+H+Z//Z
+
+------=_NextPart_000_0022_01CAB3CE.D3D1FE30--
+

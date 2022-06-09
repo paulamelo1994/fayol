@@ -1,0 +1,28 @@
+Elaborado el... 28 de Junio de 2019
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+1328830 | John Restrepo Aparicio | 3845 | 02:55:59
+1630252 | Cristian Velosa | 3841 | 02:58:44
+1631755 | Paola Reyes | 3841 | 02:59:12
+1644191 | Isabella  Bonilla | 3841 | 02:56:25
+1842106 | Daniela Angulo Ruiz | 3648 | 01:33:22
+1843430 | Brahian Sebastian Lozano Vivas | 3648 | 01:35:21
+1844480 | Yorleidy Mercedes Lopez  | 3648 | 01:34:20
+1925603 | Jonny Alejandro Trujillo Barona | 3857 | 00:18:08
+
+
+Elaborado el... 28 de Junio de 2019
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+1328830 | John Restrepo Aparicio | 3845 | 02:55:59
+1630252 | Cristian Velosa | 3841 | 02:58:44
+1631755 | Paola Reyes | 3841 | 02:59:12
+1644191 | Isabella  Bonilla | 3841 | 02:56:25
+1842106 | Daniela Angulo Ruiz | 3648 | 01:33:22
+1843430 | Brahian Sebastian Lozano Vivas | 3648 | 01:35:21
+1844480 | Yorleidy Mercedes Lopez  | 3648 | 01:34:20
+1925603 | Jonny Alejandro Trujillo Barona | 3857 | 00:18:08
+
+

@@ -1,0 +1,22 @@
+Elaborado el... 25 de Noviembre de 2010
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0305221 | Manuel Salvador Williams Aguilar | 7879 | 04:58:51
+0405631 | Myriam Satizabal Tascon | 7880 | 01:10:01
+0705676 | Iris Maria  Velez Osorio | 7878 | 00:27:42
+0741473 | Vanessa Castaño Giraldo | 3857 | 00:58:29
+0801531 | Jesus Orlando  Espinosa Melo | 7880 | 05:27:26
+0831827 | Nibia Alejandra Salazar Valencia  | 3857 | 03:37:58
+0838045 | Giovana  Hernandez Rivera | 3857 | 02:52:08
+0901167 | Luis Enrique Perdomo Mejia | 7880 | 00:51:28
+0901303 | Cesar Ramirez | 7879 | 00:48:08
+0902910 | Helver Javier Sadavid Ramirez | 7879 | 00:03:34
+0902942 | German Felipe Jimenez Varela | 5882 | 06:52:15
+0902956 | Carlos Hernan Villa | 5882 | 06:49:12
+0903182 | Jose Albeiro Ortiz Gomez | 7880 | 00:29:48
+1000066 | Eisenover Cabal | 7878 | 03:36:36
+1000973 | Alejandro Franco Velez | 7878 | 00:28:22
+16652602 | Manuel Salvador Williams Aguilar | 1111 | 00:57:37
+
+

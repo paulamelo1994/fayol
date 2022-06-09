@@ -1,0 +1,15 @@
+Elaborado el... 10 de Abril de 2010
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0823749 | Lina Marcela  Cerquera Martínez | 3842 | 01:01:00
+0824399 | Christian Narvaez Revelo | 3842 | 00:53:27
+0824624 | Cindy Marcela Pechene Rodas | 3842 | 00:37:13
+0831973 | Sandra Milena Zapata  | 3845 | 01:58:39
+0835220 | Hernan Dario Castillo Parra | 3842 | 00:38:40
+0837148 | Diego Armando Yepes Lorza | 3842 | 01:17:38
+0838257 | Jhon Andres Betancourt MadroÑero  | 3842 | 00:40:15
+0924443 | Luis Felipe Ospina Quintero | 3845 | 01:46:16
+0930229 | Alexis Palacios Cuacialpud | 3845 | 01:45:58
+
+

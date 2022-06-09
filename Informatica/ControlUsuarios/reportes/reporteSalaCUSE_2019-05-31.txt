@@ -1,0 +1,354 @@
+Elaborado el... 2019-05-31
+Mes: 1 de Abril de 2019 al 30 de Abril de 2019
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1646595 | Gabriela Posso Restrepo | 3845 | 2019-04-01 | 08:45:58 | 09:45:58 | CUSE | 23   | Practica
+1844595 | Tania Marible COLIMBA CHIRAN | 3842 | 2019-04-01 | 14:55:56 | 15:55:56 | CUSE | pc01 | Practica
+1870949 | LINA MARCELA  ARIAS | 3857 | 2019-04-01 | 17:32:47 | 18:32:47 | CUSE | pc03 | Practica
+1830795 | KAREN VIVIANA  JUANILLO ARBOLEDA | 3857 | 2019-04-01 | 10:09:06 | 11:09:06 | CUSE | pc04 | Practica
+1830795 | KAREN VIVIANA  JUANILLO ARBOLEDA | 3857 | 2019-04-01 | 17:01:14 | 18:01:14 | CUSE | pc04 | Practica
+1929287 | Jeison Camilo Montenegro Mora | 3841 | 2019-04-01 | 20:08:35 | 21:08:35 | CUSE | pc05 | Clase
+1724357 | Karol Sofia Segura Escobar | 3841 | 2019-04-01 | 10:05:28 | 11:05:28 | CUSE | pc05 | Practica
+1929918 | Mauricio Andrés Muñoz Sánchez | 3841 | 2019-04-01 | 20:08:22 | 21:08:22 | CUSE | pc06 | Clase
+1926634 | Diego Eraso | 3841 | 2019-04-01 | 20:07:48 | 21:07:48 | CUSE | pc07 | Clase
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-01 | 14:36:56 | 15:36:56 | CUSE | pc07 | Practica
+1735880 | Martinez Mira Juan Camilo | 3261 | 2019-04-01 | 10:42:32 | 11:42:32 | CUSE | pc07 | Practica
+1832224 | DANNA ISABELLA  RODRIGUEZ BENITEZ | 3857 | 2019-04-01 | 10:08:17 | 11:08:17 | CUSE | pc08 | Practica
+1928886 | Diego Fernando Ortiz Flórez | 3841 | 2019-04-01 | 20:08:09 | 21:08:09 | CUSE | pc08 | Clase
+1828706 | Esthefanie Alejandra Blandon Zuñiga | 3841 | 2019-04-01 | 15:09:06 | 16:09:06 | CUSE | pc09 | Practica
+1738403 | CARLOS ANDREY PEREZ GRANADA | 3857 | 2019-04-01 | 10:07:38 | 11:07:38 | CUSE | pc11 | Practica
+1926497 | Erika Alexandra Rivera Márquez | 3841 | 2019-04-01 | 20:07:04 | 21:07:04 | CUSE | pc11 | Clase
+1822636 | GUSTAVO ADOLFO GARZÓN GARZÓN  | 3857 | 2019-04-01 | 10:08:01 | 11:08:01 | CUSE | pc12 | Practica
+1926229 | J. Alexander Saavedra | 3841 | 2019-04-01 | 20:08:58 | 21:08:58 | CUSE | pc12 | Clase
+1924425 | Ilse Loraine Vergel Rodríguez | 3841 | 2019-04-01 | 20:07:34 | 21:07:34 | CUSE | pc14 | Clase
+1825860 | JESSIE TATIANA PEJENDINO MUÑOZ | 3857 | 2019-04-01 | 08:41:17 | 09:41:17 | CUSE | pc15 | Practica
+1842440 | Juan David Claros Lopez | 3857 | 2019-04-01 | 17:11:11 | 18:11:11 | CUSE | pc15 | Practica
+1924351 | María Luisa Galindo Pérez | 3841 | 2019-04-01 | 19:15:10 | 20:15:10 | CUSE | pc15 | Clase
+1823714 | DANNA YINETH  TORO MUÑOZ | 3857 | 2019-04-01 | 08:40:42 | 09:40:42 | CUSE | pc16 | Practica
+1670303 | Andrés Felipe Díaz Díaz | 3660 | 2019-04-01 | 11:35:08 | 12:35:08 | CUSE | pc17 | Practica
+1540225 | Vanessa Arenas Perez | 3857 | 2019-04-01 | 16:01:15 | 17:01:15 | CUSE | pc17 | Practica
+1834693 | MIGUEL ANTONIO TUNUBALA | 3841 | 2019-04-01 | 09:39:31 | 10:39:31 | CUSE | pc17 | Practica
+1834693 | MIGUEL ANTONIO TUNUBALA | 3841 | 2019-04-01 | 10:00:09 | 11:00:09 | CUSE | pc17 | Practica
+1537137 | Nicolas Camacho Baron | 3857 | 2019-04-01 | 16:17:57 | 17:17:57 | CUSE | pc18 | Practica
+1623142 | Julissa Alexandra Vargas Chezza | 3660 | 2019-04-01 | 11:34:39 | 12:34:39 | CUSE | pc18 | Practica
+1842799 | ANGIE VANESSA BURBANO CARVAJAL | 3841 | 2019-04-01 | 09:28:18 | 10:28:18 | CUSE | pc19 | Practica
+1929504 | Johan David Gómez Espinosa | 3845 | 2019-04-01 | 19:08:19 | 20:08:19 | CUSE | pc19 | Clase
+1924111 | Melany Paola Castro Romero | 3845 | 2019-04-01 | 19:10:02 | 20:10:02 | CUSE | pc20 | Clase
+1841881 | Jefferson Espinosa Calderon | 3841 | 2019-04-01 | 09:27:57 | 10:27:57 | CUSE | pc20 | Practica
+1537137 | Nicolas Camacho Baron | 3857 | 2019-04-01 | 07:24:11 | 08:24:11 | CUSE | pc21 | Practica
+1871347 | ISABEL DANIELA  ORDOÑEZ TOVAR | 3857 | 2019-04-01 | 11:34:15 | 12:34:15 | CUSE | pc21 | Practica
+1871347 | ISABEL DANIELA  ORDOÑEZ TOVAR | 3857 | 2019-04-01 | 11:12:51 | 12:12:51 | CUSE | pc21 | Practica
+1439894 | KATHERIN VIVIANA CASTAÑO SANCHEZ | 3845 | 2019-04-01 | 10:00:53 | 11:00:53 | CUSE | pc22 | Practica
+1540225 | Vanessa Arenas Perez | 3857 | 2019-04-01 | 07:53:02 | 08:53:02 | CUSE | pc22 | Practica
+1625317 | ANYACARI  AGUIRRE PACHECO | 3857 | 2019-04-01 | 14:54:29 | 15:54:29 | CUSE | pc22 | Practica
+1535702 | Alejandra Diaz Medina | 3857 | 2019-04-01 | 09:08:23 | 10:08:23 | CUSE | pc22 | Practica
+1743706 | ROSEMBERT  BERMÚDEZ PINZÓN | 3845 | 2019-04-01 | 14:40:48 | 15:40:48 | CUSE | pc23 | Practica
+1929446 | Diego Fernando Cárdenas Gómez | 3845 | 2019-04-01 | 19:03:04 | 20:03:04 | CUSE | pc23 | Clase
+1926148 | Andrés Felipe Forero Chávez | 3845 | 2019-04-01 | 19:04:43 | 20:04:43 | CUSE | pc24 | Clase
+1632930 | Gustavo Adolfo  Moreno Cortez | 3845 | 2019-04-01 | 16:42:46 | 17:42:46 | CUSE | pc24 | Practica
+1646636 | Nathalia  Campo Cucuñame | 3845 | 2019-04-01 | 08:49:40 | 09:49:40 | CUSE | pc24 | Practica
+1646636 | Nathalia  Campo Cucuñame | 3845 | 2019-04-01 | 08:53:29 | 09:53:29 | CUSE | pc24 | Practica
+1767894 | Jhoan Alejandro Duque Chavez | 3845 | 2019-04-01 | 14:41:17 | 15:41:17 | CUSE | pc24 | Practica
+1740079 | EDITH JOHANA TAIMAL AZA | 3842 | 2019-04-01 | 09:28:45 | 10:28:45 | CUSE | pc25 | Practica
+1426339 | Mariana Giraldo Quiceno | 3845 | 2019-04-01 | 14:20:11 | 15:20:11 | CUSE | pc25 | Practica
+1930645 | Iván David Giraldo Bernal | 3845 | 2019-04-01 | 19:06:07 | 20:06:07 | CUSE | pc26 | Clase
+1624258 | DIAN CATHERIN CRUZ CRUZ | 3857 | 2019-04-01 | 10:07:17 | 11:07:17 | CUSE | pc26 | Practica
+1745267 | SANTIAGO  ESTRADA | 3857 | 2019-04-01 | 08:54:02 | 09:54:02 | CUSE | pc26 | Practica
+1731080 | SAMUEL COBO U. | 3857 | 2019-04-02 | 10:59:33 | 11:59:33 | CUSE | pc05 | Practica
+1629488 | Alexandra Rios Gomez | 3845 | 2019-04-02 | 10:08:13 | 11:08:13 | CUSE | pc07 | Practica
+1539339 | JORGE EIBER SANDOVAL NOREÑA | 3841 | 2019-04-02 | 10:21:32 | 11:21:32 | CUSE | pc08 | Practica
+1537137 | Nicolas Camacho Baron | 3857 | 2019-04-02 | 11:14:02 | 12:14:02 | CUSE | pc09 | Practica
+1535702 | Alejandra Diaz Medina | 3857 | 2019-04-02 | 11:09:20 | 12:09:20 | CUSE | pc10 | Practica
+1536369 | Julio García  | 3841 | 2019-04-02 | 10:21:49 | 11:21:49 | CUSE | pc11 | Practica
+1740766 | Mauricio  Morzi  | 3841 | 2019-04-02 | 10:21:13 | 11:21:13 | CUSE | pc12 | Practica
+1841964 | Karen Andrea Calvache Londoño | 3857 | 2019-04-02 | 10:15:53 | 11:15:53 | CUSE | pc13 | Practica
+1844321 | Maria Gabriela Fajardo Villegas | 3857 | 2019-04-02 | 12:30:20 | 13:30:20 | CUSE | pc14 | Practica
+1844321 | Maria Gabriela Fajardo Villegas | 3857 | 2019-04-02 | 10:15:33 | 11:15:33 | CUSE | pc14 | Practica
+1841569 | Dolly Zambrano Daza | 3857 | 2019-04-02 | 10:11:53 | 11:11:53 | CUSE | pc15 | Practica
+1673332 | CRISTIAN CAMILO ARCOS BOLAÑOS | 3845 | 2019-04-02 | 17:17:09 | 18:17:09 | CUSE | pc16 | Practica
+1840798 | Valeria Serrano Vargas | 3857 | 2019-04-02 | 10:11:38 | 11:11:38 | CUSE | pc16 | Practica
+1844242 | Anthony Duban Guervon Ceballos | 3857 | 2019-04-02 | 17:29:28 | 18:29:28 | CUSE | pc17 | Practica
+1840455 | Maria Alejandra Alzate Garcia | 3857 | 2019-04-02 | 10:13:56 | 11:13:56 | CUSE | pc17 | Practica
+1840482 | Maria Jose  Alzate Garcia | 3857 | 2019-04-02 | 10:13:18 | 11:13:18 | CUSE | pc18 | Practica
+1840455 | Maria Alejandra Alzate Garcia | 3857 | 2019-04-02 | 10:13:35 | 11:13:35 | CUSE | pc19 | Practica
+1531152 | Luis Miguel Mejia Mosquera | 3845 | 2019-04-02 | 17:11:21 | 18:11:21 | CUSE | pc20 | Practica
+1673332 | CRISTIAN CAMILO ARCOS BOLAÑOS | 3845 | 2019-04-02 | 10:05:50 | 11:05:50 | CUSE | pc20 | Practica
+1834693 | MIGUEL ANTONIO TUNUBALA | 3841 | 2019-04-02 | 19:35:44 | 20:35:44 | CUSE | pc20 | Practica
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 2019-04-02 | 10:45:41 | 11:45:41 | CUSE | pc21 | Practica
+1770818 | Esther Yotumbo Angola | 3857 | 2019-04-02 | 10:08:28 | 11:08:28 | CUSE | pc21 | Practica
+1437443 | Nancy Paola  Cuaical | 3841 | 2019-04-02 | 17:04:55 | 18:04:55 | CUSE | pc22 | Practica
+0824296 | DEYBI JEFERSON MONDRAGON VARGAS | 3845 | 2019-04-02 | 20:44:11 | 21:44:11 | CUSE | pc23 | Practica
+1628327 | Miguel Andres OLAVE MENA | 3846 | 2019-04-02 | 10:06:30 | 11:06:30 | CUSE | pc23 | Practica
+1740079 | EDITH JOHANA TAIMAL AZA | 3842 | 2019-04-02 | 10:08:48 | 11:08:48 | CUSE | pc25 | Practica
+1426339 | Mariana Giraldo Quiceno | 3845 | 2019-04-02 | 17:05:45 | 18:05:45 | CUSE | pc25 | Practica
+1440071 | Edith Anama | 3651 | 2019-04-02 | 11:37:40 | 12:37:40 | CUSE | pc26 | Practica
+1436948 | Erika  Valencia | 3841 | 2019-04-03 | 14:13:07 | 15:13:07 | CUSE | pc01 | Practica
+1437285 | Jineth Paola Cabezas Anacona | 3841 | 2019-04-03 | 14:13:16 | 15:13:16 | CUSE | pc02 | Practica
+1436948 | Erika  Valencia | 3841 | 2019-04-03 | 09:52:46 | 10:52:46 | CUSE | pc03 | Practica
+1738403 | CARLOS ANDREY PEREZ GRANADA | 3857 | 2019-04-03 | 14:22:07 | 15:22:07 | CUSE | pc04 | Practica
+1553066 | LUIS EDUARDO CAICEDO CHASOY | 3841 | 2019-04-03 | 10:05:11 | 11:05:11 | CUSE | pc05 | Practica
+1824382 | SANTIAGO GIL PEREIRA | 3857 | 2019-04-03 | 17:38:06 | 18:38:06 | CUSE | pc05 | Practica
+1735880 | Martinez Mira Juan Camilo | 3261 | 2019-04-03 | 18:10:52 | 19:10:52 | CUSE | pc06 | Practica
+1241650 | Yimmer Dario Araujo N. | 3842 | 2019-04-03 | 10:18:19 | 11:18:19 | CUSE | pc06 | Practica
+1824571 | LUIS FERNANDO MORALES | 3842 | 2019-04-03 | 10:33:12 | 11:33:12 | CUSE | pc07 | Practica
+1437285 | Jineth Paola Cabezas Anacona | 3841 | 2019-04-03 | 09:53:15 | 10:53:15 | CUSE | pc07 | Practica
+1436948 | Erika  Valencia | 3841 | 2019-04-03 | 09:53:47 | 10:53:47 | CUSE | pc08 | Practica
+1827355 | WILLIAM  CERON PACHECO | 3841 | 2019-04-03 | 10:33:48 | 11:33:48 | CUSE | pc08 | Practica
+1844930 | Leidy Gabriela Delgado Herrera | 3857 | 2019-04-03 | 16:29:13 | 17:29:13 | CUSE | pc09 | Practica
+1740431 | PATRICIA ROSERO | 3845 | 2019-04-03 | 10:23:19 | 11:23:19 | CUSE | pc09 | Practica
+1628086 | Daniela Carabali | 3845 | 2019-04-03 | 10:22:34 | 11:22:34 | CUSE | pc11 | Practica
+1241650 | Yimmer Dario Araujo N. | 3842 | 2019-04-03 | 10:17:26 | 11:17:26 | CUSE | pc11 | Practica
+1630269 | Maria Parra | 3841 | 2019-04-03 | 15:39:02 | 16:39:02 | CUSE | pc12 | Practica
+1629060 | Karol Stefany Perez Lopez | 3845 | 2019-04-03 | 10:22:54 | 11:22:54 | CUSE | pc12 | Practica
+1627244 | Heady Leany Burbano Quiñones | 3841 | 2019-04-03 | 15:47:41 | 16:47:41 | CUSE | pc13 | Practica
+1627122 | Carolina Rosero | 3841 | 2019-04-03 | 09:57:40 | 10:57:40 | CUSE | pc13 | Practica
+1623539 | Luathany Betinez | 3841 | 2019-04-03 | 09:57:59 | 10:57:59 | CUSE | pc14 | Practica
+1645360 | ANGIE CABALLERO | 3648 | 2019-04-03 | 11:50:09 | 12:50:09 | CUSE | pc14 | Practica
+1524565 | Carmen Elisa Lasprilla Chantre | 3841 | 2019-04-03 | 17:43:24 | 18:43:24 | CUSE | pc15 | Practica
+1463789 | Arlex Giovanny RAMOS MAMIAN | 3846 | 2019-04-03 | 11:20:36 | 12:20:36 | CUSE | pc15 | Practica
+1532540 | Stephania  Usuriaga | 3660 | 2019-04-03 | 09:46:16 | 10:46:16 | CUSE | pc16 | Practica
+1834693 | MIGUEL ANTONIO TUNUBALA | 3841 | 2019-04-03 | 16:23:14 | 17:23:14 | CUSE | pc17 | Practica
+1634666 | Andrea Perea | 3841 | 2019-04-03 | 09:58:18 | 10:58:18 | CUSE | pc17 | Practica
+1844268 | Juan David Garzon Roman | 3845 | 2019-04-03 | 11:41:04 | 12:41:04 | CUSE | pc17 | Practica
+1537861 | Alejandro   Rodriguez Muñoz | 3841 | 2019-04-03 | 17:22:25 | 18:22:25 | CUSE | pc17 | Practica
+1843160 | Juan David Zuñiga Gomez | 3845 | 2019-04-03 | 11:42:48 | 12:42:48 | CUSE | pc18 | Practica
+1825197 | DANIEL LLANOS DURAN | 3841 | 2019-04-03 | 10:45:44 | 11:45:44 | CUSE | pc18 | Practica
+1627244 | Heady Leany Burbano Quiñones | 3841 | 2019-04-03 | 19:28:18 | 20:28:18 | CUSE | pc18 | Practica
+1537861 | Alejandro   Rodriguez Muñoz | 3841 | 2019-04-03 | 17:22:05 | 18:22:05 | CUSE | pc18 | Practica
+1834693 | MIGUEL ANTONIO TUNUBALA | 3841 | 2019-04-03 | 10:25:29 | 11:25:29 | CUSE | pc20 | Practica
+1531152 | Luis Miguel Mejia Mosquera | 3845 | 2019-04-03 | 14:25:45 | 15:25:45 | CUSE | pc20 | Practica
+1530386 | Anguie Paola CANCHIMBO CAICEDO | 3845 | 2019-04-03 | 10:18:57 | 11:18:57 | CUSE | pc21 | Practica
+1632930 | Gustavo Adolfo  Moreno Cortez | 3845 | 2019-04-03 | 19:12:10 | 20:12:10 | CUSE | pc21 | Practica
+1844595 | Tania Marible COLIMBA CHIRAN | 3842 | 2019-04-03 | 17:08:02 | 18:08:02 | CUSE | pc21 | Practica
+0230589 | YEINER FERNANDO VASQUEZ CASTRO | 3461 | 2019-04-03 | 15:31:47 | 16:31:47 | CUSE | pc22 | Practica
+1528708 | Miri Hernández | 3841 | 2019-04-03 | 11:24:25 | 12:24:25 | CUSE | pc22 | Practica
+1528708 | Miri Hernández | 3841 | 2019-04-03 | 10:34:47 | 11:34:47 | CUSE | pc22 | Practica
+1537655 | CARLOS FERNANDO JARAMILLO GALINDEZ | 3845 | 2019-04-03 | 10:20:11 | 11:20:11 | CUSE | pc23 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-03 | 15:11:34 | 16:11:34 | CUSE | pc23 | Practica
+1610079 | Luisa Alejandra Dominguez Henao  | 3845 | 2019-04-03 | 15:10:22 | 16:10:22 | CUSE | pc24 | Practica
+1642620 | Marlon Sebastian Villota Sanabria | 3841 | 2019-04-03 | 14:22:42 | 15:22:42 | CUSE | pc24 | Practica
+1537900 | ANGELICA MARIA MEDINA VALENCIA | 3845 | 2019-04-03 | 10:20:31 | 11:20:31 | CUSE | pc24 | Practica
+1539987 | VALERIA PRADO LEMOS | 3845 | 2019-04-03 | 10:57:37 | 11:57:37 | CUSE | pc24 | Practica
+0222322 | JANETH PEÑA HERNANDEZ | 3841 | 2019-04-03 | 20:10:13 | 21:10:13 | CUSE | pc24 | Practica
+1710162 | Yazmin Fernanda Medina Bravo | 3841 | 2019-04-03 | 20:11:15 | 21:11:15 | CUSE | pc25 | Practica
+1743706 | ROSEMBERT  BERMÚDEZ PINZÓN | 3845 | 2019-04-03 | 15:28:03 | 16:28:03 | CUSE | pc25 | Practica
+1629488 | Alexandra Rios Gomez | 3845 | 2019-04-03 | 09:51:46 | 10:51:46 | CUSE | pc25 | Practica
+1825164 | NATALIA TASCÓN CASAS | 3842 | 2019-04-03 | 10:34:21 | 11:34:21 | CUSE | pc25 | Practica
+1623207 | Juan Pablo Berrio Rojas | 3841 | 2019-04-03 | 12:33:44 | 13:33:44 | CUSE | pc26 | Practica
+1644562 | Bryan Geovany Vivas Trochez | 3340 | 2019-04-03 | 19:11:14 | 20:11:14 | CUSE | pc26 | Practica
+1454548 | LINA MARÍA  CARDONA LOPEZ | 3841 | 2019-04-03 | 19:31:12 | 20:31:12 | CUSE | pc26 | Practica
+1628896 | Hyllary stefania Trujillo Argaez | 3845 | 2019-04-03 | 09:51:22 | 10:51:22 | CUSE | pc26 | Practica
+1841242 | Laura Daniela Vargas Cely | 3845 | 2019-04-03 | 15:28:26 | 16:28:26 | CUSE | pc26 | Practica
+1822636 | GUSTAVO ADOLFO GARZÓN GARZÓN  | 3857 | 2019-04-04 | 08:34:33 | 09:34:33 | CUSE | pc12 | Practica
+1524565 | Carmen Elisa Lasprilla Chantre | 3841 | 2019-04-04 | 17:42:07 | 18:42:07 | CUSE | pc17 | Practica
+1840166 | Sadra Patricia CISNEROS CARLOSAMA | 3842 | 2019-04-04 | 09:27:25 | 10:27:25 | CUSE | pc19 | Practica
+1634357 | Omar Jesus valencia Arango | 3845 | 2019-04-04 | 17:36:32 | 18:36:32 | CUSE | pc20 | Practica
+1734618 | YERALDIN  CRUZ ORTEGA | 3841 | 2019-04-04 | 09:05:01 | 10:05:01 | CUSE | pc21 | Practica
+1729627 | Isabella  Sossa Acevedo | 3841 | 2019-04-04 | 09:20:46 | 10:20:46 | CUSE | pc22 | Practica
+1729627 | Isabella  Sossa Acevedo | 3841 | 2019-04-04 | 09:08:32 | 10:08:32 | CUSE | pc22 | Practica
+1630403 | CAROLINA FORERO PARRADO | 3845 | 2019-04-04 | 17:26:39 | 18:26:39 | CUSE | pc23 | Practica
+1729213 | Mayra Alejandra Pantoja Santacruz | 3350 | 2019-04-04 | 07:55:15 | 08:55:15 | CUSE | pc24 | Practica
+1729213 | Mayra Alejandra Pantoja Santacruz | 3350 | 2019-04-04 | 08:34:11 | 09:34:11 | CUSE | pc24 | Practica
+1633181 | Claudia Marcela Ibañez Cardona | 3845 | 2019-04-04 | 17:13:23 | 18:13:23 | CUSE | pc24 | Practica
+1632318 | LEONEL DAMIAN OJEDA | 3660 | 2019-04-04 | 19:50:46 | 20:50:46 | CUSE | pc24 | Practica
+1610449 | JUAN SEBASTIAN MORENO MACIAS | 3845 | 2019-04-04 | 17:35:55 | 18:35:55 | CUSE | pc25 | Practica
+1454548 | LINA MARÍA  CARDONA LOPEZ | 3841 | 2019-04-04 | 19:28:35 | 20:28:35 | CUSE | pc26 | Practica
+0230589 | YEINER FERNANDO VASQUEZ CASTRO | 3461 | 2019-04-04 | 17:25:18 | 18:25:18 | CUSE | pc26 | Practica
+9000896 | FELIX MEZA MESTANZA | 3350 | 2019-04-04 | 20:23:02 | 21:23:02 | CUSE | pc26 | Practica
+1842499 | Juan Pablo Navarro Gutiérrez | 3857 | 2019-04-05 | 08:22:13 | 09:22:13 | CUSE | pc09 | Practica
+1842792 | Jean Piérre Gómez León | 3857 | 2019-04-05 | 08:21:57 | 09:21:57 | CUSE | pc10 | Practica
+1841432 | Juliana Molina Silva | 3857 | 2019-04-05 | 08:17:38 | 09:17:38 | CUSE | pc14 | Practica
+1844242 | Anthony Duban Guervon Ceballos | 3857 | 2019-04-05 | 08:21:38 | 09:21:38 | CUSE | pc15 | Practica
+1841178 | Santiago Martínez | 3857 | 2019-04-05 | 08:22:37 | 09:22:37 | CUSE | pc16 | Practica
+1841284 | Leonel Junior Fory Gomez | 3857 | 2019-04-05 | 08:19:51 | 09:19:51 | CUSE | pc18 | Practica
+1841366 | Andres Felipe Cadena Bolaños | 3857 | 2019-04-05 | 08:19:11 | 09:19:11 | CUSE | pc20 | Practica
+1842371 | Alejandra  Gomez Candamil | 3857 | 2019-04-05 | 08:24:23 | 09:24:23 | CUSE | pc21 | Practica
+1628896 | Hyllary stefania Trujillo Argaez | 3845 | 2019-04-05 | 08:16:30 | 09:16:30 | CUSE | pc25 | Practica
+1844119 | Sandra Murcia Vélez | 3857 | 2019-04-08 | 15:14:21 | 16:14:21 | CUSE | pc01 | Practica
+1844595 | Tania Marible COLIMBA CHIRAN | 3842 | 2019-04-08 | 16:34:40 | 17:34:40 | CUSE | pc01 | Practica
+1526543 | LINA PAOLA FERRO GONZALES | 3845 | 2019-04-08 | 16:34:51 | 17:34:51 | CUSE | pc02 | Practica
+1531790 | Edison Johan Muñoz Delgado | 3841 | 2019-04-08 | 16:11:11 | 17:11:11 | CUSE | pc07 | Practica
+1528708 | Miri Hernández | 3841 | 2019-04-08 | 14:59:41 | 15:59:41 | CUSE | pc07 | Practica
+1527531 | Cristian  Aristizabal Zuluaga | 3841 | 2019-04-08 | 16:11:42 | 17:11:42 | CUSE | pc08 | Practica
+1623221 | Jhon Anthony  GOMEZ ROSERO | 3660 | 2019-04-08 | 08:10:18 | 09:10:18 | CUSE | pc09 | Practica
+1623221 | Jhon Anthony  GOMEZ ROSERO | 3660 | 2019-04-08 | 08:20:20 | 09:20:20 | CUSE | pc09 | Practica
+1842469 | Alexandra Yahiaira Angarita Marin | 3651 | 2019-04-08 | 16:26:20 | 17:26:20 | CUSE | pc09 | Practica
+1623221 | Jhon Anthony  GOMEZ ROSERO | 3660 | 2019-04-08 | 15:28:46 | 16:28:46 | CUSE | pc09 | Practica
+1840707 | Pedro Andres Quiñonez Caicedo | 3651 | 2019-04-08 | 16:27:43 | 17:27:43 | CUSE | pc10 | Practica
+1731080 | SAMUEL COBO U. | 3857 | 2019-04-08 | 16:03:52 | 17:03:52 | CUSE | pc12 | Practica
+1844066 | ANDRES FELIPE CARMONA RENTERIA | 3857 | 2019-04-08 | 10:10:10 | 11:10:10 | CUSE | pc13 | Practica
+1842499 | Juan Pablo Navarro Gutiérrez | 3857 | 2019-04-08 | 15:13:45 | 16:13:45 | CUSE | pc13 | Practica
+1843136 | CRISTIAN CAMILO FERNANDEZ SANCHEZ | 3857 | 2019-04-08 | 17:19:20 | 18:19:20 | CUSE | pc13 | Practica
+1632930 | Gustavo Adolfo  Moreno Cortez | 3845 | 2019-04-08 | 16:25:56 | 17:25:56 | CUSE | pc14 | Practica
+1745149 | Angie Tatiana Palacio | 3842 | 2019-04-08 | 15:00:32 | 16:00:32 | CUSE | pc15 | Practica
+1842799 | ANGIE VANESSA BURBANO CARVAJAL | 3841 | 2019-04-08 | 09:34:21 | 10:34:21 | CUSE | pc15 | Practica
+1743721 | YUDY MARLEY ARANGO CHARRY | 3842 | 2019-04-08 | 15:00:55 | 16:00:55 | CUSE | pc16 | Practica
+1538764 | Juan David Rodriguez Valencia | 3857 | 2019-04-08 | 09:00:58 | 10:00:58 | CUSE | pc17 | Practica
+1531152 | Luis Miguel Mejia Mosquera | 3845 | 2019-04-08 | 15:48:41 | 16:48:41 | CUSE | pc17 | Practica
+1538764 | Juan David Rodriguez Valencia | 3857 | 2019-04-08 | 08:28:30 | 09:28:30 | CUSE | pc17 | Practica
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 2019-04-08 | 16:14:43 | 17:14:43 | CUSE | pc18 | Practica
+1842440 | Juan David Claros Lopez | 3857 | 2019-04-08 | 11:50:03 | 12:50:03 | CUSE | pc18 | Practica
+1528708 | Miri Hernández | 3841 | 2019-04-08 | 15:01:05 | 16:01:05 | CUSE | pc19 | Practica
+1644270 | Nicoll Vanessa Toro Llanos | 3646 | 2019-04-08 | 08:28:02 | 09:28:02 | CUSE | pc20 | Practica
+1644270 | Nicoll Vanessa Toro Llanos | 3646 | 2019-04-08 | 08:20:49 | 09:20:49 | CUSE | pc20 | Practica
+1840244 | MARIO ESTEBAN CASTRO ALMARIO | 3857 | 2019-04-08 | 10:21:51 | 11:21:51 | CUSE | pc20 | Practica
+1826466 | JENNIFER LASPRILLA ARAÚJO | 3857 | 2019-04-08 | 14:36:17 | 15:36:17 | CUSE | pc20 | Practica
+1827533 | CARLOS DANIEL PANTOJA  | 3841 | 2019-04-08 | 10:07:13 | 11:07:13 | CUSE | pc21 | Practica
+1842810 | Sara Castaño Franco | 3857 | 2019-04-08 | 07:46:30 | 08:46:30 | CUSE | pc21 | Practica
+1842810 | Sara Castaño Franco | 3857 | 2019-04-08 | 08:10:02 | 09:10:02 | CUSE | pc21 | Practica
+1745325 | MARIA FERNANDA LUCUMÍ | 3845 | 2019-04-08 | 15:44:53 | 16:44:53 | CUSE | pc21 | Practica
+1829048 | WILLIAM HERNANDO MORAN LANDETA | 3841 | 2019-04-08 | 10:07:34 | 11:07:34 | CUSE | pc22 | Practica
+1644052 | Andre Valentina Fernandez Rodriguez | 3845 | 2019-04-08 | 15:45:12 | 16:45:12 | CUSE | pc22 | Practica
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-08 | 15:50:26 | 16:50:26 | CUSE | pc23 | Practica
+1634357 | Omar Jesus valencia Arango | 3845 | 2019-04-08 | 15:07:43 | 16:07:43 | CUSE | pc23 | Practica
+1644113 | Karina Lopez Morales | 3661 | 2019-04-08 | 10:31:39 | 11:31:39 | CUSE | pc23 | Practica
+1623809 | James Bocanegra Caldas | 3845 | 2019-04-08 | 16:45:33 | 17:45:33 | CUSE | pc24 | Practica
+1629540 | German Farley Jaramillo Quintero | 3845 | 2019-04-08 | 15:33:36 | 16:33:36 | CUSE | pc24 | Practica
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-08 | 14:59:51 | 15:59:51 | CUSE | pc25 | Practica
+1731080 | SAMUEL COBO U. | 3857 | 2019-04-08 | 15:58:58 | 16:58:58 | CUSE | pc25 | Practica
+1844321 | Maria Gabriela Fajardo Villegas | 3857 | 2019-04-08 | 09:01:52 | 10:01:52 | CUSE | pc25 | Practica
+1841964 | Karen Andrea Calvache Londoño | 3857 | 2019-04-08 | 09:01:29 | 10:01:29 | CUSE | pc26 | Practica
+1631102 | CARLOS ANDRES RODRIGUEZ MELLIZO | 3845 | 2019-04-08 | 17:31:54 | 18:31:54 | CUSE | pc26 | Practica
+1537137 | Nicolas Camacho Baron | 3857 | 2019-04-08 | 14:58:29 | 15:58:29 | CUSE | pc26 | Practica
+1830795 | KAREN VIVIANA  JUANILLO ARBOLEDA | 3857 | 2019-04-09 | 11:18:17 | 12:18:17 | CUSE | pc01 | Practica
+1844595 | Tania Marible COLIMBA CHIRAN | 3842 | 2019-04-09 | 16:45:35 | 17:45:35 | CUSE | pc01 | Practica
+1526851 | RYAN MICHEL ROSERO CAMPAZ | 3845 | 2019-04-09 | 16:45:53 | 17:45:53 | CUSE | pc02 | Practica
+1538035 | JUAN JOSE DURANGO MERINO | 3845 | 2019-04-09 | 17:33:44 | 18:33:44 | CUSE | pc03 | Practica
+1844869 | Hassan  Chatas Piamba | 3857 | 2019-04-09 | 10:39:51 | 11:39:51 | CUSE | pc06 | Practica
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3845 | 2019-04-09 | 16:51:38 | 17:51:38 | CUSE | pc07 | Practica
+1437443 | Nancy Paola  Cuaical | 3841 | 2019-04-09 | 12:05:31 | 13:05:31 | CUSE | pc07 | Practica
+1841242 | Laura Daniela Vargas Cely | 3845 | 2019-04-09 | 11:31:51 | 12:31:51 | CUSE | pc07 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-09 | 09:56:27 | 10:56:27 | CUSE | pc08 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-09 | 15:22:48 | 16:22:48 | CUSE | pc08 | Practica
+1539339 | JORGE EIBER SANDOVAL NOREÑA | 3841 | 2019-04-09 | 09:47:41 | 10:47:41 | CUSE | pc09 | Practica
+1740533 | Brayan Eduardo Ruiz Sierra | 2635 | 2019-04-09 | 15:39:22 | 16:39:22 | CUSE | pc09 | Practica
+1842125 | Estiven Joaqui | 3857 | 2019-04-09 | 11:04:22 | 12:04:22 | CUSE | pc09 | Practica
+1842792 | Jean Piérre Gómez León | 3857 | 2019-04-09 | 12:16:38 | 13:16:38 | CUSE | pc10 | Practica
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 2019-04-09 | 17:17:31 | 18:17:31 | CUSE | pc10 | Practica
+1438126 | Jhon Wilmar Arboleda Congo | 3841 | 2019-04-09 | 09:48:00 | 10:48:00 | CUSE | pc10 | Practica
+1844930 | Leidy Gabriela Delgado Herrera | 3857 | 2019-04-09 | 11:19:23 | 12:19:23 | CUSE | pc10 | Practica
+1745149 | Angie Tatiana Palacio | 3842 | 2019-04-09 | 09:42:58 | 10:42:58 | CUSE | pc11 | Practica
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 2019-04-09 | 17:16:32 | 18:16:32 | CUSE | pc11 | Practica
+1428797 | Duvan Alexis Salazar Giraldo | 3841 | 2019-04-09 | 16:25:39 | 17:25:39 | CUSE | pc12 | Practica
+1628048 | Valentina Arias Vargas | 3857 | 2019-04-09 | 09:25:50 | 10:25:50 | CUSE | pc12 | Practica
+1743721 | YUDY MARLEY ARANGO CHARRY | 3842 | 2019-04-09 | 09:42:41 | 10:42:41 | CUSE | pc12 | Practica
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-09 | 16:33:57 | 17:33:57 | CUSE | pc13 | Practica
+1740431 | PATRICIA ROSERO | 3845 | 2019-04-09 | 08:55:48 | 09:55:48 | CUSE | pc13 | Practica
+1833827 | BRAYAN DAVID ROSERO MADROÑERO | 3857 | 2019-04-09 | 10:03:26 | 11:03:26 | CUSE | pc13 | Practica
+1624323 | NATALIA GARCIA SALAZAR | 3845 | 2019-04-09 | 16:34:29 | 17:34:29 | CUSE | pc14 | Practica
+1844869 | Hassan  Chatas Piamba | 3857 | 2019-04-09 | 10:40:57 | 11:40:57 | CUSE | pc14 | Practica
+1531517 | Laura MAria Pamplona | 3350 | 2019-04-09 | 08:46:16 | 09:46:16 | CUSE | pc15 | Practica
+1343100 | luisa maria gonzales escobar | 3841 | 2019-04-09 | 15:03:19 | 16:03:19 | CUSE | pc15 | Practica
+1327881 | Juan Camilo Leon Hormaza | 3841 | 2019-04-09 | 19:30:02 | 20:30:02 | CUSE | pc15 | Practica
+1326520 | Andres Marino Burgos Lopez | 3841 | 2019-04-09 | 19:30:24 | 20:30:24 | CUSE | pc16 | Practica
+1833827 | BRAYAN DAVID ROSERO MADROÑERO | 3857 | 2019-04-09 | 10:02:51 | 11:02:51 | CUSE | pc16 | Practica
+1624218 | Victor Hernan Lopez Mosca | 3841 | 2019-04-09 | 15:02:59 | 16:02:59 | CUSE | pc16 | Practica
+1531152 | Luis Miguel Mejia Mosquera | 3845 | 2019-04-09 | 14:31:22 | 15:31:22 | CUSE | pc17 | Practica
+1531152 | Luis Miguel Mejia Mosquera | 3845 | 2019-04-09 | 14:39:00 | 15:39:00 | CUSE | pc17 | Practica
+1673920 | Jennifer Paola Silva Zapata | 3857 | 2019-04-09 | 10:26:55 | 11:26:55 | CUSE | pc17 | Practica
+1629816 | Gian Valencia | 3841 | 2019-04-09 | 08:38:05 | 09:38:05 | CUSE | pc17 | Practica
+1842440 | Juan David Claros Lopez | 3857 | 2019-04-09 | 10:13:17 | 11:13:17 | CUSE | pc18 | Practica
+1629094 | Duvan Felipe Angulo ceron | 3842 | 2019-04-09 | 08:38:20 | 09:38:20 | CUSE | pc18 | Practica
+1537655 | CARLOS FERNANDO JARAMILLO GALINDEZ | 3845 | 2019-04-09 | 08:08:39 | 09:08:39 | CUSE | pc19 | Practica
+1527531 | Cristian  Aristizabal Zuluaga | 3841 | 2019-04-09 | 14:39:34 | 15:39:34 | CUSE | pc19 | Practica
+1826466 | JENNIFER LASPRILLA ARAÚJO | 3857 | 2019-04-09 | 14:26:09 | 15:26:09 | CUSE | pc20 | Practica
+1537900 | ANGELICA MARIA MEDINA VALENCIA | 3845 | 2019-04-09 | 07:57:09 | 08:57:09 | CUSE | pc20 | Practica
+1780044 | sebastian zuluaga mazuera | 3841 | 2019-04-09 | 16:07:31 | 17:07:31 | CUSE | pc21 | Practica
+1770818 | Esther Yotumbo Angola | 3857 | 2019-04-09 | 08:36:04 | 09:36:04 | CUSE | pc21 | Practica
+1740813 | MARIA PAZ  FIGUEROA BUITRAGO | 3842 | 2019-04-09 | 16:07:48 | 17:07:48 | CUSE | pc22 | Practica
+1734553 | MARIA PAULA  MUÑOZ GUERRERO | 3857 | 2019-04-09 | 09:50:27 | 10:50:27 | CUSE | pc22 | Practica
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-09 | 07:54:10 | 08:54:10 | CUSE | pc23 | Practica
+1628565 | HENRY CERON | 3660 | 2019-04-09 | 14:25:25 | 15:25:25 | CUSE | pc23 | Practica
+1537904 | CRISTIAN CAMILO DURAN LONDOÑO | 3841 | 2019-04-09 | 17:12:54 | 18:12:54 | CUSE | pc23 | Practica
+1631563 | Jacaline Montoya | 3841 | 2019-04-09 | 17:19:00 | 18:19:00 | CUSE | pc23 | Practica
+1632318 | LEONEL DAMIAN OJEDA | 3660 | 2019-04-09 | 14:25:40 | 15:25:40 | CUSE | pc24 | Practica
+1537657 | Katherine  Astudillo Vidal  | 3841 | 2019-04-09 | 17:04:28 | 18:04:28 | CUSE | pc24 | Practica
+1844321 | Maria Gabriela Fajardo Villegas | 3857 | 2019-04-09 | 10:17:02 | 11:17:02 | CUSE | pc25 | Practica
+1437443 | Nancy Paola  Cuaical | 3841 | 2019-04-09 | 09:17:26 | 10:17:26 | CUSE | pc25 | Practica
+1740766 | Mauricio  Morzi  | 3841 | 2019-04-09 | 14:14:03 | 15:14:03 | CUSE | pc25 | Practica
+1841964 | Karen Andrea Calvache Londoño | 3857 | 2019-04-09 | 10:16:10 | 11:16:10 | CUSE | pc26 | Practica
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2019-04-09 | 19:33:41 | 20:33:41 | CUSE | pc26 | Practica
+1624258 | DIAN CATHERIN CRUZ CRUZ | 3857 | 2019-04-09 | 09:12:40 | 10:12:40 | CUSE | pc26 | Practica
+1536369 | Julio García  | 3841 | 2019-04-09 | 14:14:12 | 15:14:12 | CUSE | pc26 | Practica
+1436948 | Erika  Valencia | 3841 | 2019-04-10 | 09:58:30 | 10:58:30 | CUSE | pc01 | Practica
+1553066 | LUIS EDUARDO CAICEDO CHASOY | 3841 | 2019-04-10 | 14:08:09 | 15:08:09 | CUSE | pc01 | Practica
+1553066 | LUIS EDUARDO CAICEDO CHASOY | 3841 | 2019-04-10 | 10:43:06 | 11:43:06 | CUSE | pc02 | Practica
+1436948 | Erika  Valencia | 3841 | 2019-04-10 | 14:08:32 | 15:08:32 | CUSE | pc02 | Practica
+1237212 | WILL FREDO GARCIA | 3842 | 2019-04-10 | 10:09:46 | 11:09:46 | CUSE | pc11 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-10 | 10:03:48 | 11:03:48 | CUSE | pc12 | Practica
+1539987 | VALERIA PRADO LEMOS | 3845 | 2019-04-10 | 09:33:05 | 10:33:05 | CUSE | pc13 | Practica
+1735343 | DANIELA  MOSQUERA | 3841 | 2019-04-10 | 16:43:30 | 17:43:30 | CUSE | pc13 | Practica
+1733614 | Nillyreth  Gonzalez | 3841 | 2019-04-10 | 16:43:44 | 17:43:44 | CUSE | pc14 | Practica
+1826764 | Reimon Emil Viveros Orejuela | 3841 | 2019-04-10 | 14:14:35 | 15:14:35 | CUSE | pc14 | Practica
+1624218 | Victor Hernan Lopez Mosca | 3841 | 2019-04-10 | 08:51:47 | 09:51:47 | CUSE | pc15 | Practica
+1633181 | Claudia Marcela Ibañez Cardona | 3845 | 2019-04-10 | 16:14:13 | 17:14:13 | CUSE | pc15 | Practica
+1428797 | Duvan Alexis Salazar Giraldo | 3841 | 2019-04-10 | 08:44:33 | 09:44:33 | CUSE | pc16 | Practica
+1538764 | Juan David Rodriguez Valencia | 3857 | 2019-04-10 | 14:08:21 | 15:08:21 | CUSE | pc16 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-10 | 16:54:47 | 17:54:47 | CUSE | pc16 | Practica
+1024609 | Stevens Bejarano Jaramillo | 3857 | 2019-04-10 | 09:31:49 | 10:31:49 | CUSE | pc18 | Practica
+1643950 | Esteban CARDENAS CORNEJO | 3841 | 2019-04-10 | 08:42:50 | 09:42:50 | CUSE | pc18 | Practica
+1237212 | WILL FREDO GARCIA | 3842 | 2019-04-10 | 10:22:06 | 11:22:06 | CUSE | pc18 | Practica
+1541528 | MARA ALEJANDRA CAMELO MUÑOZ | 3857 | 2019-04-10 | 08:17:35 | 09:17:35 | CUSE | pc20 | Practica
+1538764 | Juan David Rodriguez Valencia | 3857 | 2019-04-10 | 15:43:27 | 16:43:27 | CUSE | pc20 | Practica
+1673132 | Daniel Stiven Pineda Garcia | 3846 | 2019-04-10 | 10:23:07 | 11:23:07 | CUSE | pc21 | Practica
+1632607 | Michael Martinez | 3841 | 2019-04-10 | 15:26:01 | 16:26:01 | CUSE | pc21 | Practica
+1825385 | JUAN JOSÉ GIRONZA VILLALBA | 3857 | 2019-04-10 | 08:23:46 | 09:23:46 | CUSE | pc22 | Practica
+1825385 | JUAN JOSÉ GIRONZA VILLALBA | 3857 | 2019-04-10 | 08:42:32 | 09:42:32 | CUSE | pc22 | Practica
+1841178 | Santiago Martínez | 3857 | 2019-04-10 | 11:30:56 | 12:30:56 | CUSE | pc23 | Practica
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-10 | 12:27:04 | 13:27:04 | CUSE | pc23 | Practica
+1537657 | Katherine  Astudillo Vidal  | 3841 | 2019-04-10 | 15:21:12 | 16:21:12 | CUSE | pc23 | Practica
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-10 | 08:12:03 | 09:12:03 | CUSE | pc23 | Practica
+1844595 | Tania Marible COLIMBA CHIRAN | 3842 | 2019-04-10 | 09:11:38 | 10:11:38 | CUSE | pc24 | Practica
+1537861 | Alejandro   Rodriguez Muñoz | 3841 | 2019-04-10 | 15:21:20 | 16:21:20 | CUSE | pc24 | Practica
+1834693 | MIGUEL ANTONIO TUNUBALA | 3841 | 2019-04-10 | 11:35:48 | 12:35:48 | CUSE | pc25 | Practica
+1729102 | ANDRES FELIPE PINZON ECHEVERRY | 3857 | 2019-04-10 | 07:16:37 | 08:16:37 | CUSE | pc25 | Practica
+1827753 | Daniela Alejandra Fuelantala Cuayal | 3841 | 2019-04-10 | 17:19:11 | 18:19:11 | CUSE | pc25 | Practica
+1440078 | Ana Carolina Angulo García | 3845 | 2019-04-10 | 16:36:41 | 17:36:41 | CUSE | pc26 | Practica
+1770818 | Esther Yotumbo Angola | 3857 | 2019-04-10 | 10:36:02 | 11:36:02 | CUSE | pc26 | Practica
+1725845 | Juan Esteban Reyes Rodriguez | 3841 | 2019-04-10 | 08:44:09 | 09:44:09 | CUSE | pc26 | Practica
+1840779 | Valeria GARCIA LEDEZMA | 3842 | 2019-04-11 | 08:43:10 | 09:43:10 | CUSE | pc09 | Practica
+1840779 | Valeria GARCIA LEDEZMA | 3842 | 2019-04-11 | 08:48:58 | 09:48:58 | CUSE | pc09 | Practica
+1845034 | CHIRTIAN CAMILO CORDOBA GALINDEZ | 3841 | 2019-04-11 | 08:41:47 | 09:41:47 | CUSE | pc10 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-11 | 08:49:23 | 09:49:23 | CUSE | pc12 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-11 | 09:24:45 | 10:24:45 | CUSE | pc12 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-11 | 16:41:53 | 17:41:53 | CUSE | pc12 | Practica
+1539987 | VALERIA PRADO LEMOS | 3845 | 2019-04-11 | 09:34:37 | 10:34:37 | CUSE | pc15 | Practica
+1524565 | Carmen Elisa Lasprilla Chantre | 3841 | 2019-04-11 | 18:34:19 | 19:34:19 | CUSE | pc17 | Practica
+1841021 | Diego Armando Agredo Pavi | 3842 | 2019-04-11 | 08:32:48 | 09:32:48 | CUSE | pc17 | Practica
+1524565 | Carmen Elisa Lasprilla Chantre | 3841 | 2019-04-11 | 18:08:51 | 19:08:51 | CUSE | pc17 | Practica
+0626102 | FéLIX ALEXIS DíAZ CHASOY | 3845 | 2019-04-11 | 16:53:42 | 17:53:42 | CUSE | pc18 | Practica
+1842829 | Juan Esteban Castillo Cambindo | 3841 | 2019-04-11 | 08:32:31 | 09:32:31 | CUSE | pc18 | Practica
+1644515 | Giordy Pavel HENAO MONTES | 3845 | 2019-04-11 | 08:09:26 | 09:09:26 | CUSE | pc19 | Practica
+1646729 | Juan Camilo RODRIGUEZ REINOSA | 3841 | 2019-04-11 | 08:09:43 | 09:09:43 | CUSE | pc20 | Practica
+1463751 | DIANA MARCELA  ZUÑIGA | 3845 | 2019-04-11 | 16:26:50 | 17:26:50 | CUSE | pc21 | Practica
+1342548 | Andres Felipe Murillo Serna | 3846 | 2019-04-11 | 16:54:49 | 17:54:49 | CUSE | pc21 | Practica
+1841881 | Jefferson Espinosa Calderon | 3841 | 2019-04-11 | 08:27:33 | 09:27:33 | CUSE | pc21 | Practica
+1841396 | Alejandro  CALVO CASTILLO | 3842 | 2019-04-11 | 08:28:53 | 09:28:53 | CUSE | pc22 | Practica
+1841396 | Alejandro  CALVO CASTILLO | 3842 | 2019-04-11 | 09:01:09 | 10:01:09 | CUSE | pc22 | Practica
+1830644 | Martha Pavi | 3841 | 2019-04-11 | 18:40:02 | 19:40:02 | CUSE | pc23 | Practica
+1871347 | ISABEL DANIELA  ORDOÑEZ TOVAR | 3857 | 2019-04-11 | 09:32:21 | 10:32:21 | CUSE | pc24 | Practica
+1871347 | ISABEL DANIELA  ORDOÑEZ TOVAR | 3857 | 2019-04-11 | 09:25:16 | 10:25:16 | CUSE | pc24 | Practica
+1727989 | JESSICA  NIETO M. | 3841 | 2019-04-11 | 17:21:18 | 18:21:18 | CUSE | pc24 | Practica
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3845 | 2019-04-11 | 16:39:20 | 17:39:20 | CUSE | pc25 | Practica
+1731080 | SAMUEL COBO U. | 3857 | 2019-04-11 | 09:32:39 | 10:32:39 | CUSE | pc25 | Practica
+1440839 | Oscar  Caicedo | 3841 | 2019-04-11 | 17:05:24 | 18:05:24 | CUSE | pc26 | Practica
+1440839 | Oscar  Caicedo | 3841 | 2019-04-11 | 18:34:41 | 19:34:41 | CUSE | pc26 | Practica
+1537900 | ANGELICA MARIA MEDINA VALENCIA | 3845 | 2019-04-11 | 09:01:27 | 10:01:27 | CUSE | pc26 | Practica
+1832274 | Andres Felipe Periañez Henao | 3841 | 2019-04-12 | 15:15:43 | 16:15:43 | CUSE | pc11 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-12 | 09:34:16 | 10:34:16 | CUSE | pc12 | Practica
+1624335 | Juan Carlos Restrepo Pizarro | 3845 | 2019-04-12 | 14:18:46 | 15:18:46 | CUSE | pc12 | Practica
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3845 | 2019-04-12 | 15:15:52 | 16:15:52 | CUSE | pc15 | Practica
+1844242 | Anthony Duban Guervon Ceballos | 3857 | 2019-04-12 | 15:24:30 | 16:24:30 | CUSE | pc17 | Practica
+1842810 | Sara Castaño Franco | 3857 | 2019-04-12 | 09:55:23 | 10:55:23 | CUSE | pc17 | Practica
+1842371 | Alejandra  Gomez Candamil | 3857 | 2019-04-12 | 10:05:44 | 11:05:44 | CUSE | pc18 | Practica
+1841363 | Andres David Daza Rosero | 3857 | 2019-04-12 | 15:23:49 | 16:23:49 | CUSE | pc18 | Practica
+1539339 | JORGE EIBER SANDOVAL NOREÑA | 3841 | 2019-04-12 | 14:56:05 | 15:56:05 | CUSE | pc19 | Practica
+1673920 | Jennifer Paola Silva Zapata | 3857 | 2019-04-12 | 10:13:12 | 11:13:12 | CUSE | pc19 | Practica
+1729322 | Christian RAMIREZ ROJAS | 3857 | 2019-04-12 | 10:13:44 | 11:13:44 | CUSE | pc20 | Practica
+1740766 | Mauricio  Morzi  | 3841 | 2019-04-12 | 10:06:56 | 11:06:56 | CUSE | pc21 | Practica
+1842810 | Sara Castaño Franco | 3857 | 2019-04-12 | 14:18:22 | 15:18:22 | CUSE | pc21 | Practica
+1736684 | ERIKA NATALIA CHACÓN OTERO | 3841 | 2019-04-12 | 14:28:25 | 15:28:25 | CUSE | pc24 | Practica
+1748852 | YULEI  RAMOS VALDES | 3845 | 2019-04-12 | 14:35:55 | 15:35:55 | CUSE | pc25 | Practica
+1537371 | Andres Steven Tovar Cano | 3841 | 2019-04-12 | 07:54:47 | 08:54:47 | CUSE | pc26 | Practica
+
+

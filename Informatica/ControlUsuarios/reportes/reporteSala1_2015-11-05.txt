@@ -1,0 +1,26 @@
+Elaborado el... 2015-11-05
+Mes: 1 de Noviembre de 2015 al 30 de Noviembre de 2015
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1224808 | Ana Maria Pizarro Galvis | 2635 | 2015-11-03 | 16:52:05 | 17:52:05 | 1 | pc17 |  
+1438785 | Jhon Fredy Tintinago Flor | 3845 | 2015-11-04 | 10:16:00 | 11:16:00 | 1 | pc12 | Investigacion
+0700022 | Jesus Alberto GRUESO  Zuñiga | 7879 | 2015-11-04 | 11:58:53 | 12:58:53 | 1 | pc13 | Investigacion
+1503849 | Aldo Yassir Aguirre Torres | 7681 | 2015-11-05 | 18:23:33 | 19:23:33 | 1 | pc07 | Investigacion
+1503832 | Reynel  Cañaveral Londoño | 7681 | 2015-11-05 | 18:23:13 | 19:23:13 | 1 | pc09 | Investigacion
+1143402 | Sergio Alejandro Diaz Sepulveda | 3647 | 2015-11-05 | 18:10:58 | 19:10:58 | 1 | pc12 | Investigacion
+0700022 | Jesus Alberto GRUESO  Zuñiga | 7879 | 2015-11-05 | 10:19:17 | 11:19:17 | 1 | pc13 |  
+
+
+Elaborado el... 2015-11-05
+Mes: 1 de Noviembre de 2015 al 30 de Noviembre de 2015
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1224808 | Ana Maria Pizarro Galvis | 2635 | 2015-11-03 | 16:52:05 | 17:52:05 | 1 | pc17 |  
+1438785 | Jhon Fredy Tintinago Flor | 3845 | 2015-11-04 | 10:16:00 | 11:16:00 | 1 | pc12 | Investigacion
+0700022 | Jesus Alberto GRUESO  Zuñiga | 7879 | 2015-11-04 | 11:58:53 | 12:58:53 | 1 | pc13 | Investigacion
+1503849 | Aldo Yassir Aguirre Torres | 7681 | 2015-11-05 | 18:23:33 | 19:23:33 | 1 | pc07 | Investigacion
+1503832 | Reynel  Cañaveral Londoño | 7681 | 2015-11-05 | 18:23:13 | 19:23:13 | 1 | pc09 | Investigacion
+1143402 | Sergio Alejandro Diaz Sepulveda | 3647 | 2015-11-05 | 18:10:58 | 19:10:58 | 1 | pc12 | Investigacion
+0700022 | Jesus Alberto GRUESO  Zuñiga | 7879 | 2015-11-05 | 10:19:17 | 11:19:17 | 1 | pc13 |  
+
+

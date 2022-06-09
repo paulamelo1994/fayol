@@ -1,0 +1,56 @@
+Elaborado el... 23 de Agosto de 2011
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0522003 | Omar Jesus AlbaÑil Huertas | 3842 | 00:04:47
+0733808 | Jakeline Moreno Perea | 3842 | 00:01:28
+0735137 | Steven Julian MuÑoz Palma | 3846 | ----
+0736038 | Jefferson Villaquiran Olave | 3846 | ----
+0741292 | Adriana Maria Saa Paz | 3845 | ----
+0743285 | Maria Fernanda Gallardo Ayala | 3842 | 01:29:16
+0744199 | Viviana Guengue Cortes  | 3842 | 00:04:48
+0748051 | Jennifer Christhina Bravo Artunduaga | 3842 | 01:29:31
+0827344 | Andres Felipe  Peña Becerra | 3842 | 00:51:21
+0838594 | Natalia Patricia Perez Bolivar | 3842 | 01:23:03
+0922944 | Cesar Urbina Figueroa | 3857 | 00:03:30
+0944299 | Efrain Paz Garcia | 3484 | ----
+1035233 | Cristian Edward Giraldo Hoyos | 3857 | 00:04:14
+1035577 | Judith Marcela Daza Giron | 3857 | 01:08:20
+1038199 | Nestor Javier Muelas Calambás | 3846 | 01:04:54
+1136009 | Andre Felipe Gomez Renteria | 3857 | 00:56:46
+1137046 | Edwin Ricardo  Lucumi Rivas | 3842 | 00:19:28
+1137390 | Diana Lizeth Rangel Bravo | 3842 | 00:30:17
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 00:21:40
+1143811 | Melissa Alegrias Cambindo | 3842 | 00:19:26
+1147028 | Claudia Lorena  Nuñez Duque | 3846 | 01:51:59
+9927803 | Jesus Lasso | 3845 | 00:46:08
+
+
+Elaborado el... 23 de Agosto de 2011
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0522003 | Omar Jesus AlbaÑil Huertas | 3842 | 00:04:47
+0733808 | Jakeline Moreno Perea | 3842 | 00:01:28
+0735137 | Steven Julian MuÑoz Palma | 3846 | ----
+0736038 | Jefferson Villaquiran Olave | 3846 | ----
+0741292 | Adriana Maria Saa Paz | 3845 | ----
+0743285 | Maria Fernanda Gallardo Ayala | 3842 | 01:29:16
+0744199 | Viviana Guengue Cortes  | 3842 | 00:04:48
+0748051 | Jennifer Christhina Bravo Artunduaga | 3842 | 01:29:31
+0827344 | Andres Felipe  Peña Becerra | 3842 | 00:51:21
+0838594 | Natalia Patricia Perez Bolivar | 3842 | 01:23:03
+0922944 | Cesar Urbina Figueroa | 3857 | 00:03:30
+0944299 | Efrain Paz Garcia | 3484 | ----
+1035233 | Cristian Edward Giraldo Hoyos | 3857 | 00:04:14
+1035577 | Judith Marcela Daza Giron | 3857 | 01:08:20
+1038199 | Nestor Javier Muelas Calambás | 3846 | 01:04:54
+1136009 | Andre Felipe Gomez Renteria | 3857 | 00:56:46
+1137046 | Edwin Ricardo  Lucumi Rivas | 3842 | 00:19:28
+1137390 | Diana Lizeth Rangel Bravo | 3842 | 00:30:17
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 00:21:40
+1143811 | Melissa Alegrias Cambindo | 3842 | 00:19:26
+1147028 | Claudia Lorena  Nuñez Duque | 3846 | 01:51:59
+9927803 | Jesus Lasso | 3845 | 00:46:08
+
+

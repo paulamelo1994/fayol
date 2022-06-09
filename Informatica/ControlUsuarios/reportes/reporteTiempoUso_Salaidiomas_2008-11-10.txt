@@ -1,0 +1,40 @@
+Elaborado el... 10 de Noviembre de 2008
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0422116 | Kelly Lorena Camacho Balvin | 3842 | 01:13:23
+0434775 | Maria Alejandra Montealegre Gonzalez | 3857 | 02:39:25
+0437299 | Eleany Fernanda Piedrahita Forero | 3646 | ----
+0629329 | Giovanna Alexandra Cervera Cuadros | 3646 | 03:10:33
+0640118 | Angelo Fernando Robledo Colonia | 3646 | 01:26:31
+0645110 | Mauricio Gomez Castillo | 3645 | 03:17:28
+0735807 | Juan David Castro Ruiz | 3846 | 03:23:56
+0736426 | Yudi Maecela Zuñiga Chilito | 3846 | ----
+0738115 | Mariafernanda Sanchez Holguin | 3857 | 02:05:02
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 02:32:45
+0823525 | Adriana María Morales Grajales | 3846 | 01:51:26
+0823536 | Jackeline Muñoz Meneses | 3846 | 04:28:47
+0824479 | Julisse Irene Yanten Parra | 3846 | 02:37:56
+0824504 | Gustavo Adolfo Grisales Orozco | 3857 | 01:59:30
+0824940 | Juan Carlos  Hernandez Granada | 3846 | ----
+0825226 | Jennifer Alexandra OrdoÑez Lasso | 3846 | 03:23:06
+0826654 | Diana  Galindez | 3846 | ----
+0827530 | Emilio José Corrales Castillo | 3846 | 02:05:05
+0829022 | Yamila Andrea  Velez | 3846 | 03:53:59
+0829781 | Juan Stiven Satizabal Collazos | 3846 | 02:00:29
+0831079 | Maira Alejandra Cordoba Mallama  | 3645 | 03:06:08
+0831833 | Michael Andres Samboni Gonzalez | 3857 | 02:57:39
+0831909 | Laura Alexandra Luna Valdes  | 3645 | 01:47:29
+0832277 | Luisa Fernanda Quijano  | 3857 | 02:51:16
+0832835 | Cristian MuÑoz Morales | 3846 | ----
+0835058 | Wilmar Alberto Monsalve Garcia | 3645 | 01:50:44
+0838128 | Aura Maria  Calderon Zamora | 3645 | 03:06:31
+0839383 | Karen Julieth Alegrias Cambindo  | 3645 | 01:46:35
+0840703 | Leidy Vanessa Guerrero Revelo | 3645 | 01:53:25
+0841466 | Jairo Alberto Mambuscay | 3846 | ----
+0842021 | Lizeth Johana Montenegro Suarez | 3857 | 02:03:26
+0842738 | Michael Adrian  Zambrano Pantoja  | 3645 | 02:02:56
+0844305 | Henry Wilber Ceron  | 3645 | 03:11:59
+0844664 | Rayo Hurtado Edwin Alexander  | 3645 | 02:14:41
+
+

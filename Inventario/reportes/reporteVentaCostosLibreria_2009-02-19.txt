@@ -1,0 +1,1000 @@
+Elaborado el... 2009-02-19
+Del 2008-01-01 al 2008-12-31
+COD VENTA | FECHA | BENEFICIARIO | VINCULACION|MATERIAL| CANTIDAD | PRECIO | DESCUENTO | TOTAL VENTA | REALIZADO POR
+
+ 15 | 2008-02-04 |  Andres Elias Bocanegra Arango  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |deisy
+ 16 | 2008-02-04 | Gino Castro Cuenca   | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 17 | 2008-02-04 | Ruben Dario Quintero Escalante  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 110 | 2008-02-04 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 111 | 2008-02-04 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 112 | 2008-02-04 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 70 | 2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 71 | 2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 72 | 2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 73 | 2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 18 | 2008-02-06 | ----  | Estudiante | El Sistema de Informacion Contable |2 | 2550 | 0 | 5100 | 0 | 40000 |Yuliana
+ 74 | 2008-02-06 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 75 | 2008-02-06 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 76 | 2008-02-06 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |deisy
+ 77 | 2008-02-06 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 20 | 2008-02-07 | ----  | Docente | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 21 | 2008-02-07 | ----  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 0 | 0 | 0 | 45000 |Yuliana
+ 23 | 2008-02-07 | Wilson Arango   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 24 | 2008-02-07 | Kelly Falom   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 25 | 2008-02-07 | Diana Guevara  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 32 | 2008-02-07 | ----  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 0 | 0 | 0 | 45000 |Yuliana
+ 78 | 2008-02-07 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 79 | 2008-02-07 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 80 | 2008-02-07 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 142 | 2008-02-07 | ----  | Estudiante | Pliegos Administrativos y Financieros No 30 ”Tipologias de organizacion administrativa” |1 | 2500 | 0 | 2500 | 0 | 3000 |Yuliana
+ 38 | 2008-02-08 | Francy E. Arcila Molina  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 39 | 2008-02-08 | Mauricio Garcia Gonzales  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 40 | 2008-02-08 | Alexandra Bedoya Valencia  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 41 | 2008-02-08 | Steven Becerra Balcazar    | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 42 | 2008-02-08 | Laura Garay Arboleda   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 43 | 2008-02-08 | Tulio Ferney Silva  | Docente | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 44 | 2008-02-08 | Leonardo Fabio Rivera Mesa  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 45 | 2008-02-08 | ----  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 46 | 2008-02-08 | ----  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 81 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 82 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 83 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 84 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 85 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 86 | 2008-02-08 | ----  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 0 | 0 | 0 | 45000 |deisy
+ 116 | 2008-02-09 | Luz Angela Orjuela Hernandez  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 117 | 2008-02-09 | Jorge Vazquez  | Docente | Hacia Una Redefinicion del Trabajo |1 | 9000 | 20 | 9000 | 20 | 20000 |Yuliana
+ 118 | 2008-02-09 | Edgar Velez Betancourt   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 1 | 2008-02-11 | Julieth Olave Avila   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 2 | 2008-02-11 | Dario Fernando Ruiz Rios   | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 3 | 2008-02-11 | Jeimy Cristina Mopan Bolaños  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 4 | 2008-02-11 | Paola Andrea Castaño Quintero  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 4 | 2008-02-11 | Paola Andrea Castaño Quintero  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 5 | 2008-02-11 | María Fernanda Pereira  Sanchez  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 8 | 2008-02-11 | jacqueline Jimenez Garcia  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 10 | 2008-02-11 | Alejandra Granada Banguero  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 49 | 2008-02-11 | ----  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 50 | 2008-02-11 | Alejandra Banguero   | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 51 | 2008-02-11 | Ivan Bejarano Jaramillo  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 119 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 120 | 2008-02-11 | Johan Sebastian Alzate Erazo  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 121 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 122 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 123 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 124 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 9 | 2008-02-12 | Jose luis Bravo Ordoñez  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 88 | 2008-02-12 | Laura Juliana Lenis Suarez   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 125 | 2008-02-12 | Javier Junior Sanchez Romero  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 126 | 2008-02-12 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 90 | 2008-02-13 | Jorge Vazquez  | Docente | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 91 | 2008-02-13 | Jorge Vazquez   | Docente | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 20 | 7443 | 20 | 16000 |Yuliana
+ 92 | 2008-02-13 | Jorge Vazquez   | Docente | Cuadernos de Administracion No 22  “Hacia una Administracion Moderna para Cali” |1 | 3554 | 20 | 3554 | 20 | 4800 |Yuliana
+ 93 | 2008-02-13 | ----  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |Yuliana
+ 127 | 2008-02-13 | José Mosquera  | Docente | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 128 | 2008-02-13 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 129 | 2008-02-13 | ----  | Estudiante | Cuaderno 5 Materias Administración  |3 | 5000 | 0 | 15000 | 0 | 30000 |Yuliana
+ 130 | 2008-02-13 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 11 | 2008-02-14 | John Alexander Hoyos Alvarez  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 12 | 2008-02-14 | Ximena Perez Torres  | Trabajador | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 13 | 2008-02-14 | Ricardo Perez  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 14 | 2008-02-14 | Diana Fernanda Sanchez Zapata   | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 99 | 2008-02-14 | Ximena Perea Torres  | Trabajador | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 22 | 2008-02-15 | Leidy Johana Soriano Betes  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 26 | 2008-02-15 | Jonathan  Romero Orrego  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 27 | 2008-02-15 | Melissa Rojas Atehortúa  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 28 | 2008-02-15 | Andres Alberto Estrada Castellano  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 29 | 2008-02-15 | Leidy Vanessa Narvaez Pama  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 30 | 2008-02-15 | Suleyda Salazar García  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 100 | 2008-02-15 | ----  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 0 | 22000 | 0 | 40000 |Yuliana
+ 133 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 134 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 136 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 137 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 138 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 139 | 2008-02-15 | ----  | Docente | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 101 | 2008-02-16 | ----  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |Yuliana
+ 102 | 2008-02-16 | ----  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 0 | 8295 | 0 | 30000 |Yuliana
+ 103 | 2008-02-16 | ----  | Docente | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |Yuliana
+ 104 | 2008-02-16 | ----  | Docente | Pliegos Administrativos y Financieros No 17 “Contabilidad de Recursos Humanos: antecedentes, procedimientos y practica en Colombia” |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 104 | 2008-02-16 | ----  | Docente | Pliegos Administrativos y Financieros No 13 ” El intelectual de la Nueva Babel Colombiana” |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 104 | 2008-02-16 | ----  | Docente | Pliegos Administrativos y Financieros No 14 ”La Economia Solidaria una alternativa Humanista” |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 105 | 2008-02-16 | Yamid Espinosa   | Estudiante | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 20 | 7443 | 20 | 16000 |Yuliana
+ 31 | 2008-02-18 | Marcela Tamayo  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 34 | 2008-02-18 | Yenni Fernanda Gomez Diaz   | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 35 | 2008-02-18 | Maria Juliana Espinal Millan  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 37 | 2008-02-18 | Beatriz Fernanda Jaramillo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 48 | 2008-02-18 | Manuel Felipe Cardenas  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 0 | 22000 | 0 | 40000 |Yuliana
+ 107 | 2008-02-18 | Gilberto Morales Pinto  | Docente | Entorno Organizacional |4 | 4600 | 20 | 18400 | 20 | 51200 |Yuliana
+ 143 | 2008-02-18 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 144 | 2008-02-18 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 145 | 2008-02-18 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 53 | 2008-02-19 | ----  | Estudiante | Pliegos Administrativos y Financieros No 39 ”Como evitar el colapso de EMCALI.  Los retos de la provision adecuada de servicios publicos domiciliarios en Colombia” |1 | 3000 | 0 | 3000 | 0 | 5000 |Yuliana
+ 54 | 2008-02-19 | Ricardo simon aguiler  | Docente | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 55 | 2008-02-19 | Jackeline Moreno Perea  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 56 | 2008-02-19 | Nathaly Sanchez Arango  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 57 | 2008-02-19 | Romario Urbano Ortiz  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 59 | 2008-02-19 | Lady Andrea Alvares Otalvaro  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 60 | 2008-02-19 |  Ingrid johana Fajardo Freile  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 61 | 2008-02-19 | Nathalia Alvarez Hernandez  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 62 | 2008-02-19 | Andrés Félipe Zuñiga Rivera  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 63 | 2008-02-19 | Silvana Paola Guarnizo Zamudio  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 64 | 2008-02-19 | Jessica Sarria Valencia  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 65 | 2008-02-19 | David Puertas   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 66 | 2008-02-19 | Juan Camilo Chara   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 146 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 148 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 149 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 150 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 151 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 87 | 2008-02-20 | Andés orlando Blanco Marín  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 152 | 2008-02-20 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 95 | 2008-02-21 | Lina Gisella Franco Giraldo  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 96 | 2008-02-21 | Carlos Andrés Pineda   | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Grace
+ 97 | 2008-02-21 | Carolina Gomez Avila  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 98 | 2008-02-21 | Jenny Molina Almeida  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 108 | 2008-02-21 | Liza María Lizcano Murcia   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 109 | 2008-02-21 | ----  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 132 | 2008-02-22 | Andres Felipe Marin  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 135 | 2008-02-22 | Ana Maria Gonzalez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 140 | 2008-02-22 | Luis Hernando cepeda Lopez  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 0 | 11000 | 0 | 25000 |Yuliana
+ 147 | 2008-02-23 | Jaime Barona  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 0 | 8295 | 0 | 30000 |Yuliana
+ 153 | 2008-02-23 | ----  | Docente | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 154 | 2008-02-23 | Alfredo Perdomo  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 154 | 2008-02-23 | Alfredo Perdomo  | Estudiante | Cuadernos de Administracion No 36 y 37 |1 | 0 | 20 | 0 | 20 | 16000 |Yuliana
+ 155 | 2008-02-25 | Maria Ekena Montoya  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 156 | 2008-02-26 | Jennifer Carvajal Dagua  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 157 | 2008-02-26 | Luis Fernando Quenguan Ocampo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 158 | 2008-02-26 | Diana Carolina Giraldo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 159 | 2008-02-26 | Ricardo Alberto Molina  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 160 | 2008-02-26 | Guillermo Ivan Zarta Cruz  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 161 | 2008-02-26 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 163 | 2008-02-27 | Jhon Chavez Roman  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 167 | 2008-02-27 | Leonila Victoria Gonzalez  | Trabajador | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 168 | 2008-02-27 | ninguno  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 169 | 2008-02-27 | Jenny Marcela Velasco   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 165 | 2008-02-28 | German Alonso Perez Astudillo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 166 | 2008-02-28 | Renata Luceli Yepes Rojas  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 170 | 2008-02-28 | Veronica Bermudez Angulo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 174 | 2008-02-28 | Yamid Espinosa   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 180 | 2008-02-28 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 181 | 2008-02-29 | Juan Carlos Hernandez Granada  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 182 | 2008-02-29 | Mario Morales Caicedo  | Estudiante | Negociacion, conflicto, mitos y poder en la gestion de relaciones laborales en ECOPETROL. |1 | 21660 | 20 | 21660 | 20 | 32000 |Yuliana
+ 183 | 2008-02-29 | Monica Liliana Aguiar Quintana  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 184 | 2008-03-01 | nulo  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Grace
+ 185 | 2008-03-01 | Edgar Velez Betancourt  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Grace
+ 186 | 2008-03-03 | Carlos Hernan Gonzalez  | Docente | Construccion de Capital Social |1 | 18000 | 20 | 18000 | 20 | 24000 |Yuliana
+ 187 | 2008-03-03 | Carlos David Hurtado Garcia  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 188 | 2008-03-03 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 189 | 2008-03-03 | Gilberto Morales Pinto    | Docente | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Grace
+ 189 | 2008-03-03 | Gilberto Morales Pinto    | Docente | Entorno Organizacional |2 | 4600 | 20 | 9200 | 20 | 25600 |Grace
+ 190 | 2008-03-03 | nulo  | Estudiante | Pliegos Administrativos y Financieros No 41 ”Visiones Manageriales sobre el funcionariado publico.  La teoria de la burocracia revisitada”. |1 | 3565 | 0 | 3565 | 0 | 8000 |Grace
+ 191 | 2008-03-03 | nulo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Grace
+ 192 | 2008-03-03 | nulos  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 193 | 2008-03-05 | Karla Yesenia Osorio Galindo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 194 | 2008-03-05 | Priscila Benavides Bryon  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 195 | 2008-03-05 | Guillermo Murillo  | Trabajador | Teorias clasicas de la Organizacion y el Management |1 | 0 | 50 | 0 | 50 | 22500 |Grace
+ 196 | 2008-03-05 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 197 | 2008-03-05 | Freddy Andres Sanchez Diaz  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 198 | 2008-03-05 | Mary Luz Rodriguez Beltran  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 199 | 2008-03-06 | Edilberto Mosntaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |5 | 9195 | 43 | 45975 | 43 | 99750 |Grace
+ 200 | 2008-03-06 | Edilberto Mosntaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Grace
+ 201 | 2008-03-06 | María Aguirre  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 202 | 2008-03-07 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 203 | 2008-03-08 | Carlos Alberto Torres  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |responsable
+ 204 | 2008-03-08 | Carlos Alberto Torres  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |responsable
+ 205 | 2008-03-08 | Adriana Quintana Rojas  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |responsable
+ 205 | 2008-03-08 | Adriana Quintana Rojas  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |responsable
+ 206 | 2008-03-08 | no aplica  | Estudiante | De Lo Humano Organizacional |2 | 3859 | 0 | 7718 | 0 | 32000 |responsable
+ 207 | 2008-03-08 | no aplica  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Yuliana
+ 207 | 2008-03-08 | no aplica  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 210 | 2008-03-10 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 211 | 2008-03-10 | María Elena Montoya Vanegas  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 212 | 2008-03-10 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 213 | 2008-03-11 | Julian Andres Garcia Valdes  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 215 | 2008-03-13 | Laura Salas Arbelaez  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Grace
+ 216 | 2008-03-14 | Ramiro Cifuentes  | Docente | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Grace
+ 217 | 2008-03-15 | Fabian Viafara  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Grace
+ 217 | 2008-03-15 | Fabian Viafara  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 218 | 2008-03-15 | Jenny Martinez Orejuela  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 219 | 2008-03-26 | Anyela Lorena Cuartas Garcia  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 220 | 2008-03-26 | Fransisco Andrés Gongora  | Docente | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 221 | 2008-03-26 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Grace
+ 222 | 2008-03-28 | Liliana Bedoya  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 222 | 2008-03-28 | Liliana Bedoya  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Grace
+ 223 | 2008-03-28 | Luz adriana castaño  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Grace
+ 224 | 2008-03-28 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Grace
+ 225 | 2008-03-28 | Gilberto Morales Pinto  | Docente | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Grace
+ 226 | 2008-03-29 | Jose Eduardo Gutierrez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 226 | 2008-03-29 | Jose Eduardo Gutierrez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Yuliana
+ 227 | 2008-03-31 | Larry Steven Ampudia Perdomo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 228 | 2008-03-31 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Grace
+ 229 | 2008-03-31 | Andres Felipe Ortiz  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Grace
+ 230 | 2008-04-01 | Nestor Moreno  | Docente | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |2 | 3554 | 0 | 7108 | 0 | 12000 |Yuliana
+ 243 | 2008-04-01 | Carlos Arturo Mendoza  | Docente | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 231 | 2008-04-03 | Carlos Cobo  | Docente | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Grace
+ 232 | 2008-04-04 | Andres Azuero  | Trabajador | Construccion de Capital Social |1 | 18000 | 20 | 18000 | 20 | 24000 |Yuliana
+ 233 | 2008-04-04 | Alvaro Cuadro  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Grace
+ 234 | 2008-04-04 | Carlos Alberto Torres  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Grace
+ 235 | 2008-04-04 | Charles Bravo Bernate  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 236 | 2008-04-04 | William Sanchez Lievano  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 237 | 2008-04-05 | nulo  | Estudiante | Pliegos Administrativos y Financieros No 37 ”Costo de Capital y Estructura Financiera de las empresas multinacionales” |1 | 1480 | 0 | 1480 | 0 | 5000 |Grace
+ 244 | 2008-04-07 | nulo  | Estudiante | Pliegos Administrativos y Financieros No 36 “La evaluacion de la gestion en las organizaciones de desarrollo.  Una perspectiva teorica y metodologica” |1 | 1500 | 0 | 1500 | 0 | 3000 |Grace
+ 308 | 2008-04-07 | Jorge Alberto Rivera Godoy  | Docente | Introduccion a la Administracion Financiera |3 | 22000 | 50 | 66000 | 50 | 60000 |deisy
+ 239 | 2008-04-08 | Carolina Mora  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 240 | 2008-04-09 | Rafael Carvajal  | Docente | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 240 | 2008-04-09 | Rafael Carvajal  | Docente | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 241 | 2008-04-09 | Nestor Moreno  | Docente | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |2 | 3554 | 0 | 7108 | 0 | 12000 |Yuliana
+ 242 | 2008-04-09 | Francisco Andres Gongora  | Docente | Contabilidad, Control, Valuacion y Revelaciones |3 | 9195 | 20 | 27585 | 20 | 84000 |Yuliana
+ 311 | 2008-04-09 | carlos A. Soto R  | Estudiante | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |1 | 13359 | 0 | 13359 | 0 | 25000 |Yuliana
+ 312 | 2008-04-09 | no aplica  | Docente | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |1 | 13359 | 0 | 13359 | 0 | 25000 |Yuliana
+ 245 | 2008-04-10 | no aplica  | Personal Externo | Cuadernos de Administracion No 22  “Hacia una Administracion Moderna para Cali” |2 | 3554 | 0 | 7108 | 0 | 12000 |Yuliana
+ 246 | 2008-04-10 | Adriana Carbonell  | Estudiante | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Grace
+ 247 | 2008-04-10 | Jefferson Cabrera  | Estudiante | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Grace
+ 248 | 2008-04-10 | Jorge Ortiz  | Estudiante | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Grace
+ 290 | 2008-04-10 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 249 | 2008-04-11 | no aplica  | Personal Externo | Teorias clasicas de la Organizacion y el Management |1 | 0 | 0 | 0 | 0 | 45000 |Yuliana
+ 291 | 2008-04-11 | Raul Arturo Barbosa  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 20 | 11000 | 20 | 20000 |Yuliana
+ 250 | 2008-04-12 | Beatriz Villota Castillo  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Yuliana
+ 250 | 2008-04-12 | Beatriz Villota Castillo  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 284 | 2008-04-15 | nulo  | Estudiante | Cuadernos de Administracion No 22  “Hacia una Administracion Moderna para Cali” |1 | 3554 | 0 | 3554 | 0 | 6000 |Grace
+ 285 | 2008-04-15 | Carlos Alberto Escobar  | Estudiante | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Grace
+ 286 | 2008-04-16 | Andrés Marín  | Docente | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 23  “Hacia la formacion del administrador del siglo XXI” |1 | 1500 | 0 | 1500 | 0 | 6000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 27  “Humanismo Organizacional Nuevas perspectivas” |1 | 8000 | 0 | 8000 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 0 | 7443 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 30  “Politicas Publicas: Referentes Conceptuales y Estudios Sectoriales” |1 | 7443 | 0 | 7443 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 26  “Marketing Mix II” |1 | 9177 | 0 | 9177 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 25  “Marketing Mix I” |1 | 9177 | 0 | 9177 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |1 | 3554 | 0 | 3554 | 0 | 6000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 28  “La contabilidad como disciplina de conocimiento: Trayectoria y Perspectiva”	 |1 | 10000 | 0 | 10000 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 31 “Contabilidad, Presentacion y Control” |1 | 10000 | 0 | 10000 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 34 |1 | 12323 | 0 | 12323 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 35 |1 | 9203 | 0 | 9203 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 36 y 37 |1 | 0 | 0 | 0 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 32 “Competitividad y Desarrollo Exportador” |1 | 9758 | 0 | 9758 | 0 | 20000 |Grace
+ 292 | 2008-04-16 | no aplica  | Docente | Cuaderno 5 Materias Administración  |3 | 5000 | 0 | 15000 | 0 | 30000 |Yuliana
+ 293 | 2008-04-18 | no aplica  | Docente | Industrias y Empresarios Pioneros |1 | 3938 | 0 | 3938 | 0 | 16000 |Yuliana
+ 294 | 2008-04-18 | Carolina Prada Galvez   | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 295 | 2008-04-18 | Carlos Felipe Quiroga  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 296 | 2008-04-21 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 45 | 18390 | 45 | 38500 |Yuliana
+ 297 | 2008-04-22 | Hector Fabio Montes Vasquez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 298 | 2008-04-25 | no aplica  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 299 | 2008-04-26 | Nhora Eugenia Duque Quintero  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 300 | 2008-04-26 | Juan Carlos Caro Ordoñez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 300 | 2008-04-26 | Juan Carlos Caro Ordoñez  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 301 | 2008-04-26 | Hector fabio Marin Tobon  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 302 | 2008-04-28 | Gilberto Morales Pinto   | Docente | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 303 | 2008-04-28 | no aplica  | Personal Externo | Teorias clasicas de la Organizacion y el Management |2 | 0 | 0 | 0 | 0 | 90000 |Yuliana
+ 304 | 2008-04-28 | Liliana Padilla Padilla  | Estudiante | Cuadernos de Administracion No 28  “La contabilidad como disciplina de conocimiento: Trayectoria y Perspectiva”	 |1 | 10000 | 20 | 10000 | 20 | 16000 |Yuliana
+ 315 | 2008-04-28 | no aplica  | Estudiante | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 305 | 2008-04-30 | no aplica  | Personal Externo | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |Yuliana
+ 313 | 2008-04-30 | Daniela Gomez Gomez  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 314 | 2008-04-30 | Greta Julieth Rodriguez Guevara  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 306 | 2008-05-02 | Gilberto Morales Pinto   | Docente | Cuadernos de Administracion No 32 “Competitividad y Desarrollo Exportador” |1 | 9758 | 20 | 9758 | 20 | 16000 |Yuliana
+ 307 | 2008-05-03 | Mario Arzayus Ayora  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Yuliana
+ 309 | 2008-05-06 | Miguel Esmeral  | Estudiante | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 309 | 2008-05-06 | Miguel Esmeral  | Estudiante | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 316 | 2008-05-06 | no aplica  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 318 | 2008-05-07 | no aplica  | Personal Externo | Cuadernos de Administracion No 28  “La contabilidad como disciplina de conocimiento: Trayectoria y Perspectiva”	 |1 | 10000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 319 | 2008-05-08 | no aplica  | Docente | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 310 | 2008-05-13 | Rafael Carvajal  | Docente | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 323 | 2008-05-14 | Jorge Alberto Rivera Godoy  | Docente | Introduccion a la Administracion Financiera |5 | 22000 | 50 | 110000 | 50 | 100000 |deisy
+ 324 | 2008-05-14 | Jorge Alberto Rivera Godoy  | Docente | Introduccion a la Administracion Financiera |3 | 22000 | 50 | 66000 | 50 | 60000 |deisy
+ 317 | 2008-05-19 | Montaño Orozco Edilberto  | Docente | Contabilidad, Control, Valuacion y Revelaciones |5 | 9195 | 43 | 45975 | 43 | 99750 |Yuliana
+ 320 | 2008-05-21 | Ana Milena Valdes Duque  | Estudiante | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 320 | 2008-05-21 | Ana Milena Valdes Duque  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 320 | 2008-05-21 | Ana Milena Valdes Duque  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 321 | 2008-05-21 | Nestor Moreno  | Docente | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |1 | 3554 | 0 | 3554 | 0 | 6000 |Yuliana
+ 321 | 2008-05-21 | Nestor Moreno  | Docente | Pliegos Administrativos y Financieros No 41 ”Visiones Manageriales sobre el funcionariado publico.  La teoria de la burocracia revisitada”. |1 | 3565 | 0 | 3565 | 0 | 8000 |Yuliana
+ 322 | 2008-05-21 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Yuliana
+ 325 | 2008-05-22 | no aplica  | Personal Externo | Modernidad & Inhumanidad |1 | 11000 | 0 | 11000 | 0 | 25000 |Yuliana
+ 329 | 2008-05-23 | no aplica  | Personal Externo | Pliegos Administrativos y Financieros No 34 ”Modernas teorias financieras, mercados emergentes y determinantes de la inversion en una nacion” |1 | 1492 | 0 | 1492 | 0 | 3000 |Yuliana
+ 329 | 2008-05-23 | no aplica  | Personal Externo | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |1 | 3554 | 0 | 3554 | 0 | 6000 |Yuliana
+ 329 | 2008-05-23 | no aplica  | Personal Externo | Pliegos Administrativos y Financieros No 37 ”Costo de Capital y Estructura Financiera de las empresas multinacionales” |1 | 1480 | 0 | 1480 | 0 | 5000 |Yuliana
+ 330 | 2008-05-23 | Orieta Rogriguez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 331 | 2008-05-23 | Hector Fabio Montes  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 332 | 2008-05-23 | No aplica  | Personal Externo | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |2 | 13359 | 0 | 26718 | 0 | 50000 |Yuliana
+ 365 | 2008-05-24 | Herney Rojas Arenas  | Estudiante | La Soberania Transformada |1 | 8258 | 20 | 8258 | 20 | 22400 |Yuliana
+ 370 | 2008-06-03 | No aplica  | Personal Externo | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 0 | 8295 | 0 | 30000 |Yuliana
+ 371 | 2008-06-06 | María Marín  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Yuliana
+ 372 | 2008-06-06 | No aplica  | Personal Externo | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 0 | 17760 | 0 | 35000 |Yuliana
+ 373 | 2008-06-06 | No aplica  | Personal Externo | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 0 | 7443 | 0 | 20000 |Yuliana
+ 413 | 2008-06-06 | No aplica  | Personal Externo | La Soberania Transformada |1 | 8258 | 0 | 8258 | 0 | 28000 |Yuliana
+ 375 | 2008-06-07 | Lina Angarita  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 414 | 2008-06-07 | Germán Villegas  | Estudiante | La Estrategia del Avestruz Racional |1 | 9917 | 20 | 9917 | 20 | 28800 |Yuliana
+ 374 | 2008-06-08 | No aplica  | Personal Externo | La Soberania Transformada |1 | 8258 | 0 | 8258 | 0 | 28000 |Yuliana
+ 376 | 2008-06-08 | Germán Rios  | Estudiante | La Estrategia del Avestruz Racional |1 | 9917 | 20 | 9917 | 20 | 28800 |Yuliana
+ 377 | 2008-06-10 | Jennifer Moncayo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 378 | 2008-06-14 | María L. Castillo  | Estudiante | La Mercantilizacion de lo Publico |1 | 0 | 20 | 0 | 20 | 28000 |Yuliana
+ 428 | 2008-06-17 | María L. Castillo   | Estudiante | Cuadernos de Administracion No 31 “Contabilidad, Presentacion y Control” |1 | 10000 | 20 | 10000 | 20 | 16000 |Yuliana
+ 379 | 2008-06-23 | No aplica  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 411 | 2008-08-01 | Marysol Valencia  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 412 | 2008-08-01 | no aplica  | Personal Externo | Hacia Una Redefinicion del Trabajo |1 | 9000 | 20 | 9000 | 20 | 20000 |Yuliana
+ 415 | 2008-08-04 | No aplica  | Personal Externo | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 416 | 2008-08-14 | No aplica  | Personal Externo | Industrias y Empresarios Pioneros |1 | 3938 | 0 | 3938 | 0 | 16000 |Yuliana
+ 361 | 2008-08-19 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |5 | 5000 | 0 | 25000 | 0 | 50000 |Yuliana
+ 417 | 2008-08-19 | Sandra Bejarano  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 418 | 2008-08-19 | Angélica Franco  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 362 | 2008-08-20 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 380 | 2008-08-20 | Jennifer Moreno  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 382 | 2008-08-21 | No aplica  | Personal Externo | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |1 | 13359 | 0 | 13359 | 0 | 25000 |Yuliana
+ 383 | 2008-08-21 | Dina Rojas  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Yuliana
+ 470 | 2008-08-21 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 384 | 2008-08-22 | Nadly Melissa Rodriguez   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 385 | 2008-08-22 | Alejandra Homes  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 386 | 2008-08-22 | Yelby Ramirez Renfijo  | Estudiante | La Mercantilizacion de lo Publico |1 | 0 | 20 | 0 | 20 | 28000 |Yuliana
+ 469 | 2008-08-22 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 387 | 2008-08-23 | No aplica  | Personal Externo | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 0 | 7443 | 0 | 20000 |Yuliana
+ 468 | 2008-08-23 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 388 | 2008-08-25 | Lina Angarita  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 389 | 2008-08-25 | Ana Cristhina Burbano  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 390 | 2008-08-25 | Raquel Franco  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 391 | 2008-08-25 | Luz Karine Gomez Correa   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 392 | 2008-08-25 | Carlos Alberto García  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 464 | 2008-08-25 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 465 | 2008-08-25 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 466 | 2008-08-25 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 467 | 2008-08-25 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 393 | 2008-08-26 | Malcairina Monje Avila  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 394 | 2008-08-26 | Andrea Cardozo Hincapie  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 395 | 2008-08-26 | Cesar Andres Davila  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 462 | 2008-08-26 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 463 | 2008-08-26 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 396 | 2008-08-27 | Angélica María Marin Hincapie  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 397 | 2008-08-27 | Enrique Herrera  | Docente | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 458 | 2008-08-27 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 459 | 2008-08-27 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 460 | 2008-08-27 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 461 | 2008-08-27 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 398 | 2008-08-28 | Raúl Andrés Tabarquino Muñoz  | Estudiante | Construccion de Capital Social |1 | 18000 | 20 | 18000 | 20 | 24000 |Yuliana
+ 399 | 2008-08-28 | Cesar Andres Abadia Davila  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 456 | 2008-08-28 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 457 | 2008-08-28 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 400 | 2008-08-29 | Gerardo Cajas  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 20 | 11000 | 20 | 20000 |Yuliana
+ 401 | 2008-08-29 | Gerardo Cajas  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 402 | 2008-08-29 | Vanessa Dominguez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 419 | 2008-08-29 | Jaiber Yesid Pantoja  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 455 | 2008-08-29 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 403 | 2008-08-30 | Jaime Ortiz  | Docente | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 404 | 2008-08-30 | No aplica  | Personal Externo | Pliegos Administrativos y Financieros No 39 ”Como evitar el colapso de EMCALI.  Los retos de la provision adecuada de servicios publicos domiciliarios en Colombia” |1 | 3000 | 0 | 3000 | 0 | 5000 |Yuliana
+ 405 | 2008-08-30 | Edgar Velez Betancourt  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 449 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 450 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 451 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 452 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 453 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 454 | 2008-08-30 | Federico A. Galvis Charria  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 336 | 2008-09-01 | no aplica  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 337 | 2008-09-01 | no aplica  | Estudiante | Pliegos Administrativos y Financieros No 37 ”Costo de Capital y Estructura Financiera de las empresas multinacionales” |1 | 1480 | 0 | 1480 | 0 | 5000 |Yuliana
+ 338 | 2008-09-02 | no aplica  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 339 | 2008-09-02 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 340 | 2008-09-02 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 341 | 2008-09-03 | Daniela Muriel Bolaños  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 447 | 2008-09-03 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 342 | 2008-09-04 | Jenny Karol Baos Solarte  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 343 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 344 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 345 | 2008-09-04 | Maryury Hernández Diaz  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 346 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 347 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 348 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 422 | 2008-09-04 | Wilmer Sarmiento  | Docente | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 423 | 2008-09-06 | Lina Marcela López  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 350 | 2008-09-08 | no aplica  | Estudiante | La Educacion Empresarial Universitaria |1 | 10000 | 0 | 10000 | 0 | 10500 |Yuliana
+ 351 | 2008-09-08 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 352 | 2008-09-08 | no aplica  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 353 | 2008-09-08 | Angela maria benavides vallejo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 354 | 2008-09-08 | Paola Andrea Velasquez Rojas  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 427 | 2008-09-09 | José Luis Erazo   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 448 | 2008-09-09 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 335 | 2008-09-11 | no aplica  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 335 | 2008-09-11 | no aplica  | Personal Externo | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 334 | 2008-09-12 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |4 | 5000 | 0 | 20000 | 0 | 40000 |Yuliana
+ 424 | 2008-09-12 | No aplica  | Personal Externo | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 355 | 2008-09-15 | Andres Navarrete Perdomo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 356 | 2008-09-15 | no aplica  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 357 | 2008-09-15 | Jorge Riaño  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 426 | 2008-09-15 | Pamela Potes  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 349 | 2008-09-16 | William A. Polo Diaz  | Estudiante | El Sistema de Informacion Contable |2 | 2550 | 20 | 5100 | 20 | 32000 |Yuliana
+ 358 | 2008-09-16 | no aplica  | Estudiante | La Educacion Empresarial Universitaria |1 | 10000 | 0 | 10000 | 0 | 10500 |Yuliana
+ 359 | 2008-09-16 | no aplica  | Estudiante | Cuadernos de Administracion No 36 y 37 |1 | 0 | 0 | 0 | 0 | 20000 |Yuliana
+ 360 | 2008-09-16 | Andres felipe zuñiga  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 363 | 2008-09-17 | no aplica  | Estudiante | El Sistema de Informacion Contable |2 | 2550 | 0 | 5100 | 0 | 40000 |Yuliana
+ 364 | 2008-09-17 | Jose david Alvarez  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Yuliana
+ 425 | 2008-09-18 | No aplica  | Personal Externo | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 366 | 2008-09-19 | Orlando Ulloa Angulo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 367 | 2008-09-19 | Luz Adriana Agudelo   | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 368 | 2008-09-20 | Edgar Velez  | Estudiante | Derechos de los Usuarios de Servicios Bancarios y Financieros |1 | 0 | 20 | 0 | 20 | 10400 |Yuliana
+ 369 | 2008-09-23 | Diana Ocampo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 381 | 2008-09-23 | Pamel Potes  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 406 | 2008-09-23 | Katerine Prado  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 407 | 2008-09-23 | Yudy Romo Aguilar  | Estudiante | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 408 | 2008-09-25 | Carlos Armando Castro  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 409 | 2008-09-26 | Jorge Nelson Ortiz Murulanda  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 446 | 2008-09-27 | Juan carlosAristizabal  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 410 | 2008-09-30 | Natalia Sandoval Herrera  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 420 | 2008-09-30 | José Libardo Gonzalez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 421 | 2008-09-30 | Francisco Arias  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 445 | 2008-09-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 429 | 2008-10-02 |  Maria Miriam Hurtado  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 430 | 2008-10-03 | Kelly Patricia Bello Morales  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 431 | 2008-10-03 | Andrés Fabián Biojo Rojas  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 432 | 2008-10-04 | Juan Carlos Caro Ordoñez  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 20 | 11000 | 20 | 20000 |Yuliana
+ 433 | 2008-10-04 | No aplica  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 434 | 2008-10-06 | Javier Rodriguez  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 435 | 2008-10-07 | Sergio Antonio Garcia  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 436 | 2008-10-07 | Driden Zuñiga Bocanegra  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 437 | 2008-10-07 | Luis Fernando Largo  | Estudiante | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 438 | 2008-10-07 | Aracelly Castro Diaz  | Estudiante | De Lo Humano Organizacional |2 | 3859 | 20 | 7718 | 20 | 25600 |Yuliana
+ 440 | 2008-10-09 | Gloria Zuluaga  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 441 | 2008-10-09 | Gloria Zuluaga  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 442 | 2008-10-09 | No aplica  | Personal Externo | Cuaderno 5 Materias Administración  |4 | 5000 | 0 | 20000 | 0 | 40000 |Yuliana
+ 439 | 2008-10-10 | Beatriz Helena Holguin Lopez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 439 | 2008-10-10 | Beatriz Helena Holguin Lopez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 443 | 2008-10-10 | Alvaro Javier Gaviria  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 444 | 2008-10-11 | Luis Hernando Cepeda Lopez   | Estudiante | El ordenamiento territorial en Colombia - Entre la descentralización y la autonomía |1 | 6400 | 0 | 6400 | 0 | 18000 |Yuliana
+ 487 | 2008-10-12 | semana universitaria  | Personal Externo | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 488 | 2008-10-13 | semana universitaria  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 20 | 11000 | 20 | 20000 |Yuliana
+ 471 | 2008-10-14 | Ana Milnena Muñoz Garcia  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 476 | 2008-10-14 | María Perea Castillo  | Estudiante | De Lo Humano Organizacional |3 | 3859 | 20 | 11577 | 20 | 38400 |Yuliana
+ 486 | 2008-10-14 | semana universitaria  | Personal Externo | La Soberania Transformada |1 | 8258 | 20 | 8258 | 20 | 22400 |Yuliana
+ 515 | 2008-10-14 | Semana universitaria  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 516 | 2008-10-14 | Semana universitaria  | Personal Externo | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 517 | 2008-10-15 | Semana universitaria  | Personal Externo | El Lado Inhumano de las Organizaciones |1 | 10000 | 0 | 10000 | 0 | 25000 |Yuliana
+ 518 | 2008-10-15 | Semana universitaria  | Personal Externo | El ordenamiento territorial en Colombia - Entre la descentralización y la autonomía |2 | 6400 | 0 | 12800 | 0 | 36000 |Yuliana
+ 521 | 2008-10-15 | Semana universitaria  | Personal Externo | Fundamentos de Contabilidad Pública |2 | 19860 | 0 | 39720 | 0 | 80000 |Yuliana
+ 522 | 2008-10-15 | Semana universitaria  | Personal Externo | Auditoría y Control de Gestión |1 | 21140 | 0 | 21140 | 0 | 40000 |Yuliana
+ 478 | 2008-10-18 | Edgar Velez Betnacourth  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 489 | 2008-10-18 | semana universitaria  | Estudiante | La Estrategia del Avestruz Racional |1 | 9917 | 20 | 9917 | 20 | 28800 |Yuliana
+ 519 | 2008-10-18 | Semana universitaria  | Personal Externo | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 479 | 2008-10-24 | No aplica  | Personal Externo | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 472 | 2008-10-25 | Yelby Ramirez Rengifo  | Estudiante | La Soberania Transformada |1 | 8258 | 20 | 8258 | 20 | 22400 |Yuliana
+ 474 | 2008-10-25 | no aplica  | Personal Externo | Pliegos Administrativos y Financieros No 41 ”Visiones Manageriales sobre el funcionariado publico.  La teoria de la burocracia revisitada”. |2 | 3565 | 20 | 7130 | 20 | 12800 |Yuliana
+ 475 | 2008-10-27 | no aplica  | Personal Externo | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 473 | 2008-10-29 | no aplica  | Personal Externo | Cuadernos de Administracion No 09 |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 473 | 2008-10-29 | no aplica  | Personal Externo | Cuadernos de Administracion No 13 |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 480 | 2008-10-30 | Beatriz Helena Holguin  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 520 | 2008-10-30 |  Ilse janeth Palomenque  | Estudiante | Entorno Organizacional |3 | 4600 | 0 | 13800 | 0 | 48000 |Yuliana
+ 477 | 2008-10-31 | Ana Milena Valdes Duque   | Estudiante | Cuadernos de Administracion No 32 “Competitividad y Desarrollo Exportador” |1 | 9758 | 20 | 9758 | 20 | 16000 |Yuliana
+ 497 | 2008-11-01 | Juan Carlos Caro  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 482 | 2008-11-04 | Jorge Ortiz  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 498 | 2008-11-04 | beatriz Helena Holguin  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 499 | 2008-11-04 | Fernando Rodriguez  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 500 | 2008-11-04 | nnnn  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 501 | 2008-11-04 | nnnn  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 503 | 2008-11-04 | María Cristina Castillo  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 504 | 2008-11-04 | Richard Jaramillo Herrera  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 505 | 2008-11-04 | Hernan Arturo Henriquez Sandoval  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 506 | 2008-11-04 | Elizabeth Serna  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 507 | 2008-11-04 | Carlos Sierra  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 508 | 2008-11-04 | Alexander Villamil  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 509 | 2008-11-04 | Ana Milena Muñoz García  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 481 | 2008-11-05 | Maria lonera Orozco  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 510 | 2008-11-06 | Leonel Rojas Ortiz  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 490 | 2008-11-07 | Juan Carlos Aristizabal  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 491 | 2008-11-07 | No aplica  | Personal Externo | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 523 | 2008-11-07 | no aplica  | Estudiante | Fundamentos de Contabilidad Pública |1 | 19860 | 0 | 19860 | 0 | 40000 |Yuliana
+ 524 | 2008-11-07 | Raúl Andrés Ramiréz Muñoz  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 483 | 2008-11-08 | Jorge Antonio Sinesterra Lopez  | Docente | La Soberania Transformada |1 | 8258 | 20 | 8258 | 20 | 22400 |Yuliana
+ 483 | 2008-11-08 | Jorge Antonio Sinesterra Lopez  | Docente | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Yuliana
+ 484 | 2008-11-08 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 511 | 2008-11-08 | Adriana Quintana  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 485 | 2008-11-10 | Ruben Dario Echeverry  | Docente | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |1 | 13359 | 20 | 13359 | 20 | 20000 |Yuliana
+ 512 | 2008-11-11 | Oscar Fernando Enriquez Cortez  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 513 | 2008-11-11 | Jaime Antonio Baron Rojas  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 525 | 2008-11-11 | Julián Andrés Reina  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 492 | 2008-11-13 | No aplica  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 493 | 2008-11-18 | Elkin Zuñiga  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 494 | 2008-11-18 | Oscar Fabian Muñoz  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 514 | 2008-11-21 | Nhora E. Duque  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 495 | 2008-11-22 | No aplica  | Personal Externo | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 496 | 2008-12-01 | Fundacion general de apoyo sede buenaventura  | Personal Externo | El Sistema de Informacion Contable |2 | 2550 | 0 | 5100 | 0 | 40000 |Yuliana
+ 496 | 2008-12-01 | Fundacion general de apoyo sede buenaventura  | Personal Externo | Modernidad & Inhumanidad |2 | 11000 | 0 | 22000 | 0 | 50000 |Yuliana
+ 526 | 2008-12-01 | Julian Bermudez Martinez  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 502 | 2008-12-03 | ximena sanchez Mayorga  | Docente | La Estrategia del Avestruz Racional |1 | 9917 | 20 | 9917 | 20 | 28800 |Yuliana
+ 527 | 2008-12-09 | Natalia Lopez Marin  | Estudiante | Construccion de Capital Social |1 | 18000 | 20 | 18000 | 20 | 24000 |Yuliana
+ 527 | 2008-12-09 | Natalia Lopez Marin  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 528 | 2008-12-13 | Liliana Bedoya Fierro  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ |	|	| 	|	|	|Total Costos	| 3963392 |	Total Ventas| 11021400 |
+
+
+Elaborado el... 2009-02-19
+Del 2008-01-01 al 2008-12-31
+COD VENTA | FECHA | BENEFICIARIO | VINCULACION|MATERIAL| CANTIDAD | PRECIO | DESCUENTO | TOTAL VENTA | REALIZADO POR
+
+ 15 | 2008-02-04 |  Andres Elias Bocanegra Arango  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |deisy
+ 16 | 2008-02-04 | Gino Castro Cuenca   | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 17 | 2008-02-04 | Ruben Dario Quintero Escalante  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 110 | 2008-02-04 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 111 | 2008-02-04 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 112 | 2008-02-04 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 70 | 2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 71 | 2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 72 | 2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 73 | 2008-02-05 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 18 | 2008-02-06 | ----  | Estudiante | El Sistema de Informacion Contable |2 | 2550 | 0 | 5100 | 0 | 40000 |Yuliana
+ 74 | 2008-02-06 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 75 | 2008-02-06 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 76 | 2008-02-06 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |deisy
+ 77 | 2008-02-06 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 20 | 2008-02-07 | ----  | Docente | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 21 | 2008-02-07 | ----  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 0 | 0 | 0 | 45000 |Yuliana
+ 23 | 2008-02-07 | Wilson Arango   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 24 | 2008-02-07 | Kelly Falom   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 25 | 2008-02-07 | Diana Guevara  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 32 | 2008-02-07 | ----  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 0 | 0 | 0 | 45000 |Yuliana
+ 78 | 2008-02-07 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 79 | 2008-02-07 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 80 | 2008-02-07 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 142 | 2008-02-07 | ----  | Estudiante | Pliegos Administrativos y Financieros No 30 ”Tipologias de organizacion administrativa” |1 | 2500 | 0 | 2500 | 0 | 3000 |Yuliana
+ 38 | 2008-02-08 | Francy E. Arcila Molina  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 39 | 2008-02-08 | Mauricio Garcia Gonzales  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 40 | 2008-02-08 | Alexandra Bedoya Valencia  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 41 | 2008-02-08 | Steven Becerra Balcazar    | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 42 | 2008-02-08 | Laura Garay Arboleda   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 43 | 2008-02-08 | Tulio Ferney Silva  | Docente | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 44 | 2008-02-08 | Leonardo Fabio Rivera Mesa  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 45 | 2008-02-08 | ----  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 46 | 2008-02-08 | ----  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 81 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 82 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 83 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 84 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 85 | 2008-02-08 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |deisy
+ 86 | 2008-02-08 | ----  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 0 | 0 | 0 | 45000 |deisy
+ 116 | 2008-02-09 | Luz Angela Orjuela Hernandez  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 117 | 2008-02-09 | Jorge Vazquez  | Docente | Hacia Una Redefinicion del Trabajo |1 | 9000 | 20 | 9000 | 20 | 20000 |Yuliana
+ 118 | 2008-02-09 | Edgar Velez Betancourt   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 1 | 2008-02-11 | Julieth Olave Avila   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 2 | 2008-02-11 | Dario Fernando Ruiz Rios   | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 3 | 2008-02-11 | Jeimy Cristina Mopan Bolaños  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 4 | 2008-02-11 | Paola Andrea Castaño Quintero  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 4 | 2008-02-11 | Paola Andrea Castaño Quintero  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 5 | 2008-02-11 | María Fernanda Pereira  Sanchez  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 8 | 2008-02-11 | jacqueline Jimenez Garcia  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 10 | 2008-02-11 | Alejandra Granada Banguero  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 49 | 2008-02-11 | ----  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 50 | 2008-02-11 | Alejandra Banguero   | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 51 | 2008-02-11 | Ivan Bejarano Jaramillo  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 119 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 120 | 2008-02-11 | Johan Sebastian Alzate Erazo  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 121 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 122 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 123 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 124 | 2008-02-11 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 9 | 2008-02-12 | Jose luis Bravo Ordoñez  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 88 | 2008-02-12 | Laura Juliana Lenis Suarez   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 125 | 2008-02-12 | Javier Junior Sanchez Romero  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 126 | 2008-02-12 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 90 | 2008-02-13 | Jorge Vazquez  | Docente | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 91 | 2008-02-13 | Jorge Vazquez   | Docente | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 20 | 7443 | 20 | 16000 |Yuliana
+ 92 | 2008-02-13 | Jorge Vazquez   | Docente | Cuadernos de Administracion No 22  “Hacia una Administracion Moderna para Cali” |1 | 3554 | 20 | 3554 | 20 | 4800 |Yuliana
+ 93 | 2008-02-13 | ----  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |Yuliana
+ 127 | 2008-02-13 | José Mosquera  | Docente | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 128 | 2008-02-13 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 129 | 2008-02-13 | ----  | Estudiante | Cuaderno 5 Materias Administración  |3 | 5000 | 0 | 15000 | 0 | 30000 |Yuliana
+ 130 | 2008-02-13 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 11 | 2008-02-14 | John Alexander Hoyos Alvarez  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 12 | 2008-02-14 | Ximena Perez Torres  | Trabajador | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 13 | 2008-02-14 | Ricardo Perez  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 14 | 2008-02-14 | Diana Fernanda Sanchez Zapata   | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 99 | 2008-02-14 | Ximena Perea Torres  | Trabajador | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 22 | 2008-02-15 | Leidy Johana Soriano Betes  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 26 | 2008-02-15 | Jonathan  Romero Orrego  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 27 | 2008-02-15 | Melissa Rojas Atehortúa  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 28 | 2008-02-15 | Andres Alberto Estrada Castellano  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 29 | 2008-02-15 | Leidy Vanessa Narvaez Pama  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 30 | 2008-02-15 | Suleyda Salazar García  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 100 | 2008-02-15 | ----  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 0 | 22000 | 0 | 40000 |Yuliana
+ 133 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 134 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 136 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 137 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 138 | 2008-02-15 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 139 | 2008-02-15 | ----  | Docente | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 101 | 2008-02-16 | ----  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |Yuliana
+ 102 | 2008-02-16 | ----  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 0 | 8295 | 0 | 30000 |Yuliana
+ 103 | 2008-02-16 | ----  | Docente | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |Yuliana
+ 104 | 2008-02-16 | ----  | Docente | Pliegos Administrativos y Financieros No 17 “Contabilidad de Recursos Humanos: antecedentes, procedimientos y practica en Colombia” |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 104 | 2008-02-16 | ----  | Docente | Pliegos Administrativos y Financieros No 13 ” El intelectual de la Nueva Babel Colombiana” |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 104 | 2008-02-16 | ----  | Docente | Pliegos Administrativos y Financieros No 14 ”La Economia Solidaria una alternativa Humanista” |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 105 | 2008-02-16 | Yamid Espinosa   | Estudiante | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 20 | 7443 | 20 | 16000 |Yuliana
+ 31 | 2008-02-18 | Marcela Tamayo  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 34 | 2008-02-18 | Yenni Fernanda Gomez Diaz   | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 35 | 2008-02-18 | Maria Juliana Espinal Millan  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 37 | 2008-02-18 | Beatriz Fernanda Jaramillo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 48 | 2008-02-18 | Manuel Felipe Cardenas  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 0 | 22000 | 0 | 40000 |Yuliana
+ 107 | 2008-02-18 | Gilberto Morales Pinto  | Docente | Entorno Organizacional |4 | 4600 | 20 | 18400 | 20 | 51200 |Yuliana
+ 143 | 2008-02-18 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 144 | 2008-02-18 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 145 | 2008-02-18 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 53 | 2008-02-19 | ----  | Estudiante | Pliegos Administrativos y Financieros No 39 ”Como evitar el colapso de EMCALI.  Los retos de la provision adecuada de servicios publicos domiciliarios en Colombia” |1 | 3000 | 0 | 3000 | 0 | 5000 |Yuliana
+ 54 | 2008-02-19 | Ricardo simon aguiler  | Docente | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 55 | 2008-02-19 | Jackeline Moreno Perea  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 56 | 2008-02-19 | Nathaly Sanchez Arango  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 57 | 2008-02-19 | Romario Urbano Ortiz  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 59 | 2008-02-19 | Lady Andrea Alvares Otalvaro  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 60 | 2008-02-19 |  Ingrid johana Fajardo Freile  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 61 | 2008-02-19 | Nathalia Alvarez Hernandez  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 62 | 2008-02-19 | Andrés Félipe Zuñiga Rivera  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 63 | 2008-02-19 | Silvana Paola Guarnizo Zamudio  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 64 | 2008-02-19 | Jessica Sarria Valencia  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 65 | 2008-02-19 | David Puertas   | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 66 | 2008-02-19 | Juan Camilo Chara   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 146 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 148 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 149 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 150 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 151 | 2008-02-19 | ----  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 87 | 2008-02-20 | Andés orlando Blanco Marín  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 152 | 2008-02-20 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 95 | 2008-02-21 | Lina Gisella Franco Giraldo  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 96 | 2008-02-21 | Carlos Andrés Pineda   | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Grace
+ 97 | 2008-02-21 | Carolina Gomez Avila  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 98 | 2008-02-21 | Jenny Molina Almeida  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 108 | 2008-02-21 | Liza María Lizcano Murcia   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 109 | 2008-02-21 | ----  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 132 | 2008-02-22 | Andres Felipe Marin  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 135 | 2008-02-22 | Ana Maria Gonzalez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 140 | 2008-02-22 | Luis Hernando cepeda Lopez  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 0 | 11000 | 0 | 25000 |Yuliana
+ 147 | 2008-02-23 | Jaime Barona  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 0 | 8295 | 0 | 30000 |Yuliana
+ 153 | 2008-02-23 | ----  | Docente | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 154 | 2008-02-23 | Alfredo Perdomo  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 154 | 2008-02-23 | Alfredo Perdomo  | Estudiante | Cuadernos de Administracion No 36 y 37 |1 | 0 | 20 | 0 | 20 | 16000 |Yuliana
+ 155 | 2008-02-25 | Maria Ekena Montoya  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 156 | 2008-02-26 | Jennifer Carvajal Dagua  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 157 | 2008-02-26 | Luis Fernando Quenguan Ocampo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 158 | 2008-02-26 | Diana Carolina Giraldo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 159 | 2008-02-26 | Ricardo Alberto Molina  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 160 | 2008-02-26 | Guillermo Ivan Zarta Cruz  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Grace
+ 161 | 2008-02-26 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 163 | 2008-02-27 | Jhon Chavez Roman  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Grace
+ 167 | 2008-02-27 | Leonila Victoria Gonzalez  | Trabajador | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 168 | 2008-02-27 | ninguno  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 169 | 2008-02-27 | Jenny Marcela Velasco   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 165 | 2008-02-28 | German Alonso Perez Astudillo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 166 | 2008-02-28 | Renata Luceli Yepes Rojas  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 170 | 2008-02-28 | Veronica Bermudez Angulo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 174 | 2008-02-28 | Yamid Espinosa   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 180 | 2008-02-28 | ----  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 181 | 2008-02-29 | Juan Carlos Hernandez Granada  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 182 | 2008-02-29 | Mario Morales Caicedo  | Estudiante | Negociacion, conflicto, mitos y poder en la gestion de relaciones laborales en ECOPETROL. |1 | 21660 | 20 | 21660 | 20 | 32000 |Yuliana
+ 183 | 2008-02-29 | Monica Liliana Aguiar Quintana  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 184 | 2008-03-01 | nulo  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Grace
+ 185 | 2008-03-01 | Edgar Velez Betancourt  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Grace
+ 186 | 2008-03-03 | Carlos Hernan Gonzalez  | Docente | Construccion de Capital Social |1 | 18000 | 20 | 18000 | 20 | 24000 |Yuliana
+ 187 | 2008-03-03 | Carlos David Hurtado Garcia  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 188 | 2008-03-03 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 189 | 2008-03-03 | Gilberto Morales Pinto    | Docente | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Grace
+ 189 | 2008-03-03 | Gilberto Morales Pinto    | Docente | Entorno Organizacional |2 | 4600 | 20 | 9200 | 20 | 25600 |Grace
+ 190 | 2008-03-03 | nulo  | Estudiante | Pliegos Administrativos y Financieros No 41 ”Visiones Manageriales sobre el funcionariado publico.  La teoria de la burocracia revisitada”. |1 | 3565 | 0 | 3565 | 0 | 8000 |Grace
+ 191 | 2008-03-03 | nulo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Grace
+ 192 | 2008-03-03 | nulos  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 193 | 2008-03-05 | Karla Yesenia Osorio Galindo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 194 | 2008-03-05 | Priscila Benavides Bryon  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 195 | 2008-03-05 | Guillermo Murillo  | Trabajador | Teorias clasicas de la Organizacion y el Management |1 | 0 | 50 | 0 | 50 | 22500 |Grace
+ 196 | 2008-03-05 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 197 | 2008-03-05 | Freddy Andres Sanchez Diaz  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 198 | 2008-03-05 | Mary Luz Rodriguez Beltran  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 199 | 2008-03-06 | Edilberto Mosntaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |5 | 9195 | 43 | 45975 | 43 | 99750 |Grace
+ 200 | 2008-03-06 | Edilberto Mosntaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Grace
+ 201 | 2008-03-06 | María Aguirre  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 202 | 2008-03-07 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 203 | 2008-03-08 | Carlos Alberto Torres  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |responsable
+ 204 | 2008-03-08 | Carlos Alberto Torres  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |responsable
+ 205 | 2008-03-08 | Adriana Quintana Rojas  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |responsable
+ 205 | 2008-03-08 | Adriana Quintana Rojas  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |responsable
+ 206 | 2008-03-08 | no aplica  | Estudiante | De Lo Humano Organizacional |2 | 3859 | 0 | 7718 | 0 | 32000 |responsable
+ 207 | 2008-03-08 | no aplica  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Yuliana
+ 207 | 2008-03-08 | no aplica  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 210 | 2008-03-10 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 211 | 2008-03-10 | María Elena Montoya Vanegas  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 212 | 2008-03-10 | nulo  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Grace
+ 213 | 2008-03-11 | Julian Andres Garcia Valdes  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 215 | 2008-03-13 | Laura Salas Arbelaez  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Grace
+ 216 | 2008-03-14 | Ramiro Cifuentes  | Docente | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Grace
+ 217 | 2008-03-15 | Fabian Viafara  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Grace
+ 217 | 2008-03-15 | Fabian Viafara  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 218 | 2008-03-15 | Jenny Martinez Orejuela  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 219 | 2008-03-26 | Anyela Lorena Cuartas Garcia  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 220 | 2008-03-26 | Fransisco Andrés Gongora  | Docente | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 221 | 2008-03-26 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Grace
+ 222 | 2008-03-28 | Liliana Bedoya  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 222 | 2008-03-28 | Liliana Bedoya  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Grace
+ 223 | 2008-03-28 | Luz adriana castaño  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Grace
+ 224 | 2008-03-28 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Grace
+ 225 | 2008-03-28 | Gilberto Morales Pinto  | Docente | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Grace
+ 226 | 2008-03-29 | Jose Eduardo Gutierrez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 226 | 2008-03-29 | Jose Eduardo Gutierrez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Yuliana
+ 227 | 2008-03-31 | Larry Steven Ampudia Perdomo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 228 | 2008-03-31 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Grace
+ 229 | 2008-03-31 | Andres Felipe Ortiz  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Grace
+ 230 | 2008-04-01 | Nestor Moreno  | Docente | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |2 | 3554 | 0 | 7108 | 0 | 12000 |Yuliana
+ 243 | 2008-04-01 | Carlos Arturo Mendoza  | Docente | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 231 | 2008-04-03 | Carlos Cobo  | Docente | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Grace
+ 232 | 2008-04-04 | Andres Azuero  | Trabajador | Construccion de Capital Social |1 | 18000 | 20 | 18000 | 20 | 24000 |Yuliana
+ 233 | 2008-04-04 | Alvaro Cuadro  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Grace
+ 234 | 2008-04-04 | Carlos Alberto Torres  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Grace
+ 235 | 2008-04-04 | Charles Bravo Bernate  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 236 | 2008-04-04 | William Sanchez Lievano  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Grace
+ 237 | 2008-04-05 | nulo  | Estudiante | Pliegos Administrativos y Financieros No 37 ”Costo de Capital y Estructura Financiera de las empresas multinacionales” |1 | 1480 | 0 | 1480 | 0 | 5000 |Grace
+ 244 | 2008-04-07 | nulo  | Estudiante | Pliegos Administrativos y Financieros No 36 “La evaluacion de la gestion en las organizaciones de desarrollo.  Una perspectiva teorica y metodologica” |1 | 1500 | 0 | 1500 | 0 | 3000 |Grace
+ 308 | 2008-04-07 | Jorge Alberto Rivera Godoy  | Docente | Introduccion a la Administracion Financiera |3 | 22000 | 50 | 66000 | 50 | 60000 |deisy
+ 239 | 2008-04-08 | Carolina Mora  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 240 | 2008-04-09 | Rafael Carvajal  | Docente | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 240 | 2008-04-09 | Rafael Carvajal  | Docente | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 241 | 2008-04-09 | Nestor Moreno  | Docente | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |2 | 3554 | 0 | 7108 | 0 | 12000 |Yuliana
+ 242 | 2008-04-09 | Francisco Andres Gongora  | Docente | Contabilidad, Control, Valuacion y Revelaciones |3 | 9195 | 20 | 27585 | 20 | 84000 |Yuliana
+ 311 | 2008-04-09 | carlos A. Soto R  | Estudiante | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |1 | 13359 | 0 | 13359 | 0 | 25000 |Yuliana
+ 312 | 2008-04-09 | no aplica  | Docente | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |1 | 13359 | 0 | 13359 | 0 | 25000 |Yuliana
+ 245 | 2008-04-10 | no aplica  | Personal Externo | Cuadernos de Administracion No 22  “Hacia una Administracion Moderna para Cali” |2 | 3554 | 0 | 7108 | 0 | 12000 |Yuliana
+ 246 | 2008-04-10 | Adriana Carbonell  | Estudiante | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Grace
+ 247 | 2008-04-10 | Jefferson Cabrera  | Estudiante | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Grace
+ 248 | 2008-04-10 | Jorge Ortiz  | Estudiante | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Grace
+ 290 | 2008-04-10 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 249 | 2008-04-11 | no aplica  | Personal Externo | Teorias clasicas de la Organizacion y el Management |1 | 0 | 0 | 0 | 0 | 45000 |Yuliana
+ 291 | 2008-04-11 | Raul Arturo Barbosa  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 20 | 11000 | 20 | 20000 |Yuliana
+ 250 | 2008-04-12 | Beatriz Villota Castillo  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Yuliana
+ 250 | 2008-04-12 | Beatriz Villota Castillo  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 284 | 2008-04-15 | nulo  | Estudiante | Cuadernos de Administracion No 22  “Hacia una Administracion Moderna para Cali” |1 | 3554 | 0 | 3554 | 0 | 6000 |Grace
+ 285 | 2008-04-15 | Carlos Alberto Escobar  | Estudiante | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Grace
+ 286 | 2008-04-16 | Andrés Marín  | Docente | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 23  “Hacia la formacion del administrador del siglo XXI” |1 | 1500 | 0 | 1500 | 0 | 6000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 27  “Humanismo Organizacional Nuevas perspectivas” |1 | 8000 | 0 | 8000 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 0 | 7443 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 30  “Politicas Publicas: Referentes Conceptuales y Estudios Sectoriales” |1 | 7443 | 0 | 7443 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 26  “Marketing Mix II” |1 | 9177 | 0 | 9177 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 25  “Marketing Mix I” |1 | 9177 | 0 | 9177 | 0 | 20000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |1 | 3554 | 0 | 3554 | 0 | 6000 |Grace
+ 287 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 28  “La contabilidad como disciplina de conocimiento: Trayectoria y Perspectiva”	 |1 | 10000 | 0 | 10000 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 31 “Contabilidad, Presentacion y Control” |1 | 10000 | 0 | 10000 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 34 |1 | 12323 | 0 | 12323 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 35 |1 | 9203 | 0 | 9203 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 36 y 37 |1 | 0 | 0 | 0 | 0 | 20000 |Grace
+ 288 | 2008-04-16 | nulo  | Estudiante | Cuadernos de Administracion No 32 “Competitividad y Desarrollo Exportador” |1 | 9758 | 0 | 9758 | 0 | 20000 |Grace
+ 292 | 2008-04-16 | no aplica  | Docente | Cuaderno 5 Materias Administración  |3 | 5000 | 0 | 15000 | 0 | 30000 |Yuliana
+ 293 | 2008-04-18 | no aplica  | Docente | Industrias y Empresarios Pioneros |1 | 3938 | 0 | 3938 | 0 | 16000 |Yuliana
+ 294 | 2008-04-18 | Carolina Prada Galvez   | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 295 | 2008-04-18 | Carlos Felipe Quiroga  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 296 | 2008-04-21 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 45 | 18390 | 45 | 38500 |Yuliana
+ 297 | 2008-04-22 | Hector Fabio Montes Vasquez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 298 | 2008-04-25 | no aplica  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 299 | 2008-04-26 | Nhora Eugenia Duque Quintero  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 300 | 2008-04-26 | Juan Carlos Caro Ordoñez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 50 | 3859 | 50 | 8000 |Yuliana
+ 300 | 2008-04-26 | Juan Carlos Caro Ordoñez  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 301 | 2008-04-26 | Hector fabio Marin Tobon  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 302 | 2008-04-28 | Gilberto Morales Pinto   | Docente | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 303 | 2008-04-28 | no aplica  | Personal Externo | Teorias clasicas de la Organizacion y el Management |2 | 0 | 0 | 0 | 0 | 90000 |Yuliana
+ 304 | 2008-04-28 | Liliana Padilla Padilla  | Estudiante | Cuadernos de Administracion No 28  “La contabilidad como disciplina de conocimiento: Trayectoria y Perspectiva”	 |1 | 10000 | 20 | 10000 | 20 | 16000 |Yuliana
+ 315 | 2008-04-28 | no aplica  | Estudiante | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 305 | 2008-04-30 | no aplica  | Personal Externo | De Lo Humano Organizacional |1 | 3859 | 0 | 3859 | 0 | 16000 |Yuliana
+ 313 | 2008-04-30 | Daniela Gomez Gomez  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 314 | 2008-04-30 | Greta Julieth Rodriguez Guevara  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 306 | 2008-05-02 | Gilberto Morales Pinto   | Docente | Cuadernos de Administracion No 32 “Competitividad y Desarrollo Exportador” |1 | 9758 | 20 | 9758 | 20 | 16000 |Yuliana
+ 307 | 2008-05-03 | Mario Arzayus Ayora  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 50 | 3233 | 50 | 15000 |Yuliana
+ 309 | 2008-05-06 | Miguel Esmeral  | Estudiante | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 309 | 2008-05-06 | Miguel Esmeral  | Estudiante | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 316 | 2008-05-06 | no aplica  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 318 | 2008-05-07 | no aplica  | Personal Externo | Cuadernos de Administracion No 28  “La contabilidad como disciplina de conocimiento: Trayectoria y Perspectiva”	 |1 | 10000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 319 | 2008-05-08 | no aplica  | Docente | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 310 | 2008-05-13 | Rafael Carvajal  | Docente | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 323 | 2008-05-14 | Jorge Alberto Rivera Godoy  | Docente | Introduccion a la Administracion Financiera |5 | 22000 | 50 | 110000 | 50 | 100000 |deisy
+ 324 | 2008-05-14 | Jorge Alberto Rivera Godoy  | Docente | Introduccion a la Administracion Financiera |3 | 22000 | 50 | 66000 | 50 | 60000 |deisy
+ 317 | 2008-05-19 | Montaño Orozco Edilberto  | Docente | Contabilidad, Control, Valuacion y Revelaciones |5 | 9195 | 43 | 45975 | 43 | 99750 |Yuliana
+ 320 | 2008-05-21 | Ana Milena Valdes Duque  | Estudiante | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 320 | 2008-05-21 | Ana Milena Valdes Duque  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 320 | 2008-05-21 | Ana Milena Valdes Duque  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 321 | 2008-05-21 | Nestor Moreno  | Docente | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |1 | 3554 | 0 | 3554 | 0 | 6000 |Yuliana
+ 321 | 2008-05-21 | Nestor Moreno  | Docente | Pliegos Administrativos y Financieros No 41 ”Visiones Manageriales sobre el funcionariado publico.  La teoria de la burocracia revisitada”. |1 | 3565 | 0 | 3565 | 0 | 8000 |Yuliana
+ 322 | 2008-05-21 | Edilberto Montaño  | Docente | Contabilidad, Control, Valuacion y Revelaciones |2 | 9195 | 43 | 18390 | 43 | 39900 |Yuliana
+ 325 | 2008-05-22 | no aplica  | Personal Externo | Modernidad & Inhumanidad |1 | 11000 | 0 | 11000 | 0 | 25000 |Yuliana
+ 329 | 2008-05-23 | no aplica  | Personal Externo | Pliegos Administrativos y Financieros No 34 ”Modernas teorias financieras, mercados emergentes y determinantes de la inversion en una nacion” |1 | 1492 | 0 | 1492 | 0 | 3000 |Yuliana
+ 329 | 2008-05-23 | no aplica  | Personal Externo | Cuadernos de Administracion No 24  “Contabilidad y Finanzas, Resultados y Perspectivas” |1 | 3554 | 0 | 3554 | 0 | 6000 |Yuliana
+ 329 | 2008-05-23 | no aplica  | Personal Externo | Pliegos Administrativos y Financieros No 37 ”Costo de Capital y Estructura Financiera de las empresas multinacionales” |1 | 1480 | 0 | 1480 | 0 | 5000 |Yuliana
+ 330 | 2008-05-23 | Orieta Rogriguez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 331 | 2008-05-23 | Hector Fabio Montes  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 332 | 2008-05-23 | No aplica  | Personal Externo | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |2 | 13359 | 0 | 26718 | 0 | 50000 |Yuliana
+ 365 | 2008-05-24 | Herney Rojas Arenas  | Estudiante | La Soberania Transformada |1 | 8258 | 20 | 8258 | 20 | 22400 |Yuliana
+ 370 | 2008-06-03 | No aplica  | Personal Externo | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 0 | 8295 | 0 | 30000 |Yuliana
+ 371 | 2008-06-06 | María Marín  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Yuliana
+ 372 | 2008-06-06 | No aplica  | Personal Externo | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 0 | 17760 | 0 | 35000 |Yuliana
+ 373 | 2008-06-06 | No aplica  | Personal Externo | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 0 | 7443 | 0 | 20000 |Yuliana
+ 413 | 2008-06-06 | No aplica  | Personal Externo | La Soberania Transformada |1 | 8258 | 0 | 8258 | 0 | 28000 |Yuliana
+ 375 | 2008-06-07 | Lina Angarita  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 414 | 2008-06-07 | Germán Villegas  | Estudiante | La Estrategia del Avestruz Racional |1 | 9917 | 20 | 9917 | 20 | 28800 |Yuliana
+ 374 | 2008-06-08 | No aplica  | Personal Externo | La Soberania Transformada |1 | 8258 | 0 | 8258 | 0 | 28000 |Yuliana
+ 376 | 2008-06-08 | Germán Rios  | Estudiante | La Estrategia del Avestruz Racional |1 | 9917 | 20 | 9917 | 20 | 28800 |Yuliana
+ 377 | 2008-06-10 | Jennifer Moncayo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 378 | 2008-06-14 | María L. Castillo  | Estudiante | La Mercantilizacion de lo Publico |1 | 0 | 20 | 0 | 20 | 28000 |Yuliana
+ 428 | 2008-06-17 | María L. Castillo   | Estudiante | Cuadernos de Administracion No 31 “Contabilidad, Presentacion y Control” |1 | 10000 | 20 | 10000 | 20 | 16000 |Yuliana
+ 379 | 2008-06-23 | No aplica  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 411 | 2008-08-01 | Marysol Valencia  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 412 | 2008-08-01 | no aplica  | Personal Externo | Hacia Una Redefinicion del Trabajo |1 | 9000 | 20 | 9000 | 20 | 20000 |Yuliana
+ 415 | 2008-08-04 | No aplica  | Personal Externo | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 416 | 2008-08-14 | No aplica  | Personal Externo | Industrias y Empresarios Pioneros |1 | 3938 | 0 | 3938 | 0 | 16000 |Yuliana
+ 361 | 2008-08-19 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |5 | 5000 | 0 | 25000 | 0 | 50000 |Yuliana
+ 417 | 2008-08-19 | Sandra Bejarano  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 418 | 2008-08-19 | Angélica Franco  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 362 | 2008-08-20 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 380 | 2008-08-20 | Jennifer Moreno  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 382 | 2008-08-21 | No aplica  | Personal Externo | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |1 | 13359 | 0 | 13359 | 0 | 25000 |Yuliana
+ 383 | 2008-08-21 | Dina Rojas  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Yuliana
+ 470 | 2008-08-21 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 384 | 2008-08-22 | Nadly Melissa Rodriguez   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 385 | 2008-08-22 | Alejandra Homes  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 386 | 2008-08-22 | Yelby Ramirez Renfijo  | Estudiante | La Mercantilizacion de lo Publico |1 | 0 | 20 | 0 | 20 | 28000 |Yuliana
+ 469 | 2008-08-22 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 387 | 2008-08-23 | No aplica  | Personal Externo | Cuadernos de Administracion No 29  “Prospectiva Territorial y Desarrollo Regional” |1 | 7443 | 0 | 7443 | 0 | 20000 |Yuliana
+ 468 | 2008-08-23 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 388 | 2008-08-25 | Lina Angarita  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 389 | 2008-08-25 | Ana Cristhina Burbano  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 390 | 2008-08-25 | Raquel Franco  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 391 | 2008-08-25 | Luz Karine Gomez Correa   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 392 | 2008-08-25 | Carlos Alberto García  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 464 | 2008-08-25 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 465 | 2008-08-25 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 466 | 2008-08-25 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 467 | 2008-08-25 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 393 | 2008-08-26 | Malcairina Monje Avila  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 394 | 2008-08-26 | Andrea Cardozo Hincapie  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 395 | 2008-08-26 | Cesar Andres Davila  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 462 | 2008-08-26 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 463 | 2008-08-26 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 396 | 2008-08-27 | Angélica María Marin Hincapie  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 397 | 2008-08-27 | Enrique Herrera  | Docente | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 458 | 2008-08-27 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 459 | 2008-08-27 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 460 | 2008-08-27 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 461 | 2008-08-27 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 398 | 2008-08-28 | Raúl Andrés Tabarquino Muñoz  | Estudiante | Construccion de Capital Social |1 | 18000 | 20 | 18000 | 20 | 24000 |Yuliana
+ 399 | 2008-08-28 | Cesar Andres Abadia Davila  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 456 | 2008-08-28 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 457 | 2008-08-28 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 400 | 2008-08-29 | Gerardo Cajas  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 20 | 11000 | 20 | 20000 |Yuliana
+ 401 | 2008-08-29 | Gerardo Cajas  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 402 | 2008-08-29 | Vanessa Dominguez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 419 | 2008-08-29 | Jaiber Yesid Pantoja  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 455 | 2008-08-29 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 403 | 2008-08-30 | Jaime Ortiz  | Docente | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 404 | 2008-08-30 | No aplica  | Personal Externo | Pliegos Administrativos y Financieros No 39 ”Como evitar el colapso de EMCALI.  Los retos de la provision adecuada de servicios publicos domiciliarios en Colombia” |1 | 3000 | 0 | 3000 | 0 | 5000 |Yuliana
+ 405 | 2008-08-30 | Edgar Velez Betancourt  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 449 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 450 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 451 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 452 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 453 | 2008-08-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 454 | 2008-08-30 | Federico A. Galvis Charria  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 336 | 2008-09-01 | no aplica  | Estudiante | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 337 | 2008-09-01 | no aplica  | Estudiante | Pliegos Administrativos y Financieros No 37 ”Costo de Capital y Estructura Financiera de las empresas multinacionales” |1 | 1480 | 0 | 1480 | 0 | 5000 |Yuliana
+ 338 | 2008-09-02 | no aplica  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 339 | 2008-09-02 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 340 | 2008-09-02 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 341 | 2008-09-03 | Daniela Muriel Bolaños  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 447 | 2008-09-03 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 342 | 2008-09-04 | Jenny Karol Baos Solarte  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 343 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 344 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 345 | 2008-09-04 | Maryury Hernández Diaz  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 346 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 347 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 348 | 2008-09-04 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |2 | 5000 | 0 | 10000 | 0 | 20000 |Yuliana
+ 422 | 2008-09-04 | Wilmer Sarmiento  | Docente | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 423 | 2008-09-06 | Lina Marcela López  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 350 | 2008-09-08 | no aplica  | Estudiante | La Educacion Empresarial Universitaria |1 | 10000 | 0 | 10000 | 0 | 10500 |Yuliana
+ 351 | 2008-09-08 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 352 | 2008-09-08 | no aplica  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 353 | 2008-09-08 | Angela maria benavides vallejo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 354 | 2008-09-08 | Paola Andrea Velasquez Rojas  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 427 | 2008-09-09 | José Luis Erazo   | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 448 | 2008-09-09 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 335 | 2008-09-11 | no aplica  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 335 | 2008-09-11 | no aplica  | Personal Externo | Entorno Organizacional |1 | 4600 | 0 | 4600 | 0 | 16000 |Yuliana
+ 334 | 2008-09-12 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |4 | 5000 | 0 | 20000 | 0 | 40000 |Yuliana
+ 424 | 2008-09-12 | No aplica  | Personal Externo | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 355 | 2008-09-15 | Andres Navarrete Perdomo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 356 | 2008-09-15 | no aplica  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 357 | 2008-09-15 | Jorge Riaño  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 426 | 2008-09-15 | Pamela Potes  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 349 | 2008-09-16 | William A. Polo Diaz  | Estudiante | El Sistema de Informacion Contable |2 | 2550 | 20 | 5100 | 20 | 32000 |Yuliana
+ 358 | 2008-09-16 | no aplica  | Estudiante | La Educacion Empresarial Universitaria |1 | 10000 | 0 | 10000 | 0 | 10500 |Yuliana
+ 359 | 2008-09-16 | no aplica  | Estudiante | Cuadernos de Administracion No 36 y 37 |1 | 0 | 0 | 0 | 0 | 20000 |Yuliana
+ 360 | 2008-09-16 | Andres felipe zuñiga  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 363 | 2008-09-17 | no aplica  | Estudiante | El Sistema de Informacion Contable |2 | 2550 | 0 | 5100 | 0 | 40000 |Yuliana
+ 364 | 2008-09-17 | Jose david Alvarez  | Estudiante | El Sistema de Informacion Contable |1 | 2550 | 20 | 2550 | 20 | 16000 |Yuliana
+ 425 | 2008-09-18 | No aplica  | Personal Externo | El Sistema de Informacion Contable |1 | 2550 | 0 | 2550 | 0 | 20000 |Yuliana
+ 366 | 2008-09-19 | Orlando Ulloa Angulo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 367 | 2008-09-19 | Luz Adriana Agudelo   | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 368 | 2008-09-20 | Edgar Velez  | Estudiante | Derechos de los Usuarios de Servicios Bancarios y Financieros |1 | 0 | 20 | 0 | 20 | 10400 |Yuliana
+ 369 | 2008-09-23 | Diana Ocampo  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 381 | 2008-09-23 | Pamel Potes  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 406 | 2008-09-23 | Katerine Prado  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 407 | 2008-09-23 | Yudy Romo Aguilar  | Estudiante | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 408 | 2008-09-25 | Carlos Armando Castro  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 409 | 2008-09-26 | Jorge Nelson Ortiz Murulanda  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 446 | 2008-09-27 | Juan carlosAristizabal  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 410 | 2008-09-30 | Natalia Sandoval Herrera  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 420 | 2008-09-30 | José Libardo Gonzalez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 421 | 2008-09-30 | Francisco Arias  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 445 | 2008-09-30 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 429 | 2008-10-02 |  Maria Miriam Hurtado  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 430 | 2008-10-03 | Kelly Patricia Bello Morales  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 431 | 2008-10-03 | Andrés Fabián Biojo Rojas  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 432 | 2008-10-04 | Juan Carlos Caro Ordoñez  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 20 | 11000 | 20 | 20000 |Yuliana
+ 433 | 2008-10-04 | No aplica  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 434 | 2008-10-06 | Javier Rodriguez  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 435 | 2008-10-07 | Sergio Antonio Garcia  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 436 | 2008-10-07 | Driden Zuñiga Bocanegra  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 437 | 2008-10-07 | Luis Fernando Largo  | Estudiante | Nuevo Pensamiento Administrativo |1 | 20000 | 20 | 20000 | 20 | 28000 |Yuliana
+ 438 | 2008-10-07 | Aracelly Castro Diaz  | Estudiante | De Lo Humano Organizacional |2 | 3859 | 20 | 7718 | 20 | 25600 |Yuliana
+ 440 | 2008-10-09 | Gloria Zuluaga  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 441 | 2008-10-09 | Gloria Zuluaga  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 442 | 2008-10-09 | No aplica  | Personal Externo | Cuaderno 5 Materias Administración  |4 | 5000 | 0 | 20000 | 0 | 40000 |Yuliana
+ 439 | 2008-10-10 | Beatriz Helena Holguin Lopez  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 439 | 2008-10-10 | Beatriz Helena Holguin Lopez  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |Yuliana
+ 443 | 2008-10-10 | Alvaro Javier Gaviria  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 444 | 2008-10-11 | Luis Hernando Cepeda Lopez   | Estudiante | El ordenamiento territorial en Colombia - Entre la descentralización y la autonomía |1 | 6400 | 0 | 6400 | 0 | 18000 |Yuliana
+ 487 | 2008-10-12 | semana universitaria  | Personal Externo | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 488 | 2008-10-13 | semana universitaria  | Estudiante | Modernidad & Inhumanidad |1 | 11000 | 20 | 11000 | 20 | 20000 |Yuliana
+ 471 | 2008-10-14 | Ana Milnena Muñoz Garcia  | Estudiante | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 476 | 2008-10-14 | María Perea Castillo  | Estudiante | De Lo Humano Organizacional |3 | 3859 | 20 | 11577 | 20 | 38400 |Yuliana
+ 486 | 2008-10-14 | semana universitaria  | Personal Externo | La Soberania Transformada |1 | 8258 | 20 | 8258 | 20 | 22400 |Yuliana
+ 515 | 2008-10-14 | Semana universitaria  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 516 | 2008-10-14 | Semana universitaria  | Personal Externo | De Lo Humano Organizacional |1 | 3859 | 20 | 3859 | 20 | 12800 |Yuliana
+ 517 | 2008-10-15 | Semana universitaria  | Personal Externo | El Lado Inhumano de las Organizaciones |1 | 10000 | 0 | 10000 | 0 | 25000 |Yuliana
+ 518 | 2008-10-15 | Semana universitaria  | Personal Externo | El ordenamiento territorial en Colombia - Entre la descentralización y la autonomía |2 | 6400 | 0 | 12800 | 0 | 36000 |Yuliana
+ 521 | 2008-10-15 | Semana universitaria  | Personal Externo | Fundamentos de Contabilidad Pública |2 | 19860 | 0 | 39720 | 0 | 80000 |Yuliana
+ 522 | 2008-10-15 | Semana universitaria  | Personal Externo | Auditoría y Control de Gestión |1 | 21140 | 0 | 21140 | 0 | 40000 |Yuliana
+ 478 | 2008-10-18 | Edgar Velez Betnacourth  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 489 | 2008-10-18 | semana universitaria  | Estudiante | La Estrategia del Avestruz Racional |1 | 9917 | 20 | 9917 | 20 | 28800 |Yuliana
+ 519 | 2008-10-18 | Semana universitaria  | Personal Externo | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 479 | 2008-10-24 | No aplica  | Personal Externo | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 472 | 2008-10-25 | Yelby Ramirez Rengifo  | Estudiante | La Soberania Transformada |1 | 8258 | 20 | 8258 | 20 | 22400 |Yuliana
+ 474 | 2008-10-25 | no aplica  | Personal Externo | Pliegos Administrativos y Financieros No 41 ”Visiones Manageriales sobre el funcionariado publico.  La teoria de la burocracia revisitada”. |2 | 3565 | 20 | 7130 | 20 | 12800 |Yuliana
+ 475 | 2008-10-27 | no aplica  | Personal Externo | La Estructura del Estado Colombiano y La Constitucion de  1991 |1 | 1600 | 0 | 1600 | 0 | 4000 |Yuliana
+ 473 | 2008-10-29 | no aplica  | Personal Externo | Cuadernos de Administracion No 09 |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 473 | 2008-10-29 | no aplica  | Personal Externo | Cuadernos de Administracion No 13 |1 | 1500 | 0 | 1500 | 0 | 3000 |Yuliana
+ 480 | 2008-10-30 | Beatriz Helena Holguin  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 520 | 2008-10-30 |  Ilse janeth Palomenque  | Estudiante | Entorno Organizacional |3 | 4600 | 0 | 13800 | 0 | 48000 |Yuliana
+ 477 | 2008-10-31 | Ana Milena Valdes Duque   | Estudiante | Cuadernos de Administracion No 32 “Competitividad y Desarrollo Exportador” |1 | 9758 | 20 | 9758 | 20 | 16000 |Yuliana
+ 497 | 2008-11-01 | Juan Carlos Caro  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 482 | 2008-11-04 | Jorge Ortiz  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 498 | 2008-11-04 | beatriz Helena Holguin  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 499 | 2008-11-04 | Fernando Rodriguez  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 500 | 2008-11-04 | nnnn  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 501 | 2008-11-04 | nnnn  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 503 | 2008-11-04 | María Cristina Castillo  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 504 | 2008-11-04 | Richard Jaramillo Herrera  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 505 | 2008-11-04 | Hernan Arturo Henriquez Sandoval  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 506 | 2008-11-04 | Elizabeth Serna  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 507 | 2008-11-04 | Carlos Sierra  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 508 | 2008-11-04 | Alexander Villamil  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 509 | 2008-11-04 | Ana Milena Muñoz García  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 481 | 2008-11-05 | Maria lonera Orozco  | Estudiante | Introduccion a la Administracion Financiera |1 | 22000 | 20 | 22000 | 20 | 32000 |Yuliana
+ 510 | 2008-11-06 | Leonel Rojas Ortiz  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 490 | 2008-11-07 | Juan Carlos Aristizabal  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 491 | 2008-11-07 | No aplica  | Personal Externo | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 523 | 2008-11-07 | no aplica  | Estudiante | Fundamentos de Contabilidad Pública |1 | 19860 | 0 | 19860 | 0 | 40000 |Yuliana
+ 524 | 2008-11-07 | Raúl Andrés Ramiréz Muñoz  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 483 | 2008-11-08 | Jorge Antonio Sinesterra Lopez  | Docente | La Soberania Transformada |1 | 8258 | 20 | 8258 | 20 | 22400 |Yuliana
+ 483 | 2008-11-08 | Jorge Antonio Sinesterra Lopez  | Docente | Industrias y Empresarios Pioneros |1 | 3938 | 20 | 3938 | 20 | 12800 |Yuliana
+ 484 | 2008-11-08 | no aplica  | Estudiante | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 511 | 2008-11-08 | Adriana Quintana  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 485 | 2008-11-10 | Ruben Dario Echeverry  | Docente | Gestion y gobernabilidad en EMCALI - Liberalizacion de los servicios publicos y vulnerabilidad de las burocracias |1 | 13359 | 20 | 13359 | 20 | 20000 |Yuliana
+ 512 | 2008-11-11 | Oscar Fernando Enriquez Cortez  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 513 | 2008-11-11 | Jaime Antonio Baron Rojas  | Estudiante | Entorno Organizacional |1 | 4600 | 20 | 4600 | 20 | 12800 |Yuliana
+ 525 | 2008-11-11 | Julián Andrés Reina  | Estudiante | Teorias clasicas de la Organizacion y el Management |1 | 0 | 20 | 0 | 20 | 36000 |Yuliana
+ 492 | 2008-11-13 | No aplica  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |Yuliana
+ 493 | 2008-11-18 | Elkin Zuñiga  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 494 | 2008-11-18 | Oscar Fabian Muñoz  | Estudiante | La Administracion de Organizaciones – Un Enfoque Estrategico |1 | 8295 | 20 | 8295 | 20 | 24000 |Yuliana
+ 514 | 2008-11-21 | Nhora E. Duque  | Estudiante | Del humanismo administrativo en crisis: Rupturas Paradigmaticas |1 | 17760 | 20 | 17760 | 20 | 28000 |Yuliana
+ 495 | 2008-11-22 | No aplica  | Personal Externo | Cuaderno 5 Materias Administración  |1 | 5000 | 0 | 5000 | 0 | 10000 |Yuliana
+ 496 | 2008-12-01 | Fundacion general de apoyo sede buenaventura  | Personal Externo | El Sistema de Informacion Contable |2 | 2550 | 0 | 5100 | 0 | 40000 |Yuliana
+ 496 | 2008-12-01 | Fundacion general de apoyo sede buenaventura  | Personal Externo | Modernidad & Inhumanidad |2 | 11000 | 0 | 22000 | 0 | 50000 |Yuliana
+ 526 | 2008-12-01 | Julian Bermudez Martinez  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ 502 | 2008-12-03 | ximena sanchez Mayorga  | Docente | La Estrategia del Avestruz Racional |1 | 9917 | 20 | 9917 | 20 | 28800 |Yuliana
+ 527 | 2008-12-09 | Natalia Lopez Marin  | Estudiante | Construccion de Capital Social |1 | 18000 | 20 | 18000 | 20 | 24000 |Yuliana
+ 527 | 2008-12-09 | Natalia Lopez Marin  | Estudiante | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 20 | 9195 | 20 | 28000 |Yuliana
+ 528 | 2008-12-13 | Liliana Bedoya Fierro  | Estudiante | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |Yuliana
+ |	|	| 	|	|	|Total Costos	| 3963392 |	Total Ventas| 11021400 |
+
+

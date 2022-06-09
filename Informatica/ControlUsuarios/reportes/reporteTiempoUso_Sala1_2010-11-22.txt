@@ -1,0 +1,31 @@
+Elaborado el... 22 de Noviembre de 2010
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0024267 | Olga Lucia Ramirez Gomez | 3841 | ----
+0024568 | Sara Sulamita Pineda Guzman | 3842 | 00:27:53
+0322071 | Yeni Lorena Bedoya | 3845 | ----
+0522356 | Leslie Carol Martinez | 3841 | 00:16:22
+0534525 | Julian Andres Aragon Molina | 3266 | 00:00:55
+0623006 | Edwin Buritica Pamplona | 3846 | ----
+0635391 | Angélica María Garzón Guazá | 2832 | ----
+0734026 | Edwin Ferney Manzano Mata | 3842 | 00:34:15
+0742895 | Alexandra Bedoya Valencia | 3845 | ----
+0746791 | Katherine  Liscano Ovalle | 3846 | ----
+0824809 | Francisco Javier Giraldo Ocampo | 3857 | ----
+0825044 | Jose Rodrigo Perez Rivas | 3857 | 00:33:47
+0826109 | Anny Yenithsa Vargas Morales | 3857 | 00:56:09
+0827979 | Cesar Andrés Aroca Martinez | 3857 | ----
+0828806 | Lina Gisela Ranco Giraldo | 3846 | ----
+0829743 | Rosa Silvana Obando Delgado | 3857 | 00:59:20
+0833010 | Jorge Andres Vanegas Holguin | 3857 | 00:24:45
+0838611 | Liceth Lorena Isaza Lppez | 3846 | ----
+0839756 | Cristian Camilo Rodriguez Saldaña | 3846 | ----
+0841080 | Luz Enith Navas Leon | 3846 | 00:38:45
+0844421 | Ana Maria  Garcia Martinez | 3846 | 00:44:26
+0844525 | Diana PeÑalosa Carvajal | 3857 | 00:12:16
+0924297 | Gilberto Castro Dominguez | 3841 | 00:34:15
+1027317 | Willington Bautista Ocjoa | 3857 | 00:19:15
+9418045 | Angel Alberto Aguirre Toro | 3841 | 00:39:44
+
+

@@ -1,0 +1,1819 @@
+Elaborado el... 2014-12-11
+Mes: 1 de Agosto de 2014 al 31 de Agosto de 2014
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1024782 | natalia gonzalez ramirez | 3857 | 2014-08-13 | 15:27:54 | 16:27:54 | CUSE | pc01 |  
+1035316 | Juan David Ordoñez Viteri | 3846 | 2014-08-19 | 14:23:30 | 15:23:30 | CUSE | pc14 |  
+1228723 | Yeison Benito Millan Restrepo | 3845 | 2014-08-19 | 17:41:12 | 18:41:12 | CUSE | pc16 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-08-19 | 17:26:48 | 18:26:48 | CUSE | pc17 |  
+1131000 | Daniel Alvarez Herrera | 3845 | 2014-08-19 | 17:50:29 | 18:50:29 | CUSE | pc19 |  
+1426553 | Angela Maria Imbachi | 3841 | 2014-08-19 | 17:41:45 | 18:41:45 | CUSE | pc25 |  
+1431693 | Juan Manuel Gomez Macias | 3841 | 2014-08-19 | 17:42:00 | 18:42:00 | CUSE | pc26 |  
+1026385 | Luis Fernando Romero Cortez | 3845 | 2014-08-19 | 18:18:23 | 19:18:23 | CUSE | pc26 |  
+0522402 | MARITZABEL BERMUDEZ ARANGO | 3845 | 2014-08-19 | 18:19:54 | 19:19:54 | CUSE | pc28 |  
+1026117 | DIANA CAROLINA  VALENCIA MAYA | 3845 | 2014-08-20 | 20:45:16 | 21:45:16 | CUSE | pc07 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-08-20 | 20:45:57 | 21:45:57 | CUSE | pc08 |  
+1341156 | Daniela Montero Ojeda | 3857 | 2014-08-20 | 14:25:50 | 15:25:50 | CUSE | pc11 |  
+0734284 | ACENETH  LLANOS HERRERA | 3845 | 2014-08-20 | 20:44:59 | 21:44:59 | CUSE | pc12 |  
+1341338 | Daniela  Possu  | 3857 | 2014-08-20 | 14:25:28 | 15:25:28 | CUSE | pc12 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-08-20 | 14:12:14 | 15:12:14 | CUSE | pc13 |  
+1230373 | Juan Sebastian Barbosa Fernandez | 3845 | 2014-08-20 | 18:06:19 | 19:06:19 | CUSE | pc15 |  
+1126039 | Dayana Lorena Ñañez Ramirez | 3845 | 2014-08-20 | 20:44:34 | 21:44:34 | CUSE | pc15 |  
+1131389 | CRISTIAN ALEJANDRO TRUJILLO ROCERO | 3845 | 2014-08-20 | 20:44:16 | 21:44:16 | CUSE | pc16 |  
+1337053 | YULIETH KATHERINE PAZ PAYAN | 3842 | 2014-08-20 | 18:00:54 | 19:00:54 | CUSE | pc17 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-08-20 | 15:55:01 | 16:55:01 | CUSE | pc18 |  
+0554240 | MARCO TULIO ARANGO PLATA | 3845 | 2014-08-20 | 20:46:16 | 21:46:16 | CUSE | pc18 |  
+1110375 | Ruby Johanna Henao | 3846 | 2014-08-20 | 20:43:54 | 21:43:54 | CUSE | pc19 |  
+1228287 | Eliana Maria Franco Hurtado | 3841 | 2014-08-20 | 17:19:49 | 18:19:49 | CUSE | pc19 |  
+1428320 | Manuel Alejandro Castro | 3841 | 2014-08-20 | 14:10:31 | 15:10:31 | CUSE | pc19 |  
+0222034 | CARMENZA TROCHEZ ALZATE | 3841 | 2014-08-20 | 15:57:17 | 16:57:17 | CUSE | pc20 |  
+1141542 | MARY ANN FUENTES CAÑAR | 3846 | 2014-08-20 | 14:13:23 | 15:13:23 | CUSE | pc20 |  
+1130903 | Belsy Ximena Urbano Obregon | 3842 | 2014-08-20 | 17:54:09 | 18:54:09 | CUSE | pc21 |  
+1325312 | JEISSON MANUEL VELAZCO INAGAN  | 3845 | 2014-08-20 | 17:15:31 | 18:15:31 | CUSE | pc21 |  
+1032112 | Edgar Gaviria Martinez | 3846 | 2014-08-20 | 20:47:19 | 21:47:19 | CUSE | pc21 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-08-20 | 15:15:27 | 16:15:27 | CUSE | pc22 |  
+0933960 | ANA MARIA HENAO RIVILLAS | 3340 | 2014-08-20 | 14:07:58 | 15:07:58 | CUSE | pc22 | Investigacion
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-08-20 | 17:54:27 | 18:54:27 | CUSE | pc22 |  
+1035116 | Andres Felipe Perez Fontalvo | 3846 | 2014-08-20 | 20:47:04 | 21:47:04 | CUSE | pc22 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-08-20 | 15:45:58 | 16:45:58 | CUSE | pc23 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-08-20 | 18:11:30 | 19:11:30 | CUSE | pc23 |  
+1026597 | Katherine Sanchez Lomelin | 3845 | 2014-08-20 | 20:42:27 | 21:42:27 | CUSE | pc24 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-08-20 | 17:09:07 | 18:09:07 | CUSE | pc24 |  
+1243647 | BERTHA RUTH CAVIEDES GOMEZ | 3857 | 2014-08-20 | 14:40:03 | 15:40:03 | CUSE | pc25 |  
+1038358 | YIMI ANDRES TENORIO ERASO | 3842 | 2014-08-20 | 17:06:13 | 18:06:13 | CUSE | pc25 |  
+1026597 | Katherine Sanchez Lomelin | 3845 | 2014-08-20 | 20:43:00 | 21:43:00 | CUSE | pc25 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-08-20 | 14:23:07 | 15:23:07 | CUSE | pc26 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-08-20 | 17:48:55 | 18:48:55 | CUSE | pc26 |  
+1039801 | Javier Enrique Morales Jimenez | 3846 | 2014-08-20 | 20:47:38 | 21:47:38 | CUSE | pc26 |  
+1100756 | Edwar Andres benavides Sanchez | 7880 | 2014-08-20 | 16:50:29 | 17:50:29 | CUSE | pc26 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-08-21 | 17:56:52 | 18:56:52 | CUSE | pc16 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-08-21 | 10:44:57 | 11:44:57 | CUSE | pc17 |  
+1342521 | lady melisa montaño nuñez | 3842 | 2014-08-21 | 10:46:25 | 11:46:25 | CUSE | pc19 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-08-21 | 17:40:58 | 18:40:58 | CUSE | pc19 |  
+1337053 | YULIETH KATHERINE PAZ PAYAN | 3842 | 2014-08-21 | 10:46:46 | 11:46:46 | CUSE | pc20 |  
+1044190 | Jose Bayron Delgado Lopez | 3857 | 2014-08-21 | 10:23:59 | 11:23:59 | CUSE | pc20 |  
+1033493 | MARCEL KOGUI LOPEZ MORENO | 3846 | 2014-08-21 | 11:37:34 | 12:37:34 | CUSE | pc20 |  
+1341243 | luis miguel samboni chilito  | 3842 | 2014-08-21 | 10:45:17 | 11:45:17 | CUSE | pc21 |  
+1430094 | Maira Alejandra  Arévalo | 3841 | 2014-08-21 | 10:59:59 | 11:59:59 | CUSE | pc21 |  
+0932674 | katerine meneses ramos | 3842 | 2014-08-21 | 10:20:26 | 11:20:26 | CUSE | pc24 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-08-21 | 17:51:25 | 18:51:25 | CUSE | pc25 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-08-21 | 18:46:33 | 19:46:33 | CUSE | pc25 |  
+1133217 | Alexandra Largo Daraviña | 3845 | 2014-08-21 | 18:24:46 | 19:24:46 | CUSE | pc26 |  
+1229388 | Juan Camilo  Gutierrez Vergara | 3845 | 2014-08-21 | 18:18:49 | 19:18:49 | CUSE | pc26 |  
+1439879 | Paola Andrea Gaviria | 3841 | 2014-08-22 | 15:44:19 | 16:44:19 | CUSE | pc01 | Clase
+1436818 | Jessica Guzman Arciniegas | 3841 | 2014-08-22 | 15:43:38 | 16:43:38 | CUSE | pc02 | Clase
+1438181 | Karol Andrea  Gutierrez | 3841 | 2014-08-22 | 15:44:59 | 16:44:59 | CUSE | pc04 | Clase
+1438712 | RICHARD CAMPO CORTES | 3841 | 2014-08-22 | 15:42:24 | 16:42:24 | CUSE | pc05 | Clase
+1441880 | Luisa Maria  Motta | 3841 | 2014-08-22 | 15:43:19 | 16:43:19 | CUSE | pc06 | Clase
+1436980 | Marly Ferneida Bravo Ordoñez | 3841 | 2014-08-22 | 15:45:43 | 16:45:43 | CUSE | pc07 | Clase
+1437285 | Jineth Paola Cabezas Anacona | 3841 | 2014-08-22 | 15:41:35 | 16:41:35 | CUSE | pc09 | Clase
+1441645 | Daniel Fernando  Jimenez Oviedo | 3841 | 2014-08-22 | 15:41:56 | 16:41:56 | CUSE | pc10 | Clase
+1439996 | William  Garces Mejia | 3841 | 2014-08-22 | 15:46:10 | 16:46:10 | CUSE | pc11 | Clase
+1438126 | Jhon Wilmar Arboleda Congo | 3841 | 2014-08-22 | 15:46:36 | 16:46:36 | CUSE | pc12 | Clase
+1438251 | Elizabeth Stefany  Guerrero | 3841 | 2014-08-22 | 15:41:01 | 16:41:01 | CUSE | pc13 | Clase
+1437443 | Nancy Paola  Cuaical | 3841 | 2014-08-22 | 15:40:25 | 16:40:25 | CUSE | pc14 | Clase
+1441619 | Jhon Edison  Buitrago | 3841 | 2014-08-22 | 15:48:24 | 16:48:24 | CUSE | pc15 | Clase
+1441736 | Sebastian Jimenez | 3841 | 2014-08-22 | 15:47:58 | 16:47:58 | CUSE | pc16 | Clase
+1331252 | Maria Fernanda Muñoz | 3841 | 2014-08-22 | 15:15:37 | 16:15:37 | CUSE | pc18 | Clase
+1441916 | Jesus Alberto Benavidez | 3841 | 2014-08-22 | 15:48:57 | 16:48:57 | CUSE | pc19 | Clase
+1437764 | Stefanya Ramirez | 3841 | 2014-08-22 | 15:50:01 | 16:50:01 | CUSE | pc20 | Clase
+0852026 | Lady Joana Medina  Lopez | 3841 | 2014-08-22 | 15:15:57 | 16:15:57 | CUSE | pc22 | Clase
+1440839 | Oscar  Caicedo | 3841 | 2014-08-22 | 15:50:22 | 16:50:22 | CUSE | pc23 | Clase
+0732159 | JAVIER ANDRES SABOGAL CANDAS | 3846 | 2014-08-22 | 18:25:32 | 19:25:32 | CUSE | pc26 |  
+1110107 | Jhan Alexander  Quiñones Prado | 3846 | 2014-08-22 | 18:21:09 | 19:21:09 | CUSE | pc28 |  
+1033388 | Nathaly Martinez Lopez | 3846 | 2014-08-23 | 12:10:38 | 13:10:38 | CUSE | pc22 |  
+1430094 | Maira Alejandra  Arévalo | 3841 | 2014-08-23 | 11:45:16 | 12:45:16 | CUSE | pc25 |  
+1126665 | Gustavo Adolfo GUASAQUILLO PERDOMO | 3841 | 2014-08-23 | 14:20:48 | 15:20:48 | CUSE | pc26 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-08-23 | 11:45:03 | 12:45:03 | CUSE | pc26 |  
+0832768 | Nick Fernando Perea Garces | 3743 | 2014-08-23 | 12:01:02 | 13:01:02 | CUSE | pc28 |  
+0826230 | DARIO FERNANDO RUIZ RIOS | 3845 | 2014-08-25 | 17:46:34 | 18:46:34 | CUSE | pc11 |  
+1210239 | ALEJANDRO  FERNANDEZ RENDON | 3857 | 2014-08-25 | 17:35:55 | 18:35:55 | CUSE | pc14 | Clase
+0228407 | Esther Lucía Quiñonez Pachano | 3846 | 2014-08-25 | 17:38:42 | 18:38:42 | CUSE | pc15 |  
+0748998 | FAISYURY OROZCO PERALTA | 3260 | 2014-08-25 | 18:09:55 | 19:09:55 | CUSE | pc17 |  
+0944320 | LEYDI MAYIBE ORTEGA | 3648 | 2014-08-25 | 18:09:40 | 19:09:40 | CUSE | pc18 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-08-25 | 17:28:46 | 18:28:46 | CUSE | pc19 |  
+1341434 | jhoan manuel  sinisterra galindo  | 3651 | 2014-08-25 | 09:51:11 | 10:51:11 | CUSE | pc20 |  
+1142914 | Pedro Luis Asprilla | 1111 | 2014-08-25 | 17:16:07 | 18:16:07 | CUSE | pc22 |  
+0832906 | SANDRA XIMENA VILLAQUIRA LEON | 3846 | 2014-08-25 | 17:09:33 | 18:09:33 | CUSE | pc26 |  
+1405024 | nelly giselle castillo escobar  | 7880 | 2014-08-26 | 17:31:21 | 18:31:21 | CUSE | pc01 |  
+1405013 | Victor Aguirre Quintana | 7880 | 2014-08-26 | 17:32:54 | 18:32:54 | CUSE | pc02 |  
+1405037 | andres enrrique  loaiza | 7880 | 2014-08-26 | 18:08:40 | 19:08:40 | CUSE | pc05 |  
+1405070 | francia ines Caicedo | 7880 | 2014-08-26 | 18:07:39 | 19:07:39 | CUSE | pc06 |  
+0934459 | Gener David Tique Benitez | 3846 | 2014-08-26 | 17:01:46 | 18:01:46 | CUSE | pc10 |  
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 2014-08-26 | 16:52:01 | 17:52:01 | CUSE | pc11 |  
+1405024 | nelly giselle castillo escobar  | 7880 | 2014-08-26 | 16:43:33 | 17:43:33 | CUSE | pc12 |  
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2014-08-26 | 16:54:09 | 17:54:09 | CUSE | pc13 |  
+1144000 | Diego Fernando Cuellar Palacios | 3842 | 2014-08-26 | 17:16:44 | 18:16:44 | CUSE | pc14 |  
+1024592 | Andrea SANCHEZ ALVAREZ  | 3841 | 2014-08-26 | 18:01:22 | 19:01:22 | CUSE | pc15 |  
+1429832 | Marisol López Perez | 3841 | 2014-08-26 | 15:21:36 | 16:21:36 | CUSE | pc15 |  
+1424004 | Leidy Johana Patiño Muñoz | 3841 | 2014-08-26 | 15:21:06 | 16:21:06 | CUSE | pc16 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-08-26 | 15:13:09 | 16:13:09 | CUSE | pc17 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-08-26 | 17:19:43 | 18:19:43 | CUSE | pc18 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-08-26 | 16:27:15 | 17:27:15 | CUSE | pc18 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-08-26 | 15:15:06 | 16:15:06 | CUSE | pc19 |  
+1438116 | yolanda katerine benavides virama | 3645 | 2014-08-26 | 14:30:05 | 15:30:05 | CUSE | pc20 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-08-26 | 15:49:12 | 16:49:12 | CUSE | pc20 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-08-26 | 15:42:14 | 16:42:14 | CUSE | pc21 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-08-26 | 15:04:39 | 16:04:39 | CUSE | pc21 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-08-26 | 18:02:45 | 19:02:45 | CUSE | pc21 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-08-26 | 16:35:50 | 17:35:50 | CUSE | pc22 |  
+1440824 | DIANA VANESA  RUA | 3647 | 2014-08-26 | 18:20:46 | 19:20:46 | CUSE | pc23 |  
+1228287 | Eliana Maria Franco Hurtado | 3841 | 2014-08-26 | 14:49:35 | 15:49:35 | CUSE | pc23 |  
+1226700 | ANGELA MARIA SUAREZ GALVIS | 3841 | 2014-08-26 | 14:49:20 | 15:49:20 | CUSE | pc24 |  
+0635115 | miguel martinez serna | 3748 | 2014-08-26 | 16:06:16 | 17:06:16 | CUSE | pc25 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-08-26 | 17:18:42 | 18:18:42 | CUSE | pc25 |  
+1130958 | Ana Maria Hinestroza Carmona | 3841 | 2014-08-26 | 14:17:32 | 15:17:32 | CUSE | pc25 |  
+1138054 | Marlin Johana Guevara Marroquin | 3846 | 2014-08-26 | 16:59:25 | 17:59:25 | CUSE | pc26 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-08-27 | 17:44:21 | 18:44:21 | CUSE | pc06 |  
+1026117 | DIANA CAROLINA  VALENCIA MAYA | 3845 | 2014-08-27 | 18:01:43 | 19:01:43 | CUSE | pc07 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-08-27 | 17:45:03 | 18:45:03 | CUSE | pc08 |  
+0934609 | LEANDRO GUZMAN SANTANILLA | 3842 | 2014-08-27 | 17:49:38 | 18:49:38 | CUSE | pc10 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-08-27 | 17:42:49 | 18:42:49 | CUSE | pc11 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-08-27 | 17:43:48 | 18:43:48 | CUSE | pc12 |  
+1245392 | Eider Andres  Tenorio Angulo  | 3846 | 2014-08-27 | 11:30:58 | 12:30:58 | CUSE | pc13 |  
+1243541 | Karen Andrea Franco Escobar | 3846 | 2014-08-27 | 11:31:19 | 12:31:19 | CUSE | pc14 |  
+1310262 | sebastian olarte silva | 3845 | 2014-08-27 | 17:41:40 | 18:41:40 | CUSE | pc14 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-08-27 | 16:50:38 | 17:50:38 | CUSE | pc14 |  
+1337283 | Sebastian Luna | 3841 | 2014-08-27 | 17:34:57 | 18:34:57 | CUSE | pc15 |  
+1226700 | ANGELA MARIA SUAREZ GALVIS | 3841 | 2014-08-27 | 15:36:01 | 16:36:01 | CUSE | pc16 |  
+0926016 | JHON EDWARD GOMEZ ZUÑIGA | 3841 | 2014-08-27 | 11:15:20 | 12:15:20 | CUSE | pc16 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-08-27 | 11:07:08 | 12:07:08 | CUSE | pc17 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-08-27 | 15:56:24 | 16:56:24 | CUSE | pc18 |  
+1136088 | Ana Maria Cataño Franco | 3648 | 2014-08-27 | 11:11:17 | 12:11:17 | CUSE | pc19 |  
+1141620 | Diana Marcela Findlay  Lopez | 3648 | 2014-08-27 | 11:11:04 | 12:11:04 | CUSE | pc20 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-08-27 | 16:50:20 | 17:50:20 | CUSE | pc21 |  
+1039975 | YULY ISABEL CRUZ OLIVA | 3842 | 2014-08-27 | 11:16:43 | 12:16:43 | CUSE | pc22 |  
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 2014-08-27 | 15:18:52 | 16:18:52 | CUSE | pc22 |  
+1244826 | Stephanie Devia Valdez | 3651 | 2014-08-27 | 17:53:38 | 18:53:38 | CUSE | pc24 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-08-27 | 14:04:31 | 15:04:31 | CUSE | pc24 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-08-27 | 11:32:03 | 12:32:03 | CUSE | pc24 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-08-27 | 16:42:06 | 17:42:06 | CUSE | pc25 |  
+0939513 | Jessica Natalia Espinosa Martinez | 3842 | 2014-08-27 | 16:05:54 | 17:05:54 | CUSE | pc25 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-08-27 | 15:25:50 | 16:25:50 | CUSE | pc26 |  
+1131000 | Daniel Alvarez Herrera | 3845 | 2014-08-28 | 18:01:27 | 19:01:27 | CUSE | pc12 |  
+1223248 | Vanessa Velasquez Villanueva | 3841 | 2014-08-28 | 17:59:52 | 18:59:52 | CUSE | pc13 |  
+1337229 | JUAN DAVID RUIZ CHAVEZ | 3842 | 2014-08-28 | 10:55:32 | 11:55:32 | CUSE | pc15 |  
+1341501 | MAURICIO MORCILLO PICON | 3842 | 2014-08-28 | 10:55:20 | 11:55:20 | CUSE | pc16 |  
+1228429 | Diana Marcela Rivera Perdomo | 3845 | 2014-08-28 | 17:58:37 | 18:58:37 | CUSE | pc16 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-08-28 | 17:16:09 | 18:16:09 | CUSE | pc17 |  
+1437682 | Oscar Dario Colorado Pavon | 3645 | 2014-08-28 | 09:03:33 | 10:03:33 | CUSE | pc17 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-08-28 | 08:07:14 | 09:07:14 | CUSE | pc18 |  
+1342521 | lady melisa montaño nuñez | 3842 | 2014-08-28 | 10:10:55 | 11:10:55 | CUSE | pc19 |  
+0924399 | Andres David Perlaza Arevalo | 3845 | 2014-08-28 | 18:58:53 | 19:58:53 | CUSE | pc20 |  
+0932674 | katerine meneses ramos | 3842 | 2014-08-28 | 09:45:29 | 10:45:29 | CUSE | pc20 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-08-28 | 17:26:02 | 18:26:02 | CUSE | pc20 |  
+1437532 | Luisa Maria Londoño Aponte | 3645 | 2014-08-28 | 09:04:55 | 10:04:55 | CUSE | pc21 |  
+0838085 | Whitney Stefanny Cordoba Grueso | 3660 | 2014-08-28 | 16:53:51 | 17:53:51 | CUSE | pc21 |  
+0931208 | KAREN LORENA HURTADO ARRECHEA | 3660 | 2014-08-28 | 16:54:17 | 17:54:17 | CUSE | pc22 |  
+1137583 | Adriano Esteban Rosero grijalba | 3846 | 2014-08-28 | 08:18:05 | 09:18:05 | CUSE | pc22 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-08-28 | 17:17:33 | 18:17:33 | CUSE | pc22 |  
+1341943 | Andres David Garcia Urbano | 3857 | 2014-08-28 | 08:13:43 | 09:13:43 | CUSE | pc22 |  
+1240296 | Laura Maria Hurtado Ochoa | 2635 | 2014-08-28 | 17:19:50 | 18:19:50 | CUSE | pc23 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-08-28 | 09:36:57 | 10:36:57 | CUSE | pc23 |  
+1044655 | CAROLINA MINOTA MORENO | 3846 | 2014-08-28 | 17:18:08 | 18:18:08 | CUSE | pc24 |  
+0933500 | Jhon Freddy Menza Pavi | 3842 | 2014-08-28 | 09:56:06 | 10:56:06 | CUSE | pc25 |  
+1439955 | Stephany Quintero Azcarate | 3645 | 2014-08-28 | 10:26:01 | 11:26:01 | CUSE | pc25 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-08-28 | 18:11:00 | 19:11:00 | CUSE | pc26 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-08-28 | 17:17:49 | 18:17:49 | CUSE | pc26 |  
+1029052 | diego bayado chavez hernandez | 3842 | 2014-08-28 | 09:55:00 | 10:55:00 | CUSE | pc26 |  
+1439879 | Paola Andrea Gaviria | 3841 | 2014-08-29 | 15:25:30 | 16:25:30 | CUSE | pc01 | Clase
+1436818 | Jessica Guzman Arciniegas | 3841 | 2014-08-29 | 15:25:14 | 16:25:14 | CUSE | pc02 | Clase
+1438181 | Karol Andrea  Gutierrez | 3841 | 2014-08-29 | 15:24:49 | 16:24:49 | CUSE | pc04 | Clase
+1438714 | Richard Campo Cortes | 3841 | 2014-08-29 | 15:31:37 | 16:31:37 | CUSE | pc05 | Clase
+1441880 | Luisa Maria  Motta | 3841 | 2014-08-29 | 15:25:55 | 16:25:55 | CUSE | pc06 | Clase
+1436980 | Marly Ferneida Bravo Ordoñez | 3841 | 2014-08-29 | 15:24:28 | 16:24:28 | CUSE | pc07 |  
+1437285 | Jineth Paola Cabezas Anacona | 3841 | 2014-08-29 | 15:30:02 | 16:30:02 | CUSE | pc09 | Clase
+1439996 | William  Garces Mejia | 3841 | 2014-08-29 | 15:31:58 | 16:31:58 | CUSE | pc10 | Clase
+1441645 | Daniel Fernando  Jimenez Oviedo | 3841 | 2014-08-29 | 15:24:12 | 16:24:12 | CUSE | pc11 | Clase
+1438126 | Jhon Wilmar Arboleda Congo | 3841 | 2014-08-29 | 15:23:53 | 16:23:53 | CUSE | pc12 | Clase
+1331252 | Maria Fernanda Muñoz | 3841 | 2014-08-29 | 15:32:36 | 16:32:36 | CUSE | pc13 | Clase
+0852026 | Lady Joana Medina  Lopez | 3841 | 2014-08-29 | 15:33:05 | 16:33:05 | CUSE | pc14 | Clase
+1441619 | Jhon Edison  Buitrago | 3841 | 2014-08-29 | 15:23:22 | 16:23:22 | CUSE | pc15 | Clase
+1140144 | ERIKA NATALIA ORTIZ LANDETA | 3842 | 2014-08-29 | 17:34:02 | 18:34:02 | CUSE | pc15 |  
+1441736 | Sebastian Jimenez | 3841 | 2014-08-29 | 15:21:55 | 16:21:55 | CUSE | pc16 | Clase
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-08-29 | 17:26:56 | 18:26:56 | CUSE | pc18 | Clase
+1441916 | Jesus Alberto Benavidez | 3841 | 2014-08-29 | 15:21:10 | 16:21:10 | CUSE | pc19 | Clase
+1147132 | Mallerlin Reyes Polo | 3842 | 2014-08-29 | 17:29:31 | 18:29:31 | CUSE | pc19 |  
+1440839 | Oscar  Caicedo | 3841 | 2014-08-29 | 15:21:31 | 16:21:31 | CUSE | pc20 | Clase
+1052152 | Ingri Sulay GUTIERREZ GUAMANGA | 3845 | 2014-08-29 | 18:41:15 | 19:41:15 | CUSE | pc22 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-08-29 | 17:15:22 | 18:15:22 | CUSE | pc23 |  
+1039975 | YULY ISABEL CRUZ OLIVA | 3842 | 2014-08-29 | 18:39:54 | 19:39:54 | CUSE | pc25 |  
+1026219 | Carlos Andres Henao Moreno | 3841 | 2014-08-29 | 20:00:51 | 21:00:51 | CUSE | pc26 |  
+1110107 | Jhan Alexander  Quiñones Prado | 3846 | 2014-08-29 | 19:09:51 | 20:09:51 | CUSE | pc28 |  
+1146573 | SARA LICENIA BARONA MUNOZ | 3846 | 2014-08-30 | 16:33:47 | 17:33:47 | CUSE | pc18 | Clase
+1040609 | JANIER ANDRES CARMONA IDROBO | 3846 | 2014-08-30 | 12:22:39 | 13:22:39 | CUSE | pc25 |  
+
+
+Elaborado el... 2014-12-11
+Mes: 1 de Septiembre de 2014 al 30 de Septiembre de 2014
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1126506 | HEIDY JHOANA CHINGUAD OBANDO | 3454 | 2014-09-01 | 16:49:40 | 17:49:40 | CUSE | pc11 |  
+1132010 | ALEJANDRA ACOSTA LUCERO | 3841 | 2014-09-01 | 17:06:47 | 18:06:47 | CUSE | pc11 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-09-01 | 17:04:06 | 18:04:06 | CUSE | pc13 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-09-01 | 17:26:06 | 18:26:06 | CUSE | pc14 |  
+1226700 | ANGELA MARIA SUAREZ GALVIS | 3841 | 2014-09-01 | 15:32:38 | 16:32:38 | CUSE | pc16 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-09-01 | 16:25:12 | 17:25:12 | CUSE | pc17 |  
+1229388 | Juan Camilo  Gutierrez Vergara | 3845 | 2014-09-01 | 16:36:20 | 17:36:20 | CUSE | pc18 | Clase
+1242214 | Wilmer andres Moreno Restrepo | 2636 | 2014-09-01 | 15:30:52 | 16:30:52 | CUSE | pc18 |  
+0926016 | JHON EDWARD GOMEZ ZUÑIGA | 3841 | 2014-09-01 | 16:53:05 | 17:53:05 | CUSE | pc19 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-09-01 | 16:30:55 | 17:30:55 | CUSE | pc19 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-09-01 | 17:20:19 | 18:20:19 | CUSE | pc19 |  
+0832014 | STEPHANY VASQUEZ DELGADO | 3842 | 2014-09-01 | 15:12:37 | 16:12:37 | CUSE | pc20 |  
+1226980 | EDIXON FERNANDO DAZA CANCIMANSI | 3841 | 2014-09-01 | 09:07:23 | 10:07:23 | CUSE | pc20 |  
+1341501 | MAURICIO MORCILLO PICON | 3842 | 2014-09-01 | 17:15:07 | 18:15:07 | CUSE | pc21 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-09-01 | 15:07:30 | 16:07:30 | CUSE | pc22 |  
+0835187 | SIMON PIEDRAHITA PALACIN | 3846 | 2014-09-01 | 15:06:05 | 16:06:05 | CUSE | pc23 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-09-01 | 18:11:36 | 19:11:36 | CUSE | pc23 |  
+0837065 | JONNATHAN LOPEZ MEJIA | 3846 | 2014-09-01 | 15:05:47 | 16:05:47 | CUSE | pc24 |  
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-09-01 | 15:49:58 | 16:49:58 | CUSE | pc25 |  
+0024551 | PAULO ANDRES RIASCOS PÉREZ | 3845 | 2014-09-01 | 18:13:20 | 19:13:20 | CUSE | pc25 |  
+1425791 | wilmar arlex santana madrid | 3845 | 2014-09-01 | 18:06:55 | 19:06:55 | CUSE | pc26 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-09-02 | 17:35:23 | 18:35:23 | CUSE | pc06 |  
+1440081 | john steven torres ordoñes | 3857 | 2014-09-02 | 16:43:24 | 17:43:24 | CUSE | pc11 |  
+1147058 | Diber  Otalvaro | 2635 | 2014-09-02 | 17:47:12 | 18:47:12 | CUSE | pc13 |  
+0837065 | JONNATHAN LOPEZ MEJIA | 3846 | 2014-09-02 | 16:38:24 | 17:38:24 | CUSE | pc15 |  
+0835187 | SIMON PIEDRAHITA PALACIN | 3846 | 2014-09-02 | 16:38:07 | 17:38:07 | CUSE | pc16 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-09-02 | 16:25:55 | 17:25:55 | CUSE | pc17 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-09-02 | 16:44:10 | 17:44:10 | CUSE | pc21 |  
+1223248 | Vanessa Velasquez Villanueva | 3841 | 2014-09-02 | 17:35:10 | 18:35:10 | CUSE | pc22 |  
+1147142 | Angie Vanessa Rivas Rodriguez | 2635 | 2014-09-02 | 16:58:54 | 17:58:54 | CUSE | pc22 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-09-02 | 15:15:39 | 16:15:39 | CUSE | pc24 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-09-03 | 17:01:07 | 18:01:07 | CUSE | pc02 |  
+1228287 | Eliana Maria Franco Hurtado | 3841 | 2014-09-03 | 16:57:27 | 17:57:27 | CUSE | pc05 |  
+1226700 | ANGELA MARIA SUAREZ GALVIS | 3841 | 2014-09-03 | 16:57:12 | 17:57:12 | CUSE | pc06 |  
+1026117 | DIANA CAROLINA  VALENCIA MAYA | 3845 | 2014-09-03 | 17:56:55 | 18:56:55 | CUSE | pc07 |  
+1343367 | Freddy Alberto Meneses Tigreros | 3842 | 2014-09-03 | 15:39:12 | 16:39:12 | CUSE | pc10 |  
+1242214 | Wilmer andres Moreno Restrepo | 2636 | 2014-09-03 | 16:54:37 | 17:54:37 | CUSE | pc11 |  
+1244857 | lina marcela escobar | 2635 | 2014-09-03 | 16:23:21 | 17:23:21 | CUSE | pc15 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-09-03 | 16:22:49 | 17:22:49 | CUSE | pc16 |  
+0943396 | myriam lizeth mosquera mosquera | 3648 | 2014-09-03 | 17:11:39 | 18:11:39 | CUSE | pc18 |  
+1310262 | sebastian olarte silva | 3845 | 2014-09-03 | 17:31:14 | 18:31:14 | CUSE | pc18 |  
+1235262 | Christian Steven Garcia Tobar | 3857 | 2014-09-03 | 16:19:08 | 17:19:08 | CUSE | pc18 |  
+1425546 | Javier Joselo Trejo Bolaños | 3841 | 2014-09-03 | 16:21:43 | 17:21:43 | CUSE | pc19 |  
+0842540 | KATHERINE VALENCIA CALVACHE | 3842 | 2014-09-03 | 14:49:52 | 15:49:52 | CUSE | pc21 |  
+1424553 | Julian Andrés  Garay Fernandez | 3841 | 2014-09-03 | 17:55:58 | 18:55:58 | CUSE | pc21 | Clase
+0934716 | Giovanni SANCHEZ SOTO | 3846 | 2014-09-03 | 16:16:15 | 17:16:15 | CUSE | pc22 |  
+1223248 | Vanessa Velasquez Villanueva | 3841 | 2014-09-03 | 18:01:05 | 19:01:05 | CUSE | pc22 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-09-03 | 13:57:08 | 14:57:08 | CUSE | pc23 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-09-03 | 15:29:29 | 16:29:29 | CUSE | pc24 |  
+0844015 | Alejandra HERNANDEZ VALENCIA | 3469 | 2014-09-03 | 16:42:53 | 17:42:53 | CUSE | pc25 |  
+0934609 | LEANDRO GUZMAN SANTANILLA | 3842 | 2014-09-03 | 17:52:11 | 18:52:11 | CUSE | pc26 |  
+1243541 | Karen Andrea Franco Escobar | 3846 | 2014-09-03 | 13:56:51 | 14:56:51 | CUSE | pc28 |  
+1137583 | Adriano Esteban Rosero grijalba | 3846 | 2014-09-03 | 16:52:42 | 17:52:42 | CUSE | pc28 |  
+1435870 | Viviana Katerine obando bonilla | 3857 | 2014-09-04 | 11:36:39 | 12:36:39 | CUSE | pc11 |  
+1437534 | Juan Pablo Carvajal Giraldo | 3857 | 2014-09-04 | 11:38:01 | 12:38:01 | CUSE | pc13 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-09-04 | 17:15:38 | 18:15:38 | CUSE | pc17 |  
+0832720 | Leidy Ximena Castro Gamboa | 3845 | 2014-09-04 | 18:52:31 | 19:52:31 | CUSE | pc17 |  
+1438025 | Robin Andrés Cortés Gutierrez | 3857 | 2014-09-04 | 11:38:18 | 12:38:18 | CUSE | pc18 |  
+1341435 | Adriana Lucía Tipas Alpala | 3842 | 2014-09-04 | 16:53:51 | 17:53:51 | CUSE | pc19 |  
+1440844 | CAMILO FERNANDO MINA CARTAGENA | 3857 | 2014-09-04 | 10:18:48 | 11:18:48 | CUSE | pc20 |  
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-09-04 | 16:53:38 | 17:53:38 | CUSE | pc20 |  
+1241426 | EVELYN VARGAS SANTAMARIA | 3841 | 2014-09-04 | 18:11:24 | 19:11:24 | CUSE | pc21 |  
+1342521 | lady melisa montaño nuñez | 3842 | 2014-09-04 | 10:27:51 | 11:27:51 | CUSE | pc21 |  
+1437258 | sara del mar garavito carvajal | 3845 | 2014-09-04 | 11:49:17 | 12:49:17 | CUSE | pc21 |  
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-09-04 | 20:43:27 | 21:43:27 | CUSE | pc21 |  
+1337053 | YULIETH KATHERINE PAZ PAYAN | 3842 | 2014-09-04 | 10:28:10 | 11:28:10 | CUSE | pc22 |  
+1133217 | Alexandra Largo Daraviña | 3845 | 2014-09-04 | 17:56:33 | 18:56:33 | CUSE | pc22 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-09-04 | 18:42:47 | 19:42:47 | CUSE | pc22 |  
+1040326 | MAGNOLIA PALOMEQUE MOSQUERA | 3842 | 2014-09-04 | 10:26:10 | 11:26:10 | CUSE | pc23 |  
+1132010 | ALEJANDRA ACOSTA LUCERO | 3841 | 2014-09-04 | 19:11:43 | 20:11:43 | CUSE | pc23 |  
+0932674 | katerine meneses ramos | 3842 | 2014-09-04 | 10:31:41 | 11:31:41 | CUSE | pc24 |  
+1142313 | Jose Andres Petro Torres | 3842 | 2014-09-04 | 10:59:16 | 11:59:16 | CUSE | pc24 |  
+1133286 | Lorena GARCIA FLOREZ | 3841 | 2014-09-04 | 19:12:12 | 20:12:12 | CUSE | pc24 |  
+1052152 | Ingri Sulay GUTIERREZ GUAMANGA | 3845 | 2014-09-04 | 19:09:06 | 20:09:06 | CUSE | pc25 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-09-04 | 11:27:05 | 12:27:05 | CUSE | pc25 |  
+0737456 | Ana María Cortezano Vélez | 3841 | 2014-09-04 | 18:29:59 | 19:29:59 | CUSE | pc25 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-09-04 | 18:14:08 | 19:14:08 | CUSE | pc26 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-09-04 | 20:41:38 | 21:41:38 | CUSE | pc26 |  
+1436980 | Marly Ferneida Bravo Ordoñez | 3841 | 2014-09-05 | 15:40:15 | 16:40:15 | CUSE | pc02 | Clase
+1438712 | RICHARD CAMPO CORTES | 3841 | 2014-09-05 | 15:40:58 | 16:40:58 | CUSE | pc05 | Clase
+1441880 | Luisa Maria  Motta | 3841 | 2014-09-05 | 15:41:11 | 16:41:11 | CUSE | pc06 | Clase
+1436980 | Marly Ferneida Bravo Ordoñez | 3841 | 2014-09-05 | 15:39:40 | 16:39:40 | CUSE | pc07 | Clase
+1437443 | Nancy Paola  Cuaical | 3841 | 2014-09-05 | 15:41:45 | 16:41:45 | CUSE | pc09 | Clase
+1439996 | William  Garces Mejia | 3841 | 2014-09-05 | 15:41:25 | 16:41:25 | CUSE | pc10 | Clase
+1437764 | Stefanya Ramirez | 3841 | 2014-09-05 | 15:28:30 | 16:28:30 | CUSE | pc11 | Clase
+1331252 | Maria Fernanda Muñoz | 3841 | 2014-09-05 | 15:42:26 | 16:42:26 | CUSE | pc14 | Clase
+1035486 | Johan Sebastian Castaño Cardoza | 3842 | 2014-09-05 | 17:43:50 | 18:43:50 | CUSE | pc14 |  
+1441736 | Sebastian Jimenez | 3841 | 2014-09-05 | 15:26:24 | 16:26:24 | CUSE | pc16 | Clase
+1437285 | Jineth Paola Cabezas Anacona | 3841 | 2014-09-05 | 15:42:42 | 16:42:42 | CUSE | pc17 | Clase
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-09-05 | 17:36:05 | 18:36:05 | CUSE | pc18 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-09-05 | 08:27:11 | 09:27:11 | CUSE | pc18 |  
+1441645 | Daniel Fernando  Jimenez Oviedo | 3841 | 2014-09-05 | 15:28:09 | 16:28:09 | CUSE | pc18 | Clase
+1441619 | Jhon Edison  Buitrago | 3841 | 2014-09-05 | 15:25:48 | 16:25:48 | CUSE | pc19 | Clase
+1140144 | ERIKA NATALIA ORTIZ LANDETA | 3842 | 2014-09-05 | 17:06:43 | 18:06:43 | CUSE | pc19 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-09-05 | 17:31:13 | 18:31:13 | CUSE | pc19 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-09-05 | 09:28:54 | 10:28:54 | CUSE | pc20 |  
+1438126 | Jhon Wilmar Arboleda Congo | 3841 | 2014-09-05 | 15:27:39 | 16:27:39 | CUSE | pc20 | Clase
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-09-05 | 17:58:56 | 18:58:56 | CUSE | pc21 |  
+1229388 | Juan Camilo  Gutierrez Vergara | 3845 | 2014-09-05 | 09:23:44 | 10:23:44 | CUSE | pc22 |  
+1141542 | MARY ANN FUENTES CAÑAR | 3846 | 2014-09-05 | 08:27:40 | 09:27:40 | CUSE | pc22 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-09-05 | 17:02:30 | 18:02:30 | CUSE | pc22 |  
+1440839 | Oscar  Caicedo | 3841 | 2014-09-05 | 15:25:32 | 16:25:32 | CUSE | pc23 | Clase
+0024551 | PAULO ANDRES RIASCOS PÉREZ | 3845 | 2014-09-05 | 17:51:32 | 18:51:32 | CUSE | pc23 |  
+1147132 | Mallerlin Reyes Polo | 3842 | 2014-09-05 | 18:24:51 | 19:24:51 | CUSE | pc24 |  
+1026731 | john rodrigo  muñoz largo | 3841 | 2014-09-05 | 16:58:54 | 17:58:54 | CUSE | pc25 |  
+0827548 | Erik Alveiro Mejía Caicedo | 3845 | 2014-09-05 | 17:53:42 | 18:53:42 | CUSE | pc26 |  
+1035316 | Juan David Ordoñez Viteri | 3846 | 2014-09-05 | 08:27:25 | 09:27:25 | CUSE | pc26 |  
+1025831 | Heberardo Alexis Vega Vargas | 3845 | 2014-09-06 | 14:48:33 | 15:48:33 | CUSE | pc17 |  
+1026066 | Alexander Riascos Caicedo | 3845 | 2014-09-06 | 14:48:09 | 15:48:09 | CUSE | pc18 |  
+1139098 | maria camila  perez muñoz | 3661 | 2014-09-08 | 17:51:23 | 18:51:23 | CUSE | pc09 |  
+0926016 | JHON EDWARD GOMEZ ZUÑIGA | 3841 | 2014-09-08 | 17:12:39 | 18:12:39 | CUSE | pc10 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-09-08 | 18:49:26 | 19:49:26 | CUSE | pc11 |  
+1226700 | ANGELA MARIA SUAREZ GALVIS | 3841 | 2014-09-08 | 16:58:08 | 17:58:08 | CUSE | pc12 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-09-08 | 17:10:10 | 18:10:10 | CUSE | pc13 |  
+1226136 | LINA FERNANDA LUCUMI MOSQUERA | 3841 | 2014-09-08 | 17:16:12 | 18:16:12 | CUSE | pc14 |  
+1256451 | Paula Andrea Hernandez Montoya | 3845 | 2014-09-08 | 16:02:13 | 17:02:13 | CUSE | pc14 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-09-08 | 14:26:52 | 15:26:52 | CUSE | pc15 |  
+1130675 | Laura LOZANO DIAZ | 3841 | 2014-09-08 | 14:27:06 | 15:27:06 | CUSE | pc16 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-09-08 | 18:30:16 | 19:30:16 | CUSE | pc17 |  
+1223248 | Vanessa Velasquez Villanueva | 3841 | 2014-09-08 | 16:55:16 | 17:55:16 | CUSE | pc18 |  
+0832720 | Leidy Ximena Castro Gamboa | 3845 | 2014-09-08 | 19:08:44 | 20:08:44 | CUSE | pc18 |  
+0924470 | JONNATHAN MUÑOS TOBON | 3845 | 2014-09-08 | 14:26:18 | 15:26:18 | CUSE | pc18 |  
+1331975 | ANDERSON SISA TRASLAVIÑA | 3841 | 2014-09-08 | 16:11:20 | 17:11:20 | CUSE | pc18 |  
+0840460 | Francisco Ricardo MOLINA MORA | 3842 | 2014-09-08 | 14:40:13 | 15:40:13 | CUSE | pc19 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-09-08 | 08:13:16 | 09:13:16 | CUSE | pc20 |  
+0932674 | katerine meneses ramos | 3842 | 2014-09-08 | 17:51:56 | 18:51:56 | CUSE | pc20 |  
+0440727 | RODRIGO ALEJANDRO VERGARA LOPEZ | 3845 | 2014-09-08 | 10:45:51 | 11:45:51 | CUSE | pc21 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-09-08 | 15:03:48 | 16:03:48 | CUSE | pc21 |  
+0832906 | SANDRA XIMENA VILLAQUIRA LEON | 3846 | 2014-09-08 | 17:32:32 | 18:32:32 | CUSE | pc21 |  
+1226016 | Daniel Libar Taimal Cuiacal | 3841 | 2014-09-08 | 16:57:53 | 17:57:53 | CUSE | pc22 |  
+1052152 | Ingri Sulay GUTIERREZ GUAMANGA | 3845 | 2014-09-08 | 18:24:18 | 19:24:18 | CUSE | pc22 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-09-08 | 15:04:58 | 16:04:58 | CUSE | pc22 |  
+0841338 | MAYRA ALEJANDRA BARBOSA OSPINA | 3845 | 2014-09-08 | 19:12:09 | 20:12:09 | CUSE | pc23 |  
+1128686 | Liliana Maria Morales Trochez | 3841 | 2014-09-08 | 10:03:26 | 11:03:26 | CUSE | pc23 |  
+0940884 | Oliver Motaño | 3651 | 2014-09-08 | 14:37:55 | 15:37:55 | CUSE | pc23 | Clase
+0828100 | Ana Maria Marmolejo Duque | 3845 | 2014-09-08 | 15:41:41 | 16:41:41 | CUSE | pc23 |  
+0828100 | Ana Maria Marmolejo Duque | 3845 | 2014-09-08 | 16:36:59 | 17:36:59 | CUSE | pc23 |  
+1145999 | GUIOVANNI ROMO SOTO | 3646 | 2014-09-08 | 08:16:33 | 09:16:33 | CUSE | pc24 |  
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2014-09-08 | 16:35:10 | 17:35:10 | CUSE | pc24 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-09-08 | 09:51:42 | 10:51:42 | CUSE | pc24 |  
+1037715 | MARTHA LUCIA GARCIA OROZCO | 3842 | 2014-09-08 | 15:27:43 | 16:27:43 | CUSE | pc25 |  
+1024915 | Juan Carlos Aguilera Correa | 3845 | 2014-09-08 | 19:05:45 | 20:05:45 | CUSE | pc26 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-09-08 | 16:34:20 | 17:34:20 | CUSE | pc26 |  
+0624726 | YAMILETH AQUILINA ESPINOSA BIOJÓ | 3845 | 2014-09-08 | 17:28:37 | 18:28:37 | CUSE | pc28 |  
+1243019 | karol yuranny cuaspa velasco | 2635 | 2014-09-09 | 16:00:09 | 17:00:09 | CUSE | pc09 |  
+1335623 | julian  galvis | 3647 | 2014-09-09 | 17:14:51 | 18:14:51 | CUSE | pc09 |  
+0732435 | ALEXA FERNANDA REVELO DE LA ROSA | 3842 | 2014-09-09 | 18:37:36 | 19:37:36 | CUSE | pc09 |  
+0733808 | JAKELINE MORENO PEREA | 3841 | 2014-09-09 | 18:08:11 | 19:08:11 | CUSE | pc10 |  
+1338744 | JOHN FERNAN HERNANDEZ ALVARADO | 3846 | 2014-09-09 | 17:29:49 | 18:29:49 | CUSE | pc10 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-09-09 | 17:15:28 | 18:15:28 | CUSE | pc11 |  
+0835187 | SIMON PIEDRAHITA PALACIN | 3846 | 2014-09-09 | 15:35:34 | 16:35:34 | CUSE | pc12 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-09-09 | 14:17:50 | 15:17:50 | CUSE | pc13 |  
+1227890 | MARIA ANDREA LOPEZ CASAS | 3845 | 2014-09-09 | 16:44:13 | 17:44:13 | CUSE | pc14 |  
+1341338 | Daniela  Possu  | 3857 | 2014-09-09 | 15:34:02 | 16:34:02 | CUSE | pc16 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-09-09 | 17:16:34 | 18:16:34 | CUSE | pc17 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-09-09 | 14:48:08 | 15:48:08 | CUSE | pc17 |  
+0130901 | HERNANDO ANTONIO GIRALDO BOTERO | 3845 | 2014-09-09 | 14:34:49 | 15:34:49 | CUSE | pc17 |  
+1133217 | Alexandra Largo Daraviña | 3845 | 2014-09-09 | 18:09:43 | 19:09:43 | CUSE | pc17 |  
+1242043 | eder aleison nieto carvajal  | 3660 | 2014-09-09 | 17:17:44 | 18:17:44 | CUSE | pc18 |  
+1044795 | yoirle collazos gomez | 3857 | 2014-09-09 | 08:01:20 | 09:01:20 | CUSE | pc18 |  
+1145413 | Christian Urbano Martinez | 3846 | 2014-09-09 | 18:39:02 | 19:39:02 | CUSE | pc18 |  
+1138300 | Karen Estefani Gonzalez Aragon | 3645 | 2014-09-09 | 18:42:20 | 19:42:20 | CUSE | pc19 |  
+0840460 | Francisco Ricardo MOLINA MORA | 3842 | 2014-09-09 | 14:17:39 | 15:17:39 | CUSE | pc19 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-09-09 | 18:42:06 | 19:42:06 | CUSE | pc20 |  
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2014-09-09 | 14:12:59 | 15:12:59 | CUSE | pc20 |  
+1324408 | Jaime Orlando Aza Aza | 3841 | 2014-09-09 | 15:30:23 | 16:30:23 | CUSE | pc21 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-09-09 | 14:34:06 | 15:34:06 | CUSE | pc21 |  
+1147058 | Diber  Otalvaro | 2635 | 2014-09-09 | 17:34:56 | 18:34:56 | CUSE | pc22 |  
+0939513 | Jessica Natalia Espinosa Martinez | 3842 | 2014-09-09 | 18:07:39 | 19:07:39 | CUSE | pc23 |  
+1242043 | eder aleison nieto carvajal  | 3660 | 2014-09-09 | 15:28:41 | 16:28:41 | CUSE | pc23 |  
+0837715 | Karen Danitza Ordoñes Solarte | 3842 | 2014-09-09 | 14:35:49 | 15:35:49 | CUSE | pc24 |  
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2014-09-09 | 17:59:03 | 18:59:03 | CUSE | pc24 |  
+1230373 | Juan Sebastian Barbosa Fernandez | 3845 | 2014-09-09 | 16:01:23 | 17:01:23 | CUSE | pc24 |  
+1036678 | jeiner andres giraldo calambas  | 3842 | 2014-09-09 | 18:41:10 | 19:41:10 | CUSE | pc25 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-09-09 | 16:00:24 | 17:00:24 | CUSE | pc25 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-09-09 | 18:04:56 | 19:04:56 | CUSE | pc25 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-09-09 | 18:34:16 | 19:34:16 | CUSE | pc26 |  
+1261238 | Gina Daniela Colmenares Melendez | 3845 | 2014-09-09 | 16:41:55 | 17:41:55 | CUSE | pc26 |  
+1243491 | Luis Alfredo Muelas Vitonas | 3846 | 2014-09-09 | 16:42:44 | 17:42:44 | CUSE | pc28 |  
+0832014 | STEPHANY VASQUEZ DELGADO | 3842 | 2014-09-10 | 15:54:30 | 16:54:30 | CUSE | pc09 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-09-10 | 17:09:36 | 18:09:36 | CUSE | pc14 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-09-10 | 16:41:36 | 17:41:36 | CUSE | pc17 |  
+1341501 | MAURICIO MORCILLO PICON | 3842 | 2014-09-10 | 16:32:37 | 17:32:37 | CUSE | pc21 |  
+1243501 | LUZ KARINE JARAMILLO RODRIGUEZ  | 2635 | 2014-09-10 | 15:49:54 | 16:49:54 | CUSE | pc22 |  
+1240840 | Julieth Sofìa Alarcon Garcia | 3842 | 2014-09-10 | 15:44:20 | 16:44:20 | CUSE | pc22 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-09-10 | 17:25:59 | 18:25:59 | CUSE | pc22 |  
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-09-10 | 17:15:00 | 18:15:00 | CUSE | pc23 |  
+0932674 | katerine meneses ramos | 3842 | 2014-09-10 | 17:07:31 | 18:07:31 | CUSE | pc23 |  
+0932674 | katerine meneses ramos | 3842 | 2014-09-10 | 17:12:20 | 18:12:20 | CUSE | pc24 |  
+1145999 | GUIOVANNI ROMO SOTO | 3646 | 2014-09-10 | 17:09:15 | 18:09:15 | CUSE | pc25 |  
+1035316 | Juan David Ordoñez Viteri | 3846 | 2014-09-10 | 15:44:47 | 16:44:47 | CUSE | pc25 |  
+1245314 | deisy lorena rodriguez rivera | 2635 | 2014-09-10 | 17:23:12 | 18:23:12 | CUSE | pc25 |  
+1426553 | Angela Maria Imbachi | 3841 | 2014-09-10 | 17:49:34 | 18:49:34 | CUSE | pc26 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-09-10 | 15:37:05 | 16:37:05 | CUSE | pc28 |  
+0826654 | DIANA  GALINDEZ | 3846 | 2014-09-11 | 11:13:44 | 12:13:44 | CUSE | pc01 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-09-11 | 11:13:31 | 12:13:31 | CUSE | pc02 |  
+1235462 | David Florz Osorio | 3842 | 2014-09-11 | 10:50:01 | 11:50:01 | CUSE | pc13 |  
+0926029 | psblo julio saavedra soto | 3842 | 2014-09-11 | 17:29:29 | 18:29:29 | CUSE | pc16 |  
+1139209 | Carol Vanessa  Tascon Solarte | 3651 | 2014-09-11 | 10:25:41 | 11:25:41 | CUSE | pc16 |  
+1342384 | Shareen Marcela Vera Puentes | 3842 | 2014-09-11 | 10:39:11 | 11:39:11 | CUSE | pc17 |  
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-09-11 | 18:16:18 | 19:16:18 | CUSE | pc17 |  
+1235462 | David Florz Osorio | 3842 | 2014-09-11 | 17:33:10 | 18:33:10 | CUSE | pc17 |  
+1147058 | Diber  Otalvaro | 2635 | 2014-09-11 | 17:45:13 | 18:45:13 | CUSE | pc18 |  
+0926029 | psblo julio saavedra soto | 3842 | 2014-09-11 | 18:14:22 | 19:14:22 | CUSE | pc18 |  
+0844901 | BLANCA GALLO LADINO | 3841 | 2014-09-11 | 17:45:33 | 18:45:33 | CUSE | pc19 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-09-11 | 10:26:13 | 11:26:13 | CUSE | pc19 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-09-11 | 12:20:58 | 13:20:58 | CUSE | pc20 |  
+1242510 | Diana Marcela PONCE CACHIMBO | 2635 | 2014-09-11 | 17:20:44 | 18:20:44 | CUSE | pc20 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-09-11 | 11:58:19 | 12:58:19 | CUSE | pc21 |  
+1133455 | Bryan Paul Tascon Hoyos | 3845 | 2014-09-11 | 17:38:04 | 18:38:04 | CUSE | pc22 |  
+1126597 | Natasha Victoria Morales | 3845 | 2014-09-11 | 17:57:25 | 18:57:25 | CUSE | pc22 |  
+1245414 | paola andrea trujillo lamus | 3857 | 2014-09-11 | 17:19:05 | 18:19:05 | CUSE | pc23 |  
+1237303 | Astrid Carolina Astaiza Tabares | 3857 | 2014-09-11 | 12:23:10 | 13:23:10 | CUSE | pc23 |  
+1038584 | FABIO ANDRES GONZALEZ MUÑOZ | 3842 | 2014-09-11 | 17:44:58 | 18:44:58 | CUSE | pc23 |  
+1036678 | jeiner andres giraldo calambas  | 3842 | 2014-09-11 | 17:44:08 | 18:44:08 | CUSE | pc24 |  
+1236791 | Alejandro Reyes Salas | 3846 | 2014-09-11 | 10:31:29 | 11:31:29 | CUSE | pc24 |  
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2014-09-11 | 17:16:24 | 18:16:24 | CUSE | pc25 |  
+1238825 | Yudy Natalia Avirama Fernández | 3842 | 2014-09-12 | 08:25:39 | 09:25:39 | CUSE | pc01 |  
+1437443 | Nancy Paola  Cuaical | 3841 | 2014-09-12 | 15:45:01 | 16:45:01 | CUSE | pc02 |  
+1310289 | Andres Felipe Trujillo Gomez | 3842 | 2014-09-12 | 08:25:52 | 09:25:52 | CUSE | pc02 |  
+1441916 | Jesus Alberto Benavidez | 3841 | 2014-09-12 | 15:44:40 | 16:44:40 | CUSE | pc05 |  
+1331252 | Maria Fernanda Muñoz | 3841 | 2014-09-12 | 15:46:01 | 16:46:01 | CUSE | pc06 |  
+1441619 | Jhon Edison  Buitrago | 3841 | 2014-09-12 | 15:49:24 | 16:49:24 | CUSE | pc07 | Clase
+1432745 | Brayan Carvajal | 3469 | 2014-09-12 | 15:45:23 | 16:45:23 | CUSE | pc08 | Clase
+1437285 | Jineth Paola Cabezas Anacona | 3841 | 2014-09-12 | 15:45:43 | 16:45:43 | CUSE | pc09 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-09-12 | 09:05:58 | 10:05:58 | CUSE | pc09 |  
+1441645 | Daniel Fernando  Jimenez Oviedo | 3841 | 2014-09-12 | 15:46:50 | 16:46:50 | CUSE | pc10 | Clase
+1436818 | Jessica Guzman Arciniegas | 3841 | 2014-09-12 | 15:48:51 | 16:48:51 | CUSE | pc11 | Clase
+0852026 | Lady Joana Medina  Lopez | 3841 | 2014-09-12 | 15:46:16 | 16:46:16 | CUSE | pc12 |  
+1437764 | Stefanya Ramirez | 3841 | 2014-09-12 | 15:47:57 | 16:47:57 | CUSE | pc14 | Clase
+1439879 | Paola Andrea Gaviria | 3841 | 2014-09-12 | 15:49:09 | 16:49:09 | CUSE | pc16 | Clase
+1441916 | Jesus Alberto Benavidez | 3841 | 2014-09-12 | 15:47:21 | 16:47:21 | CUSE | pc17 | Clase
+1245314 | deisy lorena rodriguez rivera | 2635 | 2014-09-12 | 17:37:57 | 18:37:57 | CUSE | pc18 |  
+1438712 | RICHARD CAMPO CORTES | 3841 | 2014-09-12 | 15:47:36 | 16:47:36 | CUSE | pc19 | Clase
+1242214 | Wilmer andres Moreno Restrepo | 2636 | 2014-09-12 | 18:06:09 | 19:06:09 | CUSE | pc19 |  
+1441880 | Luisa Maria  Motta | 3841 | 2014-09-12 | 15:46:33 | 16:46:33 | CUSE | pc21 | Clase
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-09-12 | 18:02:04 | 19:02:04 | CUSE | pc21 |  
+1436980 | Marly Ferneida Bravo Ordoñez | 3841 | 2014-09-12 | 15:48:36 | 16:48:36 | CUSE | pc22 | Clase
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-09-12 | 18:48:52 | 19:48:52 | CUSE | pc22 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-09-12 | 17:38:16 | 18:38:16 | CUSE | pc23 |  
+0731292 | LINDA JENNIFER ALVAREZ LOPEZ | 3842 | 2014-09-12 | 17:46:48 | 18:46:48 | CUSE | pc24 |  
+0024551 | PAULO ANDRES RIASCOS PÉREZ | 3845 | 2014-09-12 | 17:44:17 | 18:44:17 | CUSE | pc25 |  
+0832906 | SANDRA XIMENA VILLAQUIRA LEON | 3846 | 2014-09-12 | 18:47:40 | 19:47:40 | CUSE | pc25 |  
+1425791 | wilmar arlex santana madrid | 3845 | 2014-09-13 | 11:23:38 | 12:23:38 | CUSE | pc18 |  
+1425791 | wilmar arlex santana madrid | 3845 | 2014-09-13 | 09:27:42 | 10:27:42 | CUSE | pc19 |  
+0535411 | Diana marcela Azcarate | 3556 | 2014-09-13 | 14:13:06 | 15:13:06 | CUSE | pc19 |  
+1026731 | john rodrigo  muñoz largo | 3841 | 2014-09-13 | 16:04:00 | 17:04:00 | CUSE | pc19 |  
+1146573 | SARA LICENIA BARONA MUNOZ | 3846 | 2014-09-13 | 16:34:17 | 17:34:17 | CUSE | pc19 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-09-13 | 16:40:30 | 17:40:30 | CUSE | pc21 |  
+1224301 | Diana Milena  Lozano Reyes | 3845 | 2014-09-13 | 09:28:19 | 10:28:19 | CUSE | pc24 |  
+1126665 | Gustavo Adolfo GUASAQUILLO PERDOMO | 3841 | 2014-09-13 | 09:24:20 | 10:24:20 | CUSE | pc26 |  
+1229388 | Juan Camilo  Gutierrez Vergara | 3845 | 2014-09-13 | 10:14:00 | 11:14:00 | CUSE | pc27 |  
+1024193 | mauricio marulanda lopez | 3846 | 2014-09-13 | 11:41:02 | 12:41:02 | CUSE | pc28 |  
+1239058 | FREDDY LEANDRO ARANGO GIRALDO | 3846 | 2014-09-15 | 17:21:10 | 18:21:10 | CUSE | pc07 |  
+1037650 | Irma  Medina Aquite | 2635 | 2014-09-15 | 16:29:07 | 17:29:07 | CUSE | pc09 |  
+1241352 | NATHANAEL MEDINA PINEDA | 3846 | 2014-09-15 | 17:04:46 | 18:04:46 | CUSE | pc09 |  
+1236863 | Andres Fernando Gallego Hurmendiz | 3845 | 2014-09-15 | 17:04:25 | 18:04:25 | CUSE | pc10 |  
+1044039 | Diana Lorena GONZALEZ | 2635 | 2014-09-15 | 16:28:49 | 17:28:49 | CUSE | pc10 |  
+1025839 | Diana Vanesa Franco | 3845 | 2014-09-15 | 17:05:13 | 18:05:13 | CUSE | pc11 |  
+1245568 | JENNIFER  MESA ARBOLEDA | 3845 | 2014-09-15 | 17:26:50 | 18:26:50 | CUSE | pc12 |  
+1337633 | olmer enrique mina segura | 3842 | 2014-09-15 | 11:42:53 | 12:42:53 | CUSE | pc13 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-09-15 | 15:26:34 | 16:26:34 | CUSE | pc14 |  
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-09-15 | 16:28:35 | 17:28:35 | CUSE | pc15 |  
+1436899 | Diana Zuñiga | 3648 | 2014-09-15 | 12:40:35 | 13:40:35 | CUSE | pc16 |  
+1341501 | MAURICIO MORCILLO PICON | 3842 | 2014-09-15 | 10:54:54 | 11:54:54 | CUSE | pc17 |  
+0024551 | PAULO ANDRES RIASCOS PÉREZ | 3845 | 2014-09-15 | 17:24:43 | 18:24:43 | CUSE | pc17 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-09-15 | 14:15:39 | 15:15:39 | CUSE | pc17 |  
+1241025 | Daniela Rogelis Gomez | 3857 | 2014-09-15 | 09:34:21 | 10:34:21 | CUSE | pc17 |  
+1338289 | juan pablo orozco alzate | 3842 | 2014-09-15 | 11:37:40 | 12:37:40 | CUSE | pc18 |  
+0923828 | JENNIFER BLANDON RIOS | 3841 | 2014-09-15 | 16:03:21 | 17:03:21 | CUSE | pc18 |  
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 2014-09-15 | 15:30:33 | 16:30:33 | CUSE | pc18 |  
+0939513 | Jessica Natalia Espinosa Martinez | 3842 | 2014-09-15 | 14:20:58 | 15:20:58 | CUSE | pc18 |  
+1223248 | Vanessa Velasquez Villanueva | 3841 | 2014-09-15 | 16:53:57 | 17:53:57 | CUSE | pc18 |  
+1243519 | Yessenia Esmeralda Ruiz Perez | 3857 | 2014-09-15 | 09:34:37 | 10:34:37 | CUSE | pc18 |  
+1240840 | Julieth Sofìa Alarcon Garcia | 3842 | 2014-09-15 | 16:50:59 | 17:50:59 | CUSE | pc18 |  
+1146801 | Fransirley Gonzales Jaramillo | 2636 | 2014-09-15 | 16:04:20 | 17:04:20 | CUSE | pc19 |  
+1338078 | AURA CRISTINA SANABRIA DOMINGUEZ  | 3857 | 2014-09-15 | 09:03:16 | 10:03:16 | CUSE | pc20 |  
+1038018 | LIZBETH YULIET OCAMPO HERNANDEZ | 3842 | 2014-09-15 | 18:04:31 | 19:04:31 | CUSE | pc20 |  
+1238828 | Angelica  Aristizabal | 3842 | 2014-09-15 | 10:42:59 | 11:42:59 | CUSE | pc20 |  
+1036278 | kelly falom chamorro armero | 3846 | 2014-09-15 | 17:57:47 | 18:57:47 | CUSE | pc21 |  
+1229546 | Juan Camilo Lozano Chica | 3841 | 2014-09-15 | 17:00:20 | 18:00:20 | CUSE | pc22 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-09-15 | 14:56:33 | 15:56:33 | CUSE | pc23 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-09-15 | 15:58:05 | 16:58:05 | CUSE | pc24 |  
+1035316 | Juan David Ordoñez Viteri | 3846 | 2014-09-15 | 14:58:33 | 15:58:33 | CUSE | pc25 |  
+1133286 | Lorena GARCIA FLOREZ | 3841 | 2014-09-15 | 18:05:29 | 19:05:29 | CUSE | pc25 |  
+1241593 | Carolina Guillen Reina | 3842 | 2014-09-15 | 14:17:27 | 15:17:27 | CUSE | pc26 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-09-15 | 16:38:57 | 17:38:57 | CUSE | pc26 |  
+1032707 | Darling Arboleda Gil | 3846 | 2014-09-15 | 17:56:56 | 18:56:56 | CUSE | pc26 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-09-15 | 14:48:57 | 15:48:57 | CUSE | pc28 |  
+1437507 | Isabella Zuluaga Ocampo | 3857 | 2014-09-15 | 12:10:02 | 13:10:02 | CUSE | pc28 |  
+0943748 | karime nathaly  santacruz | 3842 | 2014-09-16 | 19:11:45 | 20:11:45 | CUSE | pc19 |  
+0939313 | Gina Garcia | 3842 | 2014-09-16 | 19:11:59 | 20:11:59 | CUSE | pc20 |  
+0832906 | SANDRA XIMENA VILLAQUIRA LEON | 3846 | 2014-09-16 | 18:38:02 | 19:38:02 | CUSE | pc21 |  
+1041133 | Jorge Nelson Mora P | 3846 | 2014-09-16 | 18:47:25 | 19:47:25 | CUSE | pc22 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-09-16 | 18:05:31 | 19:05:31 | CUSE | pc22 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-09-16 | 19:05:54 | 20:05:54 | CUSE | pc23 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-09-16 | 18:21:06 | 19:21:06 | CUSE | pc25 |  
+1126597 | Natasha Victoria Morales | 3845 | 2014-09-16 | 18:01:46 | 19:01:46 | CUSE | pc26 |  
+1245314 | deisy lorena rodriguez rivera | 2635 | 2014-09-16 | 18:01:31 | 19:01:31 | CUSE | pc28 |  
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-09-16 | 20:11:38 | 21:11:38 | CUSE | pc28 |  
+1310262 | sebastian olarte silva | 3845 | 2014-09-17 | 16:56:34 | 17:56:34 | CUSE | pc01 |  
+1125937 | LOPEZ CALLE STIWAR | 3845 | 2014-09-17 | 15:34:46 | 16:34:46 | CUSE | pc02 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-09-17 | 14:18:24 | 15:18:24 | CUSE | pc02 |  
+1245392 | Eider Andres  Tenorio Angulo  | 3846 | 2014-09-17 | 17:01:16 | 18:01:16 | CUSE | pc05 |  
+1236791 | Alejandro Reyes Salas | 3846 | 2014-09-17 | 16:48:55 | 17:48:55 | CUSE | pc06 |  
+0522402 | MARITZABEL BERMUDEZ ARANGO | 3845 | 2014-09-17 | 15:37:35 | 16:37:35 | CUSE | pc07 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-09-17 | 15:13:16 | 16:13:16 | CUSE | pc10 |  
+1341156 | Daniela Montero Ojeda | 3857 | 2014-09-17 | 14:30:07 | 15:30:07 | CUSE | pc10 |  
+1238540 | Jhoan Stiven Rodriguez Ovalle | 3842 | 2014-09-17 | 15:12:27 | 16:12:27 | CUSE | pc12 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-09-17 | 17:31:29 | 18:31:29 | CUSE | pc13 |  
+1239058 | FREDDY LEANDRO ARANGO GIRALDO | 3846 | 2014-09-17 | 17:43:18 | 18:43:18 | CUSE | pc14 |  
+1146686 | DANIELA ASTRID COMETA | 3842 | 2014-09-17 | 14:24:18 | 15:24:18 | CUSE | pc14 |  
+1142914 | Pedro Luis Asprilla | 1111 | 2014-09-17 | 15:03:10 | 16:03:10 | CUSE | pc14 |  
+0934228 | Marlon Perez Mendoza | 3841 | 2014-09-17 | 16:39:44 | 17:39:44 | CUSE | pc15 |  
+1338047 | Jackeline Realpe Ledezma | 3857 | 2014-09-17 | 14:19:18 | 15:19:18 | CUSE | pc15 |  
+1261238 | Gina Daniela Colmenares Melendez | 3845 | 2014-09-17 | 14:47:43 | 15:47:43 | CUSE | pc16 |  
+1338078 | AURA CRISTINA SANABRIA DOMINGUEZ  | 3857 | 2014-09-17 | 14:19:36 | 15:19:36 | CUSE | pc16 |  
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-09-17 | 16:11:06 | 17:11:06 | CUSE | pc16 |  
+1044720 | DANIELA GUEVARA GONZALEZ | 3842 | 2014-09-17 | 17:46:36 | 18:46:36 | CUSE | pc16 |  
+1110392 | Jackeline  Ramos Torres | 3845 | 2014-09-17 | 14:24:47 | 15:24:47 | CUSE | pc17 |  
+1139148 | ELCY MAGALI CARANGUAY YAMPUESAN | 3846 | 2014-09-17 | 16:34:19 | 17:34:19 | CUSE | pc18 |  
+1243501 | LUZ KARINE JARAMILLO RODRIGUEZ  | 2635 | 2014-09-17 | 17:48:31 | 18:48:31 | CUSE | pc18 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-09-17 | 16:57:56 | 17:57:56 | CUSE | pc18 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-09-17 | 14:10:37 | 15:10:37 | CUSE | pc18 |  
+0835401 | Paola Yineth Acosta Ortiz | 3751 | 2014-09-17 | 16:52:59 | 17:52:59 | CUSE | pc18 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-09-17 | 14:13:48 | 15:13:48 | CUSE | pc19 |  
+0832559 | diana maria carvajal trochez | 3845 | 2014-09-17 | 16:53:26 | 17:53:26 | CUSE | pc20 |  
+1039975 | YULY ISABEL CRUZ OLIVA | 3842 | 2014-09-17 | 14:20:42 | 15:20:42 | CUSE | pc21 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-09-17 | 17:18:52 | 18:18:52 | CUSE | pc22 |  
+1341338 | Daniela  Possu  | 3857 | 2014-09-17 | 14:33:30 | 15:33:30 | CUSE | pc22 |  
+0932674 | katerine meneses ramos | 3842 | 2014-09-17 | 17:22:29 | 18:22:29 | CUSE | pc23 |  
+1231664 | Francisco Javier Aguirre Castaño | 3845 | 2014-09-17 | 18:01:37 | 19:01:37 | CUSE | pc23 |  
+1224301 | Diana Milena  Lozano Reyes | 3845 | 2014-09-17 | 17:40:26 | 18:40:26 | CUSE | pc23 |  
+1036678 | jeiner andres giraldo calambas  | 3842 | 2014-09-17 | 16:23:53 | 17:23:53 | CUSE | pc24 |  
+0635115 | miguel martinez serna | 3748 | 2014-09-17 | 14:25:15 | 15:25:15 | CUSE | pc24 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-09-17 | 14:30:54 | 15:30:54 | CUSE | pc25 |  
+1341501 | MAURICIO MORCILLO PICON | 3842 | 2014-09-17 | 17:42:45 | 18:42:45 | CUSE | pc26 |  
+1135480 | Erick Sarmiento Bejarano | 3846 | 2014-09-17 | 17:03:36 | 18:03:36 | CUSE | pc26 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-09-18 | 10:42:34 | 11:42:34 | CUSE | pc09 |  
+1138055 | Jorge Andres Aguirre Paredes | 3845 | 2014-09-18 | 10:43:00 | 11:43:00 | CUSE | pc10 |  
+1139148 | ELCY MAGALI CARANGUAY YAMPUESAN | 3846 | 2014-09-18 | 10:42:21 | 11:42:21 | CUSE | pc13 |  
+0934459 | Gener David Tique Benitez | 3846 | 2014-09-18 | 10:42:00 | 11:42:00 | CUSE | pc14 |  
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2014-09-18 | 10:18:16 | 11:18:16 | CUSE | pc20 |  
+1142103 | Juan Felipe  Gonzales Rodriguez | 3846 | 2014-09-18 | 10:51:17 | 11:51:17 | CUSE | pc21 |  
+1243541 | Karen Andrea Franco Escobar | 3846 | 2014-09-18 | 10:50:57 | 11:50:57 | CUSE | pc22 |  
+0652188 | RICARDO BRICEÑO SIERRA | 3845 | 2014-09-18 | 10:29:23 | 11:29:23 | CUSE | pc24 |  
+0842540 | KATHERINE VALENCIA CALVACHE | 3842 | 2014-09-18 | 12:08:46 | 13:08:46 | CUSE | pc25 |  
+1438461 | OSCAR IVAN BELTRAN RAMIREZ | 3857 | 2014-09-19 | 08:56:37 | 09:56:37 | CUSE | pc03 |  
+1441880 | Luisa Maria  Motta | 3841 | 2014-09-19 | 17:06:48 | 18:06:48 | CUSE | pc03 |  
+0852026 | Lady Joana Medina  Lopez | 3841 | 2014-09-19 | 17:05:15 | 18:05:15 | CUSE | pc04 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-09-19 | 08:56:21 | 09:56:21 | CUSE | pc05 |  
+1432745 | Brayan Carvajal | 3469 | 2014-09-19 | 17:06:19 | 18:06:19 | CUSE | pc05 |  
+1436818 | Jessica Guzman Arciniegas | 3841 | 2014-09-19 | 17:07:03 | 18:07:03 | CUSE | pc06 |  
+1437443 | Nancy Paola  Cuaical | 3841 | 2014-09-19 | 17:05:47 | 18:05:47 | CUSE | pc07 |  
+1441645 | Daniel Fernando  Jimenez Oviedo | 3841 | 2014-09-19 | 17:06:02 | 18:06:02 | CUSE | pc08 |  
+1441916 | Jesus Alberto Benavidez | 3841 | 2014-09-19 | 17:08:52 | 18:08:52 | CUSE | pc09 |  
+1436980 | Marly Ferneida Bravo Ordoñez | 3841 | 2014-09-19 | 17:07:57 | 18:07:57 | CUSE | pc10 |  
+1438181 | Karol Andrea  Gutierrez | 3841 | 2014-09-19 | 17:07:23 | 18:07:23 | CUSE | pc12 |  
+1441619 | Jhon Edison  Buitrago | 3841 | 2014-09-19 | 17:08:17 | 18:08:17 | CUSE | pc14 |  
+1437285 | Jineth Paola Cabezas Anacona | 3841 | 2014-09-19 | 17:05:30 | 18:05:30 | CUSE | pc15 |  
+1439996 | William  Garces Mejia | 3841 | 2014-09-19 | 17:07:40 | 18:07:40 | CUSE | pc17 |  
+1441736 | Sebastian Jimenez | 3841 | 2014-09-19 | 17:09:09 | 18:09:09 | CUSE | pc19 |  
+1438126 | Jhon Wilmar Arboleda Congo | 3841 | 2014-09-19 | 17:08:35 | 18:08:35 | CUSE | pc20 |  
+1242214 | Wilmer andres Moreno Restrepo | 2636 | 2014-09-19 | 17:38:42 | 18:38:42 | CUSE | pc21 |  
+1244674 | Jhon Jader  Bedoya Abanis | 3842 | 2014-09-19 | 17:40:13 | 18:40:13 | CUSE | pc22 |  
+1439879 | Paola Andrea Gaviria | 3841 | 2014-09-19 | 17:04:30 | 18:04:30 | CUSE | pc22 |  
+0940134 | DAVID ESTEBAN RINCON JARAMILLO | 3842 | 2014-09-19 | 18:40:57 | 19:40:57 | CUSE | pc23 |  
+0827548 | Erik Alveiro Mejía Caicedo | 3845 | 2014-09-19 | 19:31:51 | 20:31:51 | CUSE | pc24 |  
+1133422 | Andres Felipe Quijano Zambrano | 3841 | 2014-09-19 | 18:26:57 | 19:26:57 | CUSE | pc24 |  
+0746988 | Heidy Aguilar Mosquera | 3846 | 2014-09-19 | 17:58:23 | 18:58:23 | CUSE | pc25 |  
+1146801 | Fransirley Gonzales Jaramillo | 2636 | 2014-09-19 | 17:57:40 | 18:57:40 | CUSE | pc26 |  
+1147132 | Mallerlin Reyes Polo | 3842 | 2014-09-19 | 18:03:17 | 19:03:17 | CUSE | pc26 |  
+1235687 | sara cristina valderrama zuñiga | 3846 | 2014-09-22 | 17:29:17 | 18:29:17 | CUSE | pc01 |  
+1236791 | Alejandro Reyes Salas | 3846 | 2014-09-22 | 17:28:59 | 18:28:59 | CUSE | pc02 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-09-22 | 17:40:49 | 18:40:49 | CUSE | pc04 |  
+1223248 | Vanessa Velasquez Villanueva | 3841 | 2014-09-22 | 17:12:10 | 18:12:10 | CUSE | pc06 |  
+1243501 | LUZ KARINE JARAMILLO RODRIGUEZ  | 2635 | 2014-09-22 | 17:19:10 | 18:19:10 | CUSE | pc07 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-09-22 | 17:40:10 | 18:40:10 | CUSE | pc09 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-09-22 | 17:09:53 | 18:09:53 | CUSE | pc10 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-09-22 | 17:23:45 | 18:23:45 | CUSE | pc11 |  
+1140183 | JOHANA SALAS | 3651 | 2014-09-22 | 12:18:27 | 13:18:27 | CUSE | pc13 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-09-22 | 16:34:55 | 17:34:55 | CUSE | pc14 |  
+1228287 | Eliana Maria Franco Hurtado | 3841 | 2014-09-22 | 14:21:06 | 15:21:06 | CUSE | pc15 |  
+1226700 | ANGELA MARIA SUAREZ GALVIS | 3841 | 2014-09-22 | 14:20:50 | 15:20:50 | CUSE | pc16 |  
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-09-22 | 10:12:06 | 11:12:06 | CUSE | pc16 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-09-22 | 10:51:54 | 11:51:54 | CUSE | pc17 |  
+0924322 | DANIEL ALEJANDRO GUASMAYAN BENAVIDES | 3857 | 2014-09-22 | 11:18:25 | 12:18:25 | CUSE | pc18 |  
+1242515 | Alejandro  Castellanos Solis  | 3842 | 2014-09-22 | 17:29:43 | 18:29:43 | CUSE | pc19 |  
+1243501 | LUZ KARINE JARAMILLO RODRIGUEZ  | 2635 | 2014-09-22 | 17:22:38 | 18:22:38 | CUSE | pc20 |  
+1031956 | ERLENDY IBARBO PERLAZA | 3857 | 2014-09-22 | 10:08:34 | 11:08:34 | CUSE | pc20 |  
+1422916 | Jhon Sebastian Giraldo | 3841 | 2014-09-22 | 17:05:44 | 18:05:44 | CUSE | pc22 |  
+1242214 | Wilmer andres Moreno Restrepo | 2636 | 2014-09-22 | 14:31:32 | 15:31:32 | CUSE | pc22 |  
+0625333 | FRANCISCO JAVIER GRUESO LEMOS | 3845 | 2014-09-22 | 10:52:48 | 11:52:48 | CUSE | pc23 |  
+0625333 | FRANCISCO JAVIER GRUESO LEMOS | 3845 | 2014-09-22 | 14:04:40 | 15:04:40 | CUSE | pc23 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-09-22 | 17:04:27 | 18:04:27 | CUSE | pc24 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-09-22 | 16:52:53 | 17:52:53 | CUSE | pc25 |  
+1223059 | JESSENIA BOTERO TASCON | 3841 | 2014-09-22 | 17:06:34 | 18:06:34 | CUSE | pc26 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-09-22 | 11:17:45 | 12:17:45 | CUSE | pc26 |  
+1310262 | sebastian olarte silva | 3845 | 2014-09-22 | 17:48:06 | 18:48:06 | CUSE | pc28 |  
+0923828 | JENNIFER BLANDON RIOS | 3841 | 2014-09-22 | 11:31:05 | 12:31:05 | CUSE | pc28 |  
+1138300 | Karen Estefani Gonzalez Aragon | 3645 | 2014-09-23 | 17:39:46 | 18:39:46 | CUSE | pc12 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-09-23 | 17:19:11 | 18:19:11 | CUSE | pc13 |  
+1226980 | EDIXON FERNANDO DAZA CANCIMANSI | 3841 | 2014-09-23 | 17:53:01 | 18:53:01 | CUSE | pc15 |  
+1341560 | juan daniel rivera gallego | 3842 | 2014-09-23 | 14:42:25 | 15:42:25 | CUSE | pc16 |  
+1155272 | Angela Katherine Diaz Orozco | 3845 | 2014-09-23 | 17:19:45 | 18:19:45 | CUSE | pc16 |  
+0122244 | MARIA FERNANDA MEDINA | 3845 | 2014-09-23 | 17:03:16 | 18:03:16 | CUSE | pc17 |  
+1044255 | SEBASTIAN ACHURY DELGADO | 3648 | 2014-09-23 | 14:41:24 | 15:41:24 | CUSE | pc17 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-09-23 | 15:04:04 | 16:04:04 | CUSE | pc17 |  
+1110312 | Laura Andrea Espinosa Mosquera | 3646 | 2014-09-23 | 14:41:36 | 15:41:36 | CUSE | pc18 |  
+1342384 | Shareen Marcela Vera Puentes | 3842 | 2014-09-23 | 14:42:07 | 15:42:07 | CUSE | pc19 |  
+1337083 | DIANA CAROLINA VALLEJO TABORDA | 3842 | 2014-09-23 | 14:41:54 | 15:41:54 | CUSE | pc20 |  
+1131000 | Daniel Alvarez Herrera | 3845 | 2014-09-23 | 17:33:36 | 18:33:36 | CUSE | pc20 |  
+1238131 | PAULA ANDREA  BASTIDAS AGUDELO  | 2635 | 2014-09-23 | 16:07:54 | 17:07:54 | CUSE | pc23 |  
+0024551 | PAULO ANDRES RIASCOS PÉREZ | 3845 | 2014-09-23 | 20:27:43 | 21:27:43 | CUSE | pc23 |  
+1131000 | Daniel Alvarez Herrera | 3845 | 2014-09-23 | 16:05:34 | 17:05:34 | CUSE | pc24 |  
+1044655 | CAROLINA MINOTA MORENO | 3846 | 2014-09-23 | 18:38:43 | 19:38:43 | CUSE | pc25 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-09-23 | 17:41:29 | 18:41:29 | CUSE | pc26 |  
+1223931 | Jeffrey Alberto Zota Londoño | 3841 | 2014-09-24 | 17:32:03 | 18:32:03 | CUSE | pc09 |  
+1230194 | Andres Felipe Toro Serrano | 3841 | 2014-09-24 | 17:31:43 | 18:31:43 | CUSE | pc10 |  
+1223059 | JESSENIA BOTERO TASCON | 3841 | 2014-09-24 | 16:23:57 | 17:23:57 | CUSE | pc14 |  
+1038395 | JUAN ANDRES GUEJIA MEDINA | 3846 | 2014-09-24 | 16:10:33 | 17:10:33 | CUSE | pc14 |  
+1228287 | Eliana Maria Franco Hurtado | 3841 | 2014-09-24 | 14:39:24 | 15:39:24 | CUSE | pc15 |  
+1226700 | ANGELA MARIA SUAREZ GALVIS | 3841 | 2014-09-24 | 14:39:06 | 15:39:06 | CUSE | pc16 |  
+0857930 | Yony Andres ESPINOSA CRIALES | 3845 | 2014-09-24 | 16:58:33 | 17:58:33 | CUSE | pc17 |  
+1238540 | Jhoan Stiven Rodriguez Ovalle | 3842 | 2014-09-24 | 14:28:54 | 15:28:54 | CUSE | pc18 |  
+1425546 | Javier Joselo Trejo Bolaños | 3841 | 2014-09-24 | 14:58:55 | 15:58:55 | CUSE | pc18 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-09-24 | 16:49:08 | 17:49:08 | CUSE | pc19 |  
+0932674 | katerine meneses ramos | 3842 | 2014-09-24 | 17:34:28 | 18:34:28 | CUSE | pc21 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-09-24 | 15:26:27 | 16:26:27 | CUSE | pc22 |  
+1426131 | Erika Lorna Diaz | 2635 | 2014-09-24 | 14:28:32 | 15:28:32 | CUSE | pc22 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-09-24 | 14:10:11 | 15:10:11 | CUSE | pc23 |  
+1242205 | Johana Alexa  Cifuentes Riascos  | 3846 | 2014-09-24 | 17:01:32 | 18:01:32 | CUSE | pc23 |  
+0926016 | JHON EDWARD GOMEZ ZUÑIGA | 3841 | 2014-09-24 | 17:37:47 | 18:37:47 | CUSE | pc25 |  
+1238540 | Jhoan Stiven Rodriguez Ovalle | 3842 | 2014-09-24 | 14:29:29 | 15:29:29 | CUSE | pc25 |  
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-09-24 | 15:50:57 | 16:50:57 | CUSE | pc26 |  
+1228429 | Diana Marcela Rivera Perdomo | 3845 | 2014-09-25 | 17:59:33 | 18:59:33 | CUSE | pc01 |  
+1224808 | Ana Maria Pizarro Galvis | 2635 | 2014-09-25 | 17:59:05 | 18:59:05 | CUSE | pc10 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-09-25 | 17:57:26 | 18:57:26 | CUSE | pc13 |  
+1341560 | juan daniel rivera gallego | 3842 | 2014-09-25 | 16:51:50 | 17:51:50 | CUSE | pc14 |  
+1238475 | Junior Rene Madroñero Lenis | 2635 | 2014-09-25 | 17:30:44 | 18:30:44 | CUSE | pc17 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-09-25 | 17:30:24 | 18:30:24 | CUSE | pc18 |  
+1138953 | Alexander Revelo Guayupe | 3846 | 2014-09-25 | 20:21:28 | 21:21:28 | CUSE | pc18 |  
+1210074 | Gerardo Antonio Rincon Castillo | 3647 | 2014-09-25 | 11:25:05 | 12:25:05 | CUSE | pc20 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-09-25 | 18:02:28 | 19:02:28 | CUSE | pc21 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-09-25 | 19:33:04 | 20:33:04 | CUSE | pc21 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-09-25 | 19:15:07 | 20:15:07 | CUSE | pc22 |  
+1343367 | Freddy Alberto Meneses Tigreros | 3842 | 2014-09-25 | 17:53:22 | 18:53:22 | CUSE | pc23 |  
+0625333 | FRANCISCO JAVIER GRUESO LEMOS | 3845 | 2014-09-25 | 11:34:38 | 12:34:38 | CUSE | pc24 |  
+0833444 | Yuli Ney Rivera FLorez | 3842 | 2014-09-25 | 18:52:48 | 19:52:48 | CUSE | pc25 |  
+0934459 | Gener David Tique Benitez | 3846 | 2014-09-25 | 17:12:19 | 18:12:19 | CUSE | pc25 |  
+1139148 | ELCY MAGALI CARANGUAY YAMPUESAN | 3846 | 2014-09-25 | 17:12:35 | 18:12:35 | CUSE | pc26 |  
+1405070 | francia ines Caicedo | 7880 | 2014-09-25 | 17:44:13 | 18:44:13 | CUSE | pc28 |  
+1440901 | Karol Dayana Gallego Minotta | 3841 | 2014-09-26 | 15:39:51 | 16:39:51 | CUSE | pc03 |  
+1432745 | Brayan Carvajal | 3469 | 2014-09-26 | 15:44:50 | 16:44:50 | CUSE | pc04 | Clase
+1441880 | Luisa Maria  Motta | 3841 | 2014-09-26 | 15:43:28 | 16:43:28 | CUSE | pc05 | Clase
+1441880 | Luisa Maria  Motta | 3841 | 2014-09-26 | 15:44:02 | 16:44:02 | CUSE | pc06 | Clase
+1439996 | William  Garces Mejia | 3841 | 2014-09-26 | 15:44:26 | 16:44:26 | CUSE | pc07 | Clase
+1440839 | Oscar  Caicedo | 3841 | 2014-09-26 | 15:40:17 | 16:40:17 | CUSE | pc08 | Clase
+1331252 | Maria Fernanda Muñoz | 3841 | 2014-09-26 | 15:46:35 | 16:46:35 | CUSE | pc09 | Clase
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-09-26 | 17:57:16 | 18:57:16 | CUSE | pc10 |  
+1437764 | Stefanya Ramirez | 3841 | 2014-09-26 | 15:40:53 | 16:40:53 | CUSE | pc10 | Clase
+1438126 | Jhon Wilmar Arboleda Congo | 3841 | 2014-09-26 | 15:41:37 | 16:41:37 | CUSE | pc12 | Clase
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-09-26 | 17:36:56 | 18:36:56 | CUSE | pc14 |  
+1439879 | Paola Andrea Gaviria | 3841 | 2014-09-26 | 15:43:08 | 16:43:08 | CUSE | pc15 | Clase
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-09-26 | 17:22:50 | 18:22:50 | CUSE | pc15 |  
+1438712 | RICHARD CAMPO CORTES | 3841 | 2014-09-26 | 15:41:56 | 16:41:56 | CUSE | pc16 | Clase
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-09-26 | 17:05:22 | 18:05:22 | CUSE | pc17 |  
+1436980 | Marly Ferneida Bravo Ordoñez | 3841 | 2014-09-26 | 15:42:30 | 16:42:30 | CUSE | pc17 | Clase
+1437285 | Jineth Paola Cabezas Anacona | 3841 | 2014-09-26 | 15:45:54 | 16:45:54 | CUSE | pc19 | Clase
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-09-26 | 17:08:21 | 18:08:21 | CUSE | pc20 |  
+1437443 | Nancy Paola  Cuaical | 3841 | 2014-09-26 | 15:45:11 | 16:45:11 | CUSE | pc20 | Clase
+1426131 | Erika Lorna Diaz | 2635 | 2014-09-26 | 17:49:58 | 18:49:58 | CUSE | pc21 |  
+1441619 | Jhon Edison  Buitrago | 3841 | 2014-09-26 | 15:41:18 | 16:41:18 | CUSE | pc21 | Clase
+1230194 | Andres Felipe Toro Serrano | 3841 | 2014-09-26 | 18:20:52 | 19:20:52 | CUSE | pc22 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-09-26 | 17:03:17 | 18:03:17 | CUSE | pc24 |  
+1441736 | Sebastian Jimenez | 3841 | 2014-09-26 | 15:40:36 | 16:40:36 | CUSE | pc24 | Clase
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-09-26 | 18:59:42 | 19:59:42 | CUSE | pc24 |  
+1026731 | john rodrigo  muñoz largo | 3841 | 2014-09-26 | 17:31:33 | 18:31:33 | CUSE | pc25 |  
+1438181 | Karol Andrea  Gutierrez | 3841 | 2014-09-26 | 15:42:14 | 16:42:14 | CUSE | pc26 | Clase
+1130078 | STEPHANIA LOPEZ DELGADO | 3841 | 2014-09-26 | 17:59:57 | 18:59:57 | CUSE | pc28 |  
+1135475 | Jhon lenerth  Chavez Roman  | 3846 | 2014-09-27 | 14:49:43 | 15:49:43 | CUSE | pc17 |  
+1023622 | Yeimmy Cecilia Larrahondo Quintero | 3841 | 2014-09-27 | 14:34:20 | 15:34:20 | CUSE | pc22 |  
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2014-09-27 | 11:04:25 | 12:04:25 | CUSE | pc24 |  
+0925629 | JUAN CARLOS JARAMILLO MORA | 3845 | 2014-09-29 | 17:36:03 | 18:36:03 | CUSE | pc07 |  
+1226136 | LINA FERNANDA LUCUMI MOSQUERA | 3841 | 2014-09-29 | 15:23:41 | 16:23:41 | CUSE | pc09 |  
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-09-29 | 16:46:01 | 17:46:01 | CUSE | pc10 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-09-29 | 15:23:07 | 16:23:07 | CUSE | pc10 |  
+1226700 | ANGELA MARIA SUAREZ GALVIS | 3841 | 2014-09-29 | 17:01:17 | 18:01:17 | CUSE | pc11 |  
+1228287 | Eliana Maria Franco Hurtado | 3841 | 2014-09-29 | 17:00:54 | 18:00:54 | CUSE | pc12 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-09-29 | 12:33:57 | 13:33:57 | CUSE | pc12 |  
+1337502 | maria jose oyola arrieta | 3842 | 2014-09-29 | 16:56:52 | 17:56:52 | CUSE | pc13 |  
+0740804 | Diana Patricia CAMPO CABALLERO | 3842 | 2014-09-29 | 14:42:56 | 15:42:56 | CUSE | pc13 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-09-29 | 14:42:40 | 15:42:40 | CUSE | pc14 |  
+1337519 | JUAN CAMILO PEREZ GARCIA | 3846 | 2014-09-29 | 16:58:00 | 17:58:00 | CUSE | pc14 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-09-29 | 09:04:14 | 10:04:14 | CUSE | pc15 |  
+0835187 | SIMON PIEDRAHITA PALACIN | 3846 | 2014-09-29 | 15:22:33 | 16:22:33 | CUSE | pc15 |  
+0837065 | JONNATHAN LOPEZ MEJIA | 3846 | 2014-09-29 | 15:22:19 | 16:22:19 | CUSE | pc16 |  
+1235462 | David Florz Osorio | 3842 | 2014-09-29 | 08:56:05 | 09:56:05 | CUSE | pc16 |  
+0939513 | Jessica Natalia Espinosa Martinez | 3842 | 2014-09-29 | 09:57:41 | 10:57:41 | CUSE | pc17 |  
+1242043 | eder aleison nieto carvajal  | 3660 | 2014-09-29 | 14:08:15 | 15:08:15 | CUSE | pc18 |  
+1143667 | Angela Patricia Morante Consuegra | 3857 | 2014-09-29 | 09:48:51 | 10:48:51 | CUSE | pc18 |  
+1331975 | ANDERSON SISA TRASLAVIÑA | 3841 | 2014-09-29 | 14:33:51 | 15:33:51 | CUSE | pc19 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-09-29 | 15:24:19 | 16:24:19 | CUSE | pc20 |  
+1425546 | Javier Joselo Trejo Bolaños | 3841 | 2014-09-29 | 08:24:51 | 09:24:51 | CUSE | pc20 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-09-29 | 14:39:06 | 15:39:06 | CUSE | pc21 |  
+1242205 | Johana Alexa  Cifuentes Riascos  | 3846 | 2014-09-29 | 16:43:28 | 17:43:28 | CUSE | pc22 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-09-29 | 15:11:57 | 16:11:57 | CUSE | pc23 |  
+1437897 | Anderson  Zuñiga | 3846 | 2014-09-29 | 08:38:48 | 09:38:48 | CUSE | pc23 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-09-29 | 09:14:58 | 10:14:58 | CUSE | pc24 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-09-29 | 14:36:29 | 15:36:29 | CUSE | pc24 |  
+0932674 | katerine meneses ramos | 3842 | 2014-09-29 | 18:05:35 | 19:05:35 | CUSE | pc24 |  
+1438461 | OSCAR IVAN BELTRAN RAMIREZ | 3857 | 2014-09-29 | 14:07:23 | 15:07:23 | CUSE | pc25 |  
+1436962 | esteffanny andrea cardona cardona | 3857 | 2014-09-29 | 14:07:48 | 15:07:48 | CUSE | pc26 |  
+1143667 | Angela Patricia Morante Consuegra | 3857 | 2014-09-29 | 09:51:43 | 10:51:43 | CUSE | pc26 |  
+1130078 | STEPHANIA LOPEZ DELGADO | 3841 | 2014-09-29 | 17:46:31 | 18:46:31 | CUSE | pc27 |  
+0926360 | Staisy Dayana Hoyos Mena | 3857 | 2014-09-29 | 15:21:47 | 16:21:47 | CUSE | pc28 |  
+0832720 | Leidy Ximena Castro Gamboa | 3845 | 2014-09-30 | 17:51:25 | 18:51:25 | CUSE | pc02 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-09-30 | 17:51:06 | 18:51:06 | CUSE | pc06 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-09-30 | 18:18:25 | 19:18:25 | CUSE | pc07 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-09-30 | 16:24:31 | 17:24:31 | CUSE | pc11 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-09-30 | 16:24:17 | 17:24:17 | CUSE | pc12 |  
+0832273 | JULIETH ANDREA GARCIA VALENCIA | 3845 | 2014-09-30 | 18:36:17 | 19:36:17 | CUSE | pc13 |  
+0940134 | DAVID ESTEBAN RINCON JARAMILLO | 3842 | 2014-09-30 | 19:20:07 | 20:20:07 | CUSE | pc13 |  
+0933704 | olamn alexander silva zuñiga | 3648 | 2014-09-30 | 16:15:18 | 17:15:18 | CUSE | pc13 |  
+0730551 | YENNY ANDREA LOURIDO ENRIQUEZ | 3842 | 2014-09-30 | 19:20:26 | 20:20:26 | CUSE | pc14 |  
+1236424 | Julieth Andrea Perez Cortes | 2635 | 2014-09-30 | 17:02:19 | 18:02:19 | CUSE | pc14 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-09-30 | 16:24:42 | 17:24:42 | CUSE | pc15 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-09-30 | 15:00:52 | 16:00:52 | CUSE | pc16 |  
+0635115 | miguel martinez serna | 3748 | 2014-09-30 | 18:28:35 | 19:28:35 | CUSE | pc17 |  
+1341308 | brenda  carreño meza | 3661 | 2014-09-30 | 14:48:54 | 15:48:54 | CUSE | pc17 |  
+0024551 | PAULO ANDRES RIASCOS PÉREZ | 3845 | 2014-09-30 | 18:09:12 | 19:09:12 | CUSE | pc18 |  
+1024506 | franciney Cardona Lopez | 3841 | 2014-09-30 | 18:30:06 | 19:30:06 | CUSE | pc18 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-09-30 | 14:25:24 | 15:25:24 | CUSE | pc20 |  
+1130078 | STEPHANIA LOPEZ DELGADO | 3841 | 2014-09-30 | 18:37:01 | 19:37:01 | CUSE | pc21 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-09-30 | 19:30:12 | 20:30:12 | CUSE | pc21 |  
+1125824 | Alejandra FLOREZ GONZALEZ | 3845 | 2014-09-30 | 19:48:33 | 20:48:33 | CUSE | pc22 |  
+0746988 | Heidy Aguilar Mosquera | 3846 | 2014-09-30 | 15:36:22 | 16:36:22 | CUSE | pc23 |  
+1438461 | OSCAR IVAN BELTRAN RAMIREZ | 3857 | 2014-09-30 | 15:09:03 | 16:09:03 | CUSE | pc25 |  
+0934459 | Gener David Tique Benitez | 3846 | 2014-09-30 | 14:05:24 | 15:05:24 | CUSE | pc26 |  
+1130958 | Ana Maria Hinestroza Carmona | 3841 | 2014-09-30 | 14:26:09 | 15:26:09 | CUSE | pc28 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-09-30 | 18:16:39 | 19:16:39 | CUSE | pc28 |  
+
+
+Elaborado el... 2014-12-11
+Mes: 1 de Octubre de 2014 al 31 de Octubre de 2014
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-10-01 | 16:12:35 | 17:12:35 | CUSE | pc09 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-10-01 | 15:37:09 | 16:37:09 | CUSE | pc10 |  
+1035316 | Juan David Ordoñez Viteri | 3846 | 2014-10-01 | 16:11:53 | 17:11:53 | CUSE | pc10 |  
+1126719 | Lizeth Carolina Mamián Cerón | 3845 | 2014-10-01 | 17:36:10 | 18:36:10 | CUSE | pc10 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-10-01 | 16:32:35 | 17:32:35 | CUSE | pc11 |  
+0832014 | STEPHANY VASQUEZ DELGADO | 3842 | 2014-10-01 | 15:45:51 | 16:45:51 | CUSE | pc12 |  
+0857930 | Yony Andres ESPINOSA CRIALES | 3845 | 2014-10-01 | 16:59:26 | 17:59:26 | CUSE | pc14 |  
+1427881 | Sebastian Guarnizo Rosero | 3660 | 2014-10-01 | 15:01:12 | 16:01:12 | CUSE | pc14 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-10-01 | 17:15:08 | 18:15:08 | CUSE | pc14 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-10-01 | 15:40:20 | 16:40:20 | CUSE | pc15 |  
+1341338 | Daniela  Possu  | 3857 | 2014-10-01 | 14:28:20 | 15:28:20 | CUSE | pc17 |  
+1341156 | Daniela Montero Ojeda | 3857 | 2014-10-01 | 14:28:02 | 15:28:02 | CUSE | pc18 |  
+0832906 | SANDRA XIMENA VILLAQUIRA LEON | 3846 | 2014-10-01 | 16:41:58 | 17:41:58 | CUSE | pc18 |  
+0924322 | DANIEL ALEJANDRO GUASMAYAN BENAVIDES | 3857 | 2014-10-01 | 15:03:34 | 16:03:34 | CUSE | pc19 |  
+1138464 | Angie Carolina Guerrero Benitez | 3645 | 2014-10-01 | 17:00:27 | 18:00:27 | CUSE | pc19 |  
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2014-10-01 | 15:33:02 | 16:33:02 | CUSE | pc20 |  
+1427682 | Yaine Bolena Ballesteros | 3841 | 2014-10-01 | 15:44:08 | 16:44:08 | CUSE | pc21 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-01 | 16:38:49 | 17:38:49 | CUSE | pc22 |  
+1227551 | Andres Felipe Gutierrez Vasquez | 3845 | 2014-10-01 | 17:55:41 | 18:55:41 | CUSE | pc23 |  
+1155272 | Angela Katherine Diaz Orozco | 3845 | 2014-10-01 | 17:12:20 | 18:12:20 | CUSE | pc23 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-10-01 | 14:48:34 | 15:48:34 | CUSE | pc24 |  
+1438461 | OSCAR IVAN BELTRAN RAMIREZ | 3857 | 2014-10-01 | 14:25:21 | 15:25:21 | CUSE | pc25 |  
+1155047 | LUIS ENRIQUE VELASCO OSORIO | 3845 | 2014-10-01 | 16:59:52 | 17:59:52 | CUSE | pc26 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-10-01 | 16:54:07 | 17:54:07 | CUSE | pc28 |  
+1342384 | Shareen Marcela Vera Puentes | 3842 | 2014-10-02 | 16:49:48 | 17:49:48 | CUSE | pc01 |  
+1342521 | lady melisa montaño nuñez | 3842 | 2014-10-02 | 16:49:56 | 17:49:56 | CUSE | pc02 |  
+1337053 | YULIETH KATHERINE PAZ PAYAN | 3842 | 2014-10-02 | 16:50:17 | 17:50:17 | CUSE | pc03 |  
+1224808 | Ana Maria Pizarro Galvis | 2635 | 2014-10-02 | 17:40:40 | 18:40:40 | CUSE | pc05 |  
+1227175 | Andres Felipe Barona Quiñones | 2635 | 2014-10-02 | 17:40:54 | 18:40:54 | CUSE | pc06 |  
+1236434 | FERNANDO DE JESUS SOTO ACOSTA | 2635 | 2014-10-02 | 17:43:29 | 18:43:29 | CUSE | pc07 |  
+1229298 | cristian  marin ortega | 2635 | 2014-10-02 | 17:44:12 | 18:44:12 | CUSE | pc08 |  
+1236434 | FERNANDO DE JESUS SOTO ACOSTA | 2635 | 2014-10-02 | 17:49:47 | 18:49:47 | CUSE | pc09 |  
+1229298 | cristian  marin ortega | 2635 | 2014-10-02 | 17:45:14 | 18:45:14 | CUSE | pc10 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-10-02 | 17:37:01 | 18:37:01 | CUSE | pc12 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-10-02 | 16:52:20 | 17:52:20 | CUSE | pc13 |  
+0932674 | katerine meneses ramos | 3842 | 2014-10-02 | 17:36:15 | 18:36:15 | CUSE | pc14 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-10-02 | 17:07:33 | 18:07:33 | CUSE | pc15 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-10-02 | 17:06:12 | 18:06:12 | CUSE | pc16 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-10-02 | 17:09:08 | 18:09:08 | CUSE | pc17 |  
+1236791 | Alejandro Reyes Salas | 3846 | 2014-10-02 | 17:10:26 | 18:10:26 | CUSE | pc18 |  
+0857930 | Yony Andres ESPINOSA CRIALES | 3845 | 2014-10-02 | 17:27:57 | 18:27:57 | CUSE | pc20 |  
+1125937 | LOPEZ CALLE STIWAR | 3845 | 2014-10-02 | 20:09:03 | 21:09:03 | CUSE | pc21 |  
+1147142 | Angie Vanessa Rivas Rodriguez | 2635 | 2014-10-02 | 16:57:45 | 17:57:45 | CUSE | pc21 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-10-02 | 17:17:12 | 18:17:12 | CUSE | pc22 |  
+1024915 | Juan Carlos Aguilera Correa | 3845 | 2014-10-02 | 17:40:14 | 18:40:14 | CUSE | pc23 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-10-02 | 17:43:48 | 18:43:48 | CUSE | pc25 |  
+1133217 | Alexandra Largo Daraviña | 3845 | 2014-10-02 | 18:28:13 | 19:28:13 | CUSE | pc25 |  
+1125428 | Gloria Stephany BERNAL BERMUDEZ | 3841 | 2014-10-02 | 19:19:29 | 20:19:29 | CUSE | pc26 |  
+1125937 | LOPEZ CALLE STIWAR | 3845 | 2014-10-02 | 18:13:56 | 19:13:56 | CUSE | pc26 |  
+1341573 | ELIZABETH ROSAS TABARES | 3857 | 2014-10-02 | 18:09:47 | 19:09:47 | CUSE | pc26 |  
+1138055 | Jorge Andres Aguirre Paredes | 3845 | 2014-10-02 | 17:43:59 | 18:43:59 | CUSE | pc26 |  
+1245314 | deisy lorena rodriguez rivera | 2635 | 2014-10-02 | 18:27:04 | 19:27:04 | CUSE | pc28 |  
+1026117 | DIANA CAROLINA  VALENCIA MAYA | 3845 | 2014-10-02 | 17:50:10 | 18:50:10 | CUSE | pc28 |  
+1035486 | Johan Sebastian Castaño Cardoza | 3842 | 2014-10-03 | 18:39:57 | 19:39:57 | CUSE | pc15 |  
+0764370 | Angelica Maria Jimenez Tabares | 3845 | 2014-10-03 | 17:41:48 | 18:41:48 | CUSE | pc16 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-10-03 | 18:40:28 | 19:40:28 | CUSE | pc17 |  
+1244674 | Jhon Jader  Bedoya Abanis | 3842 | 2014-10-03 | 17:30:00 | 18:30:00 | CUSE | pc17 |  
+1132046 | Luis Fernando  Gallego | 3845 | 2014-10-03 | 19:00:20 | 20:00:20 | CUSE | pc18 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-10-03 | 18:28:38 | 19:28:38 | CUSE | pc18 |  
+1138953 | Alexander Revelo Guayupe | 3846 | 2014-10-03 | 18:42:54 | 19:42:54 | CUSE | pc19 |  
+1026731 | john rodrigo  muñoz largo | 3841 | 2014-10-03 | 17:31:23 | 18:31:23 | CUSE | pc20 |  
+0732159 | JAVIER ANDRES SABOGAL CANDAS | 3846 | 2014-10-03 | 18:56:37 | 19:56:37 | CUSE | pc20 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-10-03 | 18:14:03 | 19:14:03 | CUSE | pc21 |  
+1139148 | ELCY MAGALI CARANGUAY YAMPUESAN | 3846 | 2014-10-03 | 18:38:22 | 19:38:22 | CUSE | pc22 |  
+1228930 | ERIKA GUERRERO LOPEZ | 3845 | 2014-10-03 | 17:25:14 | 18:25:14 | CUSE | pc23 |  
+0934459 | Gener David Tique Benitez | 3846 | 2014-10-03 | 18:38:44 | 19:38:44 | CUSE | pc24 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-10-03 | 19:07:49 | 20:07:49 | CUSE | pc25 |  
+1130958 | Ana Maria Hinestroza Carmona | 3841 | 2014-10-03 | 18:45:16 | 19:45:16 | CUSE | pc26 |  
+1430094 | Maira Alejandra  Arévalo | 3841 | 2014-10-04 | 08:57:47 | 09:57:47 | CUSE | pc14 |  
+0924322 | DANIEL ALEJANDRO GUASMAYAN BENAVIDES | 3857 | 2014-10-04 | 14:22:33 | 15:22:33 | CUSE | pc18 |  
+1040317 | DIANA MARCELA CORRALES | 3842 | 2014-10-04 | 08:57:35 | 09:57:35 | CUSE | pc22 |  
+1135475 | Jhon lenerth  Chavez Roman  | 3846 | 2014-10-04 | 11:19:55 | 12:19:55 | CUSE | pc23 |  
+1126262 | Claudia Andrea Mosquera Aristizabal | 3845 | 2014-10-06 | 18:03:14 | 19:03:14 | CUSE | pc02 |  
+1146882 | Monica Marcela Jurado | 3846 | 2014-10-06 | 17:00:17 | 18:00:17 | CUSE | pc06 |  
+1137583 | Adriano Esteban Rosero grijalba | 3846 | 2014-10-06 | 15:17:38 | 16:17:38 | CUSE | pc06 |  
+0926016 | JHON EDWARD GOMEZ ZUÑIGA | 3841 | 2014-10-06 | 17:19:18 | 18:19:18 | CUSE | pc07 |  
+0635115 | miguel martinez serna | 3748 | 2014-10-06 | 14:36:47 | 15:36:47 | CUSE | pc09 |  
+1147074 | JUAN MANUEL PELAEZ POSSO | 2635 | 2014-10-06 | 16:31:41 | 17:31:41 | CUSE | pc10 |  
+1110392 | Jackeline  Ramos Torres | 3845 | 2014-10-06 | 14:36:17 | 15:36:17 | CUSE | pc10 |  
+1040609 | JANIER ANDRES CARMONA IDROBO | 3846 | 2014-10-06 | 16:20:35 | 17:20:35 | CUSE | pc10 |  
+1338439 | LAURA MARITZA MAZUERA MOSQUERA | 3857 | 2014-10-06 | 08:24:30 | 09:24:30 | CUSE | pc11 |  
+1142914 | Pedro Luis Asprilla | 1111 | 2014-10-06 | 16:21:02 | 17:21:02 | CUSE | pc11 |  
+1342399 | Mildrey Alejandra Giraldo Noreña | 3857 | 2014-10-06 | 08:24:16 | 09:24:16 | CUSE | pc12 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-06 | 14:29:29 | 15:29:29 | CUSE | pc13 |  
+0910035 | Luisa Maria MORALES Zapata | 3842 | 2014-10-06 | 18:00:14 | 19:00:14 | CUSE | pc13 |  
+1142849 | Melissa Giron Rodrigez | 3648 | 2014-10-06 | 14:33:34 | 15:33:34 | CUSE | pc14 |  
+1342908 | Natalia Andrea  Muriel Marin | 3857 | 2014-10-06 | 08:23:54 | 09:23:54 | CUSE | pc15 |  
+1236231 | CAROLINA HOLGUIN GARCIA | 3841 | 2014-10-06 | 10:17:56 | 11:17:56 | CUSE | pc15 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-10-06 | 16:06:00 | 17:06:00 | CUSE | pc15 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-10-06 | 10:09:25 | 11:09:25 | CUSE | pc16 |  
+1336004 | Ruby Johanna  Minota Correa  | 3857 | 2014-10-06 | 08:23:25 | 09:23:25 | CUSE | pc16 |  
+1044655 | CAROLINA MINOTA MORENO | 3846 | 2014-10-06 | 17:31:26 | 18:31:26 | CUSE | pc17 |  
+1335866 | ANGIE VANESSA ESPAÑA MAMIAN | 3846 | 2014-10-06 | 08:48:12 | 09:48:12 | CUSE | pc17 |  
+1235462 | David Florz Osorio | 3842 | 2014-10-06 | 10:41:52 | 11:41:52 | CUSE | pc18 |  
+1235462 | David Florz Osorio | 3842 | 2014-10-06 | 08:52:27 | 09:52:27 | CUSE | pc18 |  
+1044068 | edgar david jaramillo ubate | 3846 | 2014-10-06 | 14:13:41 | 15:13:41 | CUSE | pc18 |  
+0931379 | John Estevan Torres Suarez | 3660 | 2014-10-06 | 08:54:43 | 09:54:43 | CUSE | pc19 |  
+1245314 | deisy lorena rodriguez rivera | 2635 | 2014-10-06 | 18:12:25 | 19:12:25 | CUSE | pc19 |  
+1438461 | OSCAR IVAN BELTRAN RAMIREZ | 3857 | 2014-10-06 | 16:25:50 | 17:25:50 | CUSE | pc19 |  
+1141620 | Diana Marcela Findlay  Lopez | 3648 | 2014-10-06 | 10:17:37 | 11:17:37 | CUSE | pc20 |  
+1135475 | Jhon lenerth  Chavez Roman  | 3846 | 2014-10-06 | 16:16:43 | 17:16:43 | CUSE | pc20 |  
+1437534 | Juan Pablo Carvajal Giraldo | 3857 | 2014-10-06 | 08:22:39 | 09:22:39 | CUSE | pc20 |  
+0933675 | diego fernando hernandez triana | 3846 | 2014-10-06 | 16:05:09 | 17:05:09 | CUSE | pc21 |  
+1436962 | esteffanny andrea cardona cardona | 3857 | 2014-10-06 | 11:57:04 | 12:57:04 | CUSE | pc21 |  
+1435689 | Daniela Arias Bustamante | 3857 | 2014-10-06 | 08:19:06 | 09:19:06 | CUSE | pc21 |  
+1439129 | enya maria pabon ramos | 3857 | 2014-10-06 | 08:21:30 | 09:21:30 | CUSE | pc22 |  
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-10-06 | 17:55:07 | 18:55:07 | CUSE | pc22 |  
+1439419 | Alejandro Jimenez | 3857 | 2014-10-06 | 08:22:09 | 09:22:09 | CUSE | pc23 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-10-06 | 17:42:12 | 18:42:12 | CUSE | pc23 |  
+1324408 | Jaime Orlando Aza Aza | 3841 | 2014-10-06 | 17:11:14 | 18:11:14 | CUSE | pc23 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-10-06 | 14:16:07 | 15:16:07 | CUSE | pc24 |  
+0934296 | Christian Andres Bernal Zuñiga | 3651 | 2014-10-06 | 11:18:34 | 12:18:34 | CUSE | pc24 |  
+1137583 | Adriano Esteban Rosero grijalba | 3846 | 2014-10-06 | 16:12:18 | 17:12:18 | CUSE | pc24 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-10-06 | 15:13:59 | 16:13:59 | CUSE | pc25 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-10-06 | 17:40:54 | 18:40:54 | CUSE | pc25 |  
+1341501 | MAURICIO MORCILLO PICON | 3842 | 2014-10-06 | 11:25:08 | 12:25:08 | CUSE | pc25 |  
+1438461 | OSCAR IVAN BELTRAN RAMIREZ | 3857 | 2014-10-06 | 08:18:16 | 09:18:16 | CUSE | pc25 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-10-06 | 14:32:17 | 15:32:17 | CUSE | pc25 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-10-06 | 14:44:15 | 15:44:15 | CUSE | pc26 |  
+1436083 | Juan Sebastian Giraldo Marin | 3857 | 2014-10-06 | 08:18:29 | 09:18:29 | CUSE | pc26 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-10-06 | 08:27:50 | 09:27:50 | CUSE | pc28 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-10-06 | 12:15:39 | 13:15:39 | CUSE | pc28 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-10-06 | 14:15:52 | 15:15:52 | CUSE | pc28 |  
+1222014 | JHAN SEBASTIAN ALZATE EGAS | 3845 | 2014-10-07 | 18:46:56 | 19:46:56 | CUSE | pc09 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-10-07 | 17:50:08 | 18:50:08 | CUSE | pc09 |  
+0024551 | PAULO ANDRES RIASCOS PÉREZ | 3845 | 2014-10-07 | 16:32:54 | 17:32:54 | CUSE | pc10 |  
+1139280 | Yohn Alexander Cruz Mora | 3846 | 2014-10-07 | 18:29:02 | 19:29:02 | CUSE | pc10 |  
+1132010 | ALEJANDRA ACOSTA LUCERO | 3841 | 2014-10-07 | 17:16:37 | 18:16:37 | CUSE | pc11 |  
+1035574 | Martha Lucia Agredo Diaz | 3857 | 2014-10-07 | 15:07:29 | 16:07:29 | CUSE | pc12 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-07 | 14:33:13 | 15:33:13 | CUSE | pc13 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-10-07 | 14:33:38 | 15:33:38 | CUSE | pc14 |  
+1244826 | Stephanie Devia Valdez | 3651 | 2014-10-07 | 17:04:53 | 18:04:53 | CUSE | pc15 |  
+1035486 | Johan Sebastian Castaño Cardoza | 3842 | 2014-10-07 | 17:02:37 | 18:02:37 | CUSE | pc16 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-07 | 14:27:50 | 15:27:50 | CUSE | pc17 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-10-07 | 14:31:26 | 15:31:26 | CUSE | pc17 |  
+1341560 | juan daniel rivera gallego | 3842 | 2014-10-07 | 15:00:25 | 16:00:25 | CUSE | pc18 |  
+0522402 | MARITZABEL BERMUDEZ ARANGO | 3845 | 2014-10-07 | 19:26:31 | 20:26:31 | CUSE | pc18 |  
+0933707 | MARCELA SOFI MUÑOZ RIOS  | 3660 | 2014-10-07 | 14:27:05 | 15:27:05 | CUSE | pc18 |  
+1341243 | luis miguel samboni chilito  | 3842 | 2014-10-07 | 14:27:34 | 15:27:34 | CUSE | pc19 |  
+1243541 | Karen Andrea Franco Escobar | 3846 | 2014-10-07 | 18:27:25 | 19:27:25 | CUSE | pc20 |  
+1342384 | Shareen Marcela Vera Puentes | 3842 | 2014-10-07 | 14:31:53 | 15:31:53 | CUSE | pc20 |  
+1036278 | kelly falom chamorro armero | 3846 | 2014-10-07 | 09:42:46 | 10:42:46 | CUSE | pc21 |  
+1155047 | LUIS ENRIQUE VELASCO OSORIO | 3845 | 2014-10-07 | 18:59:18 | 19:59:18 | CUSE | pc21 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-10-07 | 14:32:49 | 15:32:49 | CUSE | pc21 |  
+0940134 | DAVID ESTEBAN RINCON JARAMILLO | 3842 | 2014-10-07 | 19:24:31 | 20:24:31 | CUSE | pc22 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-10-07 | 18:34:04 | 19:34:04 | CUSE | pc22 |  
+1024193 | mauricio marulanda lopez | 3846 | 2014-10-07 | 14:34:15 | 15:34:15 | CUSE | pc22 |  
+0730551 | YENNY ANDREA LOURIDO ENRIQUEZ | 3842 | 2014-10-07 | 19:20:27 | 20:20:27 | CUSE | pc23 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-10-07 | 17:04:32 | 18:04:32 | CUSE | pc24 |  
+1256451 | Paula Andrea Hernandez Montoya | 3845 | 2014-10-07 | 14:26:47 | 15:26:47 | CUSE | pc24 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-10-07 | 16:45:06 | 17:45:06 | CUSE | pc25 |  
+1235262 | Christian Steven Garcia Tobar | 3857 | 2014-10-07 | 14:26:03 | 15:26:03 | CUSE | pc26 |  
+1241352 | NATHANAEL MEDINA PINEDA | 3846 | 2014-10-08 | 14:23:42 | 15:23:42 | CUSE | pc11 |  
+1235089 | ANDRES RINCON ABREO | 3846 | 2014-10-08 | 14:23:56 | 15:23:56 | CUSE | pc12 |  
+1242510 | Diana Marcela PONCE CACHIMBO | 2635 | 2014-10-08 | 16:07:16 | 17:07:16 | CUSE | pc14 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-10-08 | 15:41:05 | 16:41:05 | CUSE | pc16 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-10-08 | 14:20:26 | 15:20:26 | CUSE | pc17 |  
+1340563 | CARLOS MARIO  HOYOS RESTREPO | 3846 | 2014-10-08 | 14:20:06 | 15:20:06 | CUSE | pc18 |  
+1242205 | Johana Alexa  Cifuentes Riascos  | 3846 | 2014-10-08 | 16:42:04 | 17:42:04 | CUSE | pc20 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-10-08 | 17:45:59 | 18:45:59 | CUSE | pc21 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-10-08 | 16:56:40 | 17:56:40 | CUSE | pc22 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-10-08 | 15:15:12 | 16:15:12 | CUSE | pc23 |  
+1236651 | LINA YISELA BURBANO URIBE | 3857 | 2014-10-08 | 14:19:15 | 15:19:15 | CUSE | pc24 |  
+1427682 | Yaine Bolena Ballesteros | 3841 | 2014-10-08 | 16:30:52 | 17:30:52 | CUSE | pc25 |  
+0222034 | CARMENZA TROCHEZ ALZATE | 3841 | 2014-10-08 | 16:12:32 | 17:12:32 | CUSE | pc25 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-10-08 | 14:48:32 | 15:48:32 | CUSE | pc25 |  
+1139148 | ELCY MAGALI CARANGUAY YAMPUESAN | 3846 | 2014-10-09 | 10:25:19 | 11:25:19 | CUSE | pc11 |  
+0934459 | Gener David Tique Benitez | 3846 | 2014-10-09 | 10:25:42 | 11:25:42 | CUSE | pc12 |  
+0732159 | JAVIER ANDRES SABOGAL CANDAS | 3846 | 2014-10-09 | 10:35:02 | 11:35:02 | CUSE | pc15 |  
+0835187 | SIMON PIEDRAHITA PALACIN | 3846 | 2014-10-09 | 17:48:49 | 18:48:49 | CUSE | pc16 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-09 | 10:17:46 | 11:17:46 | CUSE | pc17 |  
+1133217 | Alexandra Largo Daraviña | 3845 | 2014-10-09 | 17:36:44 | 18:36:44 | CUSE | pc18 |  
+1040326 | MAGNOLIA PALOMEQUE MOSQUERA | 3842 | 2014-10-09 | 10:10:04 | 11:10:04 | CUSE | pc20 |  
+0524831 | Jorge Mario Paz Ballesteros | 3841 | 2014-10-09 | 19:50:20 | 20:50:20 | CUSE | pc22 |  
+0823707 | DIAANA FERNANDA SANCHEZ ZAPATA | 3846 | 2014-10-09 | 09:58:21 | 10:58:21 | CUSE | pc22 |  
+1427881 | Sebastian Guarnizo Rosero | 3660 | 2014-10-09 | 11:06:01 | 12:06:01 | CUSE | pc24 |  
+1235727 | Sebastian Florez Rengifo | 3857 | 2014-10-09 | 10:55:13 | 11:55:13 | CUSE | pc25 |  
+0624017 | MARIA IDALIA POLANíA JIMENEZ | 3841 | 2014-10-09 | 19:07:18 | 20:07:18 | CUSE | pc25 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-10-09 | 10:35:47 | 11:35:47 | CUSE | pc26 |  
+1441916 | Jesus Alberto Benavidez | 3841 | 2014-10-10 | 16:43:54 | 17:43:54 | CUSE | pc03 |  
+1437764 | Stefanya Ramirez | 3841 | 2014-10-10 | 16:44:14 | 17:44:14 | CUSE | pc05 |  
+1437443 | Nancy Paola  Cuaical | 3841 | 2014-10-10 | 16:47:18 | 17:47:18 | CUSE | pc06 | Clase
+1441619 | Jhon Edison  Buitrago | 3841 | 2014-10-10 | 16:44:31 | 17:44:31 | CUSE | pc08 |  
+1110107 | Jhan Alexander  Quiñones Prado | 3846 | 2014-10-10 | 17:48:39 | 18:48:39 | CUSE | pc10 |  
+1439996 | William  Garces Mejia | 3841 | 2014-10-10 | 16:46:40 | 17:46:40 | CUSE | pc12 |  
+1438712 | RICHARD CAMPO CORTES | 3841 | 2014-10-10 | 16:46:17 | 17:46:17 | CUSE | pc13 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-10-10 | 17:45:59 | 18:45:59 | CUSE | pc14 |  
+1441645 | Daniel Fernando  Jimenez Oviedo | 3841 | 2014-10-10 | 16:47:38 | 17:47:38 | CUSE | pc15 | Clase
+0852026 | Lady Joana Medina  Lopez | 3841 | 2014-10-10 | 16:47:58 | 17:47:58 | CUSE | pc16 |  
+0642059 | Samuel Andres Torres Velez | 2132 | 2014-10-10 | 17:29:53 | 18:29:53 | CUSE | pc16 |  
+1438126 | Jhon Wilmar Arboleda Congo | 3841 | 2014-10-10 | 16:43:25 | 17:43:25 | CUSE | pc17 |  
+1035316 | Juan David Ordoñez Viteri | 3846 | 2014-10-10 | 17:22:44 | 18:22:44 | CUSE | pc18 |  
+1142820 | Paula Andrea Jaramillo Garcia | 3857 | 2014-10-10 | 17:10:50 | 18:10:50 | CUSE | pc20 |  
+1337633 | olmer enrique mina segura | 3842 | 2014-10-10 | 17:16:32 | 18:16:32 | CUSE | pc20 |  
+1436980 | Marly Ferneida Bravo Ordoñez | 3841 | 2014-10-10 | 16:45:49 | 17:45:49 | CUSE | pc21 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-10-10 | 17:02:50 | 18:02:50 | CUSE | pc22 |  
+1236231 | CAROLINA HOLGUIN GARCIA | 3841 | 2014-10-10 | 17:25:02 | 18:25:02 | CUSE | pc23 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-10-10 | 17:23:29 | 18:23:29 | CUSE | pc24 |  
+1044720 | DANIELA GUEVARA GONZALEZ | 3842 | 2014-10-10 | 18:04:18 | 19:04:18 | CUSE | pc25 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-10-11 | 10:54:26 | 11:54:26 | CUSE | pc05 |  
+1135475 | Jhon lenerth  Chavez Roman  | 3846 | 2014-10-11 | 10:52:37 | 11:52:37 | CUSE | pc08 |  
+1026066 | Alexander Riascos Caicedo | 3845 | 2014-10-11 | 16:25:45 | 17:25:45 | CUSE | pc11 |  
+0839578 | Emma Patricia Araujo Benabidez | 3841 | 2014-10-11 | 09:58:53 | 10:58:53 | CUSE | pc13 |  
+0926016 | JHON EDWARD GOMEZ ZUÑIGA | 3841 | 2014-10-11 | 09:58:35 | 10:58:35 | CUSE | pc14 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-10-11 | 16:55:37 | 17:55:37 | CUSE | pc16 |  
+0832768 | Nick Fernando Perea Garces | 3743 | 2014-10-11 | 10:51:33 | 11:51:33 | CUSE | pc18 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-10-11 | 09:20:19 | 10:20:19 | CUSE | pc19 |  
+1125129 | Hernan dario alvarez santander | 3841 | 2014-10-11 | 08:28:26 | 09:28:26 | CUSE | pc21 |  
+1031823 | VANESSA RIVAS BENJUMEA | 3842 | 2014-10-14 | 19:12:46 | 20:12:46 | CUSE | pc05 |  
+1044058 | JAZMIN RIASCOS QUINTERO | 3842 | 2014-10-14 | 19:12:57 | 20:12:57 | CUSE | pc06 |  
+1140985 | Yanier Tufiño Castillo | 3846 | 2014-10-14 | 18:52:00 | 19:52:00 | CUSE | pc09 |  
+1110392 | Jackeline  Ramos Torres | 3845 | 2014-10-14 | 09:45:12 | 10:45:12 | CUSE | pc09 |  
+1151377 | Jhoana  Miranda Ceballos | 3845 | 2014-10-14 | 18:52:13 | 19:52:13 | CUSE | pc10 |  
+1138700 | Claudia PAtricia Rodriguez Fernandez | 3842 | 2014-10-14 | 16:47:07 | 17:47:07 | CUSE | pc13 |  
+1125824 | Alejandra FLOREZ GONZALEZ | 3845 | 2014-10-14 | 19:22:50 | 20:22:50 | CUSE | pc14 |  
+1138953 | Alexander Revelo Guayupe | 3846 | 2014-10-14 | 18:40:39 | 19:40:39 | CUSE | pc15 |  
+1340984 | GUSTAVO ALBERTO URBANO NARVAEZ | 3857 | 2014-10-14 | 09:20:37 | 10:20:37 | CUSE | pc15 |  
+0230589 | YEINER FERNANDO VASQUEZ CASTRO | 3461 | 2014-10-14 | 15:45:01 | 16:45:01 | CUSE | pc16 |  
+1237212 | WILL FREDO GARCIA | 3842 | 2014-10-14 | 16:12:40 | 17:12:40 | CUSE | pc17 |  
+0934296 | Christian Andres Bernal Zuñiga | 3651 | 2014-10-14 | 16:12:08 | 17:12:08 | CUSE | pc18 |  
+1243647 | BERTHA RUTH CAVIEDES GOMEZ | 3857 | 2014-10-14 | 14:18:12 | 15:18:12 | CUSE | pc19 |  
+1236651 | LINA YISELA BURBANO URIBE | 3857 | 2014-10-14 | 14:17:54 | 15:17:54 | CUSE | pc20 |  
+1325413 | Alejandro Vargas Muñoz | 3845 | 2014-10-14 | 19:48:28 | 20:48:28 | CUSE | pc20 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-10-14 | 09:45:01 | 10:45:01 | CUSE | pc20 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-14 | 16:12:24 | 17:12:24 | CUSE | pc21 |  
+1328121 | JHONATAN ALESANDER CUERVO LONDOÑO | 3845 | 2014-10-14 | 09:12:17 | 10:12:17 | CUSE | pc22 |  
+1438712 | RICHARD CAMPO CORTES | 3841 | 2014-10-14 | 18:39:07 | 19:39:07 | CUSE | pc22 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-10-14 | 16:17:43 | 17:17:43 | CUSE | pc23 |  
+1033493 | MARCEL KOGUI LOPEZ MORENO | 3846 | 2014-10-14 | 09:12:37 | 10:12:37 | CUSE | pc23 |  
+1052776 | Laura Vanessa Gaitan Velez | 3845 | 2014-10-14 | 18:46:21 | 19:46:21 | CUSE | pc24 |  
+1135480 | Erick Sarmiento Bejarano | 3846 | 2014-10-14 | 14:18:30 | 15:18:30 | CUSE | pc24 |  
+1338084 | Maria del Pilar Fernandez Rueda | 3857 | 2014-10-14 | 09:56:01 | 10:56:01 | CUSE | pc24 | Practica
+1142914 | Pedro Luis Asprilla | 1111 | 2014-10-14 | 14:28:25 | 15:28:25 | CUSE | pc24 |  
+1139148 | ELCY MAGALI CARANGUAY YAMPUESAN | 3846 | 2014-10-14 | 09:16:19 | 10:16:19 | CUSE | pc25 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-10-14 | 14:28:08 | 15:28:08 | CUSE | pc25 |  
+1341700 | Luis Felipe  GONZALEZ SAAVEDRA | 3857 | 2014-10-14 | 09:16:05 | 10:16:05 | CUSE | pc26 |  
+0644068 | RICARDO ANDRES ESPINOSA HENAO | 3846 | 2014-10-14 | 17:19:45 | 18:19:45 | CUSE | pc26 |  
+1024720 | Juan Guillermo Torres Ramirez | 3845 | 2014-10-14 | 19:11:32 | 20:11:32 | CUSE | pc26 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-10-14 | 09:24:01 | 10:24:01 | CUSE | pc27 |  
+1037717 | Paola Andrea Bernal Orozco | 3648 | 2014-10-15 | 15:55:44 | 16:55:44 | CUSE | pc10 |  
+1438583 | Estefania Giraldo Gomez | 3845 | 2014-10-15 | 16:41:02 | 17:41:02 | CUSE | pc13 |  
+1040326 | MAGNOLIA PALOMEQUE MOSQUERA | 3842 | 2014-10-15 | 14:20:04 | 15:20:04 | CUSE | pc14 |  
+0430285 | ENDERSON TABARES GARCIA | 3842 | 2014-10-15 | 17:14:11 | 18:14:11 | CUSE | pc16 |  
+1425493 | bryan stiven trejos gutierrez | 3841 | 2014-10-15 | 16:44:44 | 17:44:44 | CUSE | pc18 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-10-15 | 14:06:18 | 15:06:18 | CUSE | pc18 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-10-15 | 17:02:18 | 18:02:18 | CUSE | pc19 |  
+0932674 | katerine meneses ramos | 3842 | 2014-10-15 | 17:54:19 | 18:54:19 | CUSE | pc19 |  
+1024943 | hugo cataño rosero | 3841 | 2014-10-15 | 14:35:59 | 15:35:59 | CUSE | pc20 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-10-15 | 17:43:51 | 18:43:51 | CUSE | pc20 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-10-15 | 16:42:36 | 17:42:36 | CUSE | pc21 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-15 | 14:26:50 | 15:26:50 | CUSE | pc21 |  
+1039975 | YULY ISABEL CRUZ OLIVA | 3842 | 2014-10-15 | 17:57:45 | 18:57:45 | CUSE | pc22 |  
+0842540 | KATHERINE VALENCIA CALVACHE | 3842 | 2014-10-15 | 13:57:48 | 14:57:48 | CUSE | pc22 |  
+1230373 | Juan Sebastian Barbosa Fernandez | 3845 | 2014-10-15 | 15:31:01 | 16:31:01 | CUSE | pc22 |  
+0924322 | DANIEL ALEJANDRO GUASMAYAN BENAVIDES | 3857 | 2014-10-15 | 16:49:05 | 17:49:05 | CUSE | pc23 |  
+1024461 | Jose Guido Aroca Gaviria | 3845 | 2014-10-15 | 14:03:44 | 15:03:44 | CUSE | pc24 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-10-15 | 15:06:00 | 16:06:00 | CUSE | pc24 |  
+1435035 | Juan Felipe Polanco Gonzalez | 3857 | 2014-10-15 | 13:56:32 | 14:56:32 | CUSE | pc25 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-10-15 | 15:27:26 | 16:27:26 | CUSE | pc26 |  
+1235576 | FABIAN ADOLFO PASSOS BLANCO | 3660 | 2014-10-16 | 11:10:51 | 12:10:51 | CUSE | pc13 |  
+1138054 | Marlin Johana Guevara Marroquin | 3846 | 2014-10-16 | 11:08:03 | 12:08:03 | CUSE | pc14 |  
+1337502 | maria jose oyola arrieta | 3842 | 2014-10-16 | 11:35:44 | 12:35:44 | CUSE | pc15 |  
+1140439 | Jennifer Stefania Acosta Quintero | 3846 | 2014-10-16 | 11:03:59 | 12:03:59 | CUSE | pc16 |  
+1425984 | Miguel Angel Garcia Medina | 3845 | 2014-10-16 | 10:46:35 | 11:46:35 | CUSE | pc17 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-16 | 18:09:37 | 19:09:37 | CUSE | pc17 |  
+1425540 | Castañeda Soto Heyder | 3845 | 2014-10-16 | 10:47:23 | 11:47:23 | CUSE | pc18 |  
+1242580 | LAURA ALEJANDRA OSORIO ALARCON | 3857 | 2014-10-16 | 10:41:48 | 11:41:48 | CUSE | pc20 |  
+1424214 | ALEJANDRO GOMEZ MOSQUERA | 3845 | 2014-10-16 | 10:47:09 | 11:47:09 | CUSE | pc21 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-10-16 | 17:51:25 | 18:51:25 | CUSE | pc21 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-10-16 | 17:53:16 | 18:53:16 | CUSE | pc22 |  
+1147142 | Angie Vanessa Rivas Rodriguez | 2635 | 2014-10-16 | 17:57:52 | 18:57:52 | CUSE | pc23 |  
+1128686 | Liliana Maria Morales Trochez | 3841 | 2014-10-16 | 18:45:26 | 19:45:26 | CUSE | pc23 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-10-16 | 10:45:27 | 11:45:27 | CUSE | pc23 |  
+1126597 | Natasha Victoria Morales | 3845 | 2014-10-16 | 18:01:36 | 19:01:36 | CUSE | pc24 |  
+1133217 | Alexandra Largo Daraviña | 3845 | 2014-10-16 | 17:50:55 | 18:50:55 | CUSE | pc25 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-10-16 | 17:51:10 | 18:51:10 | CUSE | pc26 |  
+1426766 | julian mauricio  montilla gamboa  | 3845 | 2014-10-16 | 10:47:34 | 11:47:34 | CUSE | pc26 |  
+0936446 | karen ibeth benitez becerra | 3846 | 2014-10-16 | 18:51:11 | 19:51:11 | CUSE | pc26 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-10-17 | 17:37:25 | 18:37:25 | CUSE | pc09 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-10-17 | 17:37:09 | 18:37:09 | CUSE | pc10 |  
+0926360 | Staisy Dayana Hoyos Mena | 3857 | 2014-10-17 | 17:22:05 | 18:22:05 | CUSE | pc14 |  
+1147132 | Mallerlin Reyes Polo | 3842 | 2014-10-17 | 17:08:45 | 18:08:45 | CUSE | pc14 |  
+1133422 | Andres Felipe Quijano Zambrano | 3841 | 2014-10-17 | 17:09:22 | 18:09:22 | CUSE | pc17 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-10-17 | 17:52:54 | 18:52:54 | CUSE | pc18 |  
+1133422 | Andres Felipe Quijano Zambrano | 3841 | 2014-10-17 | 17:08:13 | 18:08:13 | CUSE | pc18 |  
+1035316 | Juan David Ordoñez Viteri | 3846 | 2014-10-17 | 08:25:49 | 09:25:49 | CUSE | pc19 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-10-17 | 17:29:03 | 18:29:03 | CUSE | pc20 |  
+1110361 | Diana Centeno Perea | 3846 | 2014-10-17 | 18:08:41 | 19:08:41 | CUSE | pc21 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-10-17 | 18:09:05 | 19:09:05 | CUSE | pc22 |  
+0764370 | Angelica Maria Jimenez Tabares | 3845 | 2014-10-17 | 17:42:37 | 18:42:37 | CUSE | pc23 |  
+1032112 | Edgar Gaviria Martinez | 3846 | 2014-10-17 | 17:27:14 | 18:27:14 | CUSE | pc24 |  
+1134330 | Diana Marcela Gil Lopez  | 3841 | 2014-10-17 | 19:08:50 | 20:08:50 | CUSE | pc25 |  
+0827548 | Erik Alveiro Mejía Caicedo | 3845 | 2014-10-17 | 17:44:40 | 18:44:40 | CUSE | pc25 |  
+0934459 | Gener David Tique Benitez | 3846 | 2014-10-17 | 08:08:33 | 09:08:33 | CUSE | pc25 |  
+1139148 | ELCY MAGALI CARANGUAY YAMPUESAN | 3846 | 2014-10-17 | 08:08:10 | 09:08:10 | CUSE | pc26 |  
+1139831 | GABRIELA FERNANDEZ RUEDA | 3857 | 2014-10-17 | 13:54:09 | 14:54:09 | CUSE | pc27 |  
+1126039 | Dayana Lorena Ñañez Ramirez | 3845 | 2014-10-18 | 11:25:21 | 12:25:21 | CUSE | pc01 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-10-18 | 14:18:00 | 15:18:00 | CUSE | pc09 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-10-18 | 10:03:25 | 11:03:25 | CUSE | pc14 |  
+1125428 | Gloria Stephany BERNAL BERMUDEZ | 3841 | 2014-10-18 | 08:41:08 | 09:41:08 | CUSE | pc18 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-10-18 | 08:52:12 | 09:52:12 | CUSE | pc19 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-10-18 | 10:15:40 | 11:15:40 | CUSE | pc20 |  
+1425791 | wilmar arlex santana madrid | 3845 | 2014-10-18 | 10:58:16 | 11:58:16 | CUSE | pc22 |  
+1038358 | YIMI ANDRES TENORIO ERASO | 3842 | 2014-10-18 | 14:28:18 | 15:28:18 | CUSE | pc23 |  
+1225132 | Alejandro Rodriguez Vasquez | 3841 | 2014-10-20 | 16:42:37 | 17:42:37 | CUSE | pc05 |  
+1230194 | Andres Felipe Toro Serrano | 3841 | 2014-10-20 | 16:42:18 | 17:42:18 | CUSE | pc06 |  
+0635115 | miguel martinez serna | 3748 | 2014-10-20 | 15:53:20 | 16:53:20 | CUSE | pc10 |  
+1147132 | Mallerlin Reyes Polo | 3842 | 2014-10-20 | 15:27:34 | 16:27:34 | CUSE | pc11 |  
+1425791 | wilmar arlex santana madrid | 3845 | 2014-10-20 | 16:22:17 | 17:22:17 | CUSE | pc13 |  
+1143883 | BEATRIZ ELENA RAYO PEREZ | 3857 | 2014-10-20 | 15:27:05 | 16:27:05 | CUSE | pc14 |  
+1430094 | Maira Alejandra  Arévalo | 3841 | 2014-10-20 | 17:05:31 | 18:05:31 | CUSE | pc15 |  
+1338289 | juan pablo orozco alzate | 3842 | 2014-10-20 | 10:02:22 | 11:02:22 | CUSE | pc15 |  
+1341501 | MAURICIO MORCILLO PICON | 3842 | 2014-10-20 | 10:02:08 | 11:02:08 | CUSE | pc16 |  
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-10-20 | 15:17:43 | 16:17:43 | CUSE | pc16 |  
+1435743 | KEVIN JONSON RAMOS HURTADO | 3857 | 2014-10-20 | 09:49:57 | 10:49:57 | CUSE | pc17 |  
+1110392 | Jackeline  Ramos Torres | 3845 | 2014-10-20 | 15:10:27 | 16:10:27 | CUSE | pc18 |  
+1342397 | Julian Andres  Gualdron Echeverry | 3661 | 2014-10-20 | 09:35:58 | 10:35:58 | CUSE | pc20 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-20 | 16:21:46 | 17:21:46 | CUSE | pc21 |  
+1151377 | Jhoana  Miranda Ceballos | 3845 | 2014-10-20 | 18:40:19 | 19:40:19 | CUSE | pc22 |  
+0910035 | Luisa Maria MORALES Zapata | 3842 | 2014-10-20 | 14:28:00 | 15:28:00 | CUSE | pc22 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-10-20 | 14:42:56 | 15:42:56 | CUSE | pc22 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-10-20 | 16:35:35 | 17:35:35 | CUSE | pc23 |  
+0730551 | YENNY ANDREA LOURIDO ENRIQUEZ | 3842 | 2014-10-20 | 18:45:42 | 19:45:42 | CUSE | pc23 |  
+0910035 | Luisa Maria MORALES Zapata | 3842 | 2014-10-20 | 14:30:05 | 15:30:05 | CUSE | pc24 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-10-20 | 08:24:52 | 09:24:52 | CUSE | pc25 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-10-20 | 20:02:02 | 21:02:02 | CUSE | pc25 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-10-20 | 16:36:07 | 17:36:07 | CUSE | pc26 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-10-20 | 20:07:19 | 21:07:19 | CUSE | pc26 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-10-20 | 16:58:42 | 17:58:42 | CUSE | pc27 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-21 | 15:54:19 | 16:54:19 | CUSE | pc13 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-10-21 | 16:24:07 | 17:24:07 | CUSE | pc14 |  
+1237212 | WILL FREDO GARCIA | 3842 | 2014-10-21 | 18:57:46 | 19:57:46 | CUSE | pc17 |  
+0832273 | JULIETH ANDREA GARCIA VALENCIA | 3845 | 2014-10-21 | 17:35:43 | 18:35:43 | CUSE | pc18 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-10-21 | 14:23:54 | 15:23:54 | CUSE | pc20 |  
+0559210 | JUAN SEBASTIAN CARRILLO SANCHEZ | 3841 | 2014-10-21 | 18:39:30 | 19:39:30 | CUSE | pc22 |  
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2014-10-21 | 15:43:26 | 16:43:26 | CUSE | pc23 |  
+1243647 | BERTHA RUTH CAVIEDES GOMEZ | 3857 | 2014-10-21 | 14:24:10 | 15:24:10 | CUSE | pc24 |  
+1145999 | GUIOVANNI ROMO SOTO | 3646 | 2014-10-21 | 15:05:31 | 16:05:31 | CUSE | pc25 |  
+1237303 | Astrid Carolina Astaiza Tabares | 3857 | 2014-10-21 | 16:21:09 | 17:21:09 | CUSE | pc26 |  
+1110392 | Jackeline  Ramos Torres | 3845 | 2014-10-22 | 16:54:20 | 17:54:20 | CUSE | pc10 |  
+0936790 | Jessica Tatiana Posse Forero | 3842 | 2014-10-22 | 17:25:10 | 18:25:10 | CUSE | pc13 |  
+1151377 | Jhoana  Miranda Ceballos | 3845 | 2014-10-22 | 16:49:36 | 17:49:36 | CUSE | pc14 |  
+1241426 | EVELYN VARGAS SANTAMARIA | 3841 | 2014-10-22 | 17:54:50 | 18:54:50 | CUSE | pc15 |  
+1125666 | Andrea Patricia  Castañeda Moreno | 3147 | 2014-10-22 | 17:32:26 | 18:32:26 | CUSE | pc16 |  
+1139831 | GABRIELA FERNANDEZ RUEDA | 3857 | 2014-10-22 | 17:53:25 | 18:53:25 | CUSE | pc17 |  
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2014-10-22 | 16:22:40 | 17:22:40 | CUSE | pc18 |  
+1244826 | Stephanie Devia Valdez | 3651 | 2014-10-22 | 17:59:42 | 18:59:42 | CUSE | pc23 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-10-22 | 16:10:50 | 17:10:50 | CUSE | pc24 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-10-22 | 14:32:21 | 15:32:21 | CUSE | pc24 |  
+0936790 | Jessica Tatiana Posse Forero | 3842 | 2014-10-22 | 17:29:07 | 18:29:07 | CUSE | pc25 |  
+0450763 | MARTHA CECILIA VILLAMIZAR BONILLA | 3841 | 2014-10-22 | 15:59:06 | 16:59:06 | CUSE | pc25 |  
+1151377 | Jhoana  Miranda Ceballos | 3845 | 2014-10-22 | 17:28:04 | 18:28:04 | CUSE | pc26 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-10-23 | 19:35:50 | 20:35:50 | CUSE | pc26 |  
+1133422 | Andres Felipe Quijano Zambrano | 3841 | 2014-10-24 | 18:23:37 | 19:23:37 | CUSE | pc17 |  
+0764370 | Angelica Maria Jimenez Tabares | 3845 | 2014-10-24 | 17:49:59 | 18:49:59 | CUSE | pc20 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-10-24 | 18:02:38 | 19:02:38 | CUSE | pc20 |  
+0764370 | Angelica Maria Jimenez Tabares | 3845 | 2014-10-24 | 17:51:47 | 18:51:47 | CUSE | pc20 |  
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-10-24 | 17:40:29 | 18:40:29 | CUSE | pc21 |  
+1151377 | Jhoana  Miranda Ceballos | 3845 | 2014-10-24 | 18:40:27 | 19:40:27 | CUSE | pc22 |  
+1037556 | YULIANA LONDOÑO CAMUESZ | 3646 | 2014-10-24 | 07:28:07 | 08:28:07 | CUSE | pc22 |  
+0746988 | Heidy Aguilar Mosquera | 3846 | 2014-10-24 | 17:29:17 | 18:29:17 | CUSE | pc22 |  
+0642059 | Samuel Andres Torres Velez | 2132 | 2014-10-24 | 17:32:31 | 18:32:31 | CUSE | pc24 |  
+1301452 | luz Karime Gonzalez barona | 7879 | 2014-10-24 | 18:23:54 | 19:23:54 | CUSE | pc25 |  
+0832014 | STEPHANY VASQUEZ DELGADO | 3842 | 2014-10-24 | 17:55:24 | 18:55:24 | CUSE | pc26 |  
+0926360 | Staisy Dayana Hoyos Mena | 3857 | 2014-10-24 | 18:29:02 | 19:29:02 | CUSE | pc27 |  
+1243647 | BERTHA RUTH CAVIEDES GOMEZ | 3857 | 2014-10-25 | 08:33:28 | 09:33:28 | CUSE | pc24 |  
+1225132 | Alejandro Rodriguez Vasquez | 3841 | 2014-10-27 | 16:51:12 | 17:51:12 | CUSE | pc01 |  
+1230194 | Andres Felipe Toro Serrano | 3841 | 2014-10-27 | 16:51:01 | 17:51:01 | CUSE | pc02 |  
+1330562 | Diego Fernando Estrella Bedoya | 3841 | 2014-10-27 | 15:52:25 | 16:52:25 | CUSE | pc05 |  
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 2014-10-27 | 15:52:14 | 16:52:14 | CUSE | pc06 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-10-27 | 16:20:57 | 17:20:57 | CUSE | pc07 |  
+1036678 | jeiner andres giraldo calambas  | 3842 | 2014-10-27 | 15:12:48 | 16:12:48 | CUSE | pc09 |  
+1032092 | LADY JOHANNA SIERRA | 3842 | 2014-10-27 | 15:12:35 | 16:12:35 | CUSE | pc10 |  
+0740804 | Diana Patricia CAMPO CABALLERO | 3842 | 2014-10-27 | 14:38:05 | 15:38:05 | CUSE | pc13 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-10-27 | 16:11:27 | 17:11:27 | CUSE | pc13 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-10-27 | 11:26:41 | 12:26:41 | CUSE | pc14 |  
+1342333 | RAUL ANDRES LOPEZ BALLESTEROS | 3841 | 2014-10-27 | 14:48:46 | 15:48:46 | CUSE | pc14 |  
+0910035 | Luisa Maria MORALES Zapata | 3842 | 2014-10-27 | 17:33:34 | 18:33:34 | CUSE | pc14 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-10-27 | 11:27:13 | 12:27:13 | CUSE | pc15 |  
+1243501 | LUZ KARINE JARAMILLO RODRIGUEZ  | 2635 | 2014-10-27 | 15:23:07 | 16:23:07 | CUSE | pc15 |  
+1335628 | LEON FELIPE MENESES LOPEZ | 3857 | 2014-10-27 | 09:50:11 | 10:50:11 | CUSE | pc16 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-10-27 | 17:50:38 | 18:50:38 | CUSE | pc16 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-10-27 | 14:39:00 | 15:39:00 | CUSE | pc16 |  
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-10-27 | 09:57:24 | 10:57:24 | CUSE | pc17 |  
+1023622 | Yeimmy Cecilia Larrahondo Quintero | 3841 | 2014-10-27 | 14:36:33 | 15:36:33 | CUSE | pc17 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-10-27 | 17:29:30 | 18:29:30 | CUSE | pc17 |  
+1427682 | Yaine Bolena Ballesteros | 3841 | 2014-10-27 | 17:24:26 | 18:24:26 | CUSE | pc18 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-10-27 | 14:36:20 | 15:36:20 | CUSE | pc18 |  
+1032639 | Luis Fernando Motato Castrillon | 3857 | 2014-10-27 | 15:47:50 | 16:47:50 | CUSE | pc19 |  
+0931379 | John Estevan Torres Suarez | 3660 | 2014-10-27 | 08:43:30 | 09:43:30 | CUSE | pc20 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-10-27 | 14:15:42 | 15:15:42 | CUSE | pc20 |  
+0522402 | MARITZABEL BERMUDEZ ARANGO | 3845 | 2014-10-27 | 14:12:38 | 15:12:38 | CUSE | pc21 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-10-27 | 14:40:51 | 15:40:51 | CUSE | pc22 |  
+1140730 | Claudia Nathaly Rosas Palomino | 3645 | 2014-10-27 | 14:12:10 | 15:12:10 | CUSE | pc23 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-10-27 | 14:11:46 | 15:11:46 | CUSE | pc24 |  
+1243019 | karol yuranny cuaspa velasco | 2635 | 2014-10-27 | 16:14:07 | 17:14:07 | CUSE | pc25 |  
+1437507 | Isabella Zuluaga Ocampo | 3857 | 2014-10-27 | 14:22:09 | 15:22:09 | CUSE | pc25 |  
+1228287 | Eliana Maria Franco Hurtado | 3841 | 2014-10-27 | 16:54:14 | 17:54:14 | CUSE | pc26 |  
+1343367 | Freddy Alberto Meneses Tigreros | 3842 | 2014-10-28 | 08:21:19 | 09:21:19 | CUSE | pc05 |  
+1037434 | Angela Maria Balanta Fory | 3842 | 2014-10-28 | 18:29:26 | 19:29:26 | CUSE | pc05 |  
+1037938 | Katherine Urrea Velsquez | 3842 | 2014-10-28 | 18:29:13 | 19:29:13 | CUSE | pc06 |  
+1138054 | Marlin Johana Guevara Marroquin | 3846 | 2014-10-28 | 17:03:26 | 18:03:26 | CUSE | pc07 |  
+1141391 | VANESSA ROMERO OCAMPO | 3846 | 2014-10-28 | 17:02:40 | 18:02:40 | CUSE | pc08 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-10-28 | 18:03:44 | 19:03:44 | CUSE | pc10 |  
+1242043 | eder aleison nieto carvajal  | 3660 | 2014-10-28 | 16:55:04 | 17:55:04 | CUSE | pc11 |  
+1240260 | Yisther Katherine Silva Cuero | 3647 | 2014-10-28 | 08:07:51 | 09:07:51 | CUSE | pc12 |  
+1341156 | Daniela Montero Ojeda | 3857 | 2014-10-28 | 16:38:22 | 17:38:22 | CUSE | pc12 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-28 | 15:23:59 | 16:23:59 | CUSE | pc13 |  
+1044142 | Camila  Cifuentes Sanchez | 2635 | 2014-10-28 | 08:07:36 | 09:07:36 | CUSE | pc14 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-10-28 | 16:36:37 | 17:36:37 | CUSE | pc14 |  
+0826946 | mauricio andres salgado lopez | 3753 | 2014-10-28 | 16:24:32 | 17:24:32 | CUSE | pc15 |  
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-10-28 | 15:37:13 | 16:37:13 | CUSE | pc16 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-10-28 | 14:40:39 | 15:40:39 | CUSE | pc17 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-10-28 | 15:03:25 | 16:03:25 | CUSE | pc18 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-10-28 | 17:13:38 | 18:13:38 | CUSE | pc20 |  
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 2014-10-28 | 14:38:15 | 15:38:15 | CUSE | pc20 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-10-28 | 14:16:56 | 15:16:56 | CUSE | pc20 |  
+1438025 | Robin Andrés Cortés Gutierrez | 3857 | 2014-10-28 | 16:25:48 | 17:25:48 | CUSE | pc21 |  
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 2014-10-28 | 17:01:58 | 18:01:58 | CUSE | pc22 |  
+1040326 | MAGNOLIA PALOMEQUE MOSQUERA | 3842 | 2014-10-28 | 18:28:35 | 19:28:35 | CUSE | pc22 |  
+1135480 | Erick Sarmiento Bejarano | 3846 | 2014-10-28 | 17:19:40 | 18:19:40 | CUSE | pc23 |  
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-10-28 | 07:46:47 | 08:46:47 | CUSE | pc23 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-10-28 | 14:17:11 | 15:17:11 | CUSE | pc24 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-10-28 | 14:28:57 | 15:28:57 | CUSE | pc24 |  
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2014-10-28 | 17:34:20 | 18:34:20 | CUSE | pc25 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-10-28 | 14:27:03 | 15:27:03 | CUSE | pc26 |  
+1230194 | Andres Felipe Toro Serrano | 3841 | 2014-10-29 | 18:01:25 | 19:01:25 | CUSE | pc02 |  
+1438461 | OSCAR IVAN BELTRAN RAMIREZ | 3857 | 2014-10-29 | 17:41:51 | 18:41:51 | CUSE | pc10 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-10-29 | 14:33:38 | 15:33:38 | CUSE | pc14 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-10-29 | 15:27:50 | 16:27:50 | CUSE | pc15 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-10-29 | 17:29:05 | 18:29:05 | CUSE | pc16 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-29 | 14:33:22 | 15:33:22 | CUSE | pc17 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-10-29 | 16:47:09 | 17:47:09 | CUSE | pc18 |  
+1238540 | Jhoan Stiven Rodriguez Ovalle | 3842 | 2014-10-29 | 14:58:54 | 15:58:54 | CUSE | pc19 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-10-29 | 14:56:38 | 15:56:38 | CUSE | pc20 |  
+1039441 | Maria Victoria Rodriguez Chacon | 3842 | 2014-10-29 | 14:58:37 | 15:58:37 | CUSE | pc20 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-10-29 | 15:24:00 | 16:24:00 | CUSE | pc20 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-10-29 | 15:18:00 | 16:18:00 | CUSE | pc20 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-10-29 | 14:57:49 | 15:57:49 | CUSE | pc21 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-10-29 | 16:29:03 | 17:29:03 | CUSE | pc22 |  
+1044068 | edgar david jaramillo ubate | 3846 | 2014-10-29 | 14:54:56 | 15:54:56 | CUSE | pc24 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-10-29 | 16:20:31 | 17:20:31 | CUSE | pc25 |  
+1135480 | Erick Sarmiento Bejarano | 3846 | 2014-10-29 | 15:41:11 | 16:41:11 | CUSE | pc26 |  
+1128686 | Liliana Maria Morales Trochez | 3841 | 2014-10-30 | 17:24:57 | 18:24:57 | CUSE | pc06 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-10-30 | 11:20:56 | 12:20:56 | CUSE | pc07 |  
+1430094 | Maira Alejandra  Arévalo | 3841 | 2014-10-30 | 17:27:25 | 18:27:25 | CUSE | pc07 |  
+1435464 | Natalia Paola Campiño Cabrera | 3647 | 2014-10-30 | 12:39:45 | 13:39:45 | CUSE | pc09 |  
+1325413 | Alejandro Vargas Muñoz | 3845 | 2014-10-30 | 20:02:51 | 21:02:51 | CUSE | pc13 |  
+1337502 | maria jose oyola arrieta | 3842 | 2014-10-30 | 11:32:16 | 12:32:16 | CUSE | pc13 |  
+1342521 | lady melisa montaño nuñez | 3842 | 2014-10-30 | 11:52:57 | 12:52:57 | CUSE | pc14 |  
+1310262 | sebastian olarte silva | 3845 | 2014-10-30 | 20:02:39 | 21:02:39 | CUSE | pc14 |  
+0824642 | jennifer MONCAYO SALGADO | 3841 | 2014-10-30 | 17:58:35 | 18:58:35 | CUSE | pc16 |  
+1029052 | diego bayado chavez hernandez | 3842 | 2014-10-30 | 12:10:53 | 13:10:53 | CUSE | pc18 |  
+1052996 | Clara Ines Morales Martinez | 3845 | 2014-10-30 | 17:28:59 | 18:28:59 | CUSE | pc18 |  
+0554240 | MARCO TULIO ARANGO PLATA | 3845 | 2014-10-30 | 17:40:21 | 18:40:21 | CUSE | pc19 |  
+1341152 | LAURA VIVIANA GUARNIZO INCHIMA | 3842 | 2014-10-30 | 17:56:15 | 18:56:15 | CUSE | pc20 |  
+0450763 | MARTHA CECILIA VILLAMIZAR BONILLA | 3841 | 2014-10-30 | 18:03:42 | 19:03:42 | CUSE | pc21 |  
+1245551 | Lily Johanna  Balcazar Zarta | 2635 | 2014-10-30 | 17:54:01 | 18:54:01 | CUSE | pc22 |  
+0741996 | KAROL VANESA CIARMA ORDOÑEZ | 3841 | 2014-10-30 | 17:39:51 | 18:39:51 | CUSE | pc23 |  
+1038358 | YIMI ANDRES TENORIO ERASO | 3842 | 2014-10-30 | 12:11:06 | 13:11:06 | CUSE | pc23 |  
+0926351 | LIBARDO  LEITON HOYOS | 3841 | 2014-10-30 | 17:38:14 | 18:38:14 | CUSE | pc24 |  
+1024720 | Juan Guillermo Torres Ramirez | 3845 | 2014-10-30 | 10:10:28 | 11:10:28 | CUSE | pc24 |  
+1224301 | Diana Milena  Lozano Reyes | 3845 | 2014-10-30 | 17:17:33 | 18:17:33 | CUSE | pc25 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-10-30 | 17:20:54 | 18:20:54 | CUSE | pc26 |  
+1341308 | brenda  carreño meza | 3661 | 2014-10-31 | 09:06:18 | 10:06:18 | CUSE | pc11 |  
+1342397 | Julian Andres  Gualdron Echeverry | 3661 | 2014-10-31 | 09:06:29 | 10:06:29 | CUSE | pc13 |  
+1226270 | Steven Felipe Loaiza Marin | 3845 | 2014-10-31 | 08:57:12 | 09:57:12 | CUSE | pc17 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-10-31 | 08:51:25 | 09:51:25 | CUSE | pc19 |  
+1439238 | Lina Marcela Zuluaga Vallejo | 3648 | 2014-10-31 | 08:25:57 | 09:25:57 | CUSE | pc21 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-10-31 | 08:26:15 | 09:26:15 | CUSE | pc23 |  
+1242214 | Wilmer andres Moreno Restrepo | 2636 | 2014-10-31 | 17:23:50 | 18:23:50 | CUSE | pc24 |  
+1235953 | Jasson Eliecer Torres Jimenez | 3857 | 2014-10-31 | 08:47:13 | 09:47:13 | CUSE | pc24 |  
+1145999 | GUIOVANNI ROMO SOTO | 3646 | 2014-10-31 | 08:23:38 | 09:23:38 | CUSE | pc25 |  
+
+
+Elaborado el... 2014-12-11
+Mes: 1 de Noviembre de 2014 al 30 de Noviembre de 2014
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+9307886 | Maria Elena Balanta Lara | 3845 | 2014-11-01 | 10:05:47 | 11:05:47 | CUSE | pc21 |  
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2014-11-01 | 10:05:32 | 11:05:32 | CUSE | pc22 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-11-01 | 09:19:22 | 10:19:22 | CUSE | pc24 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-11-01 | 09:44:39 | 10:44:39 | CUSE | pc25 |  
+0832014 | STEPHANY VASQUEZ DELGADO | 3842 | 2014-11-04 | 15:32:25 | 16:32:25 | CUSE | pc09 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-11-04 | 17:21:48 | 18:21:48 | CUSE | pc10 |  
+1038358 | YIMI ANDRES TENORIO ERASO | 3842 | 2014-11-04 | 16:47:37 | 17:47:37 | CUSE | pc11 |  
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2014-11-04 | 09:17:06 | 10:17:06 | CUSE | pc12 |  
+0746435 | Cristian Jose Messa Rodriguez | 3845 | 2014-11-04 | 18:23:16 | 19:23:16 | CUSE | pc13 |  
+1137390 | Diana Lizeth Rangel Bravo | 3842 | 2014-11-04 | 09:17:19 | 10:17:19 | CUSE | pc14 |  
+1029052 | diego bayado chavez hernandez | 3842 | 2014-11-04 | 14:58:34 | 15:58:34 | CUSE | pc15 |  
+1341156 | Daniela Montero Ojeda | 3857 | 2014-11-04 | 14:15:04 | 15:15:04 | CUSE | pc16 |  
+1033493 | MARCEL KOGUI LOPEZ MORENO | 3846 | 2014-11-04 | 14:19:27 | 15:19:27 | CUSE | pc17 |  
+1235727 | Sebastian Florez Rengifo | 3857 | 2014-11-04 | 14:43:51 | 15:43:51 | CUSE | pc18 |  
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2014-11-04 | 14:24:15 | 15:24:15 | CUSE | pc18 |  
+1044720 | DANIELA GUEVARA GONZALEZ | 3842 | 2014-11-04 | 20:33:43 | 21:33:43 | CUSE | pc18 |  
+1337551 | juan felipe velandia zuluaga | 3842 | 2014-11-04 | 14:35:41 | 15:35:41 | CUSE | pc20 |  
+1133422 | Andres Felipe Quijano Zambrano | 3841 | 2014-11-04 | 18:35:15 | 19:35:15 | CUSE | pc22 |  
+1032092 | LADY JOHANNA SIERRA | 3842 | 2014-11-04 | 18:25:25 | 19:25:25 | CUSE | pc23 |  
+1140022 | Paola Marcela Yela Alarcon | 3645 | 2014-11-04 | 14:20:02 | 15:20:02 | CUSE | pc23 |  
+0652188 | RICARDO BRICEÑO SIERRA | 3845 | 2014-11-04 | 14:15:42 | 15:15:42 | CUSE | pc24 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-11-04 | 17:53:04 | 18:53:04 | CUSE | pc25 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-11-04 | 18:34:04 | 19:34:04 | CUSE | pc26 |  
+0559210 | JUAN SEBASTIAN CARRILLO SANCHEZ | 3841 | 2014-11-07 | 17:48:01 | 18:48:01 | CUSE | pc14 |  
+1052776 | Laura Vanessa Gaitan Velez | 3845 | 2014-11-07 | 18:57:01 | 19:57:01 | CUSE | pc16 |  
+1026101 | juan fernando arias carmen | 3845 | 2014-11-07 | 19:31:13 | 20:31:13 | CUSE | pc17 |  
+1337633 | olmer enrique mina segura | 3842 | 2014-11-07 | 17:29:44 | 18:29:44 | CUSE | pc18 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-11-07 | 17:37:04 | 18:37:04 | CUSE | pc18 |  
+1155047 | LUIS ENRIQUE VELASCO OSORIO | 3845 | 2014-11-07 | 20:31:20 | 21:31:20 | CUSE | pc19 |  
+1210287 | Ruth Stefania  Ramirez Reyes | 3845 | 2014-11-07 | 18:06:20 | 19:06:20 | CUSE | pc19 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-11-07 | 17:33:52 | 18:33:52 | CUSE | pc20 |  
+1147250 | Jessica Urbano Valdez | 3842 | 2014-11-07 | 19:23:44 | 20:23:44 | CUSE | pc20 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-11-07 | 19:15:29 | 20:15:29 | CUSE | pc21 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-11-07 | 17:27:55 | 18:27:55 | CUSE | pc22 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-11-07 | 18:56:48 | 19:56:48 | CUSE | pc22 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-11-07 | 17:30:08 | 18:30:08 | CUSE | pc23 |  
+1224301 | Diana Milena  Lozano Reyes | 3845 | 2014-11-08 | 15:35:10 | 16:35:10 | CUSE | pc04 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-11-08 | 15:14:22 | 16:14:22 | CUSE | pc13 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-11-08 | 15:23:31 | 16:23:31 | CUSE | pc17 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-11-08 | 11:50:57 | 12:50:57 | CUSE | pc22 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-11-08 | 15:18:21 | 16:18:21 | CUSE | pc24 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-11-08 | 09:01:57 | 10:01:57 | CUSE | pc25 |  
+1425020 | Victor Hugo  Duarte Murillo | 3845 | 2014-11-10 | 17:05:22 | 18:05:22 | CUSE | pc02 |  
+1335866 | ANGIE VANESSA ESPAÑA MAMIAN | 3846 | 2014-11-10 | 15:55:09 | 16:55:09 | CUSE | pc02 |  
+1245314 | deisy lorena rodriguez rivera | 2635 | 2014-11-10 | 16:26:58 | 17:26:58 | CUSE | pc05 |  
+1035574 | Martha Lucia Agredo Diaz | 3857 | 2014-11-10 | 16:26:39 | 17:26:39 | CUSE | pc06 |  
+1336004 | Ruby Johanna  Minota Correa  | 3857 | 2014-11-10 | 14:24:14 | 15:24:14 | CUSE | pc06 |  
+1138300 | Karen Estefani Gonzalez Aragon | 3645 | 2014-11-10 | 17:18:44 | 18:18:44 | CUSE | pc06 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-11-10 | 17:12:14 | 18:12:14 | CUSE | pc07 |  
+1337551 | juan felipe velandia zuluaga | 3842 | 2014-11-10 | 15:41:11 | 16:41:11 | CUSE | pc07 |  
+1425064 | Andres Felipe  Quintero Patiño | 3660 | 2014-11-10 | 10:53:48 | 11:53:48 | CUSE | pc08 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-11-10 | 17:15:22 | 18:15:22 | CUSE | pc08 |  
+1342908 | Natalia Andrea  Muriel Marin | 3857 | 2014-11-10 | 14:21:59 | 15:21:59 | CUSE | pc10 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-11-10 | 10:26:22 | 11:26:22 | CUSE | pc10 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-11-10 | 14:38:25 | 15:38:25 | CUSE | pc11 |  
+1146882 | Monica Marcela Jurado | 3846 | 2014-11-10 | 17:32:46 | 18:32:46 | CUSE | pc13 |  
+0843739 | LUIS CARLOS CABRERA NARVAEZ | 3846 | 2014-11-10 | 14:43:12 | 15:43:12 | CUSE | pc13 |  
+1337633 | olmer enrique mina segura | 3842 | 2014-11-10 | 14:24:39 | 15:24:39 | CUSE | pc14 |  
+1410025 | Lina Marcela Ceron Barona | 3841 | 2014-11-10 | 15:17:16 | 16:17:16 | CUSE | pc14 |  
+1335866 | ANGIE VANESSA ESPAÑA MAMIAN | 3846 | 2014-11-10 | 10:59:50 | 11:59:50 | CUSE | pc15 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-11-10 | 14:31:42 | 15:31:42 | CUSE | pc15 |  
+1146882 | Monica Marcela Jurado | 3846 | 2014-11-10 | 15:43:02 | 16:43:02 | CUSE | pc16 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-11-10 | 17:06:13 | 18:06:13 | CUSE | pc16 |  
+1330562 | Diego Fernando Estrella Bedoya | 3841 | 2014-11-10 | 16:09:26 | 17:09:26 | CUSE | pc16 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-11-10 | 15:39:14 | 16:39:14 | CUSE | pc17 |  
+1236791 | Alejandro Reyes Salas | 3846 | 2014-11-10 | 17:01:26 | 18:01:26 | CUSE | pc17 |  
+1236791 | Alejandro Reyes Salas | 3846 | 2014-11-10 | 17:01:09 | 18:01:09 | CUSE | pc17 |  
+1038358 | YIMI ANDRES TENORIO ERASO | 3842 | 2014-11-10 | 10:39:00 | 11:39:00 | CUSE | pc18 |  
+1341981 | Kelly Stella Erazo Basante | 3842 | 2014-11-10 | 16:54:02 | 17:54:02 | CUSE | pc18 |  
+1424004 | Leidy Johana Patiño Muñoz | 3841 | 2014-11-10 | 16:58:25 | 17:58:25 | CUSE | pc19 |  
+1342399 | Mildrey Alejandra Giraldo Noreña | 3857 | 2014-11-10 | 14:21:41 | 15:21:41 | CUSE | pc20 |  
+1430120 | Johathan Martinez Marmolejo | 3841 | 2014-11-10 | 15:14:17 | 16:14:17 | CUSE | pc20 |  
+1427881 | Sebastian Guarnizo Rosero | 3660 | 2014-11-10 | 11:19:41 | 12:19:41 | CUSE | pc20 |  
+1236651 | LINA YISELA BURBANO URIBE | 3857 | 2014-11-10 | 14:28:19 | 15:28:19 | CUSE | pc20 |  
+1342333 | RAUL ANDRES LOPEZ BALLESTEROS | 3841 | 2014-11-10 | 15:01:03 | 16:01:03 | CUSE | pc21 |  
+0839989 | JULIAN ANDRES  MARTINEZ MOSQUERA | 3845 | 2014-11-10 | 16:21:10 | 17:21:10 | CUSE | pc21 |  
+1229546 | Juan Camilo Lozano Chica | 3841 | 2014-11-10 | 14:03:19 | 15:03:19 | CUSE | pc22 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-11-10 | 17:00:20 | 18:00:20 | CUSE | pc22 |  
+0741996 | KAROL VANESA CIARMA ORDOÑEZ | 3841 | 2014-11-10 | 17:08:23 | 18:08:23 | CUSE | pc23 |  
+1341700 | Luis Felipe  GONZALEZ SAAVEDRA | 3857 | 2014-11-10 | 14:15:16 | 15:15:16 | CUSE | pc24 |  
+0926016 | JHON EDWARD GOMEZ ZUÑIGA | 3841 | 2014-11-10 | 16:53:08 | 17:53:08 | CUSE | pc24 |  
+1427566 | Angelica Maria Gomez Cano | 3845 | 2014-11-10 | 16:59:32 | 17:59:32 | CUSE | pc25 |  
+1425020 | Victor Hugo  Duarte Murillo | 3841 | 2014-11-10 | 15:49:38 | 16:49:38 | CUSE | pc25 |  
+1110392 | Jackeline  Ramos Torres | 3845 | 2014-11-10 | 17:03:06 | 18:03:06 | CUSE | pc26 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-11-10 | 07:40:29 | 08:40:29 | CUSE | pc26 |  
+0746988 | Heidy Aguilar Mosquera | 3846 | 2014-11-10 | 11:57:48 | 12:57:48 | CUSE | pc27 |  
+1126665 | Gustavo Adolfo GUASAQUILLO PERDOMO | 3841 | 2014-11-11 | 18:07:08 | 19:07:08 | CUSE | pc13 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-11-11 | 15:04:24 | 16:04:24 | CUSE | pc14 |  
+0832720 | Leidy Ximena Castro Gamboa | 3845 | 2014-11-11 | 18:54:27 | 19:54:27 | CUSE | pc15 |  
+1324408 | Jaime Orlando Aza Aza | 3841 | 2014-11-11 | 15:44:47 | 16:44:47 | CUSE | pc15 |  
+1427881 | Sebastian Guarnizo Rosero | 3660 | 2014-11-11 | 14:28:23 | 15:28:23 | CUSE | pc16 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-11-11 | 15:10:14 | 16:10:14 | CUSE | pc17 |  
+1027166 | Cristhian Andres Rojas Zapata | 3842 | 2014-11-11 | 18:53:58 | 19:53:58 | CUSE | pc18 |  
+1228766 | Diego Fernando Junco Ospina | 3845 | 2014-11-11 | 18:05:05 | 19:05:05 | CUSE | pc18 |  
+1244693 | PAULA ANDREA BOLAÑOS SANDOVAL | 3857 | 2014-11-11 | 14:27:15 | 15:27:15 | CUSE | pc19 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-11-11 | 15:59:41 | 16:59:41 | CUSE | pc19 |  
+1236651 | LINA YISELA BURBANO URIBE | 3857 | 2014-11-11 | 14:27:04 | 15:27:04 | CUSE | pc20 |  
+1124096 | Karen Viviana ORTIZ SANCHEZ | 3841 | 2014-11-11 | 18:16:42 | 19:16:42 | CUSE | pc21 |  
+0835220 | Hernan Dario Castillo Parra | 3842 | 2014-11-11 | 14:43:11 | 15:43:11 | CUSE | pc24 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-11-11 | 20:19:45 | 21:19:45 | CUSE | pc24 |  
+1228766 | Diego Fernando Junco Ospina | 3845 | 2014-11-11 | 20:22:16 | 21:22:16 | CUSE | pc26 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-11-12 | 15:06:44 | 16:06:44 | CUSE | pc10 |  
+1131000 | Daniel Alvarez Herrera | 3845 | 2014-11-12 | 15:27:52 | 16:27:52 | CUSE | pc10 |  
+1241025 | Daniela Rogelis Gomez | 3857 | 2014-11-12 | 16:50:22 | 17:50:22 | CUSE | pc10 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-11-12 | 16:56:13 | 17:56:13 | CUSE | pc10 |  
+1147239 | GUSTAVO ADOLFO TORRES ZUÑIGA | 3841 | 2014-11-12 | 17:34:55 | 18:34:55 | CUSE | pc10 |  
+1335628 | LEON FELIPE MENESES LOPEZ | 3857 | 2014-11-12 | 15:48:09 | 16:48:09 | CUSE | pc12 |  
+0430187 | JULY MARLEN  ORDOÑEZ CERON | 3845 | 2014-11-12 | 17:23:18 | 18:23:18 | CUSE | pc14 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-11-12 | 14:22:41 | 15:22:41 | CUSE | pc14 |  
+1337302 | andres felipe suarez | 3857 | 2014-11-12 | 15:35:18 | 16:35:18 | CUSE | pc16 |  
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 2014-11-12 | 14:35:13 | 15:35:13 | CUSE | pc17 |  
+1044068 | edgar david jaramillo ubate | 3846 | 2014-11-12 | 14:17:05 | 15:17:05 | CUSE | pc18 |  
+1230194 | Andres Felipe Toro Serrano | 3841 | 2014-11-12 | 14:32:43 | 15:32:43 | CUSE | pc19 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-11-12 | 15:51:29 | 16:51:29 | CUSE | pc20 |  
+1243647 | BERTHA RUTH CAVIEDES GOMEZ | 3857 | 2014-11-12 | 14:16:51 | 15:16:51 | CUSE | pc21 |  
+1236651 | LINA YISELA BURBANO URIBE | 3857 | 2014-11-12 | 14:16:38 | 15:16:38 | CUSE | pc22 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-11-12 | 17:30:33 | 18:30:33 | CUSE | pc22 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-11-12 | 16:19:18 | 17:19:18 | CUSE | pc23 |  
+0749222 | Yudy Marcela Bolaños Botero | 3660 | 2014-11-12 | 16:19:49 | 17:19:49 | CUSE | pc24 |  
+0222034 | CARMENZA TROCHEZ ALZATE | 3841 | 2014-11-12 | 16:50:43 | 17:50:43 | CUSE | pc25 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-11-12 | 17:04:20 | 18:04:20 | CUSE | pc26 |  
+1210287 | Ruth Stefania  Ramirez Reyes | 3845 | 2014-11-13 | 18:16:10 | 19:16:10 | CUSE | pc06 |  
+1126597 | Natasha Victoria Morales | 3845 | 2014-11-13 | 18:06:12 | 19:06:12 | CUSE | pc11 |  
+1033493 | MARCEL KOGUI LOPEZ MORENO | 3846 | 2014-11-13 | 18:03:58 | 19:03:58 | CUSE | pc12 |  
+1139067 | DIANA MARCELA ROJAS MURILLO | 3842 | 2014-11-13 | 17:47:13 | 18:47:13 | CUSE | pc14 |  
+1337633 | olmer enrique mina segura | 3842 | 2014-11-13 | 11:22:56 | 12:22:56 | CUSE | pc15 |  
+1427881 | Sebastian Guarnizo Rosero | 3660 | 2014-11-13 | 17:51:38 | 18:51:38 | CUSE | pc15 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-11-13 | 12:30:35 | 13:30:35 | CUSE | pc16 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-11-13 | 17:38:37 | 18:38:37 | CUSE | pc16 |  
+0857930 | Yony Andres ESPINOSA CRIALES | 3845 | 2014-11-13 | 18:16:25 | 19:16:25 | CUSE | pc17 |  
+1436962 | esteffanny andrea cardona cardona | 3857 | 2014-11-13 | 10:23:43 | 11:23:43 | CUSE | pc17 |  
+0554240 | MARCO TULIO ARANGO PLATA | 3845 | 2014-11-13 | 17:43:45 | 18:43:45 | CUSE | pc18 |  
+1440102 | Jenny Lucia  Giraldo Trochez | 3857 | 2014-11-13 | 10:24:23 | 11:24:23 | CUSE | pc18 |  
+1137583 | Adriano Esteban Rosero grijalba | 3846 | 2014-11-13 | 10:23:04 | 11:23:04 | CUSE | pc20 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-11-13 | 10:38:19 | 11:38:19 | CUSE | pc21 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-11-13 | 17:49:47 | 18:49:47 | CUSE | pc22 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-11-13 | 20:23:10 | 21:23:10 | CUSE | pc23 |  
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 2014-11-13 | 18:59:29 | 19:59:29 | CUSE | pc23 |  
+1342333 | RAUL ANDRES LOPEZ BALLESTEROS | 3841 | 2014-11-13 | 10:26:11 | 11:26:11 | CUSE | pc24 |  
+1228723 | Yeison Benito Millan Restrepo | 3845 | 2014-11-13 | 19:13:39 | 20:13:39 | CUSE | pc24 |  
+1256451 | Paula Andrea Hernandez Montoya | 3845 | 2014-11-13 | 18:14:50 | 19:14:50 | CUSE | pc24 |  
+1133286 | Lorena GARCIA FLOREZ | 3841 | 2014-11-13 | 18:00:52 | 19:00:52 | CUSE | pc25 |  
+0741996 | KAROL VANESA CIARMA ORDOÑEZ | 3841 | 2014-11-13 | 19:16:07 | 20:16:07 | CUSE | pc25 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-11-13 | 19:13:15 | 20:13:15 | CUSE | pc26 |  
+1331039 | ANDREA BURBANO CASTRO | 3845 | 2014-11-14 | 18:39:56 | 19:39:56 | CUSE | pc05 |  
+1125937 | LOPEZ CALLE STIWAR | 3845 | 2014-11-14 | 19:17:29 | 20:17:29 | CUSE | pc06 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-11-14 | 18:39:29 | 19:39:29 | CUSE | pc06 |  
+1241426 | EVELYN VARGAS SANTAMARIA | 3841 | 2014-11-14 | 18:41:26 | 19:41:26 | CUSE | pc07 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-11-14 | 18:39:13 | 19:39:13 | CUSE | pc10 |  
+0822996 | LINA MARCELA VILLAMIL MEZA | 3846 | 2014-11-14 | 18:17:59 | 19:17:59 | CUSE | pc11 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-11-14 | 18:17:32 | 19:17:32 | CUSE | pc12 |  
+1035486 | Johan Sebastian Castaño Cardoza | 3842 | 2014-11-14 | 18:01:35 | 19:01:35 | CUSE | pc14 |  
+0843869 | steven andres BOLAÑOS AQUITE | 3842 | 2014-11-14 | 19:13:22 | 20:13:22 | CUSE | pc14 |  
+1044720 | DANIELA GUEVARA GONZALEZ | 3842 | 2014-11-14 | 18:13:43 | 19:13:43 | CUSE | pc15 |  
+1133022 | WILLIAM ANDRES JIMENEZ GARCIA | 3841 | 2014-11-14 | 18:15:04 | 19:15:04 | CUSE | pc16 |  
+1026101 | juan fernando arias carmen | 3845 | 2014-11-14 | 19:10:10 | 20:10:10 | CUSE | pc17 |  
+1139067 | DIANA MARCELA ROJAS MURILLO | 3842 | 2014-11-14 | 17:31:12 | 18:31:12 | CUSE | pc18 |  
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 2014-11-14 | 17:01:03 | 18:01:03 | CUSE | pc22 |  
+1144000 | Diego Fernando Cuellar Palacios | 3842 | 2014-11-14 | 20:11:36 | 21:11:36 | CUSE | pc23 |  
+1438116 | yolanda katerine benavides virama | 3645 | 2014-11-14 | 17:05:44 | 18:05:44 | CUSE | pc24 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-11-14 | 17:04:30 | 18:04:30 | CUSE | pc25 |  
+1024915 | Juan Carlos Aguilera Correa | 3845 | 2014-11-14 | 19:21:14 | 20:21:14 | CUSE | pc26 |  
+1024193 | mauricio marulanda lopez | 3846 | 2014-11-15 | 16:29:43 | 17:29:43 | CUSE | pc19 |  
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2014-11-15 | 09:39:47 | 10:39:47 | CUSE | pc20 |  
+1235462 | David Florz Osorio | 3842 | 2014-11-15 | 14:18:50 | 15:18:50 | CUSE | pc21 |  
+1024915 | Juan Carlos Aguilera Correa | 3845 | 2014-11-15 | 14:49:56 | 15:49:56 | CUSE | pc23 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-11-15 | 10:33:52 | 11:33:52 | CUSE | pc24 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-11-15 | 16:05:27 | 17:05:27 | CUSE | pc24 |  
+0936321 | Diego Fernando  Hoyos Taborda | 3846 | 2014-11-15 | 15:59:31 | 16:59:31 | CUSE | pc25 |  
+1133108 | Hernan Dario Tulande Pardo | 3845 | 2014-11-15 | 11:22:41 | 12:22:41 | CUSE | pc26 |  
+1324994 | alfredo andrade escobar | 3845 | 2014-11-18 | 18:23:12 | 19:23:12 | CUSE | pc02 |  
+1140022 | Paola Marcela Yela Alarcon | 3645 | 2014-11-18 | 18:21:44 | 19:21:44 | CUSE | pc06 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-11-18 | 19:47:26 | 20:47:26 | CUSE | pc09 |  
+0939313 | Gina Garcia | 3842 | 2014-11-18 | 18:03:36 | 19:03:36 | CUSE | pc10 |  
+1244826 | Stephanie Devia Valdez | 3651 | 2014-11-18 | 17:41:33 | 18:41:33 | CUSE | pc12 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-11-18 | 16:30:51 | 17:30:51 | CUSE | pc13 |  
+0536472 | DEYBER WENCESLADO DUSSAN BETANCOURT | 3841 | 2014-11-18 | 18:55:12 | 19:55:12 | CUSE | pc14 |  
+1425033 | Leandro Guzman Santanilla | 3841 | 2014-11-18 | 16:30:35 | 17:30:35 | CUSE | pc15 |  
+1125428 | Gloria Stephany BERNAL BERMUDEZ | 3841 | 2014-11-18 | 20:02:52 | 21:02:52 | CUSE | pc15 |  
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 2014-11-18 | 15:42:52 | 16:42:52 | CUSE | pc16 |  
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2014-11-18 | 16:08:33 | 17:08:33 | CUSE | pc18 |  
+0842181 | Ana Maria Castillo Correa | 3842 | 2014-11-18 | 18:43:45 | 19:43:45 | CUSE | pc18 |  
+1155272 | Angela Katherine Diaz Orozco | 3845 | 2014-11-18 | 18:41:03 | 19:41:03 | CUSE | pc23 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-11-18 | 14:34:04 | 15:34:04 | CUSE | pc24 |  
+1126597 | Natasha Victoria Morales | 3845 | 2014-11-18 | 19:15:21 | 20:15:21 | CUSE | pc25 |  
+1147132 | Mallerlin Reyes Polo | 3842 | 2014-11-18 | 17:40:43 | 18:40:43 | CUSE | pc26 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-11-19 | 17:00:30 | 18:00:30 | CUSE | pc02 |  
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 2014-11-19 | 17:08:26 | 18:08:26 | CUSE | pc06 |  
+1330562 | Diego Fernando Estrella Bedoya | 3841 | 2014-11-19 | 17:32:04 | 18:32:04 | CUSE | pc09 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-11-19 | 17:31:42 | 18:31:42 | CUSE | pc10 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-11-19 | 14:01:10 | 15:01:10 | CUSE | pc14 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-11-19 | 16:31:30 | 17:31:30 | CUSE | pc15 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-11-19 | 17:11:21 | 18:11:21 | CUSE | pc17 |  
+1244826 | Stephanie Devia Valdez | 3651 | 2014-11-19 | 11:32:59 | 12:32:59 | CUSE | pc17 |  
+1337053 | YULIETH KATHERINE PAZ PAYAN | 3842 | 2014-11-19 | 14:47:25 | 15:47:25 | CUSE | pc18 |  
+1138998 | Maria del Mar Castano Rodriguez | 3648 | 2014-11-19 | 11:32:42 | 12:32:42 | CUSE | pc19 |  
+1141391 | VANESSA ROMERO OCAMPO | 3846 | 2014-11-19 | 14:10:56 | 15:10:56 | CUSE | pc20 |  
+1140660 | Fernando Saavedra Ramirez | 3842 | 2014-11-19 | 10:47:32 | 11:47:32 | CUSE | pc20 |  
+1025459 | CARLOS DAGOBERTO ZAMORA MARTIN | 3841 | 2014-11-19 | 17:10:06 | 18:10:06 | CUSE | pc20 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-11-19 | 15:51:59 | 16:51:59 | CUSE | pc21 |  
+1037717 | Paola Andrea Bernal Orozco | 3648 | 2014-11-19 | 16:20:34 | 17:20:34 | CUSE | pc22 |  
+1424004 | Leidy Johana Patiño Muñoz | 3841 | 2014-11-19 | 17:53:13 | 18:53:13 | CUSE | pc23 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-11-19 | 16:24:10 | 17:24:10 | CUSE | pc24 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-11-19 | 10:47:45 | 11:47:45 | CUSE | pc24 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-11-19 | 17:56:56 | 18:56:56 | CUSE | pc24 |  
+1039975 | YULY ISABEL CRUZ OLIVA | 3842 | 2014-11-19 | 15:29:48 | 16:29:48 | CUSE | pc25 |  
+1036678 | jeiner andres giraldo calambas  | 3842 | 2014-11-19 | 15:57:08 | 16:57:08 | CUSE | pc26 |  
+0635115 | miguel martinez serna | 3748 | 2014-11-20 | 18:53:34 | 19:53:34 | CUSE | pc01 |  
+0522402 | MARITZABEL BERMUDEZ ARANGO | 3845 | 2014-11-20 | 19:09:31 | 20:09:31 | CUSE | pc08 |  
+1126744 | DIANA JOHANNA VOLPE GARCIA  | 3841 | 2014-11-20 | 17:27:16 | 18:27:16 | CUSE | pc09 |  
+1235727 | Sebastian Florez Rengifo | 3857 | 2014-11-20 | 17:26:25 | 18:26:25 | CUSE | pc10 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-11-20 | 18:55:31 | 19:55:31 | CUSE | pc11 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-11-20 | 08:20:56 | 09:20:56 | CUSE | pc12 |  
+1324994 | alfredo andrade escobar | 3845 | 2014-11-20 | 18:54:46 | 19:54:46 | CUSE | pc13 |  
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 2014-11-20 | 17:22:55 | 18:22:55 | CUSE | pc13 |  
+1240296 | Laura Maria Hurtado Ochoa | 2635 | 2014-11-20 | 17:22:33 | 18:22:33 | CUSE | pc14 |  
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 2014-11-20 | 19:06:02 | 20:06:02 | CUSE | pc15 |  
+1435136 | Giselle Carolina Daza Erazo | 3645 | 2014-11-20 | 08:01:51 | 09:01:51 | CUSE | pc18 |  
+0926360 | Staisy Dayana Hoyos Mena | 3857 | 2014-11-20 | 18:55:00 | 19:55:00 | CUSE | pc19 |  
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-11-20 | 17:28:55 | 18:28:55 | CUSE | pc20 |  
+0635115 | miguel martinez serna | 3748 | 2014-11-20 | 09:33:44 | 10:33:44 | CUSE | pc21 |  
+1241593 | Carolina Guillen Reina | 3842 | 2014-11-20 | 20:24:10 | 21:24:10 | CUSE | pc22 |  
+1110392 | Jackeline  Ramos Torres | 3845 | 2014-11-20 | 07:46:05 | 08:46:05 | CUSE | pc22 |  
+1125428 | Gloria Stephany BERNAL BERMUDEZ | 3841 | 2014-11-20 | 09:13:55 | 10:13:55 | CUSE | pc23 |  
+1243647 | BERTHA RUTH CAVIEDES GOMEZ | 3857 | 2014-11-20 | 07:46:25 | 08:46:25 | CUSE | pc24 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-11-20 | 17:28:36 | 18:28:36 | CUSE | pc24 |  
+1337209 | JAVIER STIVEN ASCUNTAR JIMENEZ | 3842 | 2014-11-20 | 10:44:01 | 11:44:01 | CUSE | pc25 |  
+1245392 | Eider Andres  Tenorio Angulo  | 3846 | 2014-11-20 | 08:21:15 | 09:21:15 | CUSE | pc26 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-11-21 | 09:03:06 | 10:03:06 | CUSE | pc01 |  
+1435743 | KEVIN JONSON RAMOS HURTADO | 3857 | 2014-11-21 | 09:03:18 | 10:03:18 | CUSE | pc02 |  
+1439857 | Brayan Estiven Rodriguez | 3857 | 2014-11-21 | 09:03:31 | 10:03:31 | CUSE | pc03 |  
+1243519 | Yessenia Esmeralda Ruiz Perez | 3857 | 2014-11-21 | 09:03:42 | 10:03:42 | CUSE | pc04 |  
+1341243 | luis miguel samboni chilito  | 3842 | 2014-11-21 | 09:48:57 | 10:48:57 | CUSE | pc07 |  
+1139583 | ESTEFANIA MONTOYA QUINTERO | 3857 | 2014-11-21 | 10:27:58 | 11:27:58 | CUSE | pc14 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-11-21 | 09:22:44 | 10:22:44 | CUSE | pc16 |  
+1227551 | Andres Felipe Gutierrez Vasquez | 3845 | 2014-11-21 | 18:12:56 | 19:12:56 | CUSE | pc18 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-11-21 | 18:09:05 | 19:09:05 | CUSE | pc22 |  
+0910383 | Elizabeth  Arisala Montaño | 3845 | 2014-11-21 | 18:20:53 | 19:20:53 | CUSE | pc24 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-11-21 | 09:10:20 | 10:10:20 | CUSE | pc25 |  
+1210287 | Ruth Stefania  Ramirez Reyes | 3845 | 2014-11-21 | 18:01:52 | 19:01:52 | CUSE | pc25 |  
+0450763 | MARTHA CECILIA VILLAMIZAR BONILLA | 3841 | 2014-11-21 | 10:14:05 | 11:14:05 | CUSE | pc26 |  
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-11-21 | 19:12:48 | 20:12:48 | CUSE | pc26 |  
+0923080 | JENYFER BANGUERO CHARA | 3841 | 2014-11-22 | 10:18:56 | 11:18:56 | CUSE | pc06 |  
+1024193 | mauricio marulanda lopez | 3846 | 2014-11-22 | 12:28:03 | 13:28:03 | CUSE | pc08 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-11-22 | 10:18:38 | 11:18:38 | CUSE | pc09 |  
+0824680 | WILLIAM DRADA CASTAÑO | 3845 | 2014-11-22 | 16:37:25 | 17:37:25 | CUSE | pc13 |  
+1026101 | juan fernando arias carmen | 3845 | 2014-11-22 | 15:01:24 | 16:01:24 | CUSE | pc14 |  
+1052152 | Ingri Sulay GUTIERREZ GUAMANGA | 3845 | 2014-11-22 | 09:46:47 | 10:46:47 | CUSE | pc15 |  
+1135475 | Jhon lenerth  Chavez Roman  | 3846 | 2014-11-22 | 10:44:51 | 11:44:51 | CUSE | pc16 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-11-22 | 09:33:40 | 10:33:40 | CUSE | pc18 |  
+1024193 | mauricio marulanda lopez | 3846 | 2014-11-22 | 09:30:23 | 10:30:23 | CUSE | pc20 |  
+1025592 | Jaime Antonio Morales Tombe | 3845 | 2014-11-22 | 09:03:21 | 10:03:21 | CUSE | pc21 |  
+1328028 | BAQUERO CALDERON  GERMAN ANDRES | 3845 | 2014-11-22 | 09:03:07 | 10:03:07 | CUSE | pc23 |  
+0832768 | Nick Fernando Perea Garces | 3743 | 2014-11-22 | 12:13:47 | 13:13:47 | CUSE | pc24 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-11-22 | 09:22:58 | 10:22:58 | CUSE | pc25 |  
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 2014-11-22 | 11:17:53 | 12:17:53 | CUSE | pc25 |  
+1429832 | Marisol López Perez | 3841 | 2014-11-22 | 10:58:13 | 11:58:13 | CUSE | pc26 |  
+1341243 | luis miguel samboni chilito  | 3842 | 2014-11-24 | 15:41:19 | 16:41:19 | CUSE | pc01 |  
+1341808 | JHON HAROL LOPEZ CADENA | 3842 | 2014-11-24 | 15:41:33 | 16:41:33 | CUSE | pc02 |  
+1324408 | Jaime Orlando Aza Aza | 3841 | 2014-11-24 | 16:04:19 | 17:04:19 | CUSE | pc04 |  
+1438116 | yolanda katerine benavides virama | 3645 | 2014-11-24 | 15:33:45 | 16:33:45 | CUSE | pc06 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-11-24 | 16:06:53 | 17:06:53 | CUSE | pc06 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-11-24 | 15:28:27 | 16:28:27 | CUSE | pc07 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-11-24 | 15:07:54 | 16:07:54 | CUSE | pc08 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-11-24 | 15:04:53 | 16:04:53 | CUSE | pc09 |  
+1435035 | Juan Felipe Polanco Gonzalez | 3857 | 2014-11-24 | 15:05:08 | 16:05:08 | CUSE | pc10 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-11-24 | 16:19:22 | 17:19:22 | CUSE | pc10 |  
+1155272 | Angela Katherine Diaz Orozco | 3845 | 2014-11-24 | 16:05:25 | 17:05:25 | CUSE | pc11 |  
+1155047 | LUIS ENRIQUE VELASCO OSORIO | 3845 | 2014-11-24 | 16:03:35 | 17:03:35 | CUSE | pc12 |  
+1040762 | NATHALY RUIZ TORRES | 3846 | 2014-11-24 | 14:54:00 | 15:54:00 | CUSE | pc14 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-11-24 | 14:46:04 | 15:46:04 | CUSE | pc15 |  
+1236651 | LINA YISELA BURBANO URIBE | 3842 | 2014-11-24 | 09:42:49 | 10:42:49 | CUSE | pc17 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-11-24 | 16:34:26 | 17:34:26 | CUSE | pc17 |  
+1242515 | Alejandro  Castellanos Solis  | 3842 | 2014-11-24 | 16:51:39 | 17:51:39 | CUSE | pc17 |  
+0839989 | JULIAN ANDRES  MARTINEZ MOSQUERA | 3845 | 2014-11-24 | 16:24:30 | 17:24:30 | CUSE | pc18 |  
+1340408 | ANGELICA BONILLA CARDENAS | 3857 | 2014-11-24 | 08:57:53 | 09:57:53 | CUSE | pc19 |  
+1439238 | Lina Marcela Zuluaga Vallejo | 3648 | 2014-11-24 | 14:51:44 | 15:51:44 | CUSE | pc19 |  
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2014-11-24 | 14:17:44 | 15:17:44 | CUSE | pc20 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-11-24 | 14:23:20 | 15:23:20 | CUSE | pc21 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-11-24 | 14:44:59 | 15:44:59 | CUSE | pc22 |  
+1155047 | LUIS ENRIQUE VELASCO OSORIO | 3845 | 2014-11-24 | 14:21:26 | 15:21:26 | CUSE | pc23 |  
+1428304 | juan carlos  rubio obando  | 3845 | 2014-11-24 | 17:42:54 | 18:42:54 | CUSE | pc23 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-11-24 | 14:17:30 | 15:17:30 | CUSE | pc24 |  
+0832720 | Leidy Ximena Castro Gamboa | 3845 | 2014-11-24 | 17:42:40 | 18:42:40 | CUSE | pc24 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-11-24 | 15:38:43 | 16:38:43 | CUSE | pc25 |  
+0842181 | Ana Maria Castillo Correa | 3842 | 2014-11-24 | 15:53:15 | 16:53:15 | CUSE | pc25 |  
+1140022 | Paola Marcela Yela Alarcon | 3645 | 2014-11-24 | 16:53:46 | 17:53:46 | CUSE | pc26 |  
+1336885 | Laura Sofia Ortega Ruiz | 3647 | 2014-11-24 | 15:12:58 | 16:12:58 | CUSE | pc26 |  
+1427682 | Yaine Bolena Ballesteros | 3841 | 2014-11-24 | 17:43:51 | 18:43:51 | CUSE | pc26 |  
+0554240 | MARCO TULIO ARANGO PLATA | 3845 | 2014-11-25 | 18:50:20 | 19:50:20 | CUSE | pc02 |  
+0824642 | jennifer MONCAYO SALGADO | 3841 | 2014-11-25 | 17:59:06 | 18:59:06 | CUSE | pc04 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-11-25 | 18:51:18 | 19:51:18 | CUSE | pc05 |  
+1236343 | Lizeth Carolina Mamian Ceron | 3841 | 2014-11-25 | 17:44:47 | 18:44:47 | CUSE | pc05 |  
+1243541 | Karen Andrea Franco Escobar | 3846 | 2014-11-25 | 18:50:58 | 19:50:58 | CUSE | pc06 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-11-25 | 17:44:58 | 18:44:58 | CUSE | pc06 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-11-25 | 17:30:25 | 18:30:25 | CUSE | pc08 |  
+1342275 | andres aldemar rodriguez romo | 7880 | 2014-11-25 | 16:02:55 | 17:02:55 | CUSE | pc10 |  
+1426721 | Rubén Dario  Castillo | 3841 | 2014-11-25 | 18:40:27 | 19:40:27 | CUSE | pc10 |  
+1325312 | JEISSON MANUEL VELAZCO INAGAN  | 3845 | 2014-11-25 | 17:54:57 | 18:54:57 | CUSE | pc11 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-11-25 | 18:38:36 | 19:38:36 | CUSE | pc11 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-11-25 | 18:38:51 | 19:38:51 | CUSE | pc12 |  
+1341243 | luis miguel samboni chilito  | 3842 | 2014-11-25 | 15:32:29 | 16:32:29 | CUSE | pc13 |  
+1426553 | Angela Maria Imbachi | 3841 | 2014-11-25 | 18:40:40 | 19:40:40 | CUSE | pc13 |  
+1428797 | Duvan Alexis Salazar Giraldo | 3841 | 2014-11-25 | 18:40:11 | 19:40:11 | CUSE | pc14 |  
+1341808 | JHON HAROL LOPEZ CADENA | 3842 | 2014-11-25 | 15:32:40 | 16:32:40 | CUSE | pc14 |  
+1258165 | Natalia Andrea  Agudelo  Correa  | 3841 | 2014-11-25 | 16:44:25 | 17:44:25 | CUSE | pc15 |  
+1236651 | LINA YISELA BURBANO URIBE | 3857 | 2014-11-25 | 14:16:14 | 15:16:14 | CUSE | pc16 |  
+1237212 | WILL FREDO GARCIA | 3842 | 2014-11-25 | 14:16:26 | 15:16:26 | CUSE | pc17 |  
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 2014-11-25 | 14:17:10 | 15:17:10 | CUSE | pc18 |  
+0936446 | karen ibeth benitez becerra | 3846 | 2014-11-25 | 18:59:09 | 19:59:09 | CUSE | pc22 |  
+1435743 | KEVIN JONSON RAMOS HURTADO | 3857 | 2014-11-25 | 14:27:47 | 15:27:47 | CUSE | pc23 |  
+1430120 | Johathan Martinez Marmolejo | 3841 | 2014-11-25 | 18:39:54 | 19:39:54 | CUSE | pc23 |  
+1341700 | Luis Felipe  GONZALEZ SAAVEDRA | 3857 | 2014-11-25 | 17:02:59 | 18:02:59 | CUSE | pc24 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-11-25 | 14:18:51 | 15:18:51 | CUSE | pc25 |  
+1135480 | Erick Sarmiento Bejarano | 3846 | 2014-11-25 | 17:06:52 | 18:06:52 | CUSE | pc26 |  
+1139583 | ESTEFANIA MONTOYA QUINTERO | 3857 | 2014-11-26 | 15:57:04 | 16:57:04 | CUSE | pc08 |  
+1023622 | Yeimmy Cecilia Larrahondo Quintero | 3841 | 2014-11-26 | 16:24:27 | 17:24:27 | CUSE | pc09 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-11-26 | 16:24:17 | 17:24:17 | CUSE | pc10 |  
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2014-11-26 | 15:40:39 | 16:40:39 | CUSE | pc13 |  
+1337163 | oscar eduardo castillo morales | 3842 | 2014-11-26 | 15:33:35 | 16:33:35 | CUSE | pc14 |  
+1342686 | andres felipe martinez lopez | 3842 | 2014-11-26 | 15:33:18 | 16:33:18 | CUSE | pc15 |  
+1341808 | JHON HAROL LOPEZ CADENA | 3842 | 2014-11-26 | 15:33:01 | 16:33:01 | CUSE | pc16 |  
+1130903 | Belsy Ximena Urbano Obregon | 3842 | 2014-11-26 | 17:46:25 | 18:46:25 | CUSE | pc17 |  
+1130966 | brayan mijail corbacho marin | 3841 | 2014-11-26 | 17:40:52 | 18:40:52 | CUSE | pc18 |  
+1039975 | YULY ISABEL CRUZ OLIVA | 3842 | 2014-11-26 | 17:49:39 | 18:49:39 | CUSE | pc20 |  
+1330562 | Diego Fernando Estrella Bedoya | 3841 | 2014-11-26 | 15:53:49 | 16:53:49 | CUSE | pc22 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-11-26 | 16:41:19 | 17:41:19 | CUSE | pc22 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-11-26 | 17:42:13 | 18:42:13 | CUSE | pc23 |  
+1023622 | Yeimmy Cecilia Larrahondo Quintero | 3841 | 2014-11-26 | 16:29:59 | 17:29:59 | CUSE | pc25 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-11-26 | 16:30:30 | 17:30:30 | CUSE | pc26 |  
+0824642 | jennifer MONCAYO SALGADO | 3841 | 2014-11-27 | 18:05:34 | 19:05:34 | CUSE | pc14 |  
+1030234 | Jheraldin Lopez Perez | 3842 | 2014-11-27 | 18:12:18 | 19:12:18 | CUSE | pc15 |  
+1222014 | JHAN SEBASTIAN ALZATE EGAS | 3845 | 2014-11-27 | 19:00:45 | 20:00:45 | CUSE | pc15 |  
+1342333 | RAUL ANDRES LOPEZ BALLESTEROS | 3841 | 2014-11-27 | 11:28:18 | 12:28:18 | CUSE | pc15 |  
+1228930 | ERIKA GUERRERO LOPEZ | 3845 | 2014-11-27 | 19:00:55 | 20:00:55 | CUSE | pc16 |  
+1040317 | DIANA MARCELA CORRALES | 3842 | 2014-11-27 | 18:11:55 | 19:11:55 | CUSE | pc16 |  
+1336004 | Ruby Johanna  Minota Correa  | 3857 | 2014-11-27 | 11:28:05 | 12:28:05 | CUSE | pc17 |  
+1210287 | Ruth Stefania  Ramirez Reyes | 3845 | 2014-11-27 | 19:34:02 | 20:34:02 | CUSE | pc17 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2014-11-27 | 17:40:07 | 18:40:07 | CUSE | pc18 |  
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2014-11-27 | 20:23:45 | 21:23:45 | CUSE | pc19 |  
+1441721 | DIANA CRISTINA ROJAS MARTINEZ | 3841 | 2014-11-27 | 19:18:22 | 20:18:22 | CUSE | pc19 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-11-27 | 20:23:26 | 21:23:26 | CUSE | pc20 |  
+1131000 | Daniel Alvarez Herrera | 3845 | 2014-11-27 | 18:28:58 | 19:28:58 | CUSE | pc20 |  
+1130903 | Belsy Ximena Urbano Obregon | 3842 | 2014-11-27 | 17:54:23 | 18:54:23 | CUSE | pc21 |  
+1135535 | Diana Carolina Pugliese Trochez | 3857 | 2014-11-27 | 10:15:07 | 11:15:07 | CUSE | pc21 |  
+0839625 | SHIRLEY MAGALY VITERY MEJIA | 3841 | 2014-11-27 | 19:20:29 | 20:20:29 | CUSE | pc21 |  
+1130966 | brayan mijail corbacho marin | 3841 | 2014-11-27 | 17:55:34 | 18:55:34 | CUSE | pc22 |  
+1241025 | Daniela Rogelis Gomez | 3857 | 2014-11-27 | 17:32:34 | 18:32:34 | CUSE | pc22 |  
+0839196 | yuly viviana araujo guanaran | 3841 | 2014-11-27 | 19:29:23 | 20:29:23 | CUSE | pc22 |  
+1244693 | PAULA ANDREA BOLAÑOS SANDOVAL | 3857 | 2014-11-27 | 11:02:36 | 12:02:36 | CUSE | pc23 |  
+1337502 | maria jose oyola arrieta | 3842 | 2014-11-27 | 10:52:36 | 11:52:36 | CUSE | pc24 |  
+0838802 | ROCIO MARGARITA MERA IPAZ | 3841 | 2014-11-27 | 20:08:38 | 21:08:38 | CUSE | pc24 |  
+1257241 | NEIRA LLILIANA PAPAMIJA CHILITO | 3845 | 2014-11-27 | 19:16:56 | 20:16:56 | CUSE | pc25 |  
+0843480 | Ingrid Yaisury Muños Rodriguez | 3842 | 2014-11-27 | 17:27:55 | 18:27:55 | CUSE | pc25 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-11-27 | 11:22:11 | 12:22:11 | CUSE | pc26 |  
+1147142 | Angie Vanessa Rivas Rodriguez | 2635 | 2014-11-27 | 17:32:23 | 18:32:23 | CUSE | pc26 |  
+0924399 | Andres David Perlaza Arevalo | 3845 | 2014-11-27 | 18:33:13 | 19:33:13 | CUSE | pc26 |  
+0764370 | Angelica Maria Jimenez Tabares | 3845 | 2014-11-28 | 18:03:06 | 19:03:06 | CUSE | pc05 |  
+1123389 | Brayan adrian Guerrero alvarez | 3845 | 2014-11-28 | 17:48:45 | 18:48:45 | CUSE | pc06 |  
+0642059 | Samuel Andres Torres Velez | 2132 | 2014-11-28 | 17:24:55 | 18:24:55 | CUSE | pc10 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-11-28 | 18:05:45 | 19:05:45 | CUSE | pc11 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-11-28 | 17:11:26 | 18:11:26 | CUSE | pc14 |  
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 2014-11-28 | 16:54:04 | 17:54:04 | CUSE | pc14 |  
+1026731 | john rodrigo  muñoz largo | 3841 | 2014-11-28 | 17:31:19 | 18:31:19 | CUSE | pc14 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-11-28 | 16:56:48 | 17:56:48 | CUSE | pc16 |  
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 2014-11-28 | 17:33:48 | 18:33:48 | CUSE | pc17 |  
+1052152 | Ingri Sulay GUTIERREZ GUAMANGA | 3845 | 2014-11-28 | 16:48:57 | 17:48:57 | CUSE | pc18 |  
+0933675 | diego fernando hernandez triana | 3846 | 2014-11-28 | 16:44:32 | 17:44:32 | CUSE | pc20 |  
+1210308 | Jennifer Vargas Ospina  | 3842 | 2014-11-28 | 16:57:10 | 17:57:10 | CUSE | pc20 |  
+0934549 | yasnaiar marin arango | 3846 | 2014-11-28 | 17:09:57 | 18:09:57 | CUSE | pc21 |  
+0746988 | Heidy Aguilar Mosquera | 3846 | 2014-11-28 | 17:09:45 | 18:09:45 | CUSE | pc22 |  
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-11-28 | 17:12:41 | 18:12:41 | CUSE | pc23 |  
+1245314 | deisy lorena rodriguez rivera | 2635 | 2014-11-28 | 18:02:28 | 19:02:28 | CUSE | pc24 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-11-28 | 17:24:29 | 18:24:29 | CUSE | pc26 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-11-29 | 10:12:36 | 11:12:36 | CUSE | pc06 |  
+1044351 | Juan Camilo Gallego Rizo | 3857 | 2014-11-29 | 14:34:45 | 15:34:45 | CUSE | pc07 |  
+1257241 | NEIRA LLILIANA PAPAMIJA CHILITO | 3845 | 2014-11-29 | 12:24:03 | 13:24:03 | CUSE | pc08 |  
+0838540 | Fabian Madrid Giraldo | 3857 | 2014-11-29 | 14:34:35 | 15:34:35 | CUSE | pc09 |  
+1044795 | yoirle collazos gomez | 3857 | 2014-11-29 | 14:34:26 | 15:34:26 | CUSE | pc10 |  
+1126665 | Gustavo Adolfo GUASAQUILLO PERDOMO | 3841 | 2014-11-29 | 16:43:41 | 17:43:41 | CUSE | pc11 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-11-29 | 09:34:43 | 10:34:43 | CUSE | pc14 |  
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 2014-11-29 | 10:29:54 | 11:29:54 | CUSE | pc15 |  
+1024461 | Jose Guido Aroca Gaviria | 3845 | 2014-11-29 | 11:29:33 | 12:29:33 | CUSE | pc16 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-11-29 | 09:54:10 | 10:54:10 | CUSE | pc18 |  
+1243648 | Esteban Cadena Mena | 3842 | 2014-11-29 | 08:39:41 | 09:39:41 | CUSE | pc19 |  
+1235462 | David Florz Osorio | 3842 | 2014-11-29 | 08:39:28 | 09:39:28 | CUSE | pc20 |  
+1325413 | Alejandro Vargas Muñoz | 3845 | 2014-11-29 | 09:24:04 | 10:24:04 | CUSE | pc21 |  
+1328028 | BAQUERO CALDERON  GERMAN ANDRES | 3845 | 2014-11-29 | 08:30:46 | 09:30:46 | CUSE | pc22 |  
+1236884 | Camilo Jose Rojas Castro | 3842 | 2014-11-29 | 08:48:37 | 09:48:37 | CUSE | pc24 |  
+1146882 | Monica Marcela Jurado | 3846 | 2014-11-29 | 11:08:33 | 12:08:33 | CUSE | pc25 |  
+0838802 | ROCIO MARGARITA MERA IPAZ | 3841 | 2014-11-29 | 10:02:54 | 11:02:54 | CUSE | pc26 |  
+
+
+Elaborado el... 2014-12-11
+Mes: 1 de Diciembre de 2014 al 31 de Diciembre de 2014
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1236299 | Daniela Del Pilar Arena Estupiñan | 3842 | 2014-12-01 | 17:29:54 | 18:29:54 | CUSE | pc01 |  
+1238540 | Jhoan Stiven Rodriguez Ovalle | 3842 | 2014-12-01 | 17:10:12 | 18:10:12 | CUSE | pc01 |  
+1241426 | EVELYN VARGAS SANTAMARIA | 3841 | 2014-12-01 | 15:51:35 | 16:51:35 | CUSE | pc02 |  
+1243019 | karol yuranny cuaspa velasco | 2635 | 2014-12-01 | 17:31:44 | 18:31:44 | CUSE | pc04 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-12-01 | 14:39:45 | 15:39:45 | CUSE | pc05 |  
+1428320 | Manuel Alejandro Castro | 3841 | 2014-12-01 | 18:15:06 | 19:15:06 | CUSE | pc06 |  
+1226136 | LINA FERNANDA LUCUMI MOSQUERA | 3841 | 2014-12-01 | 17:32:44 | 18:32:44 | CUSE | pc07 |  
+1341321 | EDINSON URBANO BOLAÑOS | 3846 | 2014-12-01 | 15:01:08 | 16:01:08 | CUSE | pc07 |  
+1230194 | Andres Felipe Toro Serrano | 3841 | 2014-12-01 | 17:32:22 | 18:32:22 | CUSE | pc08 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-12-01 | 17:05:18 | 18:05:18 | CUSE | pc09 |  
+0839989 | JULIAN ANDRES  MARTINEZ MOSQUERA | 3845 | 2014-12-01 | 16:44:11 | 17:44:11 | CUSE | pc10 |  
+1244674 | Jhon Jader  Bedoya Abanis | 3842 | 2014-12-01 | 14:38:28 | 15:38:28 | CUSE | pc10 |  
+1428304 | juan carlos  rubio obando  | 3842 | 2014-12-01 | 17:29:37 | 18:29:37 | CUSE | pc11 |  
+1135459 | isamar ortiz | 2635 | 2014-12-01 | 17:36:02 | 18:36:02 | CUSE | pc12 |  
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2014-12-01 | 14:39:21 | 15:39:21 | CUSE | pc12 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-12-01 | 14:42:06 | 15:42:06 | CUSE | pc13 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-12-01 | 14:30:43 | 15:30:43 | CUSE | pc14 |  
+0835187 | SIMON PIEDRAHITA PALACIN | 3846 | 2014-12-01 | 15:58:37 | 16:58:37 | CUSE | pc15 |  
+1223541 | JENNIFFER PAOLA VELASCO | 3845 | 2014-12-01 | 18:37:23 | 19:37:23 | CUSE | pc15 |  
+1342333 | RAUL ANDRES LOPEZ BALLESTEROS | 3841 | 2014-12-01 | 14:52:47 | 15:52:47 | CUSE | pc15 |  
+1230373 | Juan Sebastian Barbosa Fernandez | 3845 | 2014-12-01 | 15:09:51 | 16:09:51 | CUSE | pc17 |  
+1226136 | LINA FERNANDA LUCUMI MOSQUERA | 3841 | 2014-12-01 | 11:12:58 | 12:12:58 | CUSE | pc17 |  
+0923828 | JENNIFER BLANDON RIOS | 3841 | 2014-12-01 | 14:28:32 | 15:28:32 | CUSE | pc18 |  
+1342333 | RAUL ANDRES LOPEZ BALLESTEROS | 3841 | 2014-12-01 | 16:24:04 | 17:24:04 | CUSE | pc19 |  
+1335932 | Maria Fernanda Toro Arboleda | 3646 | 2014-12-01 | 14:38:04 | 15:38:04 | CUSE | pc19 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-12-01 | 15:43:48 | 16:43:48 | CUSE | pc20 |  
+1338118 | Daniel Fernando Luna Sanchez  | 3842 | 2014-12-01 | 16:25:18 | 17:25:18 | CUSE | pc20 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-12-01 | 14:29:19 | 15:29:19 | CUSE | pc21 |  
+0843099 | Diana Marcela Rivera Jimenez | 3846 | 2014-12-01 | 17:01:26 | 18:01:26 | CUSE | pc22 |  
+1038910 | Leidy andrea giraldo hoyos | 3842 | 2014-12-01 | 15:44:26 | 16:44:26 | CUSE | pc22 |  
+1427881 | Sebastian Guarnizo Rosero | 3660 | 2014-12-01 | 14:29:50 | 15:29:50 | CUSE | pc22 |  
+1438116 | yolanda katerine benavides virama | 3645 | 2014-12-01 | 17:22:56 | 18:22:56 | CUSE | pc22 |  
+1427682 | Yaine Bolena Ballesteros | 3841 | 2014-12-01 | 16:39:16 | 17:39:16 | CUSE | pc23 |  
+1210287 | Ruth Stefania  Ramirez Reyes | 3845 | 2014-12-01 | 17:55:30 | 18:55:30 | CUSE | pc23 |  
+1244826 | Stephanie Devia Valdez | 3651 | 2014-12-01 | 11:59:21 | 12:59:21 | CUSE | pc23 |  
+1425979 | nicol dayana gonzalez jimenez | 3841 | 2014-12-01 | 14:46:28 | 15:46:28 | CUSE | pc23 |  
+0939513 | Jessica Natalia Espinosa Martinez | 3842 | 2014-12-01 | 16:29:37 | 17:29:37 | CUSE | pc24 |  
+1424004 | Leidy Johana Patiño Muñoz | 3841 | 2014-12-01 | 15:10:19 | 16:10:19 | CUSE | pc24 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-12-01 | 15:38:46 | 16:38:46 | CUSE | pc25 |  
+1024915 | Juan Carlos Aguilera Correa | 3845 | 2014-12-01 | 18:57:46 | 19:57:46 | CUSE | pc26 |  
+1426553 | Angela Maria Imbachi | 3841 | 2014-12-01 | 15:56:03 | 16:56:03 | CUSE | pc26 |  
+1137253 | Adonai  Arroyave | 3645 | 2014-12-02 | 15:50:47 | 16:50:47 | CUSE | pc01 |  
+0933960 | ANA MARIA HENAO RIVILLAS | 3340 | 2014-12-02 | 17:35:08 | 18:35:08 | CUSE | pc02 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-12-02 | 09:37:05 | 10:37:05 | CUSE | pc05 |  
+1337163 | oscar eduardo castillo morales | 3842 | 2014-12-02 | 09:26:51 | 10:26:51 | CUSE | pc07 |  
+0933500 | Jhon Freddy Menza Pavi | 3842 | 2014-12-02 | 12:24:48 | 13:24:48 | CUSE | pc07 |  
+1242214 | Wilmer andres Moreno Restrepo | 2636 | 2014-12-02 | 17:36:02 | 18:36:02 | CUSE | pc07 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-12-02 | 16:53:01 | 17:53:01 | CUSE | pc09 |  
+1341808 | JHON HAROL LOPEZ CADENA | 3842 | 2014-12-02 | 09:27:04 | 10:27:04 | CUSE | pc09 |  
+1139067 | DIANA MARCELA ROJAS MURILLO | 3842 | 2014-12-02 | 09:50:55 | 10:50:55 | CUSE | pc10 |  
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2014-12-02 | 16:52:53 | 17:52:53 | CUSE | pc10 |  
+1025749 | ana rocio rubio guevara | 3857 | 2014-12-02 | 14:36:09 | 15:36:09 | CUSE | pc11 |  
+1133031 | Gloria Patricia CIFUENTES DIAZ | 3841 | 2014-12-02 | 18:00:42 | 19:00:42 | CUSE | pc11 |  
+1030260 | diana carolina herrera nagles | 3857 | 2014-12-02 | 17:02:03 | 18:02:03 | CUSE | pc12 |  
+1030260 | diana carolina herrera nagles | 3857 | 2014-12-02 | 09:28:13 | 10:28:13 | CUSE | pc12 |  
+1429832 | Marisol López Perez | 3841 | 2014-12-02 | 15:49:40 | 16:49:40 | CUSE | pc13 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-12-02 | 09:32:21 | 10:32:21 | CUSE | pc13 |  
+1341808 | JHON HAROL LOPEZ CADENA | 3842 | 2014-12-02 | 14:29:55 | 15:29:55 | CUSE | pc15 |  
+1137202 | JEINY JACKELINE MORALES MORALES | 3845 | 2014-12-02 | 09:49:23 | 10:49:23 | CUSE | pc15 |  
+1337163 | oscar eduardo castillo morales | 3842 | 2014-12-02 | 14:29:42 | 15:29:42 | CUSE | pc16 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-12-02 | 17:58:58 | 18:58:58 | CUSE | pc17 |  
+0931200 | driver ferney ramirez henao | 3842 | 2014-12-02 | 15:17:42 | 16:17:42 | CUSE | pc18 |  
+0840515 | Edwin BRAVO DOMINGUEZ | 3842 | 2014-12-02 | 18:01:20 | 19:01:20 | CUSE | pc18 |  
+1036678 | jeiner andres giraldo calambas  | 3842 | 2014-12-02 | 15:07:31 | 16:07:31 | CUSE | pc19 |  
+1337163 | oscar eduardo castillo morales | 3842 | 2014-12-02 | 14:29:16 | 15:29:16 | CUSE | pc19 |  
+0842540 | KATHERINE VALENCIA CALVACHE | 3842 | 2014-12-02 | 16:44:25 | 17:44:25 | CUSE | pc20 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-12-02 | 14:38:28 | 15:38:28 | CUSE | pc20 |  
+0939513 | Jessica Natalia Espinosa Martinez | 3842 | 2014-12-02 | 16:43:59 | 17:43:59 | CUSE | pc23 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-12-02 | 14:34:56 | 15:34:56 | CUSE | pc24 |  
+1244751 | Mirian CArolina Castillo Bello | 2635 | 2014-12-02 | 14:31:12 | 15:31:12 | CUSE | pc24 |  
+1230230 | Deisy Yuliana Velez Maya | 3841 | 2014-12-02 | 09:04:39 | 10:04:39 | CUSE | pc25 |  
+1325312 | JEISSON MANUEL VELAZCO INAGAN  | 3845 | 2014-12-02 | 15:17:24 | 16:17:24 | CUSE | pc25 |  
+1130958 | Ana Maria Hinestroza Carmona | 3841 | 2014-12-02 | 14:30:35 | 15:30:35 | CUSE | pc26 |  
+0924311 | RAMON FELIPE OSPINA QUINTERO | 3857 | 2014-12-03 | 16:08:10 | 17:08:10 | CUSE | pc05 |  
+1235953 | Jasson Eliecer Torres Jimenez | 3857 | 2014-12-03 | 16:07:53 | 17:07:53 | CUSE | pc06 |  
+1241426 | EVELYN VARGAS SANTAMARIA | 3841 | 2014-12-03 | 15:09:20 | 16:09:20 | CUSE | pc10 |  
+0839989 | JULIAN ANDRES  MARTINEZ MOSQUERA | 3845 | 2014-12-03 | 17:22:20 | 18:22:20 | CUSE | pc10 |  
+1430120 | Johathan Martinez Marmolejo | 3841 | 2014-12-03 | 15:56:32 | 16:56:32 | CUSE | pc13 |  
+1427881 | Sebastian Guarnizo Rosero | 3660 | 2014-12-03 | 14:42:19 | 15:42:19 | CUSE | pc14 |  
+1424004 | Leidy Johana Patiño Muñoz | 3841 | 2014-12-03 | 15:56:58 | 16:56:58 | CUSE | pc14 |  
+1138300 | Karen Estefani Gonzalez Aragon | 3645 | 2014-12-03 | 14:40:52 | 15:40:52 | CUSE | pc16 |  
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2014-12-03 | 17:05:35 | 18:05:35 | CUSE | pc17 |  
+1126039 | Dayana Lorena Ñañez Ramirez | 3845 | 2014-12-03 | 14:57:54 | 15:57:54 | CUSE | pc18 |  
+1127180 | Heriberto Garcia Becerra | 3845 | 2014-12-03 | 16:56:34 | 17:56:34 | CUSE | pc20 |  
+1438116 | yolanda katerine benavides virama | 3645 | 2014-12-03 | 14:13:53 | 15:13:53 | CUSE | pc20 |  
+1242214 | Wilmer andres Moreno Restrepo | 2636 | 2014-12-03 | 17:53:30 | 18:53:30 | CUSE | pc21 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-12-03 | 16:11:18 | 17:11:18 | CUSE | pc21 |  
+1135459 | isamar ortiz | 2635 | 2014-12-03 | 16:20:06 | 17:20:06 | CUSE | pc22 |  
+1337551 | juan felipe velandia zuluaga | 3842 | 2014-12-03 | 14:47:12 | 15:47:12 | CUSE | pc22 |  
+1330094 | ANDREA ESTEFANIA ERAZO RAMIREZ | 3461 | 2014-12-03 | 16:07:19 | 17:07:19 | CUSE | pc23 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-12-03 | 17:38:56 | 18:38:56 | CUSE | pc24 |  
+1228930 | ERIKA GUERRERO LOPEZ | 3845 | 2014-12-03 | 16:55:25 | 17:55:25 | CUSE | pc25 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-12-03 | 17:48:48 | 18:48:48 | CUSE | pc26 |  
+0450763 | MARTHA CECILIA VILLAMIZAR BONILLA | 3841 | 2014-12-03 | 14:06:56 | 15:06:56 | CUSE | pc26 |  
+1223248 | Vanessa Velasquez Villanueva | 3841 | 2014-12-03 | 18:00:22 | 19:00:22 | CUSE | pc26 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-12-03 | 18:00:33 | 19:00:33 | CUSE | pc27 |  
+1226270 | Steven Felipe Loaiza Marin | 3845 | 2014-12-04 | 18:39:05 | 19:39:05 | CUSE | pc14 |  
+1336004 | Ruby Johanna  Minota Correa  | 3857 | 2014-12-04 | 10:11:10 | 11:11:10 | CUSE | pc16 |  
+1138054 | Marlin Johana Guevara Marroquin | 3846 | 2014-12-04 | 10:12:46 | 11:12:46 | CUSE | pc17 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2014-12-04 | 10:11:26 | 11:11:26 | CUSE | pc19 |  
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2014-12-04 | 10:55:30 | 11:55:30 | CUSE | pc23 |  
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2014-12-04 | 12:04:14 | 13:04:14 | CUSE | pc24 |  
+1040326 | MAGNOLIA PALOMEQUE MOSQUERA | 3842 | 2014-12-04 | 10:00:01 | 11:00:01 | CUSE | pc26 |  
+1236231 | CAROLINA HOLGUIN GARCIA | 3841 | 2014-12-05 | 09:15:22 | 10:15:22 | CUSE | pc05 |  
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 2014-12-05 | 18:03:47 | 19:03:47 | CUSE | pc08 |  
+0642059 | Samuel Andres Torres Velez | 2132 | 2014-12-05 | 17:27:35 | 18:27:35 | CUSE | pc10 |  
+1335515 | CARLOS ALBERTO ERAZO LOPEZ | 3846 | 2014-12-05 | 09:18:33 | 10:18:33 | CUSE | pc11 |  
+1226258 | Juan David Ortiz Zapata | 3845 | 2014-12-05 | 16:44:05 | 17:44:05 | CUSE | pc12 |  
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 2014-12-05 | 16:38:50 | 17:38:50 | CUSE | pc13 |  
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 2014-12-05 | 09:08:16 | 10:08:16 | CUSE | pc13 |  
+1243700 | JHON HENRY RIVERA DIAZ | 2635 | 2014-12-05 | 16:16:40 | 17:16:40 | CUSE | pc14 |  
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 2014-12-05 | 16:38:22 | 17:38:22 | CUSE | pc15 |  
+1342521 | lady melisa montaño nuñez | 3842 | 2014-12-05 | 09:14:56 | 10:14:56 | CUSE | pc16 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-12-05 | 16:18:44 | 17:18:44 | CUSE | pc17 |  
+1241422 | Santiago Luigi Benavides Ortis | 3857 | 2014-12-05 | 08:22:36 | 09:22:36 | CUSE | pc18 |  
+1331039 | ANDREA BURBANO CASTRO | 3845 | 2014-12-05 | 16:07:15 | 17:07:15 | CUSE | pc18 |  
+1127539 | Jhon Filleral Orozco Garci | 3845 | 2014-12-05 | 16:40:11 | 17:40:11 | CUSE | pc19 |  
+1155047 | LUIS ENRIQUE VELASCO OSORIO | 3845 | 2014-12-05 | 15:35:35 | 16:35:35 | CUSE | pc19 |  
+1341808 | JHON HAROL LOPEZ CADENA | 3842 | 2014-12-05 | 08:22:49 | 09:22:49 | CUSE | pc20 |  
+0934104 | Erika Cobo Ibarguen | 3846 | 2014-12-05 | 16:25:44 | 17:25:44 | CUSE | pc21 |  
+0746988 | Heidy Aguilar Mosquera | 3846 | 2014-12-05 | 16:25:33 | 17:25:33 | CUSE | pc22 |  
+1038114 |  KARENT NATHALIA NARVAEZ GRISALES | 3743 | 2014-12-05 | 09:05:25 | 10:05:25 | CUSE | pc23 |  
+1210287 | Ruth Stefania  Ramirez Reyes | 3845 | 2014-12-05 | 18:07:48 | 19:07:48 | CUSE | pc23 |  
+1342399 | Mildrey Alejandra Giraldo Noreña | 3857 | 2014-12-05 | 15:49:01 | 16:49:01 | CUSE | pc24 |  
+1438116 | yolanda katerine benavides virama | 3645 | 2014-12-05 | 17:13:14 | 18:13:14 | CUSE | pc24 |  
+1439119 | Julian Andrés Molano García | 3857 | 2014-12-05 | 08:27:07 | 09:27:07 | CUSE | pc25 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-12-05 | 16:54:45 | 17:54:45 | CUSE | pc26 |  
+0422180 | MERCI MORA | 3845 | 2014-12-06 | 08:59:43 | 09:59:43 | CUSE | pc12 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-12-06 | 09:27:30 | 10:27:30 | CUSE | pc14 |  
+1328028 | BAQUERO CALDERON  GERMAN ANDRES | 3845 | 2014-12-06 | 08:59:25 | 09:59:25 | CUSE | pc15 |  
+1044050 | monica dayana martinez diafara | 3846 | 2014-12-06 | 14:19:06 | 15:19:06 | CUSE | pc16 |  
+1257279 | Adriana Colmenares Ortiz | 3845 | 2014-12-06 | 08:43:46 | 09:43:46 | CUSE | pc17 |  
+1427122 | jaime enrique cundar zambrano | 3845 | 2014-12-06 | 12:57:36 | 13:57:36 | CUSE | pc18 |  
+1257241 | NEIRA LLILIANA PAPAMIJA CHILITO | 3845 | 2014-12-06 | 08:43:36 | 09:43:36 | CUSE | pc18 |  
+1147250 | Jessica Urbano Valdez | 3842 | 2014-12-06 | 14:49:46 | 15:49:46 | CUSE | pc19 |  
+0637240 | FABIAN MAURICIO ARCE | 3845 | 2014-12-06 | 08:57:15 | 09:57:15 | CUSE | pc20 |  
+9307886 | Maria Elena Balanta Lara | 3845 | 2014-12-06 | 09:07:50 | 10:07:50 | CUSE | pc22 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2014-12-06 | 09:41:32 | 10:41:32 | CUSE | pc23 |  
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 2014-12-06 | 09:41:01 | 10:41:01 | CUSE | pc24 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-12-06 | 14:17:52 | 15:17:52 | CUSE | pc25 |  
+1337283 | Sebastian Luna | 3841 | 2014-12-09 | 10:12:12 | 11:12:12 | CUSE | pc01 |  
+1341321 | EDINSON URBANO BOLAÑOS | 3846 | 2014-12-09 | 11:06:18 | 12:06:18 | CUSE | pc02 |  
+1338402 | SARA VELEZ MUÑOZ | 3846 | 2014-12-09 | 11:06:31 | 12:06:31 | CUSE | pc03 |  
+1341814 | FORERO PACHON LUIS MIGUEL | 3857 | 2014-12-09 | 11:06:41 | 12:06:41 | CUSE | pc04 |  
+0925005 | Andres Julian Triviño Monar | 3845 | 2014-12-09 | 17:43:39 | 18:43:39 | CUSE | pc05 |  
+1110392 | Jackeline  Ramos Torres | 3845 | 2014-12-09 | 11:29:00 | 12:29:00 | CUSE | pc05 |  
+0635115 | miguel martinez serna | 3748 | 2014-12-09 | 11:29:15 | 12:29:15 | CUSE | pc09 |  
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 2014-12-09 | 17:24:47 | 18:24:47 | CUSE | pc10 |  
+1343100 | luisa maria gonzales escobar | 3841 | 2014-12-09 | 15:26:57 | 16:26:57 | CUSE | pc11 |  
+1342384 | Shareen Marcela Vera Puentes | 3842 | 2014-12-09 | 15:26:21 | 16:26:21 | CUSE | pc12 |  
+1127862 | LILIAN VANESSA DIAZ GARCIA | 3841 | 2014-12-09 | 11:18:33 | 12:18:33 | CUSE | pc13 |  
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 2014-12-09 | 17:56:58 | 18:56:58 | CUSE | pc15 |  
+1242563 | Freddy Alexander Beltran Salcedo | 3660 | 2014-12-09 | 14:57:05 | 15:57:05 | CUSE | pc15 |  
+1130903 | Belsy Ximena Urbano Obregon | 3842 | 2014-12-09 | 17:54:54 | 18:54:54 | CUSE | pc16 |  
+1235009 | VIVIANA VALDES BARCOS | 3660 | 2014-12-09 | 14:56:35 | 15:56:35 | CUSE | pc16 |  
+1341156 | Daniela Montero Ojeda | 3857 | 2014-12-09 | 15:36:58 | 16:36:58 | CUSE | pc17 |  
+1052996 | Clara Ines Morales Martinez | 3845 | 2014-12-09 | 17:31:13 | 18:31:13 | CUSE | pc19 |  
+1241010 | Martin Rodriguez Trujillo | 3660 | 2014-12-09 | 15:00:05 | 16:00:05 | CUSE | pc20 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2014-12-09 | 15:36:34 | 16:36:34 | CUSE | pc21 |  
+1245314 | deisy lorena rodriguez rivera | 2635 | 2014-12-09 | 15:31:22 | 16:31:22 | CUSE | pc26 |  
+1141006 | Milton Venté Obregón | 3846 | 2014-12-10 | 08:23:22 | 09:23:22 | CUSE | pc04 |  
+1145995 | Raul Alberto Gomez Carvajal | 3846 | 2014-12-10 | 08:32:46 | 09:32:46 | CUSE | pc07 |  
+1341338 | Daniela  Possu  | 3857 | 2014-12-10 | 14:24:54 | 15:24:54 | CUSE | pc09 |  
+1340937 | genner aly mera yalanda | 3857 | 2014-12-10 | 14:32:44 | 15:32:44 | CUSE | pc10 |  
+1341808 | JHON HAROL LOPEZ CADENA | 3842 | 2014-12-10 | 14:46:35 | 15:46:35 | CUSE | pc12 |  
+1341338 | Daniela  Possu  | 3857 | 2014-12-10 | 14:16:46 | 15:16:46 | CUSE | pc13 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-12-10 | 16:30:56 | 17:30:56 | CUSE | pc14 |  
+1341156 | Daniela Montero Ojeda | 3857 | 2014-12-10 | 14:16:32 | 15:16:32 | CUSE | pc14 |  
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2014-12-10 | 16:09:39 | 17:09:39 | CUSE | pc15 |  
+1341603 | LUIS ALEJANDRO NARANJO GUERRERO | 3857 | 2014-12-10 | 17:09:46 | 18:09:46 | CUSE | pc15 |  
+1331039 | ANDREA BURBANO CASTRO | 3845 | 2014-12-10 | 17:07:10 | 18:07:10 | CUSE | pc16 |  
+1332428 | Estefania Giraldo Muñoz | 3845 | 2014-12-10 | 17:44:47 | 18:44:47 | CUSE | pc17 |  
+0024379 | ALEXANDER MOSQUERA | 3841 | 2014-12-10 | 14:44:01 | 15:44:01 | CUSE | pc18 |  
+1342521 | lady melisa montaño nuñez | 3842 | 2014-12-10 | 14:31:43 | 15:31:43 | CUSE | pc18 |  
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2014-12-10 | 14:14:45 | 15:14:45 | CUSE | pc20 |  
+1257279 | Adriana Colmenares Ortiz | 3845 | 2014-12-10 | 14:57:55 | 15:57:55 | CUSE | pc22 |  
+1341700 | Luis Felipe  GONZALEZ SAAVEDRA | 3857 | 2014-12-10 | 15:12:17 | 16:12:17 | CUSE | pc23 |  
+1023953 | juan manuel tobon rios | 3845 | 2014-12-10 | 16:44:05 | 17:44:05 | CUSE | pc24 |  
+1243541 | Karen Andrea Franco Escobar | 3846 | 2014-12-10 | 14:45:34 | 15:45:34 | CUSE | pc24 |  
+1026636 | Alvaro Lopez Hernandez | 3845 | 2014-12-10 | 16:30:37 | 17:30:37 | CUSE | pc26 |  
+1155047 | LUIS ENRIQUE VELASCO OSORIO | 3845 | 2014-12-11 | 09:39:49 | 10:39:49 | CUSE | pc11 |  
+1145995 | Raul Alberto Gomez Carvajal | 3846 | 2014-12-11 | 09:41:06 | 10:41:06 | CUSE | pc13 |  
+1135457 | Bryan Steven Angulo Prado | 3857 | 2014-12-11 | 09:37:40 | 10:37:40 | CUSE | pc19 |  
+1337053 | YULIETH KATHERINE PAZ PAYAN | 3842 | 2014-12-11 | 10:10:47 | 11:10:47 | CUSE | pc25 |  
+
+

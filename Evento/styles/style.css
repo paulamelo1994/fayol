@@ -1,0 +1,276 @@
+/* --------------------------------------------------------------------------------------------
+ * RESET
+ *-------------------------------------------------------------------------------------------- */
+	html, body, address, blockquote, div, dl, form, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul,
+	dd, dt, li, tbody, td, tfoot, th, thead, tr, button, del, ins, map, object,
+	a, abbr, acronym, b, bdo, big, br, cite, code, dfn, em, i, img, kbd, q, samp, small, span,
+	strong, sub, sup, tt, var, legend, fieldset {
+		margin: 0;
+		padding: 0;
+	}
+/* --------------------------------------------------------------------------------------------
+ * set image max width to 100% 
+ *-------------------------------------------------------------------------------------------- */
+	img {
+		border:0;
+		max-width: 100%;
+		height: auto;
+		width: auto\9; /* ie8 */
+	}
+/* --------------------------------------------------------------------------------------------
+ * HTML 5 TAGS
+ *-------------------------------------------------------------------------------------------- */
+	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
+		display: block;
+	}
+/* --------------------------------------------------------------------------------------------
+ * CLEARFIX
+ *-------------------------------------------------------------------------------------------- */
+	.clearfix:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+	.clearfix { display: inline-block; }
+	.clearfix { display: block; zoom: 1; }
+/* --------------------------------------------------------------------------------------------
+ * GENERAL STYLE
+ *-------------------------------------------------------------------------------------------- */
+html {
+	
+}
+body {
+	background:#ffffff;	
+	/*background-image:url('../images/fondo1.jpg');*/
+	/*background-repeat:repeat-x;*/
+	font: .81em/150% Arial, Helvetica, sans-serif;
+	color: #666;
+	
+	overflow-x:hidden;
+	margin:0 auto;
+}
+
+/* --------------------------------------------------------------------------------------------
+ * WEBSITE PERSONAL STYLED TAGS *colors, h-tags, p etc. 
+ *-------------------------------------------------------------------------------------------- */
+a  {
+	color: #026acb;
+	text-decoration: none;
+	outline: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+/* --------------------------------------------------------------------------------------------
+ * LAYOUT STRUCTURE *here just specify the widths heights of the layout (don't introduce backgrounds colors etc.)
+ *-------------------------------------------------------------------------------------------- */
+#body_wrap {}
+
+	#page_wrap {
+		max-width:960px;
+		width:100%;
+		margin: 0 auto;
+	}
+		#header {
+			position: relative;
+			height:auto;
+			width:100%;
+		}
+		
+		#content_holder {
+			width:100%;
+			height:auto;
+			clear:both;
+			overflow:hidden;
+		}
+						
+			#main_content 	{
+				float: left;
+				position:relative;
+			}
+				#left_sidebar {
+					float: left;
+					position:relative;
+					width: 230px;
+				}
+				#right_sidebar 	{
+					float: right;
+					position:relative;
+					width: 230px;
+				}
+		#footer {
+			clear: both;
+			width:100%;
+		}
+			#footer_content {
+				max-width:960px;
+				width:100%;
+				margin:0 auto;
+			}
+		
+			
+/* --------------------------------------------------------------------------------------------
+ * CONTENT HOLDER
+ *-------------------------------------------------------------------------------------------- */
+	#page_wrap {
+		/* rounded corner */
+		-webkit-border-radius: 8px;
+		-moz-border-radius: 8px;
+		border-radius: 8px;
+
+		margin:20px auto;
+		padding:20px 0;
+		border:1px solid #ccc;
+	}
+
+/* --------------------------------------------------------------------------------------------
+ * HEADER
+ *-------------------------------------------------------------------------------------------- */
+	#header { }
+	#header hgroup { padding:1% 2%; }
+	
+/* --------------------------------------------------------------------------------------------
+ * Navigation
+ *-------------------------------------------------------------------------------------------- */
+	#main-nav {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+		background: #6a6a6a;
+		margin-top:20px;
+	}
+	#main-nav li {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		float: left;
+		position: relative;
+	}
+	#main-nav a {
+		line-height: 100%;
+		font-weight: bold;
+		color: #fff;
+		display: block;
+		padding: 14px 15px;
+		text-decoration: none;
+	}
+	#main-nav a:hover {
+		color: #fff;
+		background: #474747;
+	}
+/* --------------------------------------------------------------------------------------------
+ * CONTENT
+ *-------------------------------------------------------------------------------------------- */
+	#main_content {
+		width:400px;
+		border-right:1px solid #ccc;
+		border-left:1px solid #ccc;
+		padding:20px;
+		margin:20px 10px;
+	}
+
+	/* this is just orientative name of content used for left sidebar */
+	#main_content_left_side {
+		width:668px;
+		border-left:1px solid #ccc;
+		padding:20px;
+		margin:20px 0px 0 10px;
+		float:left;
+	}
+	/* this is just orientative name of content used for left sidebar */
+	#main_content_right_side {
+		width:668px;
+		border-right:1px solid #ccc;
+		padding:20px;
+		margin:20px 10px 0 0px;
+		float:left;
+	}
+	
+	#main_content_no_column {
+		width:auto;
+		border:0;
+		padding:20px;
+	}
+	
+/* --------------------------------------------------------------------------------------------
+ * RIGHT SIDEBAR 
+ *-------------------------------------------------------------------------------------------- */
+	#right_sidebar {
+		margin: 30px 0px;
+		padding-right:10px;
+	}
+
+	.widget {
+		width:100%;
+	}
+
+	.widgettitle {
+		margin: 0 0 5px;
+		padding: 0;	
+	}
+
+	.widget ul {
+		margin: 0;
+		padding: 0;
+	}
+
+	.widget li {
+		margin: 0;
+		padding: 6px 0;
+		list-style: none;
+		clear: both;
+		border-top: solid 1px #eee;
+	}
+	
+	/* flickr widget */
+	.widget .flickr_badge_image img {
+		width: 48px;
+		height: 48px;
+		margin-right: 12px;
+		margin-bottom: 12px;
+		float: left;
+	}
+
+/* --------------------------------------------------------------------------------------------
+ * LEFT SIDEBAR 
+ *-------------------------------------------------------------------------------------------- */
+	#left_sidebar {
+		margin: 30px 0px;
+		padding-left:10px;
+	}
+
+/* --------------------------------------------------------------------------------------------
+ * FOOTER
+ *-------------------------------------------------------------------------------------------- */
+	#footer {
+		border-top:1px solid #ccc;
+	}
+	#footer_content {
+		border-bottom:1px solid #ccc;
+		padding-bottom:20px;
+		color: #000;
+		font-size: 100%;
+		margin:20px auto;
+	}
+	#footer_content ul li {
+		display:inline;
+	}
+
+
+#accordion-resizer {
+		padding: 3px;
+		width: 665px;
+		height: 750px;
+	}
+	
+#subtitulo{
+
+color:#FF4000;
+text-align:center;
+
+}
+
+#descripcion{
+
+
+text-align:justify
+
+}
+

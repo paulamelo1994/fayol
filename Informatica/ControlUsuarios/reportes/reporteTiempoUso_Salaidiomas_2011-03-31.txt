@@ -1,0 +1,45 @@
+Elaborado el... 31 de Marzo de 2011
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0228227 | Yamile Betancur Rincon | 3845 | 01:17:13
+0522327 | Sandra Mireya Valdiviezo Duran | 3845 | 02:02:50
+0540363 | Robinson Rojas Valderrama | 3846 | ----
+0633036 | José  Andres Rosales Chilama | 3645 | 01:16:58
+0732517 | Edwin Tabares Agudelo | 3845 | 00:50:12
+0750213 | Isaura  Barandica Rivera | 3645 | 01:24:44
+0810414 | Dayan Julieth Camayo Guacheta | 3645 | 01:30:32
+0829022 | Yamila Andrea  Velez | 3846 | 02:05:25
+0833248 | Anny Yamile Grueso Castro | 3645 | 01:21:25
+0834880 | Nadya Carolayn Rodriguez Olaya | 3648 | 01:13:19
+0835492 | Kelly Johana Cano Ledesma  | 3645 | 01:34:34
+0836625 | Martha Isabel Berrio Diaz | 3645 | 01:28:19
+0837928 | Katherine Oviedo Gomez | 3645 | 01:33:44
+0838806 | Angela Piedad  Gallo Betancourt  | 3645 | 01:34:03
+0841426 | Claudia Lorena Asprilla Vega | 3645 | 01:26:36
+0842360 | Yurany Villota | 3645 | 00:43:50
+0842809 | Isabel Cristina Rodriguez Satibañez | 3648 | 01:13:09
+0843102 | Hans Castro Rosero | 3645 | 01:35:56
+0843530 | Leidy Ríos Narváez | 3645 | 01:19:38
+0844204 | Lina Yurany Potes Morales  | 3645 | 01:27:27
+0844305 | Henry Wilber Ceron  | 3645 | 01:38:23
+0930042 | Yadira Carmen Ofelia  Ocampo Lara | 3845 | 03:18:17
+0937250 | Alejandra  Vargas Burbano | 3651 | 01:59:35
+1024193 | Mauricio Marulanda Lopez | 3846 | 01:11:06
+1025010 | Nathalia Fory Reza | 3845 | 00:53:32
+1034758 | Juan Jose Oliveros Montoya | 3857 | ----
+1035233 | Giraldo Hoyos Cristian Edward | 3857 | 00:59:03
+1036039 | Gustavo Andres Soriano Guerrero | 3857 | 01:20:08
+1036789 | Valery Liseth Arce Jiménez | 3648 | 01:33:35
+1036892 | Lizeth Andrea Tunubala Sanchez  | 3857 | 01:48:04
+1036994 | David Stevens Estaña Grueso | 3857 | 01:51:17
+1038605 | Lizeth Yessenia Montoya Gaviria | 3857 | 01:06:47
+1039601 | Yerly Yuliana Velasco García | 3648 | 01:34:00
+1039635 | Laura Andrea Toro Hormaza | 3857 | 00:56:44
+1044270 | Diana Faisury Mutis | 3857 | 02:10:07
+1044351 | Juan Camilo Gallego Rizo | 3857 | 01:52:42
+1044539 | Laura Ximena Zape Jimenez | 3857 | 01:17:13
+1044673 | Samy Fernando Hernandez Mueces | 3648 | 00:46:31
+1044817 | Karol Jolyeth  Duque Restrepo | 3648 | 00:47:04
+
+

@@ -1,0 +1,77 @@
+Elaborado el... 31 de Mayo de 2019
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+1237508 | Andrea Yesenia Moncayo Galindez | 3841 | 01:04:37
+1425987 | Marlon Steven Aldana Escobar | 3845 | 01:39:58
+1436900 | Ana Maria Mosquera Guevara | 3857 | 03:59:57
+1541951 | Marisol Revelo Belalcazar | 3646 | 00:20:10
+1624979 | Gicela Villota | 3841 | 01:27:23
+1735634 | William José Ibarra Ibañez | 3845 | 01:19:12
+1770802 | Esteban Rodriguez Echeverry | 3846 | 01:19:34
+1922393 | José David Escobar González | 3857 | 01:28:47
+1924544 | David Esteban  Cruz Cruz | 3857 | 00:49:25
+1927318 | Hector Emmanuel  Arbelaez Paz | 3857 | 01:28:19
+1932107 | Danna Gabriela Aguirre Cornelo | 3857 | 01:22:11
+66924338 | Gloria Patricia Avila Fajardo | 1111 | 00:00:27
+
+
+Elaborado el... 31 de Mayo de 2019
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+1237508 | Andrea Yesenia Moncayo Galindez | 3841 | 01:04:37
+1425987 | Marlon Steven Aldana Escobar | 3845 | 01:39:58
+1436900 | Ana Maria Mosquera Guevara | 3857 | 03:59:57
+1439027 | Daniel Alberto Gaitan Vera | 3845 | 00:34:59
+1524565 | Carmen Elisa Lasprilla Chantre | 3841 | 00:13:28
+1533044 | Danilo Raul Hernandez Fernandez | 3845 | 00:37:38
+1541951 | Marisol Revelo Belalcazar | 3646 | 00:20:10
+1624979 | Gicela Villota | 3841 | 01:27:23
+1630153 | Natalia Vinasco Salinas | 3660 | 02:22:51
+1735634 | William José Ibarra Ibañez | 3845 | 01:19:12
+1740079 | Edith Johana Taimal Aza | 3842 | 02:18:26
+1770802 | Esteban Rodriguez Echeverry | 3846 | 01:19:34
+1827355 | William  Ceron Pacheco | 3841 | 00:09:17
+1834693 | Miguel Antonio Tunubala | 3841 | 00:14:21
+1842744 | Daniella Sofia Atillo Pulido | 3841 | 00:36:14
+1870345 | Adriana Lucia Diaz Eraso | 3841 | 00:08:45
+1922393 | José David Escobar González | 3857 | 01:28:47
+1922668 | Juan Camilo Aristizabal | 3842 | 01:13:53
+1922686 | Laura Sharick DÍaz GarcÍa | 3842 | 01:10:36
+1924250 | Danny Jair  LeÓn  | 3842 | 01:15:06
+1924544 | David Esteban  Cruz Cruz | 3857 | 00:49:25
+1925065 | Laura Sofía  MejÍa PeÑa | 3842 | 01:14:36
+1925339 | Giselle Dayanna  Delgado | 3842 | 01:10:53
+1925796 | Brayan Steven Campos | 3842 | 01:16:37
+1925806 | Santiago Córdoba Chavez | 3842 | 01:10:17
+1926255 | Adriana Isabel Larrahondo Ortiz | 3842 | 01:12:35
+1926416 | Luis Carlos  Ayala Silva | 3842 | 01:16:17
+1926827 | Diana Sofía  EspaÑa M | 3842 | 01:12:03
+1926919 | Angie Vanessa  GÓmez Cuero | 3842 | 01:13:09
+1927269 | Johan  Gorizalias Ruiz | 3842 | 01:14:13
+1927318 | Hector Emmanuel  Arbelaez Paz | 3857 | 01:28:19
+1927678 | Manuela Arango Rialpe | 3842 | 01:16:24
+1927740 | Maria Alejandra  Mina Mosquera | 3842 | 01:11:13
+1927763 | Isabela Cabuyales Beca | 3842 | 01:09:54
+1928158 | Juan Pablo  Hernandez  | 3842 | 01:13:24
+1929222 | Sebastián  DÍaz | 3842 | 01:14:55
+1930797 | John Estiven Cuero Valencia | 3842 | 01:13:42
+1932107 | Danna Gabriela Aguirre Cornelo | 3857 | 01:22:11
+1932965 | Ostin Alfonso  Hernandez GarcÍa | 3842 | 01:09:31
+66924338 | Gloria Patricia Avila Fajardo | 1111 | 00:00:27
+
+
+Elaborado el... 31 de Mayo de 2019
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+1144920 | Diego Fernando Arcila Bautista | 3842 | 00:08:10
+1326520 | Andres Marino Burgos Lopez | 3841 | 00:59:47
+1437049 | David Fernando Carvajal Papamija | 3857 | 00:11:09
+1463751 | Diana Marcela  ZuÑiga | 3845 | 00:36:10
+1624218 | Victor Hernan Lopez Mosca | 3841 | 00:23:54
+1631949 | Gina Paola Escobar Cuero | 3845 | 00:04:22
+1825385 | Juan JosÉ Gironza Villalba | 3857 | 00:27:18
+
+

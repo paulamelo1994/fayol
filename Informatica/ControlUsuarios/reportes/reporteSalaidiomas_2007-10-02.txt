@@ -1,0 +1,335 @@
+Elaborado el... 2007-10-02
+Mes: 1 de Septiembre de 2007 al 30 de Septiembre de 2007
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-01 | 08:35:15 | 09:35:15 | idiomas | pc01 | Practica
+0711062 | Felipe Alberto Ledesma Villegas | 3645 | 2007-09-03 | 13:37:22 | 14:37:22 | idiomas | pc03 | Practica
+0437550 | JACKELINE CARDONA SAENZ | 3857 | 2007-09-03 | 17:09:24 | 18:09:24 | idiomas | pc03 | Practica
+0733470 | Carolina GÛmez M. | 3841 | 2007-09-03 | 18:47:02 | 19:47:02 | idiomas | pc03 | Practica
+0732930 | Alberto Adolfo Bayona Hincapie | 3841 | 2007-09-03 | 16:07:35 | 17:07:35 | idiomas | pc04 | Practica
+0734348 | Lina Marcela Ortiz May | 3841 | 2007-09-03 | 17:57:13 | 18:57:13 | idiomas | pc06 | Practica
+0640615 | JESSICA ORTIZ MENDOZA | 3857 | 2007-09-03 | 17:21:41 | 18:21:41 | idiomas | pc07 | Practica
+0732391 | Liberney Osorio Cuartas | 3841 | 2007-09-03 | 17:41:22 | 18:41:22 | idiomas | pc09 | Practica
+0732210 | Karen Andrea Bode RuÌz | 3841 | 2007-09-03 | 17:32:32 | 18:32:32 | idiomas | pc10 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-05 | 13:07:50 | 14:07:50 | idiomas | pc03 | Practica
+0337844 | ANDRES FELIPE CAICEDO CAICEDO | 3857 | 2007-09-05 | 15:03:21 | 16:03:21 | idiomas | pc04 | Practica
+0222345 | JENNIFER ZU—IGA CA—ON | 3846 | 2007-09-05 | 20:00:17 | 21:00:17 | idiomas | pc04 | Practica
+0528046 | IRINA BORISOVNA KRASNOPEROVA SIDELNIKOVA | 3857 | 2007-09-05 | 15:03:38 | 16:03:38 | idiomas | pc06 | Practica
+0536307 | VICTORIA ANGELICA MARIN MOYA | 3857 | 2007-09-05 | 17:19:08 | 18:19:08 | idiomas | pc06 | Practica
+0738115 | MARIAFERNANDA SANCHEZ HOLGUIN | 3857 | 2007-09-05 | 17:21:39 | 18:21:39 | idiomas | pc08 | Practica
+0222484 | MAYNARD FERNANDO VALENCIA TANGARIFE | 3846 | 2007-09-05 | 20:00:52 | 21:00:52 | idiomas | pc08 | Practica
+0122200 | ALEXIS HERRERA PANESSO | 3846 | 2007-09-05 | 15:10:57 | 16:10:57 | idiomas | pc10 | Practica
+0732930 | Alberto Adolfo Bayona Hincapie | 3841 | 2007-09-05 | 17:45:52 | 18:45:52 | idiomas | pc10 | Practica
+0731286 | LINA VANESSA RODRIGUEZ LASPRILLA | 3857 | 2007-09-05 | 15:23:51 | 16:23:51 | idiomas | pc12 | Practica
+0731501 | MARCELA CARDENAS ALARCON | 3857 | 2007-09-05 | 15:24:11 | 16:24:11 | idiomas | pc14 | Practica
+0747551 | MARILYN PEREZ PESCADOR | 3857 | 2007-09-06 | 15:55:15 | 16:55:15 | idiomas | pc01 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-06 | 10:15:21 | 11:15:21 | idiomas | pc02 | Practica
+0741180 | JACKELINE  LIZALDA IBARGUEN | 3857 | 2007-09-06 | 15:55:56 | 16:55:56 | idiomas | pc03 | Practica
+0732372 | ROCIO PAOLA AGUILAR RODRIGUEZ | 3846 | 2007-09-06 | 11:00:57 | 12:00:57 | idiomas | pc04 | Practica
+0431136 | ANA MARIA CORTES ROSERO | 3857 | 2007-09-06 | 13:13:35 | 14:13:35 | idiomas | pc04 | Practica
+0750096 | Omar Efren Aza Fuelantala | 3857 | 2007-09-06 | 16:11:29 | 17:11:29 | idiomas | pc04 | Practica
+0128327 | YANETH XIMENA CUENCA MATALLANA | 3845 | 2007-09-06 | 17:26:36 | 18:26:36 | idiomas | pc04 | Practica
+0422274 | PAOLA MEJIA GUTIERREZ | 3857 | 2007-09-06 | 13:14:22 | 14:14:22 | idiomas | pc06 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2007-09-06 | 16:23:03 | 17:23:03 | idiomas | pc06 | Practica
+0444465 | IVONNE MARITZA RODRIGUEZ BRAVO | 3857 | 2007-09-06 | 13:45:53 | 14:45:53 | idiomas | pc08 | Practica
+0744125 | Leidy Andrea Rojas Montenegro | 3857 | 2007-09-06 | 16:24:44 | 17:24:44 | idiomas | pc08 | Practica
+0741065 | JUAN FELIPE OSPINA RUIZ | 3857 | 2007-09-06 | 14:01:52 | 15:01:52 | idiomas | pc10 | Practica
+0422372 | ANA MARIA MONCAYO BEJARANO | 3857 | 2007-09-06 | 16:25:01 | 17:25:01 | idiomas | pc10 | Practica
+0738115 | MARIAFERNANDA SANCHEZ HOLGUIN | 3857 | 2007-09-06 | 14:01:06 | 15:01:06 | idiomas | pc12 | Practica
+0222122 | GLORIA ESTEFANY CESPEDES ARCE | 3842 | 2007-09-06 | 16:34:37 | 17:34:37 | idiomas | pc12 | Practica
+0748125 | Germ·n Palacios | 3841 | 2007-09-06 | 17:35:56 | 18:35:56 | idiomas | pc12 | Practica
+16609971 | Harold  Davolos | 1111 | 2007-09-06 | 16:47:52 | 17:47:52 | idiomas | pc14 | Practica
+0743640 | Javier Hernan MuÒoz Cabrera | 3857 | 2007-09-06 | 17:15:02 | 18:15:02 | idiomas | pc16 | Practica
+0732996 | Julio Cesar Cuartas Arroyave | 3845 | 2007-09-06 | 17:54:00 | 18:54:00 | idiomas | pc16 | Practica
+0750339 | Leidy Johana Orozco TribiÒo | 3857 | 2007-09-06 | 17:16:56 | 18:16:56 | idiomas | pc18 | Practica
+0743640 | Javier Hernan MuÒoz Cabrera | 3857 | 2007-09-06 | 17:55:07 | 18:55:07 | idiomas | pc18 | Practica
+0533476 | JENNY PE—ALOZA MONSALVE | 3846 | 2007-09-06 | 17:43:11 | 18:43:11 | idiomas | pc19 | Practica
+0750339 | Leidy Johana Orozco TribiÒo | 3857 | 2007-09-06 | 17:49:56 | 18:49:56 | idiomas | pc20 | Practica
+0732930 | Alberto Adolfo Bayona Hincapie | 3841 | 2007-09-06 | 17:34:25 | 18:34:25 | idiomas | pc21 | Practica
+0752191 | Jeimy Alejandra Rengifo G. | 3841 | 2007-09-06 | 17:34:57 | 18:34:57 | idiomas | pc22 | Practica
+0522301 | CARLOS ALFREDO SINISTERRA V·SQUEZ | 3857 | 2007-09-07 | 14:29:54 | 15:29:54 | idiomas | pc01 | Practica
+0522336 | ANGELICA CATALINA VELANDIA SIATOYA | 3846 | 2007-09-07 | 13:18:16 | 14:18:16 | idiomas | pc01 | Practica
+0529196 | ¡LVARO ANDRÈS DÌAZ GUERRERO | 3846 | 2007-09-07 | 16:29:00 | 17:29:00 | idiomas | pc01 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-07 | 17:12:41 | 18:12:41 | idiomas | pc01 | Practica
+0736242 | Diana Marleny Giraldo Zora | 3845 | 2007-09-07 | 19:06:41 | 20:06:41 | idiomas | pc01 | Practica
+0740281 | Angela PAtricia Sanche Sanches Parada | 3857 | 2007-09-07 | 14:08:37 | 15:08:37 | idiomas | pc03 | Practica
+0631162 | DIANA MARCELA TRUJILLO RESTREPO | 3846 | 2007-09-07 | 17:01:00 | 18:01:00 | idiomas | pc03 | Practica
+0631162 | DIANA MARCELA TRUJILLO RESTREPO | 3846 | 2007-09-07 | 13:18:31 | 14:18:31 | idiomas | pc03 | Practica
+0639697 | ANDREA CHICAIZA URBANO | 3846 | 2007-09-07 | 13:18:54 | 14:18:54 | idiomas | pc04 | Practica
+0739281 | Katherine SANCHEZ DAZA | 3857 | 2007-09-07 | 14:09:21 | 15:09:21 | idiomas | pc04 | Practica
+0444665 | LUIS FERNANDO CASTILLO | 3857 | 2007-09-07 | 17:05:26 | 18:05:26 | idiomas | pc04 | Practica
+0536472 | DEYBER WENCESLADO DUSSAN BETANCOURT | 3841 | 2007-09-07 | 17:40:43 | 18:40:43 | idiomas | pc06 | Practica
+0634203 | ANDRES FELIPE VALDERRUTEN CASTRO | 3846 | 2007-09-07 | 13:19:16 | 14:19:16 | idiomas | pc06 | Practica
+0529196 | ¡LVARO ANDRÈS DÌAZ GUERRERO | 3846 | 2007-09-07 | 17:15:09 | 18:15:09 | idiomas | pc06 | Practica
+0441903 | YAMILE ANDREA ORTIZ CANCHALA | 3857 | 2007-09-07 | 14:21:02 | 15:21:02 | idiomas | pc06 | Practica
+0738956 | Jhon Lenerth Chavez Roman | 3846 | 2007-09-07 | 13:32:33 | 14:32:33 | idiomas | pc08 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-07 | 14:41:13 | 15:41:13 | idiomas | pc08 | Practica
+0732372 | ROCIO PAOLA AGUILAR RODRIGUEZ | 3846 | 2007-09-07 | 13:47:19 | 14:47:19 | idiomas | pc10 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2007-09-07 | 16:08:50 | 17:08:50 | idiomas | pc10 | Practica
+0639434 | CARLOS HUMBERTO HERNANDEZ VALENCIA | 3846 | 2007-09-07 | 16:12:38 | 17:12:38 | idiomas | pc10 | Practica
+9929277 | Yeniffer Daian Carabali Vente | 3845 | 2007-09-07 | 17:43:08 | 18:43:08 | idiomas | pc10 | Practica
+0735464 | Diana MarÌa Devia Saavedra | 3846 | 2007-09-07 | 13:47:46 | 14:47:46 | idiomas | pc12 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2007-09-07 | 16:09:46 | 17:09:46 | idiomas | pc12 | Practica
+0732159 | JAVIER ANDRES SABOGAL CANDAS | 3846 | 2007-09-07 | 13:48:06 | 14:48:06 | idiomas | pc14 | Practica
+0741164 | DANIELA  OCAMPO PORTILLA | 3857 | 2007-09-07 | 16:10:14 | 17:10:14 | idiomas | pc14 | Practica
+0543597 | JHON EDISON MURCIA CIFUENTES | 3842 | 2007-09-07 | 16:11:17 | 17:11:17 | idiomas | pc16 | Practica
+0538950 | DAIRO FERNANDO CEFERINO VIAFARA | 3842 | 2007-09-07 | 16:11:29 | 17:11:29 | idiomas | pc18 | Practica
+0752191 | Jeimy Alejandra Rengifo G. | 3841 | 2007-09-07 | 16:40:18 | 17:40:18 | idiomas | pc19 | Practica
+0732372 | ROCIO PAOLA AGUILAR RODRIGUEZ | 3846 | 2007-09-07 | 16:19:07 | 17:19:07 | idiomas | pc20 | Practica
+0749962 | Lina Marcela Caicedo Caicedo | 3841 | 2007-09-07 | 16:39:42 | 17:39:42 | idiomas | pc21 | Practica
+0735464 | Diana MarÌa Devia Saavedra | 3846 | 2007-09-07 | 16:19:29 | 17:19:29 | idiomas | pc22 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-08 | 10:03:09 | 11:03:09 | idiomas | pc01 | Practica
+0745516 | Katerine Estefani Garcia Cardona | 3857 | 2007-09-08 | 08:17:17 | 09:17:17 | idiomas | pc01 | Practica
+0750515 | Alfredo Montes Perdomo | 3845 | 2007-09-08 | 10:11:15 | 11:11:15 | idiomas | pc03 | †
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-10 | 13:11:04 | 14:11:04 | idiomas | pc01 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-10 | 14:15:56 | 15:15:56 | idiomas | pc01 | Practica
+0743640 | Javier Hernan MuÒoz Cabrera | 3857 | 2007-09-10 | 13:16:01 | 14:16:01 | idiomas | pc03 | Practica
+0731954 | Eduardo Candamil Ospina | 3846 | 2007-09-10 | 14:18:21 | 15:18:21 | idiomas | pc03 | Practica
+0750339 | Leidy Johana Orozco TribiÒo | 3857 | 2007-09-10 | 13:16:52 | 14:16:52 | idiomas | pc04 | Practica
+0531980 | ANA CRISTINA BURBANO MEJIA | 3857 | 2007-09-10 | 14:21:54 | 15:21:54 | idiomas | pc04 | Practica
+0539433 | MARTHA LORENA DAZA GIL | 3842 | 2007-09-10 | 15:35:49 | 16:35:49 | idiomas | pc04 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-10 | 17:39:34 | 18:39:34 | idiomas | pc04 | Practica
+0752191 | Jeimy Alejandra Rengifo G. | 3841 | 2007-09-10 | 16:58:57 | 17:58:57 | idiomas | pc06 | Practica
+0437550 | JACKELINE CARDONA SAENZ | 3857 | 2007-09-10 | 17:04:57 | 18:04:57 | idiomas | pc08 | Practica
+0732210 | Karen Andrea Bode RuÌz | 3841 | 2007-09-10 | 17:40:25 | 18:40:25 | idiomas | pc10 | Practica
+0422080 | ANGELA MARIA GARCIA | 3841 | 2007-09-10 | 17:41:29 | 18:41:29 | idiomas | pc12 | Practica
+0732930 | Alberto Adolfo Bayona Hincapie | 3841 | 2007-09-10 | 19:25:23 | 20:25:23 | idiomas | pc20 | Practica
+0129249 | JHONATAN CUPITRA RODRIGUEZ | 3842 | 2007-09-11 | 18:25:46 | 19:25:46 | idiomas | pc01 | Practica
+0131470 | VICTOR MANUEL QUICENO LOZANO | 3842 | 2007-09-11 | 19:03:36 | 20:03:36 | idiomas | pc03 | Practica
+0532542 | ROCÌO DEL PILAR OVALLE MUÒOZ | 3841 | 2007-09-11 | 17:44:07 | 18:44:07 | idiomas | pc04 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-11 | 20:04:27 | 21:04:27 | idiomas | pc04 | Practica
+0528823 | NATALIA BETANCUR PALACIOS | 3841 | 2007-09-11 | 17:44:29 | 18:44:29 | idiomas | pc06 | Practica
+0536472 | DEYBER WENCESLADO DUSSAN BETANCOURT | 3841 | 2007-09-11 | 17:55:02 | 18:55:02 | idiomas | pc08 | Practica
+0440520 | ALEJANDRO VARGAS SALAS | 3845 | 2007-09-11 | 18:01:19 | 19:01:19 | idiomas | pc10 | Practica
+0328106 | ELIANA DEL CARMEN RIOS PEREZ | 3845 | 2007-09-11 | 18:11:48 | 19:11:48 | idiomas | pc16 | Practica
+0122229 | NORBEY DE JESUS MARIN ESCOBAR | 3842 | 2007-09-11 | 18:11:07 | 19:11:07 | idiomas | pc18 | Practica
+0733470 | Carolina GÛmez M. | 3841 | 2007-09-11 | 18:02:06 | 19:02:06 | idiomas | pc21 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-12 | 14:26:31 | 15:26:31 | idiomas | pc01 | Practica
+0226348 | LUZ DARY MU—OZ PORTILLO | 3841 | 2007-09-12 | 19:57:26 | 20:57:26 | idiomas | pc01 | Practica
+0440520 | ALEJANDRO VARGAS SALAS | 3845 | 2007-09-12 | 17:56:01 | 18:56:01 | idiomas | pc02 | Practica
+0639434 | CARLOS HUMBERTO HERNANDEZ VALENCIA | 3846 | 2007-09-12 | 14:26:49 | 15:26:49 | idiomas | pc03 | Practica
+0732930 | Alberto Adolfo Bayona Hincapie | 3841 | 2007-09-12 | 16:29:42 | 17:29:42 | idiomas | pc03 | Practica
+0410039 | GUSTAVO SALAS DELGADO | 3841 | 2007-09-12 | 14:27:05 | 15:27:05 | idiomas | pc04 | Practica
+0536231 | ANDRES FERNANDO ANGULO RUIZ | 3846 | 2007-09-12 | 16:57:12 | 17:57:12 | idiomas | pc04 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-12 | 14:28:32 | 15:28:32 | idiomas | pc06 | Practica
+0747551 | MARILYN PEREZ PESCADOR | 3857 | 2007-09-12 | 16:39:14 | 17:39:14 | idiomas | pc08 | Practica
+0543379 | WILMER ANDRES DUQUE LOPEZ | 3846 | 2007-09-12 | 16:57:37 | 17:57:37 | idiomas | pc10 | Practica
+0530241 | JULIAN ALBERTO NU—EZ VIVEROS | 3846 | 2007-09-12 | 16:58:02 | 17:58:02 | idiomas | pc12 | Practica
+9929364 | RICARDO ANDRES RODRIGUEZ RODRIGUEZ | 3845 | 2007-09-12 | 17:11:55 | 18:11:55 | idiomas | pc14 | Practica
+9929364 | RICARDO ANDRES RODRIGUEZ RODRIGUEZ | 3845 | 2007-09-12 | 17:13:35 | 18:13:35 | idiomas | pc16 | Practica
+0536472 | DEYBER WENCESLADO DUSSAN BETANCOURT | 3841 | 2007-09-12 | 17:17:06 | 18:17:06 | idiomas | pc16 | Practica
+0733336 | Diana Cristina Velasquez Gonzalez | 3841 | 2007-09-12 | 17:38:36 | 18:38:36 | idiomas | pc18 | Practica
+0440520 | ALEJANDRO VARGAS SALAS | 3845 | 2007-09-13 | 18:11:23 | 19:11:23 | idiomas | pc01 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-13 | 13:10:32 | 14:10:32 | idiomas | pc01 | Practica
+0732391 | Liberney Osorio Cuartas | 3841 | 2007-09-13 | 15:00:24 | 16:00:24 | idiomas | pc01 | Practica
+16609971 | Harold  Davolos | 1111 | 2007-09-13 | 16:56:42 | 17:56:42 | idiomas | pc01 | Practica
+0644183 | JORGE LUIS VALENZUELA CUASTUMAL | 3857 | 2007-09-13 | 14:31:37 | 15:31:37 | idiomas | pc03 | Practica
+0744125 | Leidy Andrea Rojas Montenegro | 3857 | 2007-09-13 | 13:10:50 | 14:10:50 | idiomas | pc03 | Practica
+0328106 | ELIANA DEL CARMEN RIOS PEREZ | 3845 | 2007-09-13 | 18:17:26 | 19:17:26 | idiomas | pc04 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2007-09-13 | 13:25:46 | 14:25:46 | idiomas | pc04 | Practica
+0429966 | LINA MARCELA PARRA LASPRILLA | 3842 | 2007-09-13 | 14:32:33 | 15:32:33 | idiomas | pc04 | Practica
+0631162 | DIANA MARCELA TRUJILLO RESTREPO | 3846 | 2007-09-13 | 14:35:20 | 15:35:20 | idiomas | pc04 | Practica
+0732210 | Karen Andrea Bode RuÌz | 3841 | 2007-09-13 | 17:11:38 | 18:11:38 | idiomas | pc04 | Practica
+0751450 | DANIELA USURIAGA MU—OS | 3857 | 2007-09-13 | 13:26:45 | 14:26:45 | idiomas | pc06 | Practica
+0429966 | LINA MARCELA PARRA LASPRILLA | 3842 | 2007-09-13 | 14:35:39 | 15:35:39 | idiomas | pc06 | Practica
+0752191 | Jeimy Alejandra Rengifo G. | 3841 | 2007-09-13 | 16:32:23 | 17:32:23 | idiomas | pc06 | Practica
+0744193 | Nathalia  Saavedra QuiÒonez | 3857 | 2007-09-13 | 13:28:14 | 14:28:14 | idiomas | pc08 | Practica
+0745580 | Adriana Dorado Leyton | 3857 | 2007-09-13 | 15:07:42 | 16:07:42 | idiomas | pc08 | Practica
+0732930 | Alberto Adolfo Bayona Hincapie | 3841 | 2007-09-13 | 16:46:01 | 17:46:01 | idiomas | pc08 | Practica
+0746839 | ANGELAL MERCEDES ZAPATA RAMOS | 3857 | 2007-09-13 | 13:28:32 | 14:28:32 | idiomas | pc10 | Practica
+0741164 | DANIELA  OCAMPO PORTILLA | 3857 | 2007-09-13 | 15:40:16 | 16:40:16 | idiomas | pc10 | Practica
+0639434 | CARLOS HUMBERTO HERNANDEZ VALENCIA | 3846 | 2007-09-13 | 17:12:11 | 18:12:11 | idiomas | pc10 | Practica
+0750081 | Claret Lisette Ramirez Rivillas | 3857 | 2007-09-13 | 14:01:09 | 15:01:09 | idiomas | pc12 | Practica
+0122091 | RAUL COLLAZOS HOLGUIN | 3845 | 2007-09-13 | 17:12:39 | 18:12:39 | idiomas | pc12 | Practica
+0646047 | LAURA RODRÌGUEZ RAMÌREZ | 3857 | 2007-09-13 | 12:59:03 | 13:59:03 | idiomas | pc14 | Practica
+0741288 | Sussan Cruz Sanchez | 3857 | 2007-09-13 | 15:44:01 | 16:44:01 | idiomas | pc14 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2007-09-13 | 15:44:27 | 16:44:27 | idiomas | pc16 | Practica
+0747313 | JHON ALEXANDER  REYES CELIS | 3857 | 2007-09-13 | 15:44:45 | 16:44:45 | idiomas | pc18 | Practica
+0745545 | SANDRA MARCELA RAMOS CALAMBAS | 3857 | 2007-09-13 | 15:44:59 | 16:44:59 | idiomas | pc20 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-13 | 15:43:48 | 16:43:48 | idiomas | pc22 | Practica
+0444665 | LUIS FERNANDO CASTILLO | 3857 | 2007-09-13 | 17:44:02 | 18:44:02 | idiomas | pc22 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-14 | 13:20:33 | 14:20:33 | idiomas | pc01 | Practica
+0741180 | JACKELINE  LIZALDA IBARGUEN | 3857 | 2007-09-14 | 13:28:23 | 14:28:23 | idiomas | pc03 | Practica
+0322385 | carlos andres serna hurtado | 3846 | 2007-09-14 | 17:02:04 | 18:02:04 | idiomas | pc03 | Practica
+0322385 | carlos andres serna hurtado | 3846 | 2007-09-14 | 13:48:34 | 14:48:34 | idiomas | pc04 | Practica
+0539481 | JUAN SEBASTIAN RUIZ VALLEJO | 3842 | 2007-09-14 | 15:07:44 | 16:07:44 | idiomas | pc06 | Practica
+0543597 | JHON EDISON MURCIA CIFUENTES | 3842 | 2007-09-14 | 15:08:11 | 16:08:11 | idiomas | pc08 | Practica
+0751158 | Jorge AndrÈs  RiaÒo Ortega | 3842 | 2007-09-14 | 16:02:53 | 17:02:53 | idiomas | pc10 | Practica
+0747503 | yenifer carolina PELAEZ ALZATE | 3842 | 2007-09-14 | 16:03:25 | 17:03:25 | idiomas | pc12 | Practica
+0333645 | RODOLFO HEBERTO GRUESSO HOLGUIN | 3845 | 2007-09-15 | 11:15:10 | 12:15:10 | idiomas | pc01 | Clase
+0334857 | JUAN ESTEBAN ZULUAGA BEDOYA | 3845 | 2007-09-15 | 11:15:28 | 12:15:28 | idiomas | pc02 | Clase
+0222444 | LIUVA PATRICIA ROJAS JIMENEZ | 3845 | 2007-09-15 | 11:15:43 | 12:15:43 | idiomas | pc03 | Clase
+9825753 | FABIAN BOLA—OS VELASCO | 3845 | 2007-09-15 | 11:16:05 | 12:16:05 | idiomas | pc04 | Clase
+0627561 | SANDRA LILIANA GIRALDO RIVERA | 3845 | 2007-09-15 | 11:16:26 | 12:16:26 | idiomas | pc05 | Clase
+0132595 | ANDRES SUAREZ FRANCO | 3845 | 2007-09-15 | 11:16:52 | 12:16:52 | idiomas | pc06 | Clase
+9828881 | JAIME ANDRES VALENCIA HENAO | 3845 | 2007-09-15 | 11:17:52 | 12:17:52 | idiomas | pc07 | Clase
+0122068 | ELIDIER HERNANDO CASTILLO GUTIERREZ | 3845 | 2007-09-15 | 11:19:32 | 12:19:32 | idiomas | pc08 | Clase
+0330660 | EDWUIN ARIAN PALOMINO MORENO | 3846 | 2007-09-15 | 11:19:53 | 12:19:53 | idiomas | pc09 | Clase
+0438363 | JULIANA GONZALEZ QUESADA | 3841 | 2007-09-15 | 11:20:30 | 12:20:30 | idiomas | pc10 | Clase
+0536531 | JOSE ROBINSON TAQUEZ QUENGUAN | 3841 | 2007-09-15 | 11:21:14 | 12:21:14 | idiomas | pc11 | Clase
+0135274 | BEATRIZ EUGENIA BEDOYA REYES | 3845 | 2007-09-15 | 11:22:37 | 12:22:37 | idiomas | pc12 | Clase
+0125323 | XIMENA FLOREZ JARAMILLO | 3845 | 2007-09-15 | 11:22:57 | 12:22:57 | idiomas | pc13 | Clase
+0626490 | CAMILO ANDRES ANACONA MERA | 3845 | 2007-09-15 | 11:23:12 | 12:23:12 | idiomas | pc14 | Clase
+0623532 | CAROLINA TRUJILLO HERNANDEZ | 3845 | 2007-09-15 | 11:23:29 | 12:23:29 | idiomas | pc15 | Clase
+0222162 | GLORIA ESTELLA GIRALDO LONDO—O | 3845 | 2007-09-15 | 11:23:43 | 12:23:43 | idiomas | pc16 | Clase
+0222003 | JENNY LORENA OSSA NU—EZ | 3845 | 2007-09-15 | 11:24:01 | 12:24:01 | idiomas | pc17 | Clase
+9223084 | OLGA MILENA PEREZ VARGAS | 3845 | 2007-09-15 | 11:24:26 | 12:24:26 | idiomas | pc18 | Clase
+0233153 | NATHALIA GARCIA MU—OZ | 3845 | 2007-09-15 | 11:24:48 | 12:24:48 | idiomas | pc19 | Clase
+0322090 | DIANA SOFIA MERA LOPEZ | 3845 | 2007-09-15 | 11:25:13 | 12:25:13 | idiomas | pc20 | Clase
+0623229 | LUIS FERNANDO LARGO MORALES | 3845 | 2007-09-15 | 11:25:30 | 12:25:30 | idiomas | pc21 | Clase
+0625330 | JEIMMY ALEJANDRA VARGAS NARANJO | 3845 | 2007-09-15 | 11:25:44 | 12:25:44 | idiomas | pc22 | Clase
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-17 | 13:11:19 | 14:11:19 | idiomas | pc01 | Practica
+0746839 | ANGELAL MERCEDES ZAPATA RAMOS | 3857 | 2007-09-17 | 13:13:26 | 14:13:26 | idiomas | pc03 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-17 | 14:49:50 | 15:49:50 | idiomas | pc03 | Practica
+0732210 | Karen Andrea Bode RuÌz | 3841 | 2007-09-17 | 17:28:43 | 18:28:43 | idiomas | pc03 | Practica
+0731085 | Carlos Arturo GÛmez A. | 3841 | 2007-09-17 | 18:00:47 | 19:00:47 | idiomas | pc03 | Practica
+0739281 | Katherine SANCHEZ DAZA | 3857 | 2007-09-17 | 13:13:49 | 14:13:49 | idiomas | pc04 | Practica
+0747551 | MARILYN PEREZ PESCADOR | 3857 | 2007-09-17 | 14:52:24 | 15:52:24 | idiomas | pc04 | Practica
+0410039 | GUSTAVO SALAS DELGADO | 3841 | 2007-09-17 | 16:56:58 | 17:56:58 | idiomas | pc04 | Practica
+0747551 | MARILYN PEREZ PESCADOR | 3857 | 2007-09-17 | 13:19:53 | 14:19:53 | idiomas | pc06 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2007-09-17 | 15:08:28 | 16:08:28 | idiomas | pc06 | Practica
+16609971 | Harold  Davolos | 1111 | 2007-09-17 | 17:34:49 | 18:34:49 | idiomas | pc06 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2007-09-17 | 13:39:59 | 14:39:59 | idiomas | pc08 | Practica
+0749635 | William Andres Yanguatin Valencia | 3857 | 2007-09-17 | 15:15:38 | 16:15:38 | idiomas | pc08 | Practica
+0410039 | GUSTAVO SALAS DELGADO | 3841 | 2007-09-17 | 16:11:41 | 17:11:41 | idiomas | pc08 | Practica
+0646302 | OLGA MARINA GRANOBLES DURAN | 3845 | 2007-09-17 | 18:07:59 | 19:07:59 | idiomas | pc08 | Practica
+0744125 | Leidy Andrea Rojas Montenegro | 3857 | 2007-09-17 | 15:09:08 | 16:09:08 | idiomas | pc10 | Practica
+0732930 | Alberto Adolfo Bayona Hincapie | 3841 | 2007-09-17 | 18:17:05 | 19:17:05 | idiomas | pc20 | Practica
+0641162 | CAROLINA DUQUE MILLAN | 3841 | 2007-09-20 | 10:18:43 | 11:18:43 | idiomas | pc01 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2007-09-20 | 12:54:16 | 13:54:16 | idiomas | pc01 | Practica
+0122091 | RAUL COLLAZOS HOLGUIN | 3845 | 2007-09-20 | 19:29:56 | 20:29:56 | idiomas | pc01 | Practica
+0749530 | MARGARITA VALENCIA MARIN | 3857 | 2007-09-20 | 14:11:03 | 15:11:03 | idiomas | pc01 | Practica
+0500008 | GREGORIO ANTONIO GIRALDO GARCES | 7878 | 2007-09-20 | 16:20:42 | 17:20:42 | idiomas | pc01 | Practica
+0752191 | Jeimy Alejandra Rengifo G. | 3841 | 2007-09-20 | 17:14:27 | 18:14:27 | idiomas | pc01 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-20 | 11:52:31 | 12:52:31 | idiomas | pc03 | Practica
+0431136 | ANA MARIA CORTES ROSERO | 3857 | 2007-09-20 | 10:50:33 | 11:50:33 | idiomas | pc04 | Practica
+0522208 | DIANA CAROLINA MUÒOZ CASTRO | 3857 | 2007-09-20 | 12:50:49 | 13:50:49 | idiomas | pc04 | Practica
+0741065 | JUAN FELIPE OSPINA RUIZ | 3857 | 2007-09-20 | 14:01:01 | 15:01:01 | idiomas | pc04 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-20 | 15:39:58 | 16:39:58 | idiomas | pc04 | Practica
+0127197 | CLARA ISABEL HIDALGO ROMERO | 3846 | 2007-09-20 | 16:20:59 | 17:20:59 | idiomas | pc04 | Practica
+0639434 | CARLOS HUMBERTO HERNANDEZ VALENCIA | 3846 | 2007-09-20 | 17:17:23 | 18:17:23 | idiomas | pc04 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-20 | 11:51:41 | 12:51:41 | idiomas | pc06 | Practica
+0741164 | DANIELA  OCAMPO PORTILLA | 3857 | 2007-09-20 | 13:01:50 | 14:01:50 | idiomas | pc06 | Practica
+0626102 | FÈLIX ALEXIS DÌAZ CHASOY | 3845 | 2007-09-20 | 14:04:57 | 15:04:57 | idiomas | pc06 | Practica
+0626089 | PAULA ANDREA ROBLEDO RAMIREZ | 3845 | 2007-09-20 | 16:48:41 | 17:48:41 | idiomas | pc06 | Practica
+0646047 | LAURA RODRÌGUEZ RAMÌREZ | 3857 | 2007-09-20 | 12:50:21 | 13:50:21 | idiomas | pc08 | Practica
+0734540 | Gladys Julieth MEZU CASTRO | 3857 | 2007-09-20 | 13:18:23 | 14:18:23 | idiomas | pc08 | Practica
+0741288 | Sussan Cruz Sanchez | 3857 | 2007-09-20 | 13:03:23 | 14:03:23 | idiomas | pc10 | Practica
+0738115 | MARIAFERNANDA SANCHEZ HOLGUIN | 3857 | 2007-09-20 | 14:06:25 | 15:06:25 | idiomas | pc10 | Practica
+0528046 | IRINA BORISOVNA KRASNOPEROVA SIDELNIKOVA | 3857 | 2007-09-20 | 16:19:53 | 17:19:53 | idiomas | pc10 | Practica
+0122009 | FREDDY ALBERTO ALOMIA CAICEDO | 3842 | 2007-09-20 | 17:14:47 | 18:14:47 | idiomas | pc10 | Practica
+0747534 | HILDEBRANDO  PE—A BOCANEGRA | 3857 | 2007-09-20 | 14:11:17 | 15:11:17 | idiomas | pc12 | Practica
+0732930 | Alberto Adolfo Bayona Hincapie | 3841 | 2007-09-20 | 16:21:34 | 17:21:34 | idiomas | pc12 | Practica
+0422080 | ANGELA MARIA GARCIA | 3841 | 2007-09-20 | 18:00:47 | 19:00:47 | idiomas | pc12 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2007-09-20 | 14:50:54 | 15:50:54 | idiomas | pc14 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-20 | 17:15:04 | 18:15:04 | idiomas | pc14 | Practica
+0522208 | DIANA CAROLINA MUÒOZ CASTRO | 3857 | 2007-09-20 | 14:51:22 | 15:51:22 | idiomas | pc16 | Practica
+0522209 | YULY VANESSA MUÒOZ MATEUS | 3857 | 2007-09-21 | 13:19:42 | 14:19:42 | idiomas | pc01 | Practica
+0522419 | ISABEL CRISTINA CUERO FORERO | 3857 | 2007-09-21 | 13:19:55 | 14:19:55 | idiomas | pc03 | Practica
+0544170 | MAYRA GISSELA SOLIS BANGUERA | 3841 | 2007-09-21 | 16:56:32 | 17:56:32 | idiomas | pc03 | Practica
+0744338 | Maria Nella  Molina rosero | 3857 | 2007-09-21 | 13:20:10 | 14:20:10 | idiomas | pc04 | Practica
+0322385 | carlos andres serna hurtado | 3846 | 2007-09-21 | 14:11:55 | 15:11:55 | idiomas | pc04 | Practica
+0029883 | JHON ALEXANDER CASTRO DIAZ | 3845 | 2007-09-21 | 18:11:52 | 19:11:52 | idiomas | pc04 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-21 | 13:49:34 | 14:49:34 | idiomas | pc06 | Practica
+0642079 | DIANA LORENA SALINAS REINA | 3857 | 2007-09-21 | 13:49:15 | 14:49:15 | idiomas | pc08 | Practica
+0642079 | DIANA LORENA SALINAS REINA | 3857 | 2007-09-21 | 13:48:52 | 14:48:52 | idiomas | pc10 | Practica
+0745607 | Valencia Teran Yexi Viviana | 3645 | 2007-09-21 | 14:01:01 | 15:01:01 | idiomas | pc12 | Practica
+0746592 | Diana Mercedes Salazar Salazar | 3645 | 2007-09-21 | 14:01:18 | 15:01:18 | idiomas | pc13 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-22 | 09:19:54 | 10:19:54 | idiomas | pc01 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-22 | 11:16:15 | 12:16:15 | idiomas | pc01 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-22 | 10:28:37 | 11:28:37 | idiomas | pc03 | Practica
+0623358 | OSCAR FABIAN MUÒOZ OLIVARES | 3846 | 2007-09-22 | 10:28:17 | 11:28:17 | idiomas | pc04 | Practica
+16609971 | Harold  Davolos | 1111 | 2007-09-22 | 10:29:06 | 11:29:06 | idiomas | pc06 | Practica
+0522349 | DIANA CAROLINA ZULETA VELASQUEZ | 3845 | 2007-09-22 | 10:30:01 | 11:30:01 | idiomas | pc08 | Practica
+0625550 | Carlos Alberto Orozco Collazos | 3857 | 2007-09-24 | 13:38:02 | 14:38:02 | idiomas | pc01 | Practica
+0522064 | JOHANNA ANDREA CHAMORRO | 3845 | 2007-09-24 | 19:16:45 | 20:16:45 | idiomas | pc01 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-24 | 13:38:16 | 14:38:16 | idiomas | pc03 | Practica
+0422290 | KELLY YULIANA VASQUEZ VIVEROS | 3857 | 2007-09-24 | 14:47:52 | 15:47:52 | idiomas | pc04 | Practica
+0341201 | JOHN JAIRO MELO MONTES | 3647 | 2007-09-24 | 14:49:01 | 15:49:01 | idiomas | pc06 | Practica
+0745140 | Maria Alejandra Torres Hurtado | 3857 | 2007-09-24 | 16:49:59 | 17:49:59 | idiomas | pc08 | Practica
+0752191 | Jeimy Alejandra Rengifo G. | 3841 | 2007-09-24 | 16:50:16 | 17:50:16 | idiomas | pc10 | Practica
+0543429 | Claudia Liliana Fernandez Florez | 2832 | 2007-09-25 | 19:47:23 | 20:47:23 | idiomas | pc01 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-26 | 14:05:45 | 15:05:45 | idiomas | pc01 | Practica
+0029883 | JHON ALEXANDER CASTRO DIAZ | 3845 | 2007-09-26 | 14:12:17 | 15:12:17 | idiomas | pc03 | Practica
+0522068 | LILIBETH JOHANA CHIRIBOGA CUERO | 3845 | 2007-09-26 | 18:13:09 | 19:13:09 | idiomas | pc03 | Practica
+0322383 | JOHN EDWAR SINISTERRA CARABALI | 3846 | 2007-09-26 | 15:38:14 | 16:38:14 | idiomas | pc04 | Practica
+0222342 | Grace Ortiz Maribel Ruiz Ortiz | 3842 | 2007-09-26 | 14:28:32 | 15:28:32 | idiomas | pc04 | Practica
+0127197 | CLARA ISABEL HIDALGO ROMERO | 3846 | 2007-09-26 | 14:53:54 | 15:53:54 | idiomas | pc06 | Practica
+0500008 | GREGORIO ANTONIO GIRALDO GARCES | 7878 | 2007-09-26 | 14:54:53 | 15:54:53 | idiomas | pc08 | Practica
+0633121 | JORGE ANTONIO FLOREZ VALBUENA | 3340 | 2007-09-26 | 15:15:54 | 16:15:54 | idiomas | pc10 | Practica
+0749530 | MARGARITA VALENCIA MARIN | 3857 | 2007-09-26 | 15:20:19 | 16:20:19 | idiomas | pc12 | Practica
+0740281 | Angela PAtricia Sanche Sanches Parada | 3857 | 2007-09-26 | 15:21:10 | 16:21:10 | idiomas | pc14 | Practica
+0742975 | Monica Patricia Tribaldos Castro | 3857 | 2007-09-26 | 15:21:41 | 16:21:41 | idiomas | pc16 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-26 | 15:52:44 | 16:52:44 | idiomas | pc18 | Practica
+0322215 | DIANA PATRICIA LOPEZ MURILLO | 3846 | 2007-09-27 | 10:24:22 | 11:24:22 | idiomas | pc01 | Investigacion
+0322215 | DIANA PATRICIA LOPEZ MURILLO | 3846 | 2007-09-27 | 10:24:51 | 11:24:51 | idiomas | pc01 | Investigacion
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-27 | 12:09:38 | 13:09:38 | idiomas | pc01 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-27 | 16:50:50 | 17:50:50 | idiomas | pc01 | Practica
+0029883 | JHON ALEXANDER CASTRO DIAZ | 3845 | 2007-09-27 | 19:10:36 | 20:10:36 | idiomas | pc01 | Practica
+0525522 | JULIA ESTER VIVAS TENORIO | 2635 | 2007-09-27 | 10:25:06 | 11:25:06 | idiomas | pc02 | Investigacion
+0646033 | JONATHAN JESUS APRAEZ ACOSTA | 3647 | 2007-09-27 | 10:25:32 | 11:25:32 | idiomas | pc03 | Investigacion
+0625550 | Carlos Alberto Orozco Collazos | 3857 | 2007-09-27 | 12:09:14 | 13:09:14 | idiomas | pc03 | Practica
+0530230 | RICARDO GOMEZ MARULANDA | 3841 | 2007-09-27 | 14:20:28 | 15:20:28 | idiomas | pc04 | Practica
+0752488 | Kelly Falom Chamorro Armero | 3846 | 2007-09-27 | 15:51:13 | 16:51:13 | idiomas | pc04 | Practica
+0436737 | ANYELI MARTINEZ VIDAL | 2635 | 2007-09-27 | 10:26:23 | 11:26:23 | idiomas | pc05 | Investigacion
+0747551 | MARILYN PEREZ PESCADOR | 3857 | 2007-09-27 | 14:25:12 | 15:25:12 | idiomas | pc05 | Practica
+0524175 | LADY JOANA SALAS CHACUA | 2635 | 2007-09-27 | 10:26:41 | 11:26:41 | idiomas | pc06 | Investigacion
+0747984 | Johnny Andres Carmona Andrade | 3846 | 2007-09-27 | 15:52:31 | 16:52:31 | idiomas | pc06 | Practica
+16609971 | Harold  Davolos | 1111 | 2007-09-27 | 17:00:44 | 18:00:44 | idiomas | pc06 | Practica
+0441572 | ERIKA GONZ·LEZ ESCOBAR | 2635 | 2007-09-27 | 10:26:57 | 11:26:57 | idiomas | pc07 | Investigacion
+0428942 | ANYELA ROJAS BASTIDAS | 2635 | 2007-09-27 | 10:27:14 | 11:27:14 | idiomas | pc08 | Investigacion
+0738115 | MARIAFERNANDA SANCHEZ HOLGUIN | 3857 | 2007-09-27 | 14:49:18 | 15:49:18 | idiomas | pc08 | Practica
+0752488 | Kelly Falom Chamorro Armero | 3846 | 2007-09-27 | 16:10:35 | 17:10:35 | idiomas | pc08 | Practica
+0432058 | INGRID LILIANA BONILLA PINEDA | 2635 | 2007-09-27 | 10:28:07 | 11:28:07 | idiomas | pc09 | Investigacion
+0436661 | DIANA MARCELA HERNANDEZ ESGUERRA | 2635 | 2007-09-27 | 10:29:06 | 11:29:06 | idiomas | pc10 | Investigacion
+0743981 | Natalia Cadavid Gallego | 3857 | 2007-09-27 | 14:50:12 | 15:50:12 | idiomas | pc10 | Practica
+0437855 | EDER ALEISON NIETO CARVAJAL | 2635 | 2007-09-27 | 10:28:45 | 11:28:45 | idiomas | pc11 | Investigacion
+0354280 | DIANA VANESSA GUTIERREZ MEJIA | 3846 | 2007-09-27 | 10:29:28 | 11:29:28 | idiomas | pc12 | Investigacion
+0631162 | DIANA MARCELA TRUJILLO RESTREPO | 3846 | 2007-09-27 | 15:12:38 | 16:12:38 | idiomas | pc12 | Practica
+0422290 | KELLY YULIANA VASQUEZ VIVEROS | 3857 | 2007-09-27 | 15:30:57 | 16:30:57 | idiomas | pc14 | Practica
+0522068 | LILIBETH JOHANA CHIRIBOGA CUERO | 3845 | 2007-09-27 | 19:09:06 | 20:09:06 | idiomas | pc14 | Practica
+0434469 | MARTHA LILIANA TAPIA MEDRANO | 2635 | 2007-09-27 | 10:30:32 | 11:30:32 | idiomas | pc15 | Investigacion
+0432113 | ESTEFHANY RODRIGUEZ COLLAZOS | 2635 | 2007-09-27 | 10:31:39 | 11:31:39 | idiomas | pc16 | Investigacion
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-27 | 15:53:31 | 16:53:31 | idiomas | pc16 | Practica
+0522345 | LUIS HERNANDO VOLVERAS RUBIO | 3845 | 2007-09-27 | 18:44:23 | 19:44:23 | idiomas | pc16 | Practica
+0626354 | MONICA LUCIA BAIZ MU—OZ | 3846 | 2007-09-27 | 15:50:35 | 16:50:35 | idiomas | pc17 | Practica
+0623377 | LIZETH FERNANDA REYES QUINTERO | 3846 | 2007-09-27 | 15:50:52 | 16:50:52 | idiomas | pc18 | Practica
+0228218 | ISABEL CRISTINA LOZANO MARIN | 3845 | 2007-09-27 | 18:44:48 | 19:44:48 | idiomas | pc18 | Practica
+0522064 | JOHANNA ANDREA CHAMORRO | 3845 | 2007-09-27 | 18:45:04 | 19:45:04 | idiomas | pc20 | Practica
+0741473 | Vanessa CastaÒo Giraldo | 3857 | 2007-09-27 | 14:53:14 | 15:53:14 | idiomas | pc21 | Practica
+0741480 | Luisa Fernanda Guarnizo PeÒa | 3857 | 2007-09-27 | 14:52:13 | 15:52:13 | idiomas | pc22 | Practica
+0522209 | YULY VANESSA MUÒOZ MATEUS | 3857 | 2007-09-28 | 13:11:09 | 14:11:09 | idiomas | pc01 | Practica
+0238759 | Oscar Ancizar Salas Achipiz | 3857 | 2007-09-28 | 15:08:50 | 16:08:50 | idiomas | pc01 | Practica
+0322038 | ELIZABETH LOPEZ RENTERIA | 3842 | 2007-09-28 | 15:33:34 | 16:33:34 | idiomas | pc01 | Practica
+0238759 | Oscar Ancizar Salas Achipiz | 3857 | 2007-09-28 | 16:43:19 | 17:43:19 | idiomas | pc01 | Practica
+0322038 | ELIZABETH LOPEZ RENTERIA | 3842 | 2007-09-28 | 15:40:34 | 16:40:34 | idiomas | pc01 | Practica
+0322017 | JESSICA ADRIANA RIVERA PABON | 3842 | 2007-09-28 | 15:40:50 | 16:40:50 | idiomas | pc02 | Practica
+0222304 | LINA MARCELA MARIN VALENCIA | 3842 | 2007-09-28 | 13:20:19 | 14:20:19 | idiomas | pc03 | Practica
+0752191 | Jeimy Alejandra Rengifo G. | 3841 | 2007-09-28 | 18:15:52 | 19:15:52 | idiomas | pc03 | Practica
+0741180 | JACKELINE  LIZALDA IBARGUEN | 3857 | 2007-09-28 | 13:20:36 | 14:20:36 | idiomas | pc05 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-28 | 15:57:46 | 16:57:46 | idiomas | pc05 | Practica
+0230589 | YEINER FERNANDO VASQUEZ CASTRO | 3461 | 2007-09-28 | 14:10:27 | 15:10:27 | idiomas | pc07 | Practica
+0128720 | ANA MILENA PADILLA OSPINA | 3846 | 2007-09-28 | 13:39:26 | 14:39:26 | idiomas | pc07 | Practica
+0632060 | SAMY ANDRES MAFLA NOGUERA | 3846 | 2007-09-28 | 15:41:08 | 16:41:08 | idiomas | pc07 | Practica
+0745329 | edgar rivera | 3841 | 2007-09-28 | 17:14:03 | 18:14:03 | idiomas | pc07 | Practica
+0732372 | ROCIO PAOLA AGUILAR RODRIGUEZ | 3846 | 2007-09-28 | 13:44:12 | 14:44:12 | idiomas | pc09 | Practica
+0740281 | Angela PAtricia Sanche Sanches Parada | 3857 | 2007-09-28 | 14:00:58 | 15:00:58 | idiomas | pc09 | Practica
+0640675 | ROBINSON RIVEROS MOGOLLON | 3846 | 2007-09-28 | 15:41:25 | 16:41:25 | idiomas | pc09 | Practica
+0522160 | LINA MARIA LOPEZ CANTILLO | 3841 | 2007-09-28 | 17:17:47 | 18:17:47 | idiomas | pc09 | Practica
+0747503 | yenifer carolina PELAEZ ALZATE | 3842 | 2007-09-28 | 13:59:44 | 14:59:44 | idiomas | pc11 | Practica
+0639697 | ANDREA CHICAIZA URBANO | 3846 | 2007-09-28 | 15:30:58 | 16:30:58 | idiomas | pc11 | Practica
+0633121 | JORGE ANTONIO FLOREZ VALBUENA | 3340 | 2007-09-28 | 16:22:06 | 17:22:06 | idiomas | pc12 | Practica
+0743316 | Denis Johana Serna Navarrete | 3645 | 2007-09-28 | 13:41:30 | 14:41:30 | idiomas | pc12 | Clase
+0746592 | Diana Mercedes Salazar Salazar | 3645 | 2007-09-28 | 13:39:58 | 14:39:58 | idiomas | pc13 | Clase
+0743033 | Jennifer Nathalia Yepes Cadenas | 3645 | 2007-09-28 | 14:40:39 | 15:40:39 | idiomas | pc14 | Clase
+0748243 | Nestor Eduardo Mazabuel Fernandez | 3645 | 2007-09-28 | 14:18:34 | 15:18:34 | idiomas | pc15 | Clase
+0740529 | Sandra Patricia Segura Rincon | 3645 | 2007-09-28 | 14:41:50 | 15:41:50 | idiomas | pc16 | Clase
+0540151 | NADHYA VANESSA SOLIS CAICEDO | 3857 | 2007-09-28 | 14:14:07 | 15:14:07 | idiomas | pc17 | Practica
+0731954 | Eduardo Candamil Ospina | 3846 | 2007-09-28 | 14:26:56 | 15:26:56 | idiomas | pc19 | Practica
+0632689 | ELIANA LORENA ALVAREZ CHANTRE | 3846 | 2007-09-28 | 15:31:41 | 16:31:41 | idiomas | pc21 | Practica
+0748051 | JENNIFER CHRISTHINA BRAVO ARTUNDUAGA | 3842 | 2007-09-29 | 09:43:17 | 10:43:17 | idiomas | pc01 | Practica
+0430067 | JEFERSON VILLA TORRES | 3841 | 2007-09-29 | 09:47:32 | 10:47:32 | idiomas | pc03 | Practica
+0444268 | Jhonatan Gil Pineda | 3748 | 2007-09-29 | 10:11:28 | 11:11:28 | idiomas | pc05 | Practica
+0753020 | Omar Gomez Castillo | 3845 | 2007-09-29 | 10:23:01 | 11:23:01 | idiomas | pc07 | Practica
+
+

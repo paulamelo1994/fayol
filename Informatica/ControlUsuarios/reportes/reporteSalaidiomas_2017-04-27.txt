@@ -1,0 +1,138 @@
+Elaborado el... 2017-04-27
+Mes: 1 de Abril de 2017 al 30 de Abril de 2017
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1646772 | Nathalia Lopez Alarcon | 3648 | 2017-04-03 | 13:49:25 | 15:49:25 | idiomas | 03   | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-03 | 12:57:10 | 14:57:10 | idiomas | pc01 | Practica
+1536402 | Angie Jineth Guerra Lopez | 3648 | 2017-04-03 | 10:06:27 | 12:06:27 | idiomas | pc01 | Practica
+1727520 | LERSY MICHELLE VILLAN ANAYA | 3845 | 2017-04-03 | 14:34:13 | 16:34:13 | idiomas | pc01 | Practica
+1644066 | Nathalia  Chamorro Rojas | 3846 | 2017-04-03 | 13:49:48 | 15:49:48 | idiomas | pc05 | Practica
+1425791 | wilmar arlex santana madrid | 3845 | 2017-04-03 | 15:35:23 | 17:35:23 | idiomas | pc05 | Practica
+1726997 | CAMILA ANDREA BENITEZ PILLIMUE | 3845 | 2017-04-03 | 14:01:26 | 16:01:26 | idiomas | pc07 |  
+1730647 | Leidy Gabriela Escobar López | 3845 | 2017-04-03 | 14:48:50 | 16:48:50 | idiomas | pc08 | Practica
+1731964 | Juan Sebastian Tabares | 3841 | 2017-04-04 | 10:09:54 | 12:09:54 | idiomas | pc01 | Practica
+1644720 | Maria Camila  Maziri Ramirez | 3648 | 2017-04-04 | 13:27:35 | 15:27:35 | idiomas | pc01 | Practica
+1642686 | Mariana Belalcazar Torres | 3648 | 2017-04-04 | 11:25:33 | 13:25:33 | idiomas | pc01 | Practica
+1736820 | SERGIO DIEZ VANEGAS | 3845 | 2017-04-04 | 08:30:30 | 10:30:30 | idiomas | pc01 | Practica
+1645341 | Jordy  Ocampo | 3648 | 2017-04-04 | 13:27:58 | 15:27:58 | idiomas | pc03 | Practica
+1730651 | Natalia Dominguez | 3845 | 2017-04-04 | 08:30:58 | 10:30:58 | idiomas | pc03 | Practica
+1724275 | Daniel Felipe Ruiz | 3845 | 2017-04-04 | 09:06:38 | 11:06:38 | idiomas | pc04 | Practica
+1730647 | Leidy Gabriela Escobar López | 3845 | 2017-04-04 | 08:31:14 | 10:31:14 | idiomas | pc05 | Practica
+1644318 | Lizeth Carolina  Parra Orlas | 3648 | 2017-04-04 | 13:29:00 | 15:29:00 | idiomas | pc05 | Practica
+1729849 | KAREN DANIELA MINA ROMERO | 3846 | 2017-04-04 | 08:31:34 | 10:31:34 | idiomas | pc07 | Practica
+1733980 | LUZ ANGELICA AGUIRRE QUINTANA | 3845 | 2017-04-04 | 09:07:38 | 11:07:38 | idiomas | pc08 | Practica
+1731737 | MARIA CAMILA MORENO GOMEZ | 3846 | 2017-04-04 | 08:31:54 | 10:31:54 | idiomas | pc09 | Practica
+1729795 | Ingrid Vanessa Montoya Perez | 3845 | 2017-04-04 | 09:07:11 | 11:07:11 | idiomas | pc12 | Practica
+1731098 | Valeria  Gutierrez | 3846 | 2017-04-04 | 08:53:53 | 10:53:53 | idiomas | pc13 | Practica
+1734213 | Jhon Arley Espinosa Arango | 3845 | 2017-04-04 | 08:54:17 | 10:54:17 | idiomas | pc15 | Practica
+1725892 | Luis David Fernandez Arboleda | 3845 | 2017-04-04 | 08:32:25 | 10:32:25 | idiomas | pc17 | Practica
+1646000 | Angela Viviana Pechene Camayo | 3846 | 2017-04-04 | 13:28:34 | 15:28:34 | idiomas | pc19 | Practica
+1726997 | CAMILA ANDREA BENITEZ PILLIMUE | 3845 | 2017-04-04 | 09:04:35 | 11:04:35 | idiomas | pc19 | Practica
+1730647 | Leidy Gabriela Escobar López | 3845 | 2017-04-05 | 11:17:47 | 13:17:47 | idiomas | pc01 | Practica
+1736820 | SERGIO DIEZ VANEGAS | 3845 | 2017-04-05 | 13:31:34 | 15:31:34 | idiomas | pc01 | Practica
+1735634 | William José Ibarra Ibañez | 3845 | 2017-04-05 | 13:31:01 | 15:31:01 | idiomas | pc03 | Practica
+1726824 | Lisbeth Andrea Ruiz Gutierrez | 3845 | 2017-04-05 | 13:32:04 | 15:32:04 | idiomas | pc05 | Practica
+1733980 | LUZ ANGELICA AGUIRRE QUINTANA | 3845 | 2017-04-05 | 13:34:56 | 15:34:56 | idiomas | pc07 | Practica
+1724275 | Daniel Felipe Ruiz | 3845 | 2017-04-05 | 13:42:07 | 15:42:07 | idiomas | pc08 | Practica
+1536402 | Angie Jineth Guerra Lopez | 3648 | 2017-04-05 | 14:21:03 | 16:21:03 | idiomas | pc20 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-06 | 17:01:58 | 19:01:58 | idiomas | pc01 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-06 | 08:53:32 | 10:53:32 | idiomas | pc01 | Practica
+1726997 | CAMILA ANDREA BENITEZ PILLIMUE | 3845 | 2017-04-06 | 13:31:48 | 15:31:48 | idiomas | pc01 | Practica
+1536402 | Angie Jineth Guerra Lopez | 3648 | 2017-04-06 | 11:18:14 | 13:18:14 | idiomas | pc03 | Practica
+1735634 | William José Ibarra Ibañez | 3845 | 2017-04-06 | 13:29:42 | 15:29:42 | idiomas | pc03 | Practica
+1730651 | Natalia Dominguez | 3845 | 2017-04-06 | 09:24:59 | 11:24:59 | idiomas | pc03 | Practica
+1641671 | Diego Albeiro Aza Valenzuela | 3648 | 2017-04-06 | 13:53:10 | 15:53:10 | idiomas | pc04 | Practica
+1726997 | CAMILA ANDREA BENITEZ PILLIMUE | 3845 | 2017-04-06 | 09:53:49 | 11:53:49 | idiomas | pc05 | Practica
+1731098 | Valeria  Gutierrez | 3846 | 2017-04-06 | 09:54:18 | 11:54:18 | idiomas | pc07 | Practica
+1735634 | William José Ibarra Ibañez | 3845 | 2017-04-07 | 08:55:41 | 10:55:41 | idiomas | pc01 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-07 | 11:20:32 | 13:20:32 | idiomas | pc03 | Practica
+1536402 | Angie Jineth Guerra Lopez | 3648 | 2017-04-07 | 09:22:48 | 11:22:48 | idiomas | pc03 | Practica
+1643098 | Lana Daniela  Montiel Chacón | 3648 | 2017-04-07 | 09:49:28 | 11:49:28 | idiomas | pc05 | Practica
+1646772 | Nathalia Lopez Alarcon | 3648 | 2017-04-07 | 09:50:04 | 11:50:04 | idiomas | pc07 | Practica
+1643023 | MARIA DE LOS ANGELES VASQUEZ ROJAS | 3648 | 2017-04-17 | 09:42:47 | 11:42:47 | idiomas | pc01 | Practica
+1223333 | ORLANDO  RIVERA ESCOBAR | 3340 | 2017-04-17 | 13:08:48 | 15:08:48 | idiomas | pc01 | Practica
+1643023 | MARIA DE LOS ANGELES VASQUEZ ROJAS | 3648 | 2017-04-17 | 11:22:56 | 13:22:56 | idiomas | pc01 | Practica
+1536402 | Angie Jineth Guerra Lopez | 3648 | 2017-04-17 | 10:13:12 | 12:13:12 | idiomas | pc03 | Practica
+1646772 | Nathalia Lopez Alarcon | 3648 | 2017-04-17 | 13:43:26 | 15:43:26 | idiomas | pc03 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-17 | 13:52:57 | 15:52:57 | idiomas | pc05 | Practica
+1641373 | Adriana Carolina  Muloz Cadena | 3648 | 2017-04-17 | 13:53:29 | 15:53:29 | idiomas | pc07 | Practica
+1644066 | Nathalia  Chamorro Rojas | 3846 | 2017-04-17 | 14:02:02 | 16:02:02 | idiomas | pc08 | Practica
+1642673 | David Mateo Valbuena Palacios | 3648 | 2017-04-18 | 11:20:20 | 13:20:20 | idiomas | pc01 | Practica
+1223333 | ORLANDO  RIVERA ESCOBAR | 3340 | 2017-04-18 | 12:47:02 | 14:47:02 | idiomas | pc01 | MonitorInv
+1731098 | Valeria  Gutierrez | 3846 | 2017-04-18 | 09:30:05 | 11:30:05 | idiomas | pc01 | Practica
+1641671 | Diego Albeiro Aza Valenzuela | 3648 | 2017-04-18 | 14:27:46 | 16:27:46 | idiomas | pc02 | Practica
+1726997 | CAMILA ANDREA BENITEZ PILLIMUE | 3845 | 2017-04-18 | 09:30:44 | 11:30:44 | idiomas | pc03 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-18 | 11:26:46 | 13:26:46 | idiomas | pc03 | Practica
+1644720 | Maria Camila  Maziri Ramirez | 3648 | 2017-04-18 | 13:31:16 | 15:31:16 | idiomas | pc03 | Practica
+1641671 | Diego Albeiro Aza Valenzuela | 3648 | 2017-04-18 | 11:30:17 | 13:30:17 | idiomas | pc05 | Practica
+1644318 | Lizeth Carolina  Parra Orlas | 3648 | 2017-04-18 | 13:31:41 | 15:31:41 | idiomas | pc05 | Practica
+1643023 | MARIA DE LOS ANGELES VASQUEZ ROJAS | 3648 | 2017-04-18 | 11:47:40 | 13:47:40 | idiomas | pc07 | Practica
+1643098 | Lana Daniela  Montiel Chacón | 3648 | 2017-04-18 | 13:32:07 | 15:32:07 | idiomas | pc17 | Practica
+1724275 | Daniel Felipe Ruiz | 3845 | 2017-04-19 | 13:41:56 | 15:41:56 | idiomas | pc01 | Practica
+1729795 | Ingrid Vanessa Montoya Perez | 3845 | 2017-04-19 | 13:42:29 | 15:42:29 | idiomas | pc03 | Practica
+1536402 | Angie Jineth Guerra Lopez | 3648 | 2017-04-19 | 11:40:15 | 13:40:15 | idiomas | pc05 | Practica
+1736820 | SERGIO DIEZ VANEGAS | 3845 | 2017-04-19 | 13:54:17 | 15:54:17 | idiomas | pc05 | Practica
+1729849 | KAREN DANIELA MINA ROMERO | 3846 | 2017-04-19 | 14:01:39 | 16:01:39 | idiomas | pc07 | Practica
+1731098 | Valeria  Gutierrez | 3846 | 2017-04-20 | 13:23:04 | 15:23:04 | idiomas | pc01 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-20 | 11:44:27 | 13:44:27 | idiomas | pc01 | Practica
+1729849 | KAREN DANIELA MINA ROMERO | 3846 | 2017-04-20 | 17:13:58 | 19:13:58 | idiomas | pc01 | Practica
+1736820 | SERGIO DIEZ VANEGAS | 3845 | 2017-04-20 | 14:43:44 | 16:43:44 | idiomas | pc01 | Practica
+1223333 | ORLANDO  RIVERA ESCOBAR | 3340 | 2017-04-20 | 08:58:07 | 10:58:07 | idiomas | pc01 | Practica
+1724275 | Daniel Felipe Ruiz | 3845 | 2017-04-20 | 17:14:33 | 19:14:33 | idiomas | pc03 | Practica
+1730651 | Natalia Dominguez | 3845 | 2017-04-20 | 09:13:40 | 11:13:40 | idiomas | pc03 | Practica
+1733980 | LUZ ANGELICA AGUIRRE QUINTANA | 3845 | 2017-04-20 | 13:39:06 | 15:39:06 | idiomas | pc03 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-20 | 11:43:45 | 13:43:45 | idiomas | pc05 | Practica
+1736820 | SERGIO DIEZ VANEGAS | 3845 | 2017-04-20 | 09:17:13 | 11:17:13 | idiomas | pc05 | Practica
+1731098 | Valeria  Gutierrez | 3846 | 2017-04-20 | 09:36:33 | 11:36:33 | idiomas | pc07 | Practica
+1734213 | Jhon Arley Espinosa Arango | 3845 | 2017-04-20 | 09:36:58 | 11:36:58 | idiomas | pc09 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-20 | 13:41:17 | 15:41:17 | idiomas | pc22 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-21 | 09:45:44 | 11:45:44 | idiomas | pc01 | Practica
+1642686 | Mariana Belalcazar Torres | 3648 | 2017-04-21 | 13:25:43 | 15:25:43 | idiomas | pc01 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-21 | 14:12:38 | 16:12:38 | idiomas | pc03 | Practica
+1643098 | Lana Daniela  Montiel Chacón | 3648 | 2017-04-21 | 09:46:05 | 11:46:05 | idiomas | pc03 | Practica
+1642673 | David Mateo Valbuena Palacios | 3648 | 2017-04-21 | 10:55:47 | 12:55:47 | idiomas | pc03 | Practica
+1646772 | Nathalia Lopez Alarcon | 3648 | 2017-04-21 | 09:46:45 | 11:46:45 | idiomas | pc05 | Practica
+1641671 | Diego Albeiro Aza Valenzuela | 3648 | 2017-04-21 | 09:48:01 | 11:48:01 | idiomas | pc07 | Practica
+1536402 | Angie Jineth Guerra Lopez | 3648 | 2017-04-24 | 08:34:11 | 10:34:11 | idiomas | pc01 | Practica
+1646772 | Nathalia Lopez Alarcon | 3648 | 2017-04-24 | 09:51:39 | 11:51:39 | idiomas | pc01 | Practica
+1536402 | Angie Jineth Guerra Lopez | 3648 | 2017-04-24 | 11:13:29 | 13:13:29 | idiomas | pc01 | Practica
+1223333 | ORLANDO  RIVERA ESCOBAR | 3340 | 2017-04-24 | 13:00:47 | 15:00:47 | idiomas | pc01 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-24 | 11:50:04 | 13:50:04 | idiomas | pc03 | Practica
+1644066 | Nathalia  Chamorro Rojas | 3846 | 2017-04-24 | 09:52:01 | 11:52:01 | idiomas | pc03 | Practica
+1730647 | Leidy Gabriela Escobar López | 3845 | 2017-04-24 | 14:28:13 | 16:28:13 | idiomas | pc05 | Practica
+1643023 | MARIA DE LOS ANGELES VASQUEZ ROJAS | 3648 | 2017-04-24 | 09:55:15 | 11:55:15 | idiomas | pc05 | Practica
+1726997 | CAMILA ANDREA BENITEZ PILLIMUE | 3845 | 2017-04-24 | 14:29:13 | 16:29:13 | idiomas | pc07 | Practica
+1646000 | Angela Viviana Pechene Camayo | 3846 | 2017-04-25 | 12:43:04 | 14:43:04 | idiomas | pc01 | Practica
+1730647 | Leidy Gabriela Escobar López | 3845 | 2017-04-25 | 09:16:15 | 11:16:15 | idiomas | pc01 | Practica
+1730647 | Leidy Gabriela Escobar López | 3845 | 2017-04-25 | 15:44:45 | 17:44:45 | idiomas | pc01 | Practica
+1641346 | Diana Carolina Chalpartar Mora | 3648 | 2017-04-25 | 11:27:48 | 13:27:48 | idiomas | pc01 | Practica
+1730651 | Natalia Dominguez | 3845 | 2017-04-25 | 09:16:39 | 11:16:39 | idiomas | pc03 | Practica
+1646772 | Nathalia Lopez Alarcon | 3648 | 2017-04-25 | 11:28:20 | 13:28:20 | idiomas | pc03 | Practica
+1645341 | Jordy  Ocampo | 3648 | 2017-04-25 | 12:43:19 | 14:43:19 | idiomas | pc03 | Practica
+1644066 | Nathalia  Chamorro Rojas | 3846 | 2017-04-25 | 11:28:52 | 13:28:52 | idiomas | pc05 | Practica
+1734213 | Jhon Arley Espinosa Arango | 3845 | 2017-04-25 | 09:20:32 | 11:20:32 | idiomas | pc05 | Practica
+1731098 | Valeria  Gutierrez | 3846 | 2017-04-25 | 09:24:28 | 11:24:28 | idiomas | pc07 | Practica
+1223333 | ORLANDO  RIVERA ESCOBAR | 3340 | 2017-04-25 | 11:36:41 | 13:36:41 | idiomas | pc07 | Practica
+1643098 | Lana Daniela  Montiel Chacón | 3648 | 2017-04-25 | 13:13:34 | 15:13:34 | idiomas | pc07 | Practica
+1644318 | Lizeth Carolina  Parra Orlas | 3648 | 2017-04-25 | 13:13:54 | 15:13:54 | idiomas | pc17 | Practica
+1726824 | Lisbeth Andrea Ruiz Gutierrez | 3845 | 2017-04-25 | 13:10:54 | 15:10:54 | idiomas | pc19 | Practica
+1641671 | Diego Albeiro Aza Valenzuela | 3648 | 2017-04-25 | 11:50:20 | 13:50:20 | idiomas | pc20 | Practica
+1735634 | William José Ibarra Ibañez | 3845 | 2017-04-25 | 13:11:28 | 15:11:28 | idiomas | pc20 | Practica
+1730647 | Leidy Gabriela Escobar López | 3845 | 2017-04-27 | 08:32:43 | 10:32:43 | idiomas | pc01 | Practica
+1640257 | Daniel Felipe Ortiz Zambrano | 3846 | 2017-04-27 | 13:53:05 | 15:53:05 | idiomas | pc01 | Practica
+1223333 | ORLANDO  RIVERA ESCOBAR | 3340 | 2017-04-27 | 09:37:54 | 11:37:54 | idiomas | pc01 | Practica
+1730651 | Natalia Dominguez | 3845 | 2017-04-27 | 08:33:10 | 10:33:10 | idiomas | pc03 | Practica
+1644066 | Nathalia  Chamorro Rojas | 3846 | 2017-04-27 | 11:31:14 | 13:31:14 | idiomas | pc03 | Practica
+1641671 | Diego Albeiro Aza Valenzuela | 3648 | 2017-04-27 | 13:53:31 | 15:53:31 | idiomas | pc03 | Practica
+1731098 | Valeria  Gutierrez | 3846 | 2017-04-27 | 08:36:54 | 10:36:54 | idiomas | pc04 | Practica
+1733980 | LUZ ANGELICA AGUIRRE QUINTANA | 3845 | 2017-04-27 | 08:33:29 | 10:33:29 | idiomas | pc05 | Practica
+1642686 | Mariana Belalcazar Torres | 3648 | 2017-04-27 | 13:59:54 | 15:59:54 | idiomas | pc05 | Practica
+1646772 | Nathalia Lopez Alarcon | 3648 | 2017-04-27 | 11:31:33 | 13:31:33 | idiomas | pc05 | Practica
+1731737 | MARIA CAMILA MORENO GOMEZ | 3846 | 2017-04-27 | 08:34:00 | 10:34:00 | idiomas | pc07 | Practica
+1725892 | Luis David Fernandez Arboleda | 3845 | 2017-04-27 | 08:34:21 | 10:34:21 | idiomas | pc09 | Practica
+1735634 | William José Ibarra Ibañez | 3845 | 2017-04-27 | 08:34:51 | 10:34:51 | idiomas | pc13 | Practica
+1726824 | Lisbeth Andrea Ruiz Gutierrez | 3845 | 2017-04-27 | 08:35:12 | 10:35:12 | idiomas | pc15 | Practica
+1729849 | KAREN DANIELA MINA ROMERO | 3846 | 2017-04-27 | 08:35:57 | 10:35:57 | idiomas | pc17 | Practica
+1734213 | Jhon Arley Espinosa Arango | 3845 | 2017-04-27 | 08:36:31 | 10:36:31 | idiomas | pc19 | Practica
+
+

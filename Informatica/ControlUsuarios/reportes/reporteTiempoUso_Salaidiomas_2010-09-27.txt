@@ -1,0 +1,19 @@
+Elaborado el... 27 de Septiembre de 2010
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0024408 | Julian Andres Montoya MuÑoz | 3845 | 01:02:05
+0125870 | Andres Yecid Ordoñez Ortiz | 3846 | 00:55:53
+0734138 | Johana Andrea Correa Montes | 3845 | 01:49:11
+0745220 | Mavel Ramos | 3841 | 01:05:15
+0828225 | Patricia Valencia Charria | 3845 | 01:26:56
+0840626 | Vanessa  Gomez | 3646 | 01:27:15
+0926625 | Leidy Yolanda Tates Escobar | 3842 | 01:19:31
+1010105 | Elizabeth Carolina Tobar Gil | 3846 | 01:17:32
+1025092 | Danilo Esteban Aristizabal Giraldo | 3841 | 00:53:48
+1025825 | Oscar Alberto Lopez Lopez | 3857 | 00:52:28
+1026731 | John Rodrigo  Muñoz Largo | 3841 | 01:08:52
+9205617 | Maria Fernanda Ortiz OrdoÑez | 3845 | 01:56:18
+9222342 | Ramiro Mendoza Manrique | 3845 | 01:49:52
+
+

@@ -1,0 +1,28 @@
+Elaborado el... 27 de Agosto de 2010
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0842021 | Lizeth Johana Montenegro Suarez | 3857 | 00:25:29
+1024540 | Julian David Quiñones | 3857 | 01:23:51
+1025749 | Ana Rocio Rubio Guevara | 3857 | 01:24:15
+1025825 | Oscar Alberto Lopez Lopez | 3857 | 00:44:34
+1032639 | Luis Fernando Motato Castrillon | 3857 | 01:59:44
+1036039 | Gustavo Andres Soriano Guerrero | 3857 | 01:59:33
+1038514 | Diana Marcela Garces Gonzales | 3846 | 00:27:23
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 02:06:14
+
+
+Elaborado el... 27 de Agosto de 2010
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0842021 | Lizeth Johana Montenegro Suarez | 3857 | 00:25:29
+1024540 | Julian David Quiñones | 3857 | 01:23:51
+1025749 | Ana Rocio Rubio Guevara | 3857 | 01:24:15
+1025825 | Oscar Alberto Lopez Lopez | 3857 | 00:44:34
+1032639 | Luis Fernando Motato Castrillon | 3857 | 01:59:44
+1036039 | Gustavo Andres Soriano Guerrero | 3857 | 01:59:33
+1038514 | Diana Marcela Garces Gonzales | 3846 | 00:27:23
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 02:06:14
+
+

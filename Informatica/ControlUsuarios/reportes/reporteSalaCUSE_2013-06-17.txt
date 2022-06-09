@@ -1,0 +1,279 @@
+Elaborado el... 2013-06-17
+Mes: 1 de Junio de 2013 al 30 de Junio de 2013
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+0957237 | Victor Hugo Guevara Suarez | 3846 | 2013-06-01 | 08:38:28 | 09:38:28 | CUSE | pc17 | Investigacion
+1025933 | jose luis campo mazorra | 3857 | 2013-06-01 | 14:54:07 | 15:54:07 | CUSE | pc17 |  
+0932597 | Jenifer Johana Ramirez Montaño | 3846 | 2013-06-01 | 08:37:51 | 09:37:51 | CUSE | pc18 | Investigacion
+0839989 | JULIAN ANDRES  MARTINEZ MOSQUERA | 3845 | 2013-06-01 | 14:34:21 | 15:34:21 | CUSE | pc18 |  
+0839573 | Jose Manuel velasco Gonzalez | 3845 | 2013-06-01 | 10:40:10 | 11:40:10 | CUSE | pc19 | Investigacion
+0024267 | olga lucia RAMIREZ GOMEZ | 3841 | 2013-06-01 | 15:37:03 | 16:37:03 | CUSE | pc19 |  
+0841338 | MAYRA ALEJANDRA BARBOSA OSPINA | 3845 | 2013-06-01 | 10:24:49 | 11:24:49 | CUSE | pc20 | Investigacion
+0853364 | DIANA CAROLINA DUQUE CAMPO | 3846 | 2013-06-01 | 15:36:52 | 16:36:52 | CUSE | pc20 |  
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2013-06-01 | 09:35:48 | 10:35:48 | CUSE | pc21 | Investigacion
+1210074 | Gerardo Antonio Rincon Castillo | 3647 | 2013-06-01 | 07:23:18 | 08:23:18 | CUSE | pc21 | Investigacion
+0957237 | Victor Hugo Guevara Suarez | 3846 | 2013-06-01 | 08:23:02 | 09:23:02 | CUSE | pc21 | Investigacion
+1025348 | Sergio Alejandro Delgado Amaya | 3857 | 2013-06-01 | 14:33:38 | 15:33:38 | CUSE | pc21 |  
+1025933 | jose luis campo mazorra | 3857 | 2013-06-01 | 14:17:16 | 15:17:16 | CUSE | pc22 |  
+0825541 | LUCERO BEJARANO CORREA | 3842 | 2013-06-01 | 08:33:02 | 09:33:02 | CUSE | pc22 | Investigacion
+0924587 | William Arboleda Quinayas | 3845 | 2013-06-01 | 09:50:29 | 10:50:29 | CUSE | pc22 | Investigacion
+1052776 | Laura Vanessa Gaitan Velez | 3845 | 2013-06-01 | 08:27:03 | 09:27:03 | CUSE | pc23 | Investigacion
+0738359 | Mauricio Ernesto MEDINA GONZALEZ | 3845 | 2013-06-01 | 09:59:44 | 10:59:44 | CUSE | pc23 | Investigacion
+0839957 | Maria del Pilar Godoy Escobar | 3845 | 2013-06-01 | 09:54:20 | 10:54:20 | CUSE | pc24 | Investigacion
+0747876 | carlos andres popo arce | 3842 | 2013-06-01 | 14:53:50 | 15:53:50 | CUSE | pc24 |  
+1228723 | Yeison Benito Millan Restrepo | 3845 | 2013-06-01 | 10:08:32 | 11:08:32 | CUSE | pc25 | Investigacion
+1146801 | Fransirley Gonzales Jaramillo | 2636 | 2013-06-01 | 08:02:30 | 09:02:30 | CUSE | pc25 | Investigacion
+0859313 | NATALIA GOMEZ CEBALLOS | 3846 | 2013-06-01 | 09:22:47 | 10:22:47 | CUSE | pc25 | Investigacion
+1127348 | diana francisca asprilla palacios | 3846 | 2013-06-01 | 09:38:36 | 10:38:36 | CUSE | pc25 |  
+0844139 | KAROL ENITH URIBE BENAVIDEZ | 3845 | 2013-06-01 | 07:11:33 | 08:11:33 | CUSE | pc25 | Investigacion
+0923697 | Helberth Pardo Gomez | 3845 | 2013-06-01 | 08:33:20 | 09:33:20 | CUSE | pc26 | Investigacion
+0924130 | JACKELINE ALEXANDRA ARIAS PERAFAN | 3841 | 2013-06-01 | 09:30:55 | 10:30:55 | CUSE | pc26 | Investigacion
+0939313 | Gina Garcia | 3842 | 2013-06-01 | 15:06:38 | 16:06:38 | CUSE | pc28 |  
+1243647 | BERTHA RUTH CAVIEDES GOMEZ | 3857 | 2013-06-04 | 15:41:15 | 16:41:15 | CUSE | pc02 | Investigacion
+1110332 | FABIO ANDRES ORREGO ALVAREZ | 3842 | 2013-06-04 | 14:48:55 | 15:48:55 | CUSE | pc05 | Investigacion
+1228900 | ESTIBEN PLAZAS MUÑOZ | 3845 | 2013-06-04 | 17:38:26 | 18:38:26 | CUSE | pc05 | Investigacion
+1133217 | Alexandra Largo Daraviña | 3845 | 2013-06-04 | 15:37:55 | 16:37:55 | CUSE | pc05 | Investigacion
+0843327 | Nasly Melisa Rodriguez Fuentes | 3841 | 2013-06-04 | 14:48:41 | 15:48:41 | CUSE | pc06 | Investigacion
+1238131 | PAULA ANDREA  BASTIDAS AGUDELO  | 2635 | 2013-06-04 | 17:26:23 | 18:26:23 | CUSE | pc06 | Investigacion
+1127180 | Heriberto Garcia Becerra | 3845 | 2013-06-04 | 15:37:42 | 16:37:42 | CUSE | pc06 | Investigacion
+0843869 | steven andres BOLAÑOS AQUITE | 3842 | 2013-06-04 | 17:55:41 | 18:55:41 | CUSE | pc07 | Investigacion
+0626309 | DIANA LORENA RúGELES LóPEZ | 3841 | 2013-06-04 | 18:00:05 | 19:00:05 | CUSE | pc08 | Investigacion
+1024388 | Sebastian Murillo Chilatra | 3845 | 2013-06-04 | 15:38:22 | 16:38:22 | CUSE | pc09 | Investigacion
+1031956 | ERLENDY IBARBO PERLAZA | 3857 | 2013-06-04 | 14:34:27 | 15:34:27 | CUSE | pc09 | Investigacion
+0747337 | yully vanessa  bonilla carrillo  | 3648 | 2013-06-04 | 15:32:21 | 16:32:21 | CUSE | pc09 | Investigacion
+1146801 | Fransirley Gonzales Jaramillo | 2636 | 2013-06-04 | 15:30:27 | 16:30:27 | CUSE | pc10 | Investigacion
+1036892 | LIZETH ANDREA TUNUBALA SANCHEZ  | 3857 | 2013-06-04 | 14:34:39 | 15:34:39 | CUSE | pc10 | Investigacion
+0944313 | Jhoan Manuel  Sinisterra Galindo | 2635 | 2013-06-04 | 14:57:39 | 15:57:39 | CUSE | pc12 | Investigacion
+1243501 | LUZ KARINE JARAMILLO RODRIGUEZ  | 2635 | 2013-06-04 | 16:50:21 | 17:50:21 | CUSE | pc13 | Investigacion
+1037434 | Angela Maria Balanta Fory | 3842 | 2013-06-04 | 17:01:04 | 18:01:04 | CUSE | pc13 | Investigacion
+0731775 | JOSE LUIS NARANJO RIASCOS | 3845 | 2013-06-04 | 11:15:33 | 12:15:33 | CUSE | pc13 | Investigacion
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2013-06-04 | 14:31:22 | 15:31:22 | CUSE | pc13 | Investigacion
+1037283 | Jorge Fernandez Gallego | 3842 | 2013-06-04 | 16:12:03 | 17:12:03 | CUSE | pc14 | Investigacion
+1237212 | WILL FREDO GARCIA | 3842 | 2013-06-04 | 16:23:50 | 17:23:50 | CUSE | pc14 | Investigacion
+1226258 | Juan David Ortiz Zapata | 3845 | 2013-06-04 | 18:04:48 | 19:04:48 | CUSE | pc14 | Investigacion
+0933500 | Jhon Freddy Menza Pavi | 3842 | 2013-06-04 | 11:14:51 | 12:14:51 | CUSE | pc15 | Investigacion
+0955498 | MAYRA ALEJANDRA OROZCO VALDES | 3846 | 2013-06-04 | 11:47:07 | 12:47:07 | CUSE | pc15 | Investigacion
+1026384 | veronica zapata | 2635 | 2013-06-04 | 16:37:14 | 17:37:14 | CUSE | pc15 | Investigacion
+0924754 | Venus Flor Marina Carvajal Ordoñez | 3845 | 2013-06-04 | 11:26:02 | 12:26:02 | CUSE | pc16 | Investigacion
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2013-06-04 | 14:34:54 | 15:34:54 | CUSE | pc16 | Investigacion
+0937124 | paola andrea ibarra puentes | 3846 | 2013-06-04 | 10:28:32 | 11:28:32 | CUSE | pc17 | Investigacion
+0738849 | diane carolina sabogal londoño | 3647 | 2013-06-04 | 15:18:56 | 16:18:56 | CUSE | pc17 | Investigacion
+1229812 | Natalia Eugenia Zambrano Valencia | 3841 | 2013-06-04 | 14:17:06 | 15:17:06 | CUSE | pc17 | Investigacion
+0923697 | Helberth Pardo Gomez | 3845 | 2013-06-04 | 17:24:06 | 18:24:06 | CUSE | pc18 | Investigacion
+1143811 | Melissa Alegrias Cambindo | 3842 | 2013-06-04 | 14:24:16 | 15:24:16 | CUSE | pc18 | Investigacion
+0940134 | DAVID ESTEBAN RINCON JARAMILLO | 3842 | 2013-06-04 | 16:11:29 | 17:11:29 | CUSE | pc18 | Investigacion
+1127180 | Heriberto Garcia Becerra | 3845 | 2013-06-04 | 15:05:35 | 16:05:35 | CUSE | pc18 | Investigacion
+0940472 | CRISTIAN CAMILIO HIO QUINTO | 2635 | 2013-06-04 | 15:40:11 | 16:40:11 | CUSE | pc18 | Investigacion
+0934549 | yasnaiar marin arango | 3846 | 2013-06-04 | 10:28:46 | 11:28:46 | CUSE | pc18 | Investigacion
+0827358 | LUIS FERNANDO QUENGUAN OCAMPO | 3841 | 2013-06-04 | 17:02:18 | 18:02:18 | CUSE | pc19 | Investigacion
+0937124 | paola andrea ibarra puentes | 3846 | 2013-06-04 | 14:15:21 | 15:15:21 | CUSE | pc19 | Investigacion
+0826577 | Julian dvaid Bedoya Andrade | 3846 | 2013-06-04 | 10:58:11 | 11:58:11 | CUSE | pc20 | Investigacion
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 2013-06-04 | 16:43:15 | 17:43:15 | CUSE | pc20 | Investigacion
+0826577 | Julian dvaid Bedoya Andrade | 3846 | 2013-06-04 | 14:14:31 | 15:14:31 | CUSE | pc21 | Investigacion
+1243491 | Luis Alfredo Muelas Vitonas | 3846 | 2013-06-04 | 16:39:55 | 17:39:55 | CUSE | pc21 | Investigacion
+1143811 | Melissa Alegrias Cambindo | 3842 | 2013-06-04 | 10:16:27 | 11:16:27 | CUSE | pc21 | Investigacion
+0940134 | DAVID ESTEBAN RINCON JARAMILLO | 3842 | 2013-06-04 | 10:32:45 | 11:32:45 | CUSE | pc22 | Investigacion
+0839957 | Maria del Pilar Godoy Escobar | 3845 | 2013-06-04 | 16:57:35 | 17:57:35 | CUSE | pc22 | Investigacion
+0933117 | Eduar Mauricio Otero G | 3846 | 2013-06-04 | 15:04:01 | 16:04:01 | CUSE | pc22 | Investigacion
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 2013-06-04 | 14:14:20 | 15:14:20 | CUSE | pc22 | Investigacion
+9117150 | Ricardo Cuero Ruiz | 3845 | 2013-06-04 | 18:02:10 | 19:02:10 | CUSE | pc23 | Investigacion
+0844249 | PAOLA ANDREA IBARGUEN MOSQUERA | 3842 | 2013-06-04 | 14:57:03 | 15:57:03 | CUSE | pc23 | Investigacion
+1137096 | Vanessa Tatiana Rivera Samboni | 3842 | 2013-06-04 | 10:09:01 | 11:09:01 | CUSE | pc23 | Investigacion
+1235087 | MONICA ANDREA GURRUTE CALAMBAS | 3846 | 2013-06-04 | 14:27:40 | 15:27:40 | CUSE | pc23 | Investigacion
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2013-06-04 | 15:50:09 | 16:50:09 | CUSE | pc24 | Investigacion
+1025996 | KARINA VALLEJO VALDERRAMA | 2635 | 2013-06-04 | 16:12:20 | 17:12:20 | CUSE | pc24 | Investigacion
+0824680 | WILLIAM DRADA CASTAÑO | 3845 | 2013-06-04 | 17:13:14 | 18:13:14 | CUSE | pc24 | Investigacion
+1126750 | Jorge Ivan MARTINEZ MEJIA | 3845 | 2013-06-04 | 18:06:25 | 19:06:25 | CUSE | pc24 | Investigacion
+1147250 | Jessica Urbano Valdez | 3842 | 2013-06-04 | 10:08:31 | 11:08:31 | CUSE | pc24 | Investigacion
+1023649 | jeison andres escobar taborda | 3845 | 2013-06-04 | 17:08:41 | 18:08:41 | CUSE | pc25 | Investigacion
+0932073 | Diana Marcela Pantoja Diaz | 3846 | 2013-06-04 | 10:51:35 | 11:51:35 | CUSE | pc25 | Investigacion
+0937593 | tatiana alexandra rubio ruiz | 3846 | 2013-06-04 | 09:53:34 | 10:53:34 | CUSE | pc25 | Investigacion
+0743658 | ALIRIO RIVERA RIVERA | 3846 | 2013-06-04 | 10:22:25 | 11:22:25 | CUSE | pc26 | Investigacion
+1138752 | Falmy Andres Urbano Moreno | 3857 | 2013-06-04 | 14:29:20 | 15:29:20 | CUSE | pc26 | Investigacion
+0932359 | GIZELLE ASTORQUIZA TRUJILLO | 3846 | 2013-06-04 | 10:51:46 | 11:51:46 | CUSE | pc26 | Investigacion
+0932669 | Zuñiga Muñoz  Yulieth Alexandra | 3645 | 2013-06-04 | 14:32:46 | 15:32:46 | CUSE | pc26 | Investigacion
+1137390 | Diana Lizeth Rangel Bravo | 3842 | 2013-06-04 | 09:58:08 | 10:58:08 | CUSE | pc28 | Investigacion
+0935043 | Lina Maria Bonilla Mejia | 2222 | 2013-06-05 | 11:30:17 | 12:30:17 | CUSE | pc01 | Investigacion
+1135478 | Marlyn  Florez Palma | 3842 | 2013-06-05 | 16:39:00 | 17:39:00 | CUSE | pc01 |  
+1025684 | martinez serrato marcela | 3857 | 2013-06-05 | 11:30:31 | 12:30:31 | CUSE | pc02 | Investigacion
+1035301 | maria de la paz fonseca florido | 3846 | 2013-06-05 | 16:55:21 | 17:55:21 | CUSE | pc02 |  
+1225136 | Cristian Jaramillo Valencia | 3845 | 2013-06-05 | 11:13:30 | 12:13:30 | CUSE | pc02 | Investigacion
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2013-06-05 | 16:26:04 | 17:26:04 | CUSE | pc04 |  
+1244674 | Jhon Jader  Bedoya Abanis | 3842 | 2013-06-05 | 12:33:29 | 13:33:29 | CUSE | pc05 | Investigacion
+1144000 | Diego Fernando Cuellar Palacios | 3842 | 2013-06-05 | 16:20:51 | 17:20:51 | CUSE | pc05 |  
+1237367 | Bryan Geobany Vivas Trochez | 3842 | 2013-06-05 | 12:33:51 | 13:33:51 | CUSE | pc06 | Investigacion
+0944141 | jhonatan  reyes rosero | 3846 | 2013-06-05 | 10:16:28 | 11:16:28 | CUSE | pc06 | Investigacion
+1139447 | Jhon Alexander Perez Vezga | 3857 | 2013-06-05 | 15:41:37 | 16:41:37 | CUSE | pc08 |  
+1024388 | Sebastian Murillo Chilatra | 3845 | 2013-06-05 | 15:59:25 | 16:59:25 | CUSE | pc09 |  
+0933117 | Eduar Mauricio Otero G | 3846 | 2013-06-05 | 09:49:10 | 10:49:10 | CUSE | pc09 | Investigacion
+0939178 | brian steven mesa acosta | 3846 | 2013-06-05 | 09:48:51 | 10:48:51 | CUSE | pc10 | Investigacion
+1035233 | CRISTIAN EDWARD GIRALDO HOYOS | 3857 | 2013-06-05 | 14:33:59 | 15:33:59 | CUSE | pc11 |  
+1235704 | LEIDY YULIANA CARO LOPEZ | 3857 | 2013-06-05 | 11:29:33 | 12:29:33 | CUSE | pc11 | Investigacion
+1146149 | JUAN GABRIEL  PRADO RAMIREZ | 3842 | 2013-06-05 | 10:25:02 | 11:25:02 | CUSE | pc11 | Investigacion
+1135478 | Marlyn  Florez Palma | 3842 | 2013-06-05 | 10:24:51 | 11:24:51 | CUSE | pc12 | Investigacion
+0924754 | Venus Flor Marina Carvajal Ordoñez | 3845 | 2013-06-05 | 08:07:50 | 09:07:50 | CUSE | pc13 | Investigacion
+0827297 | luz mery  hoyos mejia | 3842 | 2013-06-05 | 15:21:46 | 16:21:46 | CUSE | pc13 |  
+0837268 | CANDY MARCELA ORTEGA CAÑAR | 3846 | 2013-06-05 | 10:15:53 | 11:15:53 | CUSE | pc14 | Investigacion
+0944141 | jhonatan  reyes rosero | 3846 | 2013-06-05 | 14:21:42 | 15:21:42 | CUSE | pc14 |  
+0843099 | Diana Marcela Rivera Jimenez | 3846 | 2013-06-05 | 15:30:17 | 16:30:17 | CUSE | pc15 |  
+1044235 | Tatiana Lorena Clavijo Martínez | 3647 | 2013-06-05 | 09:38:24 | 10:38:24 | CUSE | pc15 | Investigacion
+1135478 | Marlyn  Florez Palma | 3842 | 2013-06-05 | 11:24:36 | 12:24:36 | CUSE | pc15 | Investigacion
+1044462 | Lorena Muñoz Arredondo | 3647 | 2013-06-05 | 09:37:48 | 10:37:48 | CUSE | pc16 | Investigacion
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2013-06-05 | 11:11:58 | 12:11:58 | CUSE | pc16 | Investigacion
+1227890 | MARIA ANDREA LOPEZ CASAS | 3845 | 2013-06-05 | 14:13:12 | 15:13:12 | CUSE | pc16 |  
+1040446 | yhensy liceth zuluaga | 3647 | 2013-06-05 | 09:37:24 | 10:37:24 | CUSE | pc17 | Investigacion
+1135475 | Jhon lenerth  Chavez Roman  | 3846 | 2013-06-05 | 15:19:34 | 16:19:34 | CUSE | pc17 |  
+1137583 | Adriano Esteban Rosero grijalba | 3846 | 2013-06-05 | 14:13:42 | 15:13:42 | CUSE | pc18 |  
+1040762 | NATHALY RUIZ TORRES | 3846 | 2013-06-05 | 09:59:42 | 10:59:42 | CUSE | pc18 | Investigacion
+0936005 | alex fernando diaz munoz | 3842 | 2013-06-05 | 10:23:41 | 11:23:41 | CUSE | pc19 | Investigacion
+1143245 | Luis Hernando beltran Narvaez | 3651 | 2013-06-05 | 09:55:57 | 10:55:57 | CUSE | pc19 | Investigacion
+0638278 | SILENE ARCE ROMERO | 3846 | 2013-06-05 | 14:10:17 | 15:10:17 | CUSE | pc19 |  
+0937593 | tatiana alexandra rubio ruiz | 3846 | 2013-06-05 | 08:34:36 | 09:34:36 | CUSE | pc19 | Investigacion
+0935043 | Lina Maria Bonilla Mejia | 2222 | 2013-06-05 | 09:35:20 | 10:35:20 | CUSE | pc20 | Investigacion
+0838311 | isabel cristina  romero escobar | 3842 | 2013-06-05 | 10:23:26 | 11:23:26 | CUSE | pc20 | Investigacion
+0837268 | CANDY MARCELA ORTEGA CAÑAR | 3846 | 2013-06-05 | 14:09:58 | 15:09:58 | CUSE | pc20 |  
+1236231 | CAROLINA HOLGUIN GARCIA | 3841 | 2013-06-05 | 08:01:43 | 09:01:43 | CUSE | pc21 | Investigacion
+1236299 | Daniela Del Pilar Arena Estupiñan | 3842 | 2013-06-05 | 08:36:56 | 09:36:56 | CUSE | pc21 | Investigacion
+0827794 | Jesús Santos Viveros | 3846 | 2013-06-05 | 09:31:32 | 10:31:32 | CUSE | pc21 | Investigacion
+0744755 | ELIZABETH  FLECHAS TORRES | 3648 | 2013-06-05 | 12:19:55 | 13:19:55 | CUSE | pc22 | Investigacion
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2013-06-05 | 08:54:46 | 09:54:46 | CUSE | pc22 | Investigacion
+0832835 | Cristian MUÑOZ MORALES | 3846 | 2013-06-05 | 14:15:27 | 15:15:27 | CUSE | pc22 |  
+1242719 | Ronald Steven Peña Dominguez | 3857 | 2013-06-05 | 10:08:31 | 11:08:31 | CUSE | pc22 | Investigacion
+1150908 | Shamar Padridin Gomez | 3846 | 2013-06-05 | 09:34:52 | 10:34:52 | CUSE | pc22 | Investigacion
+0839239 | Laura Garzon Gallego | 3651 | 2013-06-05 | 09:17:31 | 10:17:31 | CUSE | pc23 | Investigacion
+0926016 | JHON EDWARD GOMEZ ZUÑIGA | 3841 | 2013-06-05 | 10:39:13 | 11:39:13 | CUSE | pc23 | Investigacion
+1245405 | Damaris  Torres Gallego | 3857 | 2013-06-05 | 07:46:51 | 08:46:51 | CUSE | pc23 | Investigacion
+1024444 | Andres Mauricio Mendez | 3845 | 2013-06-05 | 07:41:42 | 08:41:42 | CUSE | pc24 | Investigacion
+0843739 | LUIS CARLOS CABRERA NARVAEZ | 3846 | 2013-06-05 | 16:46:36 | 17:46:36 | CUSE | pc24 |  
+0940134 | DAVID ESTEBAN RINCON JARAMILLO | 3842 | 2013-06-05 | 09:09:59 | 10:09:59 | CUSE | pc24 | Investigacion
+0840763 | jonathan  Jaimes Ortega | 3842 | 2013-06-05 | 07:14:09 | 08:14:09 | CUSE | pc25 | Investigacion
+1024881 | oscar andres muñoz ceron | 3857 | 2013-06-05 | 12:41:21 | 13:41:21 | CUSE | pc25 | Investigacion
+1241313 | LEYDI MARCELA LUNA ACOSTA | 3842 | 2013-06-05 | 08:11:36 | 09:11:36 | CUSE | pc25 | Investigacion
+1242515 | Alejandro  Castellanos Solis  | 3842 | 2013-06-05 | 12:15:18 | 13:15:18 | CUSE | pc25 | Investigacion
+1040896 | santiago changuedo barona | 3846 | 2013-06-05 | 07:46:35 | 08:46:35 | CUSE | pc25 | Investigacion
+1225323 | Yesica Alejandra OJEDA MARTINEZ | 3845 | 2013-06-05 | 15:53:17 | 16:53:17 | CUSE | pc25 |  
+0842181 | Ana Maria Castillo Correa | 3842 | 2013-06-05 | 09:10:36 | 10:10:36 | CUSE | pc25 | Investigacion
+0731775 | JOSE LUIS NARANJO RIASCOS | 3845 | 2013-06-05 | 09:54:48 | 10:54:48 | CUSE | pc26 | Investigacion
+1032108 | Alvaro Andres Perez | 3660 | 2013-06-05 | 08:23:50 | 09:23:50 | CUSE | pc26 | Investigacion
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 2013-06-05 | 11:35:18 | 12:35:18 | CUSE | pc26 | Investigacion
+1242344 | Yesica Johanna Araujo Guanaran | 3857 | 2013-06-05 | 11:50:48 | 12:50:48 | CUSE | pc26 | Investigacion
+0823228 | ISABELA BRAVO ORDOÑEZ | 3842 | 2013-06-05 | 07:36:33 | 08:36:33 | CUSE | pc26 | Investigacion
+1240840 | Julieth Sofìa Alarcon Garcia | 3842 | 2013-06-05 | 12:32:22 | 13:32:22 | CUSE | pc26 | Investigacion
+1133217 | Alexandra Largo Daraviña | 3845 | 2013-06-05 | 15:21:58 | 16:21:58 | CUSE | pc26 |  
+0940472 | CRISTIAN CAMILIO HIO QUINTO | 2635 | 2013-06-05 | 14:17:07 | 15:17:07 | CUSE | pc28 |  
+1137390 | Diana Lizeth Rangel Bravo | 3842 | 2013-06-05 | 08:59:35 | 09:59:35 | CUSE | pc28 | Investigacion
+0638278 | SILENE ARCE ROMERO | 3846 | 2013-06-05 | 10:48:26 | 11:48:26 | CUSE | pc28 | Investigacion
+1138700 | Claudia PAtricia Rodriguez Fernandez | 3842 | 2013-06-06 | 17:31:00 | 18:31:00 | CUSE | pc06 | Investigacion
+0944320 | LEYDI MAYIBE ORTEGA | 3648 | 2013-06-06 | 17:04:20 | 18:04:20 | CUSE | pc10 | Investigacion
+1023957 | FRANK DAVID URIBE CATRO | 2635 | 2013-06-06 | 17:10:05 | 18:10:05 | CUSE | pc13 | Investigacion
+1227324 | Cristhian Humberto Hernandez Erazo  | 3845 | 2013-06-06 | 16:53:39 | 17:53:39 | CUSE | pc14 | Investigacion
+0838311 | isabel cristina  romero escobar | 3842 | 2013-06-06 | 10:53:09 | 11:53:09 | CUSE | pc14 | Investigacion
+1127701 | Kelly Gomez Muñoz | 3841 | 2013-06-06 | 17:12:05 | 18:12:05 | CUSE | pc15 | Investigacion
+0843385 | Ana Maria  Jaramillo Cuadrado | 3648 | 2013-06-06 | 11:44:01 | 12:44:01 | CUSE | pc15 | Investigacion
+0940134 | DAVID ESTEBAN RINCON JARAMILLO | 3842 | 2013-06-06 | 10:42:16 | 11:42:16 | CUSE | pc16 | Investigacion
+1024461 | Jose Guido Aroca Gaviria | 3845 | 2013-06-06 | 17:27:53 | 18:27:53 | CUSE | pc16 | Investigacion
+1245392 | Eider Andres  Tenorio Angulo  | 3846 | 2013-06-06 | 17:08:22 | 18:08:22 | CUSE | pc17 | Investigacion
+1230373 | Juan Sebastian Barbosa Fernandez | 3845 | 2013-06-06 | 18:15:26 | 19:15:26 | CUSE | pc17 | Investigacion
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2013-06-06 | 16:41:01 | 17:41:01 | CUSE | pc18 | Investigacion
+0839957 | Maria del Pilar Godoy Escobar | 3845 | 2013-06-06 | 16:44:20 | 17:44:20 | CUSE | pc19 | Investigacion
+1024388 | Sebastian Murillo Chilatra | 3845 | 2013-06-06 | 11:20:17 | 12:20:17 | CUSE | pc19 | Investigacion
+0944313 | Jhoan Manuel  Sinisterra Galindo | 2635 | 2013-06-06 | 11:17:41 | 12:17:41 | CUSE | pc20 | Investigacion
+1228900 | ESTIBEN PLAZAS MUÑOZ | 3845 | 2013-06-06 | 17:02:55 | 18:02:55 | CUSE | pc20 | Investigacion
+1036895 | KATHERIN ADRANA CAMRGO CETINA | 3857 | 2013-06-06 | 10:25:26 | 11:25:26 | CUSE | pc21 | Investigacion
+1241025 | Daniela Rogelis Gomez | 3857 | 2013-06-06 | 11:54:40 | 12:54:40 | CUSE | pc21 | Investigacion
+9222342 | ramiro mendoza manrique | 3845 | 2013-06-06 | 16:55:26 | 17:55:26 | CUSE | pc21 | Investigacion
+0938027 | Luis Eduardo Muñoz Rayo | 3660 | 2013-06-06 | 12:40:40 | 13:40:40 | CUSE | pc22 | Investigacion
+1038514 | Diana Marcela Garces Gonzales | 3846 | 2013-06-06 | 10:40:49 | 11:40:49 | CUSE | pc22 | Investigacion
+1228429 | Diana Marcela Rivera Perdomo | 3845 | 2013-06-06 | 18:08:42 | 19:08:42 | CUSE | pc22 | Investigacion
+0740426 | JOSE ANDRES BARRANTES CRUZ | 3841 | 2013-06-06 | 16:37:35 | 17:37:35 | CUSE | pc22 | Investigacion
+1241949 | Nahum Felipe Ospina Bocanegra | 3857 | 2013-06-06 | 12:00:01 | 13:00:01 | CUSE | pc23 | Investigacion
+1227952 | Mariana Gomez Vasquez | 3752 | 2013-06-06 | 16:36:12 | 17:36:12 | CUSE | pc24 | Investigacion
+0625470 | ANGIE LUGMAñA NARVAEZ | 3842 | 2013-06-06 | 10:30:18 | 11:30:18 | CUSE | pc24 | Investigacion
+0838311 | isabel cristina  romero escobar | 3842 | 2013-06-06 | 16:45:38 | 17:45:38 | CUSE | pc25 | Investigacion
+1143811 | Melissa Alegrias Cambindo | 3842 | 2013-06-06 | 11:02:24 | 12:02:24 | CUSE | pc25 | Investigacion
+0828370 | SEBASTIAN  VARGAS PEÑA | 3846 | 2013-06-06 | 16:54:32 | 17:54:32 | CUSE | pc26 | Investigacion
+1125824 | Alejandra FLOREZ GONZALEZ | 3845 | 2013-06-06 | 11:29:05 | 12:29:05 | CUSE | pc26 | Investigacion
+1238131 | PAULA ANDREA  BASTIDAS AGUDELO  | 2635 | 2013-06-06 | 16:41:54 | 17:41:54 | CUSE | pc26 | Investigacion
+0827594 | Angelica María Marín Hincapie | 3842 | 2013-06-06 | 11:53:19 | 12:53:19 | CUSE | pc28 | Investigacion
+1135475 | Jhon lenerth  Chavez Roman  | 3846 | 2013-06-06 | 17:03:10 | 18:03:10 | CUSE | pc28 | Investigacion
+0934265 | Astrid Carolina Silva | 3842 | 2013-06-07 | 09:33:45 | 10:33:45 | CUSE | pc01 | Investigacion
+0957237 | Victor Hugo Guevara Suarez | 3846 | 2013-06-07 | 09:45:58 | 10:45:58 | CUSE | pc02 | Investigacion
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 2013-06-07 | 09:33:13 | 10:33:13 | CUSE | pc05 | Investigacion
+0933550 | piedad  ortiz viveros  | 3846 | 2013-06-07 | 09:33:24 | 10:33:24 | CUSE | pc06 | Investigacion
+1135478 | Marlyn  Florez Palma | 3842 | 2013-06-07 | 10:24:45 | 11:24:45 | CUSE | pc08 | Investigacion
+1052776 | Laura Vanessa Gaitan Velez | 3845 | 2013-06-07 | 09:55:32 | 10:55:32 | CUSE | pc09 | Investigacion
+0938010 | johan andres mussen delgado | 3846 | 2013-06-07 | 09:48:52 | 10:48:52 | CUSE | pc10 | Investigacion
+1036499 | Carmen Mejia Ramirez | 3857 | 2013-06-07 | 07:01:28 | 08:01:28 | CUSE | pc13 | Investigacion
+1035233 | CRISTIAN EDWARD GIRALDO HOYOS | 3857 | 2013-06-07 | 07:06:24 | 08:06:24 | CUSE | pc14 | Investigacion
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 2013-06-07 | 09:47:34 | 10:47:34 | CUSE | pc15 | Investigacion
+0933117 | Eduar Mauricio Otero G | 3846 | 2013-06-07 | 08:28:26 | 09:28:26 | CUSE | pc15 | Investigacion
+0934716 | Giovanni SANCHEZ SOTO | 3846 | 2013-06-07 | 08:12:39 | 09:12:39 | CUSE | pc15 | Investigacion
+1240840 | Julieth Sofìa Alarcon Garcia | 3842 | 2013-06-07 | 09:47:04 | 10:47:04 | CUSE | pc16 | Investigacion
+0934104 | Erika Cobo Ibarguen | 3846 | 2013-06-07 | 07:55:48 | 08:55:48 | CUSE | pc16 | Investigacion
+1210074 | Gerardo Antonio Rincon Castillo | 3647 | 2013-06-07 | 07:01:43 | 08:01:43 | CUSE | pc17 | Investigacion
+0748212 | Viviana Olaya Ordoñez | 3841 | 2013-06-07 | 18:48:22 | 19:48:22 | CUSE | pc17 |  
+0844249 | PAOLA ANDREA IBARGUEN MOSQUERA | 3842 | 2013-06-07 | 18:38:04 | 19:38:04 | CUSE | pc18 |  
+1039911 | Jesica Mayeri Martinez Guerrero | 3857 | 2013-06-07 | 07:10:48 | 08:10:48 | CUSE | pc18 | Investigacion
+1044513 | mayi stephanny gonzales gomez | 3857 | 2013-06-07 | 07:19:51 | 08:19:51 | CUSE | pc19 | Investigacion
+1044235 | Tatiana Lorena Clavijo Martínez | 3647 | 2013-06-07 | 07:54:11 | 08:54:11 | CUSE | pc20 | Investigacion
+0843739 | LUIS CARLOS CABRERA NARVAEZ | 3846 | 2013-06-07 | 08:27:46 | 09:27:46 | CUSE | pc21 | Investigacion
+1024943 | hugo cataño rosero | 3841 | 2013-06-07 | 17:41:05 | 18:41:05 | CUSE | pc21 |  
+0539402 | nixa dayana moreno molano | 3340 | 2013-06-07 | 08:35:33 | 09:35:33 | CUSE | pc21 | Investigacion
+1032786 | Jeison  Buitrago Bolaños  | 3846 | 2013-06-07 | 17:41:18 | 18:41:18 | CUSE | pc22 |  
+0933675 | diego fernando hernandez triana | 3846 | 2013-06-07 | 09:54:20 | 10:54:20 | CUSE | pc22 | Investigacion
+0644068 | RICARDO ANDRES ESPINOSA HENAO | 3846 | 2013-06-07 | 07:31:16 | 08:31:16 | CUSE | pc22 | Investigacion
+1235727 | Sebastian Florez Rengifo | 3857 | 2013-06-07 | 07:40:01 | 08:40:01 | CUSE | pc23 | Investigacion
+0926375 | JULIAN OSPINA SANCHEZ | 3841 | 2013-06-07 | 18:11:32 | 19:11:32 | CUSE | pc23 |  
+0940435 | Hoover Andres Rosales Velez | 3660 | 2013-06-07 | 08:47:17 | 09:47:17 | CUSE | pc23 | Investigacion
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 2013-06-07 | 08:46:02 | 09:46:02 | CUSE | pc24 |  
+0839957 | Maria del Pilar Godoy Escobar | 3845 | 2013-06-07 | 07:15:27 | 08:15:27 | CUSE | pc24 | Investigacion
+1052437 | MARIA ISABEL CASAÑAS CHAVEZ | 3846 | 2013-06-07 | 09:30:08 | 10:30:08 | CUSE | pc24 | Investigacion
+0930229 | Alexis Palacios Cuacialpud | 3845 | 2013-06-07 | 19:07:44 | 20:07:44 | CUSE | pc24 |  
+0748212 | Viviana Olaya Ordoñez | 3841 | 2013-06-07 | 17:37:05 | 18:37:05 | CUSE | pc24 |  
+0832304 | victor  fabian  hernandez gonzales | 3846 | 2013-06-07 | 07:36:11 | 08:36:11 | CUSE | pc25 | Investigacion
+0838537 | fabio madrid giraldo | 3845 | 2013-06-07 | 18:31:38 | 19:31:38 | CUSE | pc25 |  
+0829979 | MARYURY HERNANDEZ DIAZ | 3842 | 2013-06-07 | 08:24:46 | 09:24:46 | CUSE | pc25 | Investigacion
+0835010 | juan camilo sanchez alvarez | 3846 | 2013-06-07 | 07:36:28 | 08:36:28 | CUSE | pc26 | Investigacion
+1243647 | BERTHA RUTH CAVIEDES GOMEZ | 3857 | 2013-06-07 | 10:22:15 | 11:22:15 | CUSE | pc26 | Investigacion
+1135480 | Erick Sarmiento Bejarano | 3846 | 2013-06-07 | 18:47:52 | 19:47:52 | CUSE | pc26 |  
+0826577 | Julian dvaid Bedoya Andrade | 3846 | 2013-06-07 | 09:31:15 | 10:31:15 | CUSE | pc28 | Investigacion
+0529441 | JOSÉ DANIEL RIVERA RUEDA | 3845 | 2013-06-07 | 09:58:53 | 10:58:53 | CUSE | pc28 | Investigacion
+1133286 | Lorena GARCIA FLOREZ | 3841 | 2013-06-07 | 17:36:52 | 18:36:52 | CUSE | pc28 |  
+1138700 | Claudia PAtricia Rodriguez Fernandez | 3842 | 2013-06-08 | 11:46:02 | 12:46:02 | CUSE | pc09 | Investigacion
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2013-06-08 | 11:46:13 | 12:46:13 | CUSE | pc10 |  
+0944141 | jhonatan  reyes rosero | 3846 | 2013-06-08 | 10:19:33 | 11:19:33 | CUSE | pc11 |  
+0939178 | brian steven mesa acosta | 3846 | 2013-06-08 | 10:19:54 | 11:19:54 | CUSE | pc12 | Investigacion
+0944141 | jhonatan  reyes rosero | 3846 | 2013-06-08 | 10:18:06 | 11:18:06 | CUSE | pc13 |  
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2013-06-08 | 10:24:50 | 11:24:50 | CUSE | pc13 | Investigacion
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 2013-06-08 | 11:43:49 | 12:43:49 | CUSE | pc13 |  
+0827358 | LUIS FERNANDO QUENGUAN OCAMPO | 3841 | 2013-06-08 | 11:44:14 | 12:44:14 | CUSE | pc14 |  
+0939178 | brian steven mesa acosta | 3846 | 2013-06-08 | 10:18:18 | 11:18:18 | CUSE | pc14 |  
+1222014 | JHAN SEBASTIAN ALZATE EGAS | 3845 | 2013-06-08 | 10:17:53 | 11:17:53 | CUSE | pc15 |  
+0935041 | Jorge Edua Narvaez Manrique | 3846 | 2013-06-08 | 11:58:14 | 12:58:14 | CUSE | pc16 | Investigacion
+1228723 | Yeison Benito Millan Restrepo | 3845 | 2013-06-08 | 10:18:45 | 11:18:45 | CUSE | pc16 |  
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2013-06-08 | 09:03:56 | 10:03:56 | CUSE | pc17 | Investigacion
+1044513 | mayi stephanny gonzales gomez | 3857 | 2013-06-08 | 09:44:03 | 10:44:03 | CUSE | pc17 | Investigacion
+0522402 | MARITZABEL BERMUDEZ ARANGO | 3845 | 2013-06-08 | 10:37:25 | 11:37:25 | CUSE | pc18 | Investigacion
+0832522 | Yuliano Suarez Conde | 3845 | 2013-06-08 | 10:16:20 | 11:16:20 | CUSE | pc18 |  
+1138700 | Claudia PAtricia Rodriguez Fernandez | 3842 | 2013-06-08 | 09:08:01 | 10:08:01 | CUSE | pc18 | Investigacion
+1025132 | DUQUE QUESADA KEITHY YISSETH | 3845 | 2013-06-08 | 09:35:07 | 10:35:07 | CUSE | pc19 |  
+1025132 | DUQUE QUESADA KEITHY YISSETH | 3845 | 2013-06-08 | 09:38:47 | 10:38:47 | CUSE | pc19 | Investigacion
+0835232 | MARIA JULIANA TRULLO COMETA | 3846 | 2013-06-08 | 11:33:39 | 12:33:39 | CUSE | pc19 |  
+9117150 | Ricardo Cuero Ruiz | 3845 | 2013-06-08 | 10:53:14 | 11:53:14 | CUSE | pc20 |  
+1225352 | Franco Junnior Cundar Zambrano | 3743 | 2013-06-08 | 10:02:13 | 11:02:13 | CUSE | pc20 | Investigacion
+1228723 | Yeison Benito Millan Restrepo | 3845 | 2013-06-08 | 09:08:55 | 10:08:55 | CUSE | pc20 | Investigacion
+1035233 | CRISTIAN EDWARD GIRALDO HOYOS | 3857 | 2013-06-08 | 08:48:10 | 09:48:10 | CUSE | pc21 | Investigacion
+1036895 | KATHERIN ADRANA CAMRGO CETINA | 3857 | 2013-06-08 | 08:48:26 | 09:48:26 | CUSE | pc22 | Investigacion
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2013-06-08 | 08:24:50 | 09:24:50 | CUSE | pc23 | Investigacion
+1137096 | Vanessa Tatiana Rivera Samboni | 3842 | 2013-06-08 | 08:25:24 | 09:25:24 | CUSE | pc24 |  
+0824642 | jennifer MONCAYO SALGADO | 3841 | 2013-06-08 | 08:43:58 | 09:43:58 | CUSE | pc25 | Investigacion
+0843692 | LENIN CAMILO  DIAZ JARAMILLO | 3842 | 2013-06-08 | 08:29:56 | 09:29:56 | CUSE | pc25 |  
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 2013-06-08 | 08:19:30 | 09:19:30 | CUSE | pc25 | Investigacion
+0827358 | LUIS FERNANDO QUENGUAN OCAMPO | 3841 | 2013-06-08 | 09:43:35 | 10:43:35 | CUSE | pc26 | Investigacion
+1025195 | Victor Maurico Molina Martinez | 3845 | 2013-06-08 | 11:35:44 | 12:35:44 | CUSE | pc26 |  
+1137096 | Vanessa Tatiana Rivera Samboni | 3842 | 2013-06-08 | 08:19:13 | 09:19:13 | CUSE | pc26 | Investigacion
+1039506 | Jhon Alexander Castro Diaz | 3846 | 2013-06-08 | 12:07:45 | 13:07:45 | CUSE | pc26 |  
+1143811 | Melissa Alegrias Cambindo | 3842 | 2013-06-08 | 09:56:47 | 10:56:47 | CUSE | pc28 |  
+1228930 | ERIKA GUERRERO LOPEZ | 3845 | 2013-06-08 | 11:03:55 | 12:03:55 | CUSE | pc28 |  
+
+

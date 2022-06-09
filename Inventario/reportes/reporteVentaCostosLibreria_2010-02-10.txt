@@ -1,0 +1,34 @@
+Elaborado el... 2010-02-10
+Del 2009-04-01 al 2009-04-30
+COD VENTA | FECHA | BENEFICIARIO | VINCULACION|MATERIAL| CANTIDAD | PRECIO | DESCUENTO | TOTAL VENTA | REALIZADO POR
+
+ 577 | 2009-04-01 | Rigoberto Barreto  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |ximenava
+ 578 | 2009-04-03 | Alejandro Quiceno  | Personal Externo | Fundamentos de Contabilidad Pública |1 | 19860 | 0 | 19860 | 0 | 40000 |ximenava
+ 579 | 2009-04-15 | Luis Fernando Cespedes  | Estudiante | Transferencia de conocimiento en las relaciones inter-organizacionales de Marketing |1 | 13296 | 20 | 13296 | 20 | 32000 |ximenava
+ 580 | 2009-04-18 | Alvaro Julio Cuadros  | Estudiante | Cuadernos de Administracion No 26  “Marketing Mix II” |1 | 9177 | 20 | 9177 | 20 | 16000 |ximenava
+ 581 | 2009-04-18 | Carlos Alberto Torres  | Estudiante | Cuadernos de Administracion No 25  “Marketing Mix I” |1 | 9177 | 20 | 9177 | 20 | 16000 |ximenava
+ 582 | 2009-04-20 | Diana Yadira Rivera Castañeda  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |ximenava
+ 583 | 2009-04-27 | Raúl Andrés Trochez Betancurt  | Estudiante | Cuadernos de Administracion No 31 “Contabilidad, Presentacion y Control” |1 | 10000 | 20 | 10000 | 20 | 16000 |ximenava
+ 584 | 2009-04-28 | Alba Lucia Valencia  | Personal Externo | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |ximenava
+ 585 | 2009-04-30 | No aplica  | Personal Externo | Pliegos Administrativos y Financieros No 30 ”Tipologias de organizacion administrativa” |1 | 2500 | 0 | 2500 | 0 | 3000 |ximenava
+ 586 | 2009-04-30 | No aplica  | Personal Externo | Pliegos Administrativos y Financieros No 36 “La evaluacion de la gestion en las organizaciones de desarrollo.  Una perspectiva teorica y metodologica” |2 | 1500 | 0 | 3000 | 0 | 6000 |ximenava
+ |	|	| 	|	|	|Total Costos	| 89438 |	Total Ventas| 208000 |
+
+
+Elaborado el... 2010-02-10
+Del 2009-04-01 al 2009-04-30
+COD VENTA | FECHA | BENEFICIARIO | VINCULACION|MATERIAL| CANTIDAD | PRECIO | DESCUENTO | TOTAL VENTA | REALIZADO POR
+
+ 577 | 2009-04-01 | Rigoberto Barreto  | Personal Externo | Contabilidad, Control, Valuacion y Revelaciones |1 | 9195 | 0 | 9195 | 0 | 35000 |ximenava
+ 578 | 2009-04-03 | Alejandro Quiceno  | Personal Externo | Fundamentos de Contabilidad Pública |1 | 19860 | 0 | 19860 | 0 | 40000 |ximenava
+ 579 | 2009-04-15 | Luis Fernando Cespedes  | Estudiante | Transferencia de conocimiento en las relaciones inter-organizacionales de Marketing |1 | 13296 | 20 | 13296 | 20 | 32000 |ximenava
+ 580 | 2009-04-18 | Alvaro Julio Cuadros  | Estudiante | Cuadernos de Administracion No 26  “Marketing Mix II” |1 | 9177 | 20 | 9177 | 20 | 16000 |ximenava
+ 581 | 2009-04-18 | Carlos Alberto Torres  | Estudiante | Cuadernos de Administracion No 25  “Marketing Mix I” |1 | 9177 | 20 | 9177 | 20 | 16000 |ximenava
+ 582 | 2009-04-20 | Diana Yadira Rivera Castañeda  | Estudiante | La Metodologia de las Ciencias Sociales |1 | 3233 | 20 | 3233 | 20 | 24000 |ximenava
+ 583 | 2009-04-27 | Raúl Andrés Trochez Betancurt  | Estudiante | Cuadernos de Administracion No 31 “Contabilidad, Presentacion y Control” |1 | 10000 | 20 | 10000 | 20 | 16000 |ximenava
+ 584 | 2009-04-28 | Alba Lucia Valencia  | Personal Externo | El Lado Inhumano de las Organizaciones |1 | 10000 | 20 | 10000 | 20 | 20000 |ximenava
+ 585 | 2009-04-30 | No aplica  | Personal Externo | Pliegos Administrativos y Financieros No 30 ”Tipologias de organizacion administrativa” |1 | 2500 | 0 | 2500 | 0 | 3000 |ximenava
+ 586 | 2009-04-30 | No aplica  | Personal Externo | Pliegos Administrativos y Financieros No 36 “La evaluacion de la gestion en las organizaciones de desarrollo.  Una perspectiva teorica y metodologica” |2 | 1500 | 0 | 3000 | 0 | 6000 |ximenava
+ |	|	| 	|	|	|Total Costos	| 89438 |	Total Ventas| 208000 |
+
+

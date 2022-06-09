@@ -1,0 +1,128 @@
+Elaborado el... 7 de Diciembre de 2016
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0838540 | Fabian Madrid Giraldo | 3857 | 04:36:47
+0935888 | Julian David Sandoval Toro | 3484 | 00:56:04
+1122984 | Angelica María  Murillo Ballesteros | 3263 | 00:00:17
+1123164 | Ana Maria  Caicedo Perez | 3750 | 02:28:51
+1131533 | Jhon Fredy Lugo Torres | 3263 | 00:17:32
+1137297 | David Fernando Mendoza Hurtado | 3857 | 00:32:20
+1210084 | Juan Manuel  Vega Diaz | 3263 | 00:05:19
+1240840 | Julieth Sofìa Alarcon Garcia | 3842 | 05:03:02
+1241599 | Angie Viviana Aristizabal Lopez | 3857 | 07:14:56
+1337272 | Jessika Valentina Mancera Vega | 3857 | 00:35:37
+1340937 | Genner Aly Mera Yalanda | 3857 | 05:33:39
+1341047 | Sandra Jazmin Vargas Castillo | 3846 | 04:00:00
+1341156 | Daniela Montero Ojeda | 3857 | 15:29:20
+1341338 | Daniela  Possu  | 3857 | 04:19:00
+1341814 | Luis Miguel Forero Pachon | 3857 | 03:44:01
+1428797 | Duvan Alexis Salazar Giraldo | 3841 | 02:25:15
+1439857 | Brayan Estiven Rodriguez | 3857 | 07:30:01
+1510223 | Lina María Bonilla Mejía | 3857 | 02:50:30
+1535702 | Alejandra Diaz Medina | 3857 | 21:12:39
+1536258 | Mayra Alejandra Gomez Ponte | 3857 | 03:48:22
+1536270 | Yisuli Banguera Solis | 3841 | 02:23:50
+1536369 | Julio García  | 3841 | 01:25:32
+1537098 | Daniela Velez Gaviria | 3857 | 03:17:51
+1537137 | Nicolas Camacho Baron | 3857 | 05:55:12
+1537169 | Dayana Gil Lopez | 3857 | 07:43:52
+1537225 | Diego Fernando Bustamante Gomez | 3841 | 01:23:43
+1537371 | Andres Steven Tovar Cano | 3841 | 01:24:28
+1537936 | Diana Elizabeth Samboni Benavides | 3857 | 02:38:01
+1538255 | John Steven Torres Ordoñez | 3857 | 00:58:35
+1539021 | Jane Alexa Montaño Rodriguez | 3857 | 02:55:55
+1539705 | Stiven Alejandro Molina Ladino | 3857 | 01:07:24
+1540096 | Valentina Wagner Morales | 3857 | 02:19:19
+1540225 | Vanessa Arenas Perez | 3857 | 05:12:22
+1540233 | Diego Correa GutiÉrrez | 3857 | 01:38:13
+1540379 | Jennifer Canizales Rincon | 3841 | 02:25:21
+1540486 | Edwin Duvan Meza Toro | 3841 | 01:26:34
+1540972 | Kevyn David Tabares Mejía | 3857 | 11:21:15
+1541312 | Lina Maria Orozco Bocanegra | 3857 | 01:48:08
+1541528 | Mara Alejandra Camelo MuÑoz | 3857 | 20:52:16
+1541700 | Melany Osorio Ruiz | 3857 | 17:05:12
+1541998 | Diana Catalina Gonzalez Espinosa | 3857 | 08:11:51
+1622349 | Stefania Silva Sandoval | 3857 | 00:05:44
+1623115 | Carolina Sanmiguel Alvarez | 3750 | 06:38:48
+1623548 | Esteban Llanos Agudelo | 3857 | 00:07:44
+1623903 | Luisa Fernanda PeÑa Usma | 3750 | 06:06:43
+1624237 | Isabel Quintero Martinez | 3750 | 00:59:53
+1626430 | Janeth Patricia Hernandez Bastidas | 3750 | 00:32:22
+1628560 | Deisy Daniela Gomez Gomez | 3750 | 02:00:46
+1628780 | Manuel Alejandro Vergara Moreno | 3750 | 00:59:11
+1629846 | Carlos Alberto Rodriguez Duran | 3750 | 01:56:27
+1630428 | Camilo Andres Grisales Osorio | 3857 | 00:53:58
+1631530 | Valentina Ramos Palta | 3845 | 06:04:39
+1631559 | Andres Felipe Arce Delgado | 3750 | 03:29:44
+1631686 | Flor Angela Muñoz Martinez | 3750 | 00:28:48
+1643824 | Edgar Javier Gomez Mina | 3645 | 01:12:41
+1643853 | David Garibello Garcia | 3845 | 01:58:52
+1643856 | Mauricio  Garibello Garcia | 3845 | 03:59:14
+1670007 | Brayan Alejandro Urbano Noguera | 3740 | 00:30:49
+
+
+Elaborado el... 7 de Diciembre de 2016
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0838540 | Fabian Madrid Giraldo | 3857 | 04:36:47
+0935888 | Julian David Sandoval Toro | 3484 | 00:56:04
+1122984 | Angelica María  Murillo Ballesteros | 3263 | 00:00:17
+1123164 | Ana Maria  Caicedo Perez | 3750 | 02:28:51
+1131533 | Jhon Fredy Lugo Torres | 3263 | 00:17:32
+1137297 | David Fernando Mendoza Hurtado | 3857 | 00:32:20
+1210084 | Juan Manuel  Vega Diaz | 3263 | 00:05:19
+1240840 | Julieth Sofìa Alarcon Garcia | 3842 | 05:03:02
+1241599 | Angie Viviana Aristizabal Lopez | 3857 | 07:14:56
+1337272 | Jessika Valentina Mancera Vega | 3857 | 00:35:37
+1340937 | Genner Aly Mera Yalanda | 3857 | 05:33:39
+1341047 | Sandra Jazmin Vargas Castillo | 3846 | 04:00:00
+1341156 | Daniela Montero Ojeda | 3857 | 15:29:20
+1341338 | Daniela  Possu  | 3857 | 04:19:00
+1341814 | Luis Miguel Forero Pachon | 3857 | 03:44:01
+1428797 | Duvan Alexis Salazar Giraldo | 3841 | 02:25:15
+1439857 | Brayan Estiven Rodriguez | 3857 | 07:30:01
+1510223 | Lina María Bonilla Mejía | 3857 | 02:50:30
+1535702 | Alejandra Diaz Medina | 3857 | 21:12:39
+1536258 | Mayra Alejandra Gomez Ponte | 3857 | 03:48:22
+1536270 | Yisuli Banguera Solis | 3841 | 02:23:50
+1536369 | Julio García  | 3841 | 01:25:32
+1537098 | Daniela Velez Gaviria | 3857 | 03:17:51
+1537137 | Nicolas Camacho Baron | 3857 | 05:55:12
+1537169 | Dayana Gil Lopez | 3857 | 07:43:52
+1537225 | Diego Fernando Bustamante Gomez | 3841 | 01:23:43
+1537371 | Andres Steven Tovar Cano | 3841 | 01:24:28
+1537936 | Diana Elizabeth Samboni Benavides | 3857 | 02:38:01
+1538255 | John Steven Torres Ordoñez | 3857 | 00:58:35
+1539021 | Jane Alexa Montaño Rodriguez | 3857 | 02:55:55
+1539705 | Stiven Alejandro Molina Ladino | 3857 | 01:07:24
+1540096 | Valentina Wagner Morales | 3857 | 02:19:19
+1540225 | Vanessa Arenas Perez | 3857 | 05:12:22
+1540233 | Diego Correa GutiÉrrez | 3857 | 01:38:13
+1540379 | Jennifer Canizales Rincon | 3841 | 02:25:21
+1540486 | Edwin Duvan Meza Toro | 3841 | 01:26:34
+1540972 | Kevyn David Tabares Mejía | 3857 | 11:21:15
+1541312 | Lina Maria Orozco Bocanegra | 3857 | 01:48:08
+1541528 | Mara Alejandra Camelo MuÑoz | 3857 | 20:52:16
+1541700 | Melany Osorio Ruiz | 3857 | 17:05:12
+1541998 | Diana Catalina Gonzalez Espinosa | 3857 | 08:11:51
+1622349 | Stefania Silva Sandoval | 3857 | 00:05:44
+1623115 | Carolina Sanmiguel Alvarez | 3750 | 06:38:48
+1623548 | Esteban Llanos Agudelo | 3857 | 00:07:44
+1623903 | Luisa Fernanda PeÑa Usma | 3750 | 06:06:43
+1624237 | Isabel Quintero Martinez | 3750 | 00:59:53
+1626430 | Janeth Patricia Hernandez Bastidas | 3750 | 00:32:22
+1628560 | Deisy Daniela Gomez Gomez | 3750 | 02:00:46
+1628780 | Manuel Alejandro Vergara Moreno | 3750 | 00:59:11
+1629846 | Carlos Alberto Rodriguez Duran | 3750 | 01:56:27
+1630428 | Camilo Andres Grisales Osorio | 3857 | 00:53:58
+1631530 | Valentina Ramos Palta | 3845 | 06:04:39
+1631559 | Andres Felipe Arce Delgado | 3750 | 03:29:44
+1631686 | Flor Angela Muñoz Martinez | 3750 | 00:28:48
+1643824 | Edgar Javier Gomez Mina | 3645 | 01:12:41
+1643853 | David Garibello Garcia | 3845 | 01:58:52
+1643856 | Mauricio  Garibello Garcia | 3845 | 03:59:14
+1670007 | Brayan Alejandro Urbano Noguera | 3740 | 00:30:49
+
+

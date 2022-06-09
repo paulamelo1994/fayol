@@ -1,0 +1,14 @@
+pregunta 1 | a | b | c | d | e | a
+
+pregunta 2 | 1 | 2 | 3 | 4 | 5 | 3
+
+pregunta 3 | I | II | III | IV | v | III
+
+pregunta 4 | uno | dos | tres | cuatro | cinco | cuatro
+
+pregunta 5 | one | two | three | four | five | five
+
+pregunta 6 | eins | zwei | drei | vier | funf | eins
+
+
+preguntas: 4 | quiz: 1

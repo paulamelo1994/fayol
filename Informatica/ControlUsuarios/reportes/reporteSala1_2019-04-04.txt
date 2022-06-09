@@ -1,0 +1,98 @@
+Elaborado el... 2019-04-04
+Mes: 1 de Abril de 2019 al 30 de Abril de 2019
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1226086 | Santiago David Rosero Vallejo | 3841 | 2019-04-01 | 18:56:40 | 19:56:40 | 1 | 02   | Investigacion
+1646681 | Jose David  RUBIO GIRONZA | 3845 | 2019-04-01 | 14:21:57 | 15:21:57 | 1 | 16   | Practica
+1644122 | Christian Javier Colimba Cuastumal | 3845 | 2019-04-01 | 14:22:18 | 15:22:18 | 1 | 17   | Practica
+1543538 | ELINA GISELA  ROJAS QUIPO | 3857 | 2019-04-01 | 11:35:44 | 12:35:44 | 1 | 19   | Practica
+1827637 | Andres Felipe  NEIRA ZORRILLA | 3845 | 2019-04-01 | 17:02:10 | 18:02:10 | 1 | 22   |  
+1726311 | DIEGO BUSTAMANTE | 3751 | 2019-04-01 | 14:33:41 | 15:33:41 | 1 | 23   |  
+1631566 | Angye Sofia Rivas Caguasango | 3857 | 2019-04-01 | 14:23:29 | 15:23:29 | 1 | 30   |  
+1841286 | CRISTIAN PEREA | 3845 | 2019-04-01 | 14:14:35 | 15:14:35 | 1 | 32   |  
+1841731 | VALERIA SALAZAR  | 3845 | 2019-04-01 | 14:14:52 | 15:14:52 | 1 | 33   | Practica
+1844364 | NATHALY JARAMILLO | 3845 | 2019-04-01 | 14:14:11 | 15:14:11 | 1 | 38   | Practica
+1827637 | Andres Felipe  NEIRA ZORRILLA | 3845 | 2019-04-02 | 17:52:59 | 18:52:59 | 1 | 01   | Investigacion
+1830885 | Orfani Patiño Diaz | 3845 | 2019-04-02 | 17:52:31 | 18:52:31 | 1 | 02   | Investigacion
+1646936 | John Artur Londoño Rengifo | 3846 | 2019-04-02 | 09:21:43 | 10:21:43 | 1 | 02   | Practica
+1646681 | Jose David  RUBIO GIRONZA | 3845 | 2019-04-02 | 09:21:29 | 10:21:29 | 1 | 03   | Practica
+1538749 | Darling Dahiana  Hernandez Suarez | 3841 | 2019-04-02 | 19:08:54 | 20:08:54 | 1 | 04   | Investigacion
+1539547 | JAZMÍN TREJOS SERRATO | 3845 | 2019-04-02 | 17:37:11 | 18:37:11 | 1 | 17   | Investigacion
+1540148 | Juan Diego Revelo Victoria | 3846 | 2019-04-02 | 17:36:54 | 18:36:54 | 1 | 19   | Investigacion
+1146686 | DANIELA ASTRID COMETA | 3842 | 2019-04-02 | 18:51:12 | 19:51:12 | 1 | 22   | Investigacion
+1629540 | German Farley Jaramillo Quintero | 3845 | 2019-04-02 | 11:04:34 | 12:04:34 | 1 | 24   | Practica
+1632318 | LEONEL DAMIAN OJEDA | 3660 | 2019-04-02 | 19:27:32 | 20:27:32 | 1 | 25   | Investigacion
+1540379 | JENNIFER CANIZALES RINCON | 3841 | 2019-04-02 | 18:54:35 | 19:54:35 | 1 | 27   | Investigacion
+1536270 | YISULI BANGUERA SOLIS | 3841 | 2019-04-02 | 18:54:57 | 19:54:57 | 1 | 39   | Investigacion
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-03 | 14:17:28 | 15:17:28 | 1 | 02   | Practica
+1463859 | MARTHA ISABEL CASTILLO NEHALY | 3845 | 2019-04-03 | 17:08:57 | 18:08:57 | 1 | 02   | Practica
+1643853 | David GARIBELLO GARCIA | 3845 | 2019-04-03 | 14:20:44 | 15:20:44 | 1 | 03   | Practica
+1627000 | Maria Avila | 3845 | 2019-04-03 | 14:18:48 | 15:18:48 | 1 | 03   | Practica
+1735751 | Katerine Giraldo Garcia | 3846 | 2019-04-03 | 15:09:32 | 16:09:32 | 1 | 04   | Practica
+1734767 | Cristina Lucia BARRIOS MORENO | 3845 | 2019-04-03 | 15:09:43 | 16:09:43 | 1 | 05   |  
+1531394 | Laura Camila Gutierrez | 3350 | 2019-04-03 | 14:13:48 | 15:13:48 | 1 | 08   |  
+1646681 | Jose David  RUBIO GIRONZA | 3845 | 2019-04-03 | 14:15:34 | 15:15:34 | 1 | 13   | Practica
+1644122 | Christian Javier Colimba Cuastumal | 3845 | 2019-04-03 | 14:15:52 | 15:15:52 | 1 | 14   | Practica
+1629060 | Karol Stefany Perez Lopez | 3845 | 2019-04-03 | 14:24:43 | 15:24:43 | 1 | 16   | Practica
+1628484 | Valeria Elejalde Mosquera | 3845 | 2019-04-03 | 14:18:12 | 15:18:12 | 1 | 17   | Practica
+1628086 | Daniela Carabali | 3845 | 2019-04-03 | 14:17:58 | 15:17:58 | 1 | 18   | Practica
+1670766 | Jacner David Hernandez Barrera | 3845 | 2019-04-03 | 14:13:13 | 15:13:13 | 1 | 26   |  
+1629851 | Juan Aguirre | 3845 | 2019-04-03 | 14:12:56 | 15:12:56 | 1 | 27   |  
+1631294 | Marlon David Medina Pava | 3845 | 2019-04-03 | 14:12:36 | 15:12:36 | 1 | 28   |  
+1630318 | Sara Milena Gutierrez Pineda | 3857 | 2019-04-03 | 14:12:13 | 15:12:13 | 1 | 38   | Practica
+1628048 | Valentina Arias Vargas | 3857 | 2019-04-03 | 14:12:01 | 15:12:01 | 1 | 39   | Practica
+1646585 | Brehiner Alexander CASTAÑEDA SILVA | 3845 | 2019-04-03 | 10:23:29 | 11:23:29 | 1 | pc03 | Investigacion
+1646936 | John Artur Londoño Rengifo | 3846 | 2019-04-03 | 10:29:54 | 11:29:54 | 1 | pc05 | Investigacion
+1634894 | Diego Luis  FAJARDO ARROYO | 3845 | 2019-04-03 | 10:40:18 | 11:40:18 | 1 | pc07 | Investigacion
+1644111 | Maria Lucia RODRIGUEZ OLAYA | 3845 | 2019-04-03 | 11:27:48 | 12:27:48 | 1 | pc09 | Investigacion
+
+
+Elaborado el... 2019-04-04
+Mes: 1 de Abril de 2019 al 30 de Abril de 2019
+CODIGO | USUARIO | PLAN | FECHA REGISTRO | HORA INGRESO | HORA SALIDA | SALA | No. EQUIPO | TIPO USO
+
+1226086 | Santiago David Rosero Vallejo | 3841 | 2019-04-01 | 18:56:40 | 19:56:40 | 1 | 02   | Investigacion
+1646681 | Jose David  RUBIO GIRONZA | 3845 | 2019-04-01 | 14:21:57 | 15:21:57 | 1 | 16   | Practica
+1644122 | Christian Javier Colimba Cuastumal | 3845 | 2019-04-01 | 14:22:18 | 15:22:18 | 1 | 17   | Practica
+1543538 | ELINA GISELA  ROJAS QUIPO | 3857 | 2019-04-01 | 11:35:44 | 12:35:44 | 1 | 19   | Practica
+1827637 | Andres Felipe  NEIRA ZORRILLA | 3845 | 2019-04-01 | 17:02:10 | 18:02:10 | 1 | 22   |  
+1726311 | DIEGO BUSTAMANTE | 3751 | 2019-04-01 | 14:33:41 | 15:33:41 | 1 | 23   |  
+1631566 | Angye Sofia Rivas Caguasango | 3857 | 2019-04-01 | 14:23:29 | 15:23:29 | 1 | 30   |  
+1841286 | CRISTIAN PEREA | 3845 | 2019-04-01 | 14:14:35 | 15:14:35 | 1 | 32   |  
+1841731 | VALERIA SALAZAR  | 3845 | 2019-04-01 | 14:14:52 | 15:14:52 | 1 | 33   | Practica
+1844364 | NATHALY JARAMILLO | 3845 | 2019-04-01 | 14:14:11 | 15:14:11 | 1 | 38   | Practica
+1827637 | Andres Felipe  NEIRA ZORRILLA | 3845 | 2019-04-02 | 17:52:59 | 18:52:59 | 1 | 01   | Investigacion
+1830885 | Orfani Patiño Diaz | 3845 | 2019-04-02 | 17:52:31 | 18:52:31 | 1 | 02   | Investigacion
+1646936 | John Artur Londoño Rengifo | 3846 | 2019-04-02 | 09:21:43 | 10:21:43 | 1 | 02   | Practica
+1646681 | Jose David  RUBIO GIRONZA | 3845 | 2019-04-02 | 09:21:29 | 10:21:29 | 1 | 03   | Practica
+1538749 | Darling Dahiana  Hernandez Suarez | 3841 | 2019-04-02 | 19:08:54 | 20:08:54 | 1 | 04   | Investigacion
+1539547 | JAZMÍN TREJOS SERRATO | 3845 | 2019-04-02 | 17:37:11 | 18:37:11 | 1 | 17   | Investigacion
+1540148 | Juan Diego Revelo Victoria | 3846 | 2019-04-02 | 17:36:54 | 18:36:54 | 1 | 19   | Investigacion
+1146686 | DANIELA ASTRID COMETA | 3842 | 2019-04-02 | 18:51:12 | 19:51:12 | 1 | 22   | Investigacion
+1629540 | German Farley Jaramillo Quintero | 3845 | 2019-04-02 | 11:04:34 | 12:04:34 | 1 | 24   | Practica
+1632318 | LEONEL DAMIAN OJEDA | 3660 | 2019-04-02 | 19:27:32 | 20:27:32 | 1 | 25   | Investigacion
+1540379 | JENNIFER CANIZALES RINCON | 3841 | 2019-04-02 | 18:54:35 | 19:54:35 | 1 | 27   | Investigacion
+1536270 | YISULI BANGUERA SOLIS | 3841 | 2019-04-02 | 18:54:57 | 19:54:57 | 1 | 39   | Investigacion
+1633996 | Cristian Camilo Muñoz Patiño | 3845 | 2019-04-03 | 14:17:28 | 15:17:28 | 1 | 02   | Practica
+1463859 | MARTHA ISABEL CASTILLO NEHALY | 3845 | 2019-04-03 | 17:08:57 | 18:08:57 | 1 | 02   | Practica
+1643853 | David GARIBELLO GARCIA | 3845 | 2019-04-03 | 14:20:44 | 15:20:44 | 1 | 03   | Practica
+1627000 | Maria Avila | 3845 | 2019-04-03 | 14:18:48 | 15:18:48 | 1 | 03   | Practica
+1735751 | Katerine Giraldo Garcia | 3846 | 2019-04-03 | 15:09:32 | 16:09:32 | 1 | 04   | Practica
+1734767 | Cristina Lucia BARRIOS MORENO | 3845 | 2019-04-03 | 15:09:43 | 16:09:43 | 1 | 05   |  
+1531394 | Laura Camila Gutierrez | 3350 | 2019-04-03 | 14:13:48 | 15:13:48 | 1 | 08   |  
+1646681 | Jose David  RUBIO GIRONZA | 3845 | 2019-04-03 | 14:15:34 | 15:15:34 | 1 | 13   | Practica
+1644122 | Christian Javier Colimba Cuastumal | 3845 | 2019-04-03 | 14:15:52 | 15:15:52 | 1 | 14   | Practica
+1629060 | Karol Stefany Perez Lopez | 3845 | 2019-04-03 | 14:24:43 | 15:24:43 | 1 | 16   | Practica
+1628484 | Valeria Elejalde Mosquera | 3845 | 2019-04-03 | 14:18:12 | 15:18:12 | 1 | 17   | Practica
+1628086 | Daniela Carabali | 3845 | 2019-04-03 | 14:17:58 | 15:17:58 | 1 | 18   | Practica
+1670766 | Jacner David Hernandez Barrera | 3845 | 2019-04-03 | 14:13:13 | 15:13:13 | 1 | 26   |  
+1629851 | Juan Aguirre | 3845 | 2019-04-03 | 14:12:56 | 15:12:56 | 1 | 27   |  
+1631294 | Marlon David Medina Pava | 3845 | 2019-04-03 | 14:12:36 | 15:12:36 | 1 | 28   |  
+1630318 | Sara Milena Gutierrez Pineda | 3857 | 2019-04-03 | 14:12:13 | 15:12:13 | 1 | 38   | Practica
+1628048 | Valentina Arias Vargas | 3857 | 2019-04-03 | 14:12:01 | 15:12:01 | 1 | 39   | Practica
+1646585 | Brehiner Alexander CASTAÑEDA SILVA | 3845 | 2019-04-03 | 10:23:29 | 11:23:29 | 1 | pc03 | Investigacion
+1646936 | John Artur Londoño Rengifo | 3846 | 2019-04-03 | 10:29:54 | 11:29:54 | 1 | pc05 | Investigacion
+1634894 | Diego Luis  FAJARDO ARROYO | 3845 | 2019-04-03 | 10:40:18 | 11:40:18 | 1 | pc07 | Investigacion
+1644111 | Maria Lucia RODRIGUEZ OLAYA | 3845 | 2019-04-03 | 11:27:48 | 12:27:48 | 1 | pc09 | Investigacion
+
+

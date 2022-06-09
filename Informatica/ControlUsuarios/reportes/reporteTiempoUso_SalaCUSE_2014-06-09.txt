@@ -1,0 +1,1590 @@
+Elaborado el... 9 de Junio de 2014
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0024551 | Paulo Andres Riascos PÉrez | 3845 | -00:40:00
+0130901 | Hernando Antonio Giraldo Botero | 3845 | 01:00:00
+0222034 | Carmenza Trochez Alzate | 3841 | 02:00:00
+0228407 | Esther Lucía Quiñonez Pachano | 3846 | 08:57:20
+0230589 | Yeiner Fernando Vasquez Castro | 3461 | 07:22:48
+0249264 | Monica Edith Uribe Reyes | 3845 | 02:00:00
+0322015 | Andres Felipe Salazar UrueÑa | 3846 | 01:00:00
+0322099 | Carlos Andres Rodriguez PatiÑo | 3845 | 02:12:08
+0322414 | Enerieth Sanchez Arteaga | 3846 | 04:51:52
+0332043 | Diego Felipe Fernandez Castillo | 3845 | 03:00:00
+0340220 | Johanna Liset Ramos Ruiz | 3846 | 01:09:26
+0423079 | Maricel Giraldo Villano | 3841 | 01:49:21
+0430187 | July Marlen  OrdoÑez Ceron | 3845 | 02:00:00
+0432524 | Vanessa Correa Mosquera | 3842 | 06:28:47
+0522402 | Maritzabel Bermudez Arango | 3845 | 02:00:00
+0530471 | Erika Maria Herrera ZuÑiga | 3845 | 01:57:31
+0531750 | Sonia Milena Rodriguez Quitora | 3841 | 01:53:48
+0536472 | Deyber Wenceslado Dussan Betancourt | 3841 | 00:56:34
+0553350 | Luz Mary Martinez Naranjo | 3845 | 03:58:39
+0554240 | Marco Tulio Arango Plata | 3845 | 00:41:36
+0557367 | Mary Luz Galvez Cruz | 3842 | 05:38:26
+0610296 | Carolina Trejos Gonzales | 3845 | 02:26:54
+0623392 | Luis Alfredo Gomez Soto | 3842 | 03:57:10
+0624017 | Maria Idalia Polanía Jimenez | 3841 | 19:20:51
+0624726 | Yamileth Aquilina Espinosa BiojÓ | 3845 | 02:00:00
+0625333 | Francisco Javier Grueso Lemos | 3845 | 03:00:00
+0625659 | Diego Alexander Chamorro Gonzalez | 3841 | 00:35:44
+0626309 | Diana Lorena Rúgeles López | 3841 | 01:00:00
+0632252 | Javier Bernardo Cuellar Molina | 3842 | 00:45:31
+0633367 | Jeison David Ferreira Guaichar | 3846 | 01:14:15
+0635035 | Natalia  Edith Reyes Galeano | 3845 | 02:16:27
+0636221 | Juan David Vasquez Porras | 3846 | 00:48:16
+0636769 | Ernesto Hoyos Martin  | 3555 | 02:40:29
+0637240 | Fabian Mauricio Arce | 3845 | 04:26:31
+0637715 | Alba Zully LondoÑo Castillo | 3841 | 03:18:16
+0638278 | Silene Arce Romero | 3846 | 05:19:59
+0652188 | Ricardo BriceÑo Sierra | 3845 | 05:43:00
+0730551 | Yenny Andrea Lourido Enriquez | 3842 | 01:20:48
+0731604 | David Gilberto Quintero Sánchez | 3846 | 06:03:38
+0731775 | Jose Luis Naranjo Riascos | 3845 | 17:10:16
+0731924 | Elier Rodolfo MuÑoz MuÑoz | 3842 | 02:05:19
+0732159 | Javier Andres Sabogal Candas | 3846 | 28:15:52
+0732238 | Diana Patricia Rojo Castillo | 3845 | 01:00:44
+0732387 | Leidy Johanna Sanchez Paladines | 3846 | 03:00:00
+0733808 | Jakeline Moreno Perea | 3841 | 01:20:50
+0734051 | Andres Felipe Carabali Lugo | 3841 | 00:39:37
+0734962 | Bayron Ebrique Meneses Londoño | 3841 | 07:00:00
+0736326 | Juan Sebastian  Gonzales Ramirez | 3842 | 04:07:04
+0737053 | Julian Bermúdez Martínez | 3845 | 04:00:00
+0737456 | Ana María Cortezano Vélez | 3841 | 01:29:33
+0737886 | Felipe Andrés Calderón Mejía | 3660 | 00:22:59
+0740014 | Jairo Paz Obando | 3841 | 04:06:43
+0740426 | Jose Andres Barrantes Cruz | 3841 | 01:01:35
+0740804 | Diana Patricia Campo Caballero | 3842 | 01:00:00
+0741292 | Adriana Maria Saa Paz | 3845 | 03:56:42
+0741742 | Julian Andres Raquejo OrdoÑez  | 3845 | 00:02:31
+0743940 | Mauricio Alejandro Caicedo | 3842 | 05:49:49
+0745539 | Diego Fernando Cordoba Avendaño | 3841 | 00:11:16
+0746988 | Heidy Aguilar Mosquera | 3846 | 03:00:00
+0747336 | Sandra Marcela  Bonilla Carrillo  | 3648 | 06:18:07
+0747337 | Yully Vanessa  Bonilla Carrillo  | 3648 | 10:59:09
+0747533 | Kely Johanna Murcia Gómez | 3845 | 06:00:00
+0749278 | Estefania Guzman Palacio | 3846 | 05:19:41
+0750749 | Willian Mauricio  Valera Contreras  | 3648 | 05:23:35
+0751158 | Jorge Andrés  Riaño Ortega | 3841 | 03:24:06
+0753783 | Adriana M. Osorio Escobar | 3845 | 10:39:01
+0764370 | Angelica Maria Jimenez Tabares | 3845 | 00:27:13
+0766912 | Angela Mercedez  Marmolejo Davila | 3845 | 01:00:00
+0767476 | James Edinson Marmolejo Rengifo | 3841 | 00:40:15
+0822996 | Lina Marcela Villamil Meza | 3846 | 16:15:46
+0823512 | Flor Alba Paz Valencia | 3857 | 00:02:09
+0823536 | Jackeline Muñoz Meneses | 3846 | 02:43:33
+0824221 | Julian Arango Ángel | 3846 | 03:00:00
+0824296 | Deybi Jeferson Mondragon Vargas | 3845 | 10:00:00
+0824403 | Jenny Karol Baos Solarte | 3842 | 00:50:43
+0824425 | Ana Maria Rios Giraldo | 3846 | 00:04:42
+0824680 | William Drada CastaÑo | 3845 | 04:00:00
+0825007 | Jairo Alejandro Becerra Jurado | 3841 | 04:54:25
+0825603 | Miller A Camacho Belalcazar | 3845 | 09:00:00
+0826230 | Dario Fernando Ruiz Rios | 3845 | 05:18:27
+0826335 | Christian Arbey Delgado Jamauca | 3845 | 03:54:33
+0826351 | Daniela Elena Guerrero Gasca | 3842 | 03:33:59
+0827212 | Jorge Arlex Correa MuÑoz | 3845 | 00:24:28
+0827219 | Nathalia Sandoval Herrera | 3842 | 02:00:00
+0827344 | Andres Felipe  Peña Becerra | 3842 | 00:00:23
+0827450 | Juan Carlos Ballesteros Garcia | 3845 | 03:37:02
+0827604 | Bonny Rubys Lara Ospino | 3842 | 01:36:01
+0828100 | Ana Maria Marmolejo Duque | 3845 | 05:51:04
+0828138 | Andres Felipe Taquez Hoyos | 3841 | 00:08:42
+0828644 | Carolina Mora Ducuara | 3841 | 00:48:24
+0829711 | Zuleyda Salazar Garcia | 3841 | 03:23:08
+0829788 | Milton Cesar Mosquera Villamarin | 3845 | 00:07:28
+0829979 | Maryury Hernandez Diaz | 3842 | 02:02:58
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 22:56:53
+0832014 | Stephany Vasquez Delgado | 3842 | 06:00:00
+0832207 | Oscar Mauricio Musse Chantre | 3841 | 01:58:57
+0832419 | Nelson Yesid Otero Piedrahita | 3845 | 17:41:52
+0832559 | Diana Maria Carvajal Trochez | 3845 | 04:00:00
+0832835 | Cristian MuÑoz Morales | 3846 | 05:00:00
+0832863 | Rosaly Stefania  Cruz Mendoza | 3846 | 01:23:01
+0832906 | Sandra Ximena Villaquira Leon | 3846 | 04:38:57
+0835401 | Paola Yineth Acosta Ortiz | 3751 | 00:17:31
+0836231 | Brigitte Marcela Velez Arias  | 3556 | 02:18:01
+0837332 | Alejandro Guaza Renteria | 3846 | 00:59:10
+0837715 | Karen Danitza Ordoñes Solarte | 3842 | 01:18:15
+0838177 | Lina Vanessa Rueda Osorio | 3250 | 02:50:59
+0838537 | Fabio Madrid Giraldo | 3845 | 04:30:58
+0839039 | Adriana Margarita Trejos Tenorio | 3660 | 02:06:35
+0839149 | Diana Katherin Vargas Tamayo | 3846 | 00:59:53
+0839719 | Zoraida Vallejo Kueconamuy | 3651 | 08:57:09
+0839957 | Maria Del Pilar Godoy Escobar | 3845 | 15:36:22
+0839989 | Julian Andres  Martinez Mosquera | 3845 | 33:17:23
+0840095 | Sandra Judith Ordoñez Marin | 3841 | 00:23:57
+0840419 | Johan Alexander  Campo | 3857 | 02:47:48
+0840460 | Francisco Ricardo Molina Mora | 3842 | 01:24:18
+0840515 | Edwin Bravo Dominguez | 3842 | 06:15:53
+0840553 | Daniel Esteban Rengifo | 3842 | -00:12:16
+0840763 | Jonathan  Jaimes Ortega | 3842 | 01:03:45
+0841338 | Mayra Alejandra Barbosa Ospina | 3845 | 00:32:39
+0842145 | Diego Fernando  Vanegas Lopez | 3846 | 04:47:29
+0842181 | Ana Maria Castillo Correa | 3842 | 16:49:03
+0842540 | Katherine Valencia Calvache | 3842 | 05:45:25
+0842596 | Libardo Peres Sinisterra | 3845 | 02:00:00
+0843480 | Ingrid Yaisury Muños Rodriguez | 3842 | 10:20:30
+0843692 | Lenin Camilo  Diaz Jaramillo | 3842 | 03:54:30
+0843739 | Luis Carlos Cabrera Narvaez | 3846 | 44:10:14
+0843836 | Leyder Dagua Trochez | 3845 | 03:07:18
+0843869 | Steven Andres BolaÑos Aquite | 3842 | 05:09:09
+0844114 | Diana Marcela Arias Bonilla | 3845 | 00:26:02
+0844139 | Karol Enith Uribe Benavidez | 3845 | 10:19:23
+0844304 | Juan Pablo Lasso Argote | 3846 | 04:00:00
+0853539 | Junior Andres Hernandez | 3845 | 01:39:53
+0856475 | Jorge Luis Orobio Cortes | 3845 | 02:02:43
+0910035 | Luisa Maria Morales Zapata | 3842 | 03:11:24
+0910383 | Elizabeth  Arisala Montaño | 3845 | 03:00:00
+0923046 | Yamid Andres Castro Mejia | 3845 | 00:45:49
+0923724 | Maria Del Mar Ortiz MuÑos | 3841 | 01:37:48
+0923828 | Jennifer Blandon Rios | 3841 | 04:52:42
+0923885 | Viviana Aparicio Serna | 3841 | 10:41:29
+0923992 | Jose Luis Merino Ruales | 3841 | 09:32:07
+0924130 | Jackeline Alexandra Arias Perafan | 3841 | 20:31:26
+0924232 | Javier Herle Velasquez Estrada | 3857 | 04:30:11
+0924322 | Daniel Alejandro Guasmayan Benavides | 3857 | 03:10:24
+0924327 | Carolina Capera Osorio | 3841 | 12:00:00
+0924470 | Jonnathan MuÑos Tobon | 3845 | 03:35:05
+0924587 | William Arboleda Quinayas | 3845 | 00:59:48
+0924623 | Brenda Eunice Cortes Ferrin | 3857 | 00:11:57
+0924685 | Luz Angela Collazos Medina | 3845 | 06:00:00
+0925005 | Andres Julian Triviño Monar | 3845 | 08:00:00
+0925222 | Diana Marcela Garcia Alarcon | 3857 | 01:29:44
+0925295 | Mariet  Lizeth Cabezas Montenegro | 3845 | 01:08:05
+0925629 | Juan Carlos Jaramillo Mora | 3845 | 03:00:00
+0925653 | Alexandra Restrepo Sanchez | 3841 | 02:21:04
+0925742 | Paola Enriquez Riascos | 3841 | 01:39:53
+0925747 | William Murillo Gomez | 3845 | 01:34:46
+0926016 | Jhon Edward Gomez ZuÑiga | 3841 | 21:52:39
+0926351 | Libardo  Leiton Hoyos | 3841 | 01:41:05
+0926444 | Lizeth Angulo Gutierrez | 3841 | 08:42:04
+0930229 | Alexis Palacios Cuacialpud | 3845 | 00:48:53
+0931088 | Karen Alexandra Benavides | 3645 | 03:47:24
+0931208 | Karen Lorena Hurtado Arrechea | 3660 | 09:58:50
+0931286 | María Teresa Idárraga Bastidas | 3660 | 05:24:50
+0931379 | John Estevan Torres Suarez | 3660 | 03:03:14
+0932073 | Diana Marcela Pantoja Diaz | 3846 | 11:22:33
+0932087 | Antony Garces Hurtado | 3651 | 01:42:00
+0932185 | Juan Jose Ruiz Fernandez | 3842 | 03:41:35
+0932190 | Alejandro Sanchez Guevara | 3842 | 00:33:21
+0932359 | Gizelle Astorquiza Trujillo | 3846 | 06:50:11
+0932674 | Katerine Meneses Ramos | 3842 | 23:00:00
+0933082 | Johana Marcela Guacheta Bomba | 3660 | 14:59:21
+0933117 | Eduar Mauricio Otero G | 3846 | 01:13:52
+0933500 | Jhon Freddy Menza Pavi | 3842 | 02:00:00
+0933550 | Piedad  Ortiz Viveros  | 3846 | 06:58:08
+0933675 | Diego Fernando Hernandez Triana | 3846 | 05:00:00
+0933704 | Olamn Alexander Silva Zuñiga | 3648 | 02:23:50
+0933960 | Ana Maria Henao Rivillas | 3340 | 01:00:00
+0934104 | Erika Cobo Ibarguen | 3846 | 01:50:08
+0934145 | Sandra Milena Acosta Alvarez | 3842 | 02:00:00
+0934228 | Marlon Perez Mendoza | 3841 | 03:18:55
+0934266 | Lina Fernanda Guzman DaraviÑa | 3651 | 05:05:00
+0934296 | Christian Andres Bernal Zuñiga | 3651 | 02:27:00
+0934459 | Gener David Tique Benitez | 3846 | 21:43:20
+0934549 | Yasnaiar Marin Arango | 3846 | 01:41:26
+0934609 | Leandro Guzman Santanilla | 3842 | 02:28:29
+0934716 | Giovanni Sanchez Soto | 3846 | 07:40:05
+0935067 | Nolmy Alejandra Padilla Biojó | 3645 | 04:00:00
+0935147 | Liseth Alexan Carlosama | 3645 | 02:52:33
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 06:00:00
+0935675 | Jhonan Fernando Zorrilla Timote  | 3845 | 00:32:52
+0936005 | Alex Fernando Diaz Munoz | 3842 | 02:00:00
+0936012 | Elisa Maria Collazos Loaisa | 3842 | 00:10:27
+0936321 | Diego Fernando  Hoyos Taborda | 3846 | 02:15:22
+0936354 | Andrés Felipe Rivera | 3660 | 00:54:56
+0936625 | Ivan Dario Ramos Vacca | 3846 | 01:57:20
+0936685 | Angela Estrada Lopez | 3660 | 00:32:03
+0936790 | Jessica Tatiana Posse Forero | 3842 | 01:49:44
+0936925 | Diana Marcela Bermudez Vasquez | 3651 | 10:37:31
+0937025 | Paola Alexandra Recalde | 3842 | 06:15:37
+0937351 | Eddna Lorena  Vidal Mendieta | 3660 | 05:10:25
+0937692 | Wanda Jhomally Aguirre Ledezma | 3651 | 00:35:31
+0937712 | Ivan Alexander Lopez Lasso | 3846 | 02:00:00
+0937809 | Karen  Rodriguez  | 3556 | 01:51:32
+0937938 | Ivan Dario Solarte Sarasty | 3846 | 14:20:45
+0938289 | Diana Patricia  Acosta Hernandez | 3842 | 02:36:02
+0939178 | Brian Steven Mesa Acosta | 3846 | 01:14:04
+0939513 | Jessica Natalia Espinosa Martinez | 3842 | 01:00:00
+0939612 | Charlinee Conde Moreno | 3645 | 03:47:51
+0940134 | David Esteban Rincon Jaramillo | 3842 | 03:06:47
+0940301 | Lina Maria PatiÑo Ortiz | 3648 | 04:14:47
+0940435 | Hoover Andres Rosales Velez | 3660 | 17:13:31
+0940884 | Oliver Motaño | 3651 | 02:06:07
+0941113 | Lina Paola Trejos Moreno | 3645 | 00:56:12
+0941565 | Juan  Duque | 3651 | 03:16:49
+0941573 | Erik SaÚl Romero Parra | 3752 | 04:06:12
+0944141 | Jhonatan  Reyes Rosero | 3846 | 03:03:17
+0944320 | Leydi Mayibe Ortega | 3648 | 02:24:15
+0950130 | Jenny Alejandra  Grajales Diaz | 3845 | 00:37:30
+0955498 | Mayra Alejandra Orozco Valdes | 3846 | 04:33:42
+0957237 | Victor Hugo Guevara Suarez | 3846 | 16:10:17
+0957246 | David Alberto Hernandez | 3841 | 00:35:10
+0957393 | Edwin  Perez | 3845 | 02:39:26
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 11:28:51
+1010017 | Maria Isabel Burgos Ortiz | 3841 | 01:18:53
+1010045 | Ximena Perea Torres | 3841 | 06:49:26
+1010105 | Elizabeth Carolina Tobar Gil | 3846 | 03:49:49
+1022864 | Adriana Guerrero Guerrero | 3857 | 01:47:35
+1023049 | Marlen Alexandra Polanco Luna | 3857 | 00:08:44
+1023622 | Yeimmy Cecilia Larrahondo Quintero | 3841 | 05:02:18
+1023634 | Dalis Raquel Tapia Taquez | 3841 | 02:43:55
+1023645 | Willlian Mauricio  Figueroa Prado  | 3841 | 11:00:00
+1023649 | Jeison Andres Escobar Taborda | 3845 | 01:41:54
+1023655 | Angie Pamela Talaga Mejia | 3841 | 06:00:00
+1023829 | Luz Saray  Gonzalez Cortes | 3841 | 05:39:36
+1023850 | Ivonne Stephany Muñoz Ortega | 3845 | 04:35:30
+1023867 | Wilmer Orlando  Delgado Sanchez | 3857 | 18:49:40
+1023953 | Juan Manuel Tobon Rios | 3845 | -00:53:47
+1024209 | Jennifer Barrios Bustamante | 3841 | 00:50:17
+1024346 | Victor Mario Agredo Salazar | 3857 | 05:35:26
+1024430 | Yerly Duque Montoya | 3841 | 08:00:00
+1024442 | Viviana Velasquez | 3841 | 02:07:20
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 03:00:00
+1024506 | Franciney Cardona Lopez | 3841 | 06:00:00
+1024720 | Juan Guillermo Torres Ramirez | 3845 | 00:14:28
+1024915 | Juan Carlos Aguilera Correa | 3845 | 01:17:33
+1024943 | Hugo Cataño Rosero | 3841 | 10:03:09
+1024987 | John Edgar Restrepo Pungo | 3857 | 00:34:41
+1024997 | Jessica Alejandra Garcia Astaiza | 3841 | 00:40:33
+1025032 | Angela Patricia Jimenez Rodriguez | 3857 | 02:00:00
+1025195 | Victor Maurico Molina Martinez | 3845 | 10:00:00
+1025459 | Carlos Dagoberto Zamora Martin | 3841 | 85:52:38
+1025592 | Jaime Antonio Morales Tombe | 3845 | 40:00:00
+1025684 | Martinez Serrato Marcela | 3857 | 05:34:05
+1025825 | Oscar Alberto Lopez Lopez | 3857 | 02:10:06
+1025831 | Heberardo Alexis Vega Vargas | 3845 | 11:00:00
+1025839 | Diana Vanesa Franco | 3845 | 09:00:00
+1026066 | Alexander Riascos Caicedo | 3845 | 11:00:00
+1026101 | Juan Fernando Arias Carmen | 3845 | 02:00:00
+1026219 | Carlos Andres Henao Moreno | 3841 | 03:55:07
+1026384 | Veronica Zapata | 2635 | 09:16:39
+1026413 | Mario Fernando Pajajoy Hernandez | 3841 | 00:52:31
+1026597 | Katherine Sanchez Lomelin | 3845 | 10:00:00
+1026636 | Alvaro Lopez Hernandez | 3845 | 12:00:00
+1026678 | Lizeth Delgado Vargas | 3845 | 06:00:00
+1026726 | Juan David Arias Avila | 3857 | 00:08:11
+1026827 | William Loaiza Rosero | 3845 | 09:57:44
+1026837 | Asdrubal Garcia Pinzon | 3846 | 04:00:00
+1027166 | Cristhian Andres Rojas Zapata | 3842 | 04:53:20
+1027317 | Willington Bautista Ocjoa | 3857 | 04:00:00
+1027376 | Cristian Camilo Miller Cabrera | 3845 | 06:00:00
+1029045 | Diana Carolina Narvaez Cuaran | 3842 | 05:43:58
+1029052 | Diego Bayado Chavez Hernandez | 3842 | 01:58:19
+1030165 | Isabella Pulgliese Rengifo | 3660 | 00:18:53
+1030260 | Diana Carolina Herrera Nagles | 3857 | 02:40:31
+1030354 | Gabriel De Jesus Castaño Muñoz | 3857 | 01:20:57
+1030455 | Maria Fernanda Daza MuÑoz | 3842 | 00:29:49
+1031823 | Vanessa Rivas Benjumea | 3842 | -00:45:51
+1031956 | Erlendy Ibarbo Perlaza | 3857 | 08:24:59
+1032005 | Johanna Sanchez Llorente | 3857 | 28:54:24
+1032032 | Madelein Jimenez | 3661 | 00:22:14
+1032092 | Lady Johanna Sierra | 3842 | 05:47:41
+1032639 | Luis Fernando Motato Castrillon | 3857 | 02:02:20
+1032652 | Angie Lorena  Mera Morales  | 3846 | 03:17:53
+1032707 | Darling Arboleda Gil | 3846 | 04:28:07
+1033493 | Marcel Kogui Lopez Moreno | 3846 | 10:52:13
+1034464 | Stefania Caicedo Pillimue | 3857 | 01:00:00
+1034465 | Kelly Alejandra Serna Ramirez | 3857 | 02:23:25
+1034758 | Juan Jose Oliveros Montoya | 3857 | 00:51:15
+1035042 | Johanna Romero Berdon | 3647 | 01:47:56
+1035301 | Maria De La Paz Fonseca Florido | 3846 | 12:05:20
+1035316 | Juan David Ordoñez Viteri | 3846 | 16:00:39
+1035577 | Judith Marcela Daza Giron | 3857 | 02:52:14
+1035797 | Dayana Quiñonez | 3660 | 04:30:46
+1036082 | Karen Oriola Renteria | 3857 | -00:12:23
+1036098 | Claudia Julieth Carvajal | 3660 | 04:29:40
+1036228 | Christian Yesid Gomez Cordoba  | 3661 | 01:30:21
+1036278 | Kelly Falom Chamorro Armero | 3846 | 12:15:15
+1036387 | Veronica Atsumee  Estupiñan Freire | 3645 | 02:14:27
+1036485 | Julian Mauricio Diaz Sepulveda | 3846 | 02:00:00
+1036499 | Carmen Mejia Ramirez | 3857 | 00:42:51
+1036677 | Leidy Johanna Burbano Ortiz | 3645 | 12:31:10
+1036678 | Jeiner Andres Giraldo Calambas  | 3842 | 03:30:07
+1036684 | Erminzon Hormiga Sanchez | 3842 | 00:31:09
+1036730 | Maryuri Espinosa Barajas | 3842 | 02:15:12
+1036786 | Natalia Lopez Castro | 3857 | 06:35:49
+1036892 | Lizeth Andrea Tunubala Sanchez  | 3857 | 02:26:04
+1036895 | Katherin Adrana Camrgo Cetina | 3857 | 10:31:33
+1036975 | Ginna Rocio Pineda | 3846 | 01:07:05
+1037116 | Julian Steven  Hernandez Rueda | 3660 | 07:39:59
+1037283 | Jorge Fernandez Gallego | 3842 | 01:55:22
+1037361 | Natali Palma Torres | 3857 | 03:34:43
+1037516 | Yeriza  Lilian Molina Rios | 3660 | 03:24:02
+1037575 | Diana Zapata Mamián | 3842 | 02:02:04
+1037625 | Ana Maria Villota Beron | 3660 | 04:24:40
+1037715 | Martha Lucia Garcia Orozco | 3842 | 03:35:15
+1037720 | Samuel Andres  Saavedra Duque  | 3140 | 04:41:47
+1037827 | Juan  Chaguendo Gomez | 3660 | 02:24:13
+1038018 | Lizbeth Yuliet Ocampo Hernandez | 3842 | 04:00:00
+1038199 | Nestor Javier Muelas Calambás | 3846 | 03:57:35
+1038358 | Yimi Andres Tenorio Eraso | 3842 | 21:05:30
+1038395 | Juan Andres Guejia Medina | 3846 | 10:11:43
+1038470 | Salas Zamora Maria Alejandra | 3846 | 00:03:55
+1038514 | Diana Marcela Garces Gonzales | 3846 | 36:30:28
+1038584 | Fabio Andres Gonzalez MuÑoz | 3842 | 01:53:43
+1038910 | Leidy Andrea Giraldo Hoyos | 3842 | 36:53:59
+1038997 | Bermudez Pinzon Jorge Enrique | 2635 | 03:13:24
+1039190 | Melissa Monroy Moreno | 3857 | 06:04:15
+1039197 | Jeferson David Marmolejo Rengifo | 3845 | 01:00:00
+1039348 | Luis Miguel  Benavides | 3660 | 04:28:57
+1039441 | Maria Victoria Rodriguez Chacon | 3842 | 01:37:51
+1039506 | Jhon Alexander Castro Diaz | 3846 | 57:54:37
+1039911 | Jesica Mayeri Martinez Guerrero | 3857 | 00:43:42
+1039975 | Yuly Isabel Cruz Oliva | 3842 | 11:09:48
+1040051 | Luis Fernando Mutis Mora | 3846 | 02:58:53
+1040317 | Diana Marcela Corrales | 3842 | 02:22:15
+1040326 | Magnolia Palomeque Mosquera | 3842 | 02:00:00
+1040446 | Yhensy Liceth Zuluaga | 3647 | 07:03:01
+1040609 | Janier Andres Carmona Idrobo | 3846 | 00:19:53
+1040625 | Carolin Arizabaleta Gonzales | 3846 | 14:00:28
+1040762 | Nathaly Ruiz Torres | 3846 | 05:07:50
+1040896 | Santiago Changuedo Barona | 3846 | 16:19:09
+1040950 | Luis Felipe Valencia Grajales | 3842 | 01:54:13
+1041000 | Jazmin Andrea Salazar Herrera | 3846 | 18:38:24
+1044050 | Monica Dayana Martinez Diafara | 3846 | 09:37:13
+1044058 | Jazmin Riascos Quintero | 3842 | 02:00:00
+1044068 | Edgar David Jaramillo Ubate | 3846 | 05:49:42
+1044087 | Liby Magaly Moreno Casaran | 3647 | 02:38:30
+1044142 | Camila  Cifuentes Sanchez | 2635 | 01:35:44
+1044190 | Jose Bayron Delgado Lopez | 3857 | 02:59:20
+1044200 | Jeferson López Delgado | 3648 | 00:40:32
+1044235 | Tatiana Lorena Clavijo Martínez | 3647 | 00:14:43
+1044246 | Angela Missiu Rodriguez Idrobo | 3846 | 12:53:27
+1044351 | Juan Camilo Gallego Rizo | 3857 | 02:46:19
+1044503 | Stephanie Gonzales | 3857 | 05:00:00
+1044509 | Ivan Dario Camacho Rubio | 3660 | 01:00:30
+1044513 | Mayi Stephanny Gonzales Gomez | 3857 | 44:15:37
+1044532 | Luis Angel  Giraldo Pachon | 3340 | 07:31:22
+1044655 | Carolina Minota Moreno | 3846 | 05:32:23
+1044660 | Diana Patricia Mosquera Flor | 3842 | 02:00:00
+1044673 | Samy Fernando Hernandez Mueces | 3648 | 11:28:30
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 03:56:17
+1044795 | Yoirle Collazos Gomez | 3857 | 06:41:05
+1044817 | Karol Jolyeth  Duque Restrepo | 3648 | 00:52:20
+1052054 | Angela Maria Caicedo Usman | 3645 | 03:08:50
+1052081 | Mauricio Vizcaino Ceballos | 3845 | 00:51:32
+1052152 | Ingri Sulay Gutierrez Guamanga | 3845 | 01:00:00
+1052437 | Maria Isabel CasaÑas Chavez | 3846 | 12:31:45
+1052549 | Max Stephen Diaz Olarte | 3845 | 09:00:00
+1052620 | Hugo Hernan Salcedo Henao | 3845 | 06:00:00
+1052656 | Lina Maria Garcia Antero | 3845 | 08:46:41
+1052776 | Laura Vanessa Gaitan Velez | 3845 | 28:00:00
+1052996 | Clara Ines Morales Martinez | 3845 | 04:00:00
+1104308 | Dorian  Marquez Ramirez | 7880 | 01:51:46
+1110312 | Laura Andrea Espinosa Mosquera | 3646 | 06:20:16
+1110361 | Diana Centeno Perea | 3846 | 06:43:23
+1110392 | Jackeline  Ramos Torres | 3846 | 08:51:33
+1123389 | Brayan Adrian Guerrero Alvarez | 3845 | 74:25:24
+1124096 | Karen Viviana Ortiz Sanchez | 3841 | 16:00:00
+1124402 | Andres Felipe Ayala Marulanda | 2635 | 04:04:28
+1124918 | Mauricio Bastidas Cedeño | 3845 | 02:12:25
+1125129 | Hernan Dario Alvarez Santander | 3841 | 50:09:29
+1125428 | Gloria Stephany Bernal Bermudez | 3841 | 09:10:04
+1125630 | Nathali Barona Lopez | 2635 | 02:00:00
+1125666 | Andrea Patricia  Castañeda Moreno | 3147 | 29:48:20
+1125824 | Alejandra Florez Gonzalez | 3845 | 12:03:23
+1125937 | Lopez Calle Stiwar | 3845 | -00:06:03
+1126039 | Dayana Lorena Ñañez Ramirez | 3845 | 01:38:31
+1126048 | Yessenia Cardozo Aristizabal | 3845 | 10:00:00
+1126239 | Lina Marcela  Rivas Grande  | 3845 | 10:00:00
+1126262 | Claudia Andrea Mosquera Aristizabal | 3845 | 14:00:00
+1126365 | Camilo Andres Vallecilla Colonia | 2635 | 01:00:00
+1126378 | Jhon Jairo Ruiz Velasquez | 3841 | 01:00:00
+1126506 | Heidy Jhoana Chinguad Obando | 3454 | 03:08:06
+1126597 | Natasha Victoria Morales | 3845 | 13:00:00
+1126665 | Gustavo Adolfo Guasaquillo Perdomo | 3841 | -00:51:11
+1126719 | Lizeth Carolina Mamián Cerón | 3845 | 14:00:00
+1126744 | Diana Johanna Volpe Garcia  | 3841 | 12:00:00
+1127135 | Adriana  Cadenas | 3841 | 01:00:00
+1127180 | Heriberto Garcia Becerra | 3845 | 39:00:00
+1127448 | Yilber Antonio Ibarra Buitron | 3845 | 03:23:49
+1127539 | Jhon Filleral Orozco Garci | 3845 | 35:36:56
+1127701 | Kelly Gomez Muñoz | 3841 | 12:00:00
+1127717 | Lizeth  Castro Serrano | 2635 | 02:44:37
+1127844 | Diana Marcela Vallecilla Moreno | 3842 | 06:19:30
+1127862 | Lilian Vanessa Diaz Garcia | 3841 | 23:00:00
+1127969 | Pedro Fernando Cruz Duque | 3845 | 01:39:48
+1128023 | Juan Carlos Rubio Obando | 3454 | 04:31:30
+1128686 | Liliana Maria Morales Trochez | 3841 | 08:00:00
+1129017 | Edwin Esteban Bernal Rodriguez | 3845 | 05:00:00
+1130018 | Leonardo Perez Ossa  | 3845 | 11:00:00
+1130078 | Stephania Lopez Delgado | 3841 | 21:00:00
+1130675 | Laura Lozano Diaz | 3841 | 03:00:00
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 03:03:17
+1130903 | Belsy Ximena Urbano Obregon | 3842 | 02:00:00
+1130958 | Ana Maria Hinestroza Carmona | 3841 | 01:14:13
+1130966 | Brayan Mijail Corbacho Marin | 3841 | 13:00:00
+1131000 | Daniel Alvarez Herrera | 3845 | 18:00:00
+1131666 | Cristian Andres Arroyave Redon | 3846 | 05:00:00
+1131721 | Alex  Allin Gonzales | 2635 | 00:35:29
+1132046 | Luis Fernando  Gallego | 3845 | 07:00:00
+1132076 | Jaime  Cordoba | 3845 | 10:00:00
+1133031 | Gloria Patricia Cifuentes Diaz | 3841 | 09:00:00
+1133108 | Hernan Dario Tulande Pardo | 3845 | 12:00:00
+1133145 | Maria Alejandra Florez Rios | 2635 | 02:31:01
+1133217 | Alexandra Largo Daraviña | 3845 | 14:00:00
+1133286 | Lorena Garcia Florez | 3841 | 05:58:45
+1133355 | Natalia Jaramillo Sanchez | 3845 | 02:12:38
+1133422 | Andres Felipe Quijano Zambrano | 3841 | 03:00:00
+1134091 | Yensi Isabel Erazo Delgado  | 3841 | 06:00:00
+1134144 | Tatiana Torres Palacios | 3845 | 04:27:46
+1134330 | Diana Marcela Gil Lopez  | 3841 | 10:00:00
+1135059 | Claudia Patricia Sanchez Medina | 3661 | 04:56:55
+1135457 | Bryan Steven Angulo Prado | 3857 | 00:08:09
+1135459 | Isamar Ortiz | 2635 | 03:10:19
+1135475 | Jhon Lenerth  Chavez Roman  | 3846 | 01:02:21
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 17:09:18
+1135480 | Erick Sarmiento Bejarano | 3846 | 01:08:22
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 05:12:01
+1136009 | Andre Felipe Gomez Renteria | 3857 | 07:42:41
+1136846 | Juliana Ramirez Rodriguez | 3661 | 01:35:04
+1136864 | Lina Maria Mogrovejo Grueso | 3660 | 02:32:05
+1137044 | Diana Patricia Rodriguez Montenegro | 3645 | 00:33:33
+1137046 | Edwin Ricardo  Lucumi Rivas | 3842 | 12:06:21
+1137202 | Jeiny Jackeline Morales Morales | 3845 | 40:35:36
+1137232 | Jennifer Mesa Gomez | 3842 | 00:04:13
+1137266 | Laura Cristina Vasquez Ramos | 3646 | 01:53:40
+1137279 | Cristian Alfredo Perez Orozco | 3857 | 03:11:22
+1137297 | David Fernando Mendoza Hurtado | 3857 | 00:58:11
+1137390 | Diana Lizeth Rangel Bravo | 3842 | 18:52:04
+1137397 | Hugo Eduardo Espinosa Bravo | 3846 | 01:11:26
+1137534 | Juliana Ramos Chacon | 3648 | 01:34:49
+1137559 | Emmanuel David Suarez Ocampo | 2635 | 03:19:11
+1137583 | Adriano Esteban Rosero Grijalba | 3846 | 11:02:09
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 11:19:04
+1137807 | Sonia Maribel Chalapud Inguilan | 3661 | 01:10:57
+1137902 | Angy Vanessa Herrera Zuluaga | 2636 | 03:27:30
+1138054 | Marlin Johana Guevara Marroquin | 3846 | 08:52:23
+1138055 | Jorge Andres Aguirre Paredes | 3845 | 22:25:11
+1138464 | Angie Carolina Guerrero Benitez | 3645 | 02:14:16
+1138696 | Oscar Andres Chicangana Ruiz | 3660 | 00:54:56
+1138700 | Claudia Patricia Rodriguez Fernandez | 3842 | 06:16:09
+1138752 | Falmy Andres Urbano Moreno | 3857 | 29:54:26
+1138998 | Maria Del Mar Castano Rodriguez | 3648 | 07:01:18
+1139029 | Yudi Estefani Dominguez Bambague | 3645 | 01:22:54
+1139048 | Daniela Paredes García | 3857 | 01:58:50
+1139067 | Diana Marcela Rojas Murillo | 3842 | 16:15:02
+1139098 | Maria Camila  Perez Muñoz | 3661 | 04:57:06
+1139148 | Elcy Magali Caranguay Yampuesan | 3846 | 55:19:25
+1139209 | Carol Vanessa  Tascon Solarte | 3651 | 01:06:21
+1139280 | Yohn Alexander Cruz Mora | 3846 | 04:00:00
+1139447 | Jhon Alexander Perez Vezga | 3857 | 05:41:07
+1139583 | Estefania Montoya Quintero | 3857 | 13:43:00
+1139645 | Heriberto Asprilla CastaÑo | 3645 | 00:52:02
+1139884 | Ivan Rodrigo Delgado Cuene | 3857 | 04:49:44
+1139949 | Johan Alexander Campo Aguiño | 3857 | 01:24:21
+1139959 | Juan David Ramirez Hoyos | 3645 | 03:11:54
+1140022 | Paola Marcela Yela Alarcon | 3645 | 12:14:14
+1140129 | Diana Lorena Ceron Chilito | 3661 | 01:11:20
+1140144 | Erika Natalia Ortiz Landeta | 3842 | 00:29:20
+1140240 | Estiben Garcia | 3646 | 04:48:17
+1140290 | Andres Felipe Gonzalez | 3857 | 02:48:58
+1140439 | Jennifer Stefania Acosta Quintero | 3846 | 01:07:26
+1140521 | Leydi Vanessa Brand Giraldo | 3647 | 00:14:35
+1140588 | Natalia Garcia Bedoya | 3648 | 01:46:08
+1140660 | Fernando Saavedra Ramirez | 3842 | 08:33:44
+1140730 | Claudia Nathaly Rosas Palomino | 3645 | 03:34:36
+1140833 | Stefania Porras Rivera | 3842 | 04:08:53
+1140895 | Santiago Granados Duque | 3857 | 05:29:35
+1140975 | Marilyn Liseth Caicedo Navarro | 3647 | 01:00:00
+1140985 | Yanier Tufiño Castillo | 3846 | 14:00:00
+1141040 | Eliana  Rosero Henandez | 3846 | 01:06:21
+1141391 | Vanessa Romero Ocampo | 3846 | 00:08:12
+1141535 | Samuel Cifuentes Castaño | 3846 | 02:00:00
+1141542 | Mary Ann Fuentes CaÑar | 3846 | 15:46:16
+1141615 | Lina Marcela Menees Benitez | 3651 | 00:51:36
+1141620 | Diana Marcela Findlay  Lopez | 3648 | 04:00:00
+1141631 | Tatiana Carolina Trujillo Londoño | 3857 | 02:22:41
+1142028 | Henry  Alejandro Gutierrez Florez | 3846 | 01:25:45
+1142103 | Juan Felipe  Gonzales Rodriguez | 3846 | 01:14:57
+1142820 | Paula Andrea Jaramillo Garcia | 3857 | 03:17:08
+1142914 | Pedro Luis Asprilla | 1111 | 00:00:39
+1142930 | Anllili Paola Castillo Molina | 3857 | 06:32:50
+1142974 | Juan David Anturi Mejia | 3857 | 02:04:45
+1143006 | Lisdany  Becerra Figueroa | 3661 | 01:26:48
+1143245 | Luis Hernando Beltran Narvaez | 3651 | 03:47:49
+1143667 | Angela Patricia Morante Consuegra | 3857 | 03:54:38
+1143811 | Melissa Alegrias Cambindo | 3842 | 03:30:41
+1143868 | Nicole Andrea Duràn Gonzàlez | 3857 | 06:54:18
+1143883 | Beatriz Elena Rayo Perez | 3857 | 00:59:18
+1144000 | Diego Fernando Cuellar Palacios | 3842 | 68:44:41
+1144416 | Brayan  Hurtado | 3842 | 00:03:19
+1144920 | Diego Fernando Arcila Bautista | 3842 | 00:37:35
+1145165 | Angelica Valenzuela Suarez | 3646 | 06:20:29
+1145454 | Oscar  Eduardo Ordoñez Jaramillo | 3842 | 00:07:42
+1145995 | Raul Alberto Gomez Carvajal | 3846 | 02:42:26
+1145999 | Guiovanni Romo Soto | 3646 | 02:53:08
+1146149 | Juan Gabriel  Prado Ramirez | 3842 | 03:00:00
+1146512 | Kelly Johana Aguilar Urbano | 3648 | 00:53:17
+1146546 | Victor Andres Arbelaez Chantre | 3846 | 06:46:14
+1146686 | Daniela Astrid Cometa | 3842 | 07:00:36
+1146790 | Helman Andres Gomez Mosquera | 2635 | 09:38:02
+1146801 | Fransirley Gonzales Jaramillo | 2636 | 31:51:20
+1146815 | Julio Cesar Guerrero Hoyos | 3857 | 00:00:36
+1146823 | Jhon Alexander Guiral Campo | 3646 | 00:38:46
+1146909 | Ingrid Lizeth Lopez Serna | 3651 | 00:09:49
+1146997 | Angela Patricia Mosquera  Sanchez  | 3651 | 01:01:19
+1147052 | Leslie Johana Ortega Muñoz | 3651 | 00:10:05
+1147058 | Diber  Otalvaro | 2635 | 13:44:30
+1147074 | Juan Manuel Pelaez Posso | 2635 | 03:38:12
+1147132 | Mallerlin Reyes Polo | 3842 | 11:49:05
+1147142 | Angie Vanessa Rivas Rodriguez | 2635 | 00:55:44
+1147250 | Jessica Urbano Valdez | 3842 | 04:53:31
+1150946 | Beatriz Adriana Lopez Nieto | 3846 | 02:51:34
+1151377 | Jhoana  Miranda Ceballos | 3845 | 12:00:00
+1153425 | Bivian Fernanda Restrepo | 3845 | 16:00:00
+1204830 | Americo  Mosquera Valencia | 3741 | 00:13:57
+1210057 | Yuly Millan Gonzalez | 3647 | 03:43:51
+1210067 | Luz Edith Perez Trejos | 3646 | 06:57:29
+1210074 | Gerardo Antonio Rincon Castillo | 3647 | 34:36:35
+1210213 | Dayse Julieth Barrios Hurtado | 3646 | 08:36:28
+1210239 | Alejandro  Fernandez Rendon | 3857 | 01:00:00
+1210308 | Jennifer Vargas Ospina  | 3842 | 14:06:14
+1223931 | Jeffrey Alberto Zota Londoño | 3841 | 01:37:31
+1224251 | Yeison  Saavedra Soto | 3841 | 06:16:28
+1224287 | Manuel Ballesteros Martinez | 3841 | 01:31:03
+1224301 | Diana Milena  Lozano Reyes | 3845 | 01:07:46
+1225136 | Cristian Jaramillo Valencia | 3845 | 08:46:07
+1225323 | Yesica Alejandra Ojeda Martinez | 3845 | 00:30:42
+1226016 | Daniel Libar Taimal Cuiacal | 3841 | 00:24:52
+1226136 | Lina Fernanda Lucumi Mosquera | 3841 | 06:18:10
+1226258 | Juan David Ortiz Zapata | 3845 | 02:13:25
+1226270 | Steven Felipe Loaiza Marin | 3845 | 00:46:57
+1226700 | Angela Maria Suarez Galvis | 3841 | 13:20:02
+1226980 | Edixon Fernando Daza Cancimansi | 3841 | 02:00:00
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 08:03:26
+1227122 | Henry  Rivera Diaz | 3841 | 02:10:48
+1227324 | Cristhian Humberto Hernandez Erazo  | 3845 | 14:20:30
+1227520 | Daniela Maria Cruz Armero | 3841 | 02:00:00
+1227551 | Andres Felipe Gutierrez Vasquez | 3845 | 00:12:29
+1227890 | Maria Andrea Lopez Casas | 3845 | 04:22:40
+1227952 | Mariana Gomez Vasquez | 3752 | 01:12:10
+1228900 | Estiben Plazas MuÑoz | 3845 | 23:44:27
+1228930 | Erika Guerrero Lopez | 3845 | 05:00:00
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 02:00:00
+1229388 | Juan Camilo  Gutierrez Vergara | 3845 | 07:17:29
+1229476 | Banny Melissa  Gomez Garcia | 3841 | 04:41:55
+1229812 | Natalia Eugenia Zambrano Valencia | 3841 | 01:20:42
+1230194 | Andres Felipe Toro Serrano | 3841 | 01:00:00
+1230230 | Deisy Yuliana Velez Maya | 3841 | 10:09:34
+1230373 | Juan Sebastian Barbosa Fernandez | 3845 | 09:17:31
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 65:37:25
+1231664 | Francisco Javier Aguirre Castaño | 3845 | 15:12:11
+1231962 | Gislena  Torres Cordobes | 3841 | 06:00:00
+1235009 | Viviana Valdes Barcos | 3660 | 00:48:28
+1235087 | Monica Andrea Gurrute Calambas | 3846 | 04:20:19
+1235262 | Christian Steven Garcia Tobar | 3857 | 07:46:11
+1235462 | David Florz Osorio | 3842 | 18:06:33
+1235704 | Leidy Yuliana Caro Lopez | 3857 | 04:48:02
+1235727 | Sebastian Florez Rengifo | 3857 | 12:06:35
+1235953 | Jasson Eliecer Torres Jimenez | 3857 | 00:08:49
+1235993 | Victor Hernan  Lopez | 3842 | 01:00:00
+1236091 | Canlos Andres  Pescador Dias | 3842 | 05:13:16
+1236231 | Carolina Holguin Garcia | 3841 | 04:11:35
+1236242 | Jina Mariont Velasco Arias | 3645 | 03:27:11
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 07:00:12
+1236444 | Edgar David Jaramillo UbatÈ | 2222 | 11:38:03
+1236465 | Lorena Vallejo Labrada | 3660 | 02:42:29
+1236558 | Johana Andrea  Ruiz Martinez  | 3661 | 04:18:53
+1236651 | Lina Yisela Burbano Uribe | 3857 | 22:22:01
+1237065 | Leidy Vanesa Tigreros | 2635 | 02:52:42
+1237105 | Diana Galindez Gómez | 3661 | 06:00:00
+1237198 | Jhoan Fernando MuÑoz Velasco | 3660 | 00:19:44
+1237200 | Edwar Geovanny Dominguez Castro  | 3842 | 04:13:53
+1237212 | Will Fredo Garcia | 3842 | 05:09:56
+1237244 | Ivan Camilo  Guerrero Castañeda | 3842 | 01:00:00
+1237254 | Juan Marcos Molina Rodriguez | 3660 | 02:37:47
+1237298 | Henry  Orozco Escobar  | 3846 | 01:35:45
+1237303 | Astrid Carolina Astaiza Tabares | 3857 | 03:20:24
+1237367 | Bryan Geobany Vivas Trochez | 3842 | 07:36:45
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 16:34:55
+1238131 | Paula Andrea  Bastidas Agudelo  | 2635 | 02:57:36
+1238174 | Diana Fernanda Monroy Ladino  | 2635 | 01:00:17
+1238474 | Andres Ricardo Tangua Arias | 3660 | 01:41:39
+1238540 | Jhoan Stiven Rodriguez Ovalle | 3842 | 05:05:52
+1238784 | Lesney Zuleima Vargas Garcia | 3841 | 00:54:00
+1238825 | Yudy Natalia Avirama Fernández | 3842 | 02:13:41
+1239012 | Daniel Santiago Grijalva Zuluaga | 3660 | 00:18:53
+1239155 | Luisa Fernanda Ramirez Ramirez | 3846 | 02:00:00
+1239236 | Leidy Juliana Rodriguez NiÑo | 3846 | 02:21:08
+1240296 | Laura Maria Hurtado Ochoa | 2635 | 01:00:00
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 02:02:40
+1240840 | Julieth Sofìa Alarcon Garcia | 3842 | 24:00:00
+1241010 | Martin Rodriguez Trujillo | 3660 | 02:00:00
+124110 | Mirlelly Aguilar Peña | 3660 | 01:55:54
+1241313 | Leydi Marcela Luna Acosta | 3842 | 15:00:00
+1241352 | Nathanael Medina Pineda | 3846 | 01:35:34
+1241368 | Diana Carolina Mejia Hernandez | 3660 | 03:32:27
+1241426 | Evelyn Vargas Santamaria | 3841 | 04:00:00
+1241593 | Carolina Guillen Reina | 3842 | 00:54:59
+1241599 | Angie Viviana Aristizabal Lopez | 3857 | 01:21:25
+1241858 | Yeison Dario Chicaiza Botina | 3660 | 00:41:04
+1242043 | Eder Aleison Nieto Carvajal  | 3660 | 10:36:35
+1242053 | Jorge Andrés Florian Agudelo | 3660 | 01:55:47
+1242205 | Johana Alexa  Cifuentes Riascos  | 3846 | 01:12:21
+1242214 | Wilmer Andres Moreno Restrepo | 2636 | 01:22:41
+1242227 | Ivan MuÑoz Bravo | 3846 | 02:43:27
+1242303 | Cristhian Miguel Calderon Sabogal | 3660 | 02:23:22
+1242304 | Juan Camilo Vasquez Arce | 3842 | 04:45:06
+1242510 | Diana Marcela Ponce Cachimbo | 2635 | 02:00:00
+1242515 | Alejandro  Castellanos Solis  | 3842 | 11:05:18
+1242521 | Leidy Viviana  Gonzalez Carmona | 3857 | 03:38:47
+1242563 | Freddy Alexander Beltran Salcedo | 3660 | 03:47:27
+1242580 | Laura Alejandra Osorio Alarcon | 3857 | 02:31:32
+1242714 | Sandra Patricia Rodriguez Toro | 3660 | 02:08:30
+1242719 | Ronald Steven Peña Dominguez | 3857 | 09:30:58
+1243501 | Luz Karine Jaramillo Rodriguez  | 2635 | 09:23:31
+1243541 | Karen Andrea Franco Escobar | 3846 | 00:23:46
+1243647 | Bertha Ruth Caviedes Gomez | 3857 | 00:47:22
+1243700 | Jhon Henry Rivera Diaz | 2635 | 14:28:59
+1243832 | Gustavo Andres  Andrade Patiño  | 2635 | 00:15:02
+1244674 | Jhon Jader  Bedoya Abanis | 3842 | 06:35:23
+1244710 | Heidy Leany  Burbano Quiñones  | 3842 | 01:00:00
+1244751 | Mirian Carolina Castillo Bello | 2635 | 05:47:45
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 37:00:00
+1244826 | Stephanie Devia Valdez | 3651 | 03:16:32
+1245053 | Nayda Yasir  Mancilla Gonzalez | 2635 | 00:03:54
+1245267 | Maria Alejandra  Ramirez Asmaza  | 2635 | 07:42:26
+1245314 | Deisy Lorena Rodriguez Rivera | 2635 | 01:00:00
+1245329 | Lucero Maria Rotavisque Alacon | 2635 | 01:00:00
+1245414 | Paola Andrea Trujillo Lamus | 3857 | 13:17:50
+1245522 | Maria Isabel Chavez Ibarra | 3857 | 00:12:05
+1245594 | Gustavo Portocarrero Yepes | 2635 | 00:49:09
+1257193 | Fabian Alberto Padilla Cuenca | 3845 | 00:12:24
+1257380 | Cristian  Zambrano  Pino | 3841 | 01:00:00
+1304647 | Edinson Suarez Fandiño | 7880 | 03:09:27
+1310004 | Irma Veronica Almeida Tapasco | 3846 | 07:00:00
+1310005 | Luz Marina Altamirano | 3846 | 04:43:21
+1310045 | Cristian Andres  Guerrero Fernandez | 3660 | 08:52:00
+1310076 | Claudia Milena Moreno | 3846 | 03:00:00
+1310262 | Sebastian Olarte Silva | 3845 | 15:00:00
+1310289 | Andres Felipe Trujillo Gomez | 3842 | 01:48:35
+1317009 | Lina Vanessa OrdoÑez Tamayo | 1631 | 21:24:55
+1317024 | Margarita  Noguera Ramirez | 1631 | 01:29:25
+1317026 | Adriana Castaño Carlosama | 1631 | 04:50:55
+1324408 | Jaime Orlando Aza Aza | 3841 | 27:53:00
+1328028 | Baquero Calderon  German Andres | 3845 | 05:34:10
+1328121 | Jhonatan Alesander Cuervo LondoÑo | 3845 | 00:15:51
+1329376 | Harold Steven Garzón Gomez | 3845 | 00:07:39
+1329802 | Rosa Alexandra Idarraga Rengifo | 3841 | -00:56:36
+1330076 | Omar Alejandro Ceballos Sepulveda | 3841 | 01:52:24
+1330084 | Diana Carolina Zapata Carvajal | 3841 | 02:31:04
+1330396 | Laura Daniela Otalvaro Gómez | 2636 | 01:57:38
+1330415 | Jima Lizeth Diaz Caicedo | 2635 | 01:12:16
+1330562 | Diego Fernando Estrella Bedoya | 3841 | 00:06:43
+1332428 | Estefania Giraldo Muñoz | 3845 | 05:17:57
+1335515 | Carlos Alberto Erazo Lopez | 3846 | 08:37:55
+1335623 | Julian  Galvis | 3647 | 08:35:57
+1335628 | Leon Felipe Meneses Lopez | 3857 | 01:00:00
+1335866 | Angie Vanessa EspaÑa Mamian | 3846 | 04:31:12
+1336830 | Cristian David Zuluaga Vasquez | 3857 | 01:00:00
+1337053 | Yulieth Katherine Paz Payan | 3842 | 14:39:19
+1337083 | Diana Carolina Vallejo Taborda | 3842 | 04:34:15
+1337104 | Estefania  Nuñez Ortega | 3857 | 03:17:25
+1337163 | Oscar Eduardo Castillo Morales | 3842 | 01:34:57
+1337229 | Juan David Ruiz Chavez | 3842 | 34:42:26
+1337302 | Andres Felipe Suarez | 3857 | 04:12:50
+1337540 | Estefania Giraldo | 3857 | 08:45:58
+1337551 | Juan Felipe Velandia Zuluaga | 3842 | 00:23:35
+1337599 | Eileen Juliana Castillo Mazo | 3857 | 05:25:52
+1337633 | Olmer Enrique Mina Segura | 3842 | 04:02:39
+1338047 | Jackeline Realpe Ledezma | 3857 | 01:00:00
+1338058 | Luisa Fernanda Pulgarín Cardona | 3484 | 02:04:36
+1338078 | Aura Cristina Sanabria Dominguez  | 3857 | 03:06:54
+1338091 | Esteban  Quintero Bonilla | 3857 | 03:18:07
+1338213 | Estefany Sanchez Padilla | 3857 | 00:47:30
+1338289 | Juan Pablo Orozco Alzate | 3842 | 06:20:30
+1338431 | Isabella Villanueva Saavedra | 3842 | 05:44:41
+1338439 | Laura Maritza Mazuera Mosquera | 3857 | 00:24:30
+1338744 | John Fernan Hernandez Alvarado | 3846 | 00:28:05
+1340784 | Cindy Julieth EstupiÑan Vallesilla | 3842 | 07:36:19
+1340937 | Genner Aly Mera Yalanda | 3857 | 08:17:54
+1340984 | Gustavo Alberto Urbano Narvaez | 3857 | 00:15:56
+1341047 | Sandra Jazmin Vargas Castillo | 3846 | 01:00:00
+1341152 | Laura Viviana Guarnizo Inchima | 3842 | 05:03:16
+1341243 | Luis Miguel Samboni Chilito  | 3842 | 23:58:17
+1341434 | Jhoan Manuel  Sinisterra Galindo  | 3651 | 02:50:49
+1341435 | Adriana Lucía Tipas Alpala | 3842 | 02:48:17
+1341454 | Yeimi Fernnanda Aguirre Aguirre | 3842 | 00:01:32
+1341501 | Mauricio Morcillo Picon | 3842 | 37:25:33
+1341612 | Maria Alejandra Cardona Morales | 3857 | 00:09:59
+1341700 | Luis Felipe  Gonzalez Saavedra | 3857 | 04:30:07
+1341808 | Jhon Harol Lopez Cadena | 3842 | 16:56:29
+1341937 | Yisel Mabirlly Leon Sanchez | 3842 | 00:00:24
+1341943 | Andres David Garcia Urbano | 3857 | 02:00:00
+1342016 | Luis Alejandro Sarria | 3857 | 00:47:31
+1342202 | Maidy Viviana Vargas OrdoÑez | 3857 | 01:00:00
+1342275 | Andres Aldemar Rodriguez Romo | 3842 | 05:58:06
+1342333 | Raul Andres Lopez Ballesteros | 3841 | 04:28:17
+1342384 | Shareen Marcela Vera Puentes | 3842 | 05:48:41
+1342458 | Larry Fabian Bedoya Contreras | 3842 | 03:19:20
+1342475 | Monica  Vargas Peña | 3857 | 00:19:07
+1342521 | Lady Melisa Montaño Nuñez | 3842 | 16:10:55
+1342686 | Andres Felipe Martinez Lopez | 3842 | 01:53:19
+1342908 | Natalia Andrea  Muriel Marin | 3857 | 00:52:19
+1343100 | Luisa Maria Gonzales Escobar | 3841 | 01:58:21
+1343367 | Freddy Alberto Meneses Tigreros | 3842 | 00:03:00
+1358717 | Edgar Lasso Mezu | 3845 | 06:40:53
+1410110 | Victor Manuel  Rodriguez | 3660 | 02:58:47
+1410121 | Wilmer Armando Valencia Alvarado | 3841 | 22:47:42
+1419203 | Liseth Vanessa Penagos Mejía | 3845 | 02:36:23
+1419204 | Angie Johanna Garcia Lozano | 3846 | 03:30:16
+1419205 | Daniel Hernan De Leon De La Hoz | 3846 | 01:06:30
+1419206 | Paola Andrea Vargas Vera | 3846 | 04:03:13
+1419207 | Angela Tatiana De La Cruz Salazar | 3846 | 02:35:54
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 17:00:00
+1422909 | Leydy Carolina Guzman Tosse | 3841 | 07:00:00
+1422916 | Jhon Sebastian Giraldo | 3841 | 05:00:00
+1422928 | Santiago Ospina Perez | 3841 | 01:00:00
+1423339 | Laura Alejandra Martinez Grisales | 2635 | 00:43:47
+1423391 | Daniela Andreina Martinez Garcia | 2635 | 03:09:04
+1424214 | Alejandro Gomez Mosquera | 3845 | 02:28:17
+1424521 | Luis Angel Giraldo Pachon | 3841 | 03:00:00
+1424553 | Julian Andrés  Garay Fernandez | 3841 | 11:00:00
+1424696 | Jhon Jairo Bedoya | 3841 | 06:00:00
+1425020 | Victor Hugo  Duarte Murillo | 3841 | 05:00:00
+1425033 | Leandro Guzman Santanilla | 3841 | 02:45:38
+1425154 | Daniela Andrea Giraldo | 3841 | 08:00:00
+1425563 | Katerine Valderrama Pinto | 2635 | 00:45:25
+1425585 | Jessica Maria Castillo Lucumi | 3841 | 05:00:00
+1425791 | Wilmar Arlex Santana Madrid | 3845 | 08:34:47
+1425920 | Daniela  Rivas Perea | 2635 | 00:44:30
+1425979 | Nicol Dayana Gonzalez Jimenez | 3841 | 13:00:00
+1425984 | Miguel Angel Garcia Medina | 3845 | 02:28:36
+1426146 | Alexandra Ospina Cabrales | 2635 | 00:46:03
+1426147 | Julio Cesar Panesso Rivera | 2635 | 00:46:53
+1426195 | Amanda Ceballos Imbacuan | 2635 | 00:47:11
+1426553 | Angela Maria Imbachi | 3841 | 14:00:00
+1426579 | Daniela Molina Londoño | 3841 | 01:00:00
+1426721 | Rubén Dario  Castillo | 3841 | 06:00:00
+1426766 | Julian Mauricio  Montilla Gamboa  | 3845 | 04:32:28
+1427122 | Jaime Enrique Cundar Zambrano | 3845 | 03:06:04
+1427231 | Dario Fernando Ramirez Ortiz | 2635 | 00:43:28
+1427347 | Robinson Leon Romero | 2635 | 00:49:24
+1427566 | Angelica Maria Gomez Cano | 3845 | 01:17:18
+1427609 | Luisa Maria Yepes Torres | 2635 | 00:45:55
+1427682 | Yaine Bolena Ballesteros | 3841 | 08:00:00
+1427881 | Sebastian Guarnizo Rosero | 3660 | 16:25:00
+1428295 | Laura  Restrepo | 2713 | 02:27:35
+1428320 | Manuel Alejandro Castro | 3841 | 07:00:00
+1428441 | Aldrea Alzate Rodriguez | 2635 | 00:46:28
+1428631 | Leydy Carolina Guzman Tosse | 3841 | 05:00:00
+1428797 | Duvan Alexis Salazar Giraldo | 3841 | 01:49:43
+1428845 | Juan David Rodriguez Alzate | 2635 | 03:08:36
+1429227 | Lina Paola Trejos Moreno | 3263 | 01:39:17
+1429715 | Jessica Manuela Alvarez Cuero | 2635 | 00:48:44
+1429832 | Marisol López Perez | 3841 | 06:00:00
+1429839 | Marisol  Lopez Perez | 3841 | 01:00:00
+1429914 | Carlos  Gil Guerrero | 3845 | 05:22:26
+1430094 | Maira Alejandra  Arévalo | 3841 | 08:00:00
+1430120 | Johathan Martinez Marmolejo | 3841 | 01:25:29
+1430586 | Valeria Alexis  Restrepo Zapata | 3841 | 02:00:00
+1431160 | Paul Cristian Martinez Cardona | 3845 | 04:00:00
+1431693 | Juan Manuel Gomez Macias | 3841 | 09:00:00
+1432687 | Maria Del Mar Delgado Vargas | 2635 | 00:46:37
+1432733 | Cindy Tatiana Ocampo Garcia | 2635 | 00:49:48
+9117150 | Ricardo Cuero Ruiz | 3845 | 08:47:44
+9205617 | Maria Fernanda Ortiz OrdoÑez | 3845 | 03:00:00
+9222342 | Ramiro Mendoza Manrique | 3845 | 00:24:44
+9223717 | Luis Alfredo Ruiz Montao | 3845 | 03:00:00
+9514261 | Paola Andrea Fajardo Garces | 3845 | 07:00:00
+
+
+Elaborado el... 9 de Junio de 2014
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0024551 | Paulo Andres Riascos PÉrez | 3845 | -00:40:00
+0130901 | Hernando Antonio Giraldo Botero | 3845 | 01:00:00
+0222034 | Carmenza Trochez Alzate | 3841 | 02:00:00
+0228407 | Esther Lucía Quiñonez Pachano | 3846 | 08:57:20
+0230589 | Yeiner Fernando Vasquez Castro | 3461 | 07:22:48
+0249264 | Monica Edith Uribe Reyes | 3845 | 02:00:00
+0322015 | Andres Felipe Salazar UrueÑa | 3846 | 01:00:00
+0322099 | Carlos Andres Rodriguez PatiÑo | 3845 | 02:12:08
+0322414 | Enerieth Sanchez Arteaga | 3846 | 04:51:52
+0332043 | Diego Felipe Fernandez Castillo | 3845 | 03:00:00
+0340220 | Johanna Liset Ramos Ruiz | 3846 | 01:09:26
+0423079 | Maricel Giraldo Villano | 3841 | 01:49:21
+0430187 | July Marlen  OrdoÑez Ceron | 3845 | 02:00:00
+0432524 | Vanessa Correa Mosquera | 3842 | 06:28:47
+0522402 | Maritzabel Bermudez Arango | 3845 | 02:00:00
+0530471 | Erika Maria Herrera ZuÑiga | 3845 | 01:57:31
+0531750 | Sonia Milena Rodriguez Quitora | 3841 | 01:53:48
+0536472 | Deyber Wenceslado Dussan Betancourt | 3841 | 00:56:34
+0553350 | Luz Mary Martinez Naranjo | 3845 | 03:58:39
+0554240 | Marco Tulio Arango Plata | 3845 | 00:41:36
+0557367 | Mary Luz Galvez Cruz | 3842 | 05:38:26
+0610296 | Carolina Trejos Gonzales | 3845 | 02:26:54
+0623392 | Luis Alfredo Gomez Soto | 3842 | 03:57:10
+0624017 | Maria Idalia Polanía Jimenez | 3841 | 19:20:51
+0624726 | Yamileth Aquilina Espinosa BiojÓ | 3845 | 02:00:00
+0625333 | Francisco Javier Grueso Lemos | 3845 | 03:00:00
+0625659 | Diego Alexander Chamorro Gonzalez | 3841 | 00:35:44
+0626309 | Diana Lorena Rúgeles López | 3841 | 01:00:00
+0632252 | Javier Bernardo Cuellar Molina | 3842 | 00:45:31
+0633367 | Jeison David Ferreira Guaichar | 3846 | 01:14:15
+0635035 | Natalia  Edith Reyes Galeano | 3845 | 02:16:27
+0636221 | Juan David Vasquez Porras | 3846 | 00:48:16
+0636769 | Ernesto Hoyos Martin  | 3555 | 02:40:29
+0637240 | Fabian Mauricio Arce | 3845 | 04:26:31
+0637715 | Alba Zully LondoÑo Castillo | 3841 | 03:18:16
+0638278 | Silene Arce Romero | 3846 | 05:19:59
+0652188 | Ricardo BriceÑo Sierra | 3845 | 05:43:00
+0730551 | Yenny Andrea Lourido Enriquez | 3842 | 01:20:48
+0731604 | David Gilberto Quintero Sánchez | 3846 | 06:03:38
+0731775 | Jose Luis Naranjo Riascos | 3845 | 17:10:16
+0731924 | Elier Rodolfo MuÑoz MuÑoz | 3842 | 02:05:19
+0732159 | Javier Andres Sabogal Candas | 3846 | 28:15:52
+0732238 | Diana Patricia Rojo Castillo | 3845 | 01:00:44
+0732387 | Leidy Johanna Sanchez Paladines | 3846 | 03:00:00
+0733808 | Jakeline Moreno Perea | 3841 | 01:20:50
+0734051 | Andres Felipe Carabali Lugo | 3841 | 00:39:37
+0734962 | Bayron Ebrique Meneses Londoño | 3841 | 07:00:00
+0736326 | Juan Sebastian  Gonzales Ramirez | 3842 | 04:07:04
+0737053 | Julian Bermúdez Martínez | 3845 | 04:00:00
+0737456 | Ana María Cortezano Vélez | 3841 | 01:29:33
+0737886 | Felipe Andrés Calderón Mejía | 3660 | 00:22:59
+0740014 | Jairo Paz Obando | 3841 | 04:06:43
+0740426 | Jose Andres Barrantes Cruz | 3841 | 01:01:35
+0740804 | Diana Patricia Campo Caballero | 3842 | 01:00:00
+0741292 | Adriana Maria Saa Paz | 3845 | 03:56:42
+0741742 | Julian Andres Raquejo OrdoÑez  | 3845 | 00:02:31
+0743940 | Mauricio Alejandro Caicedo | 3842 | 05:49:49
+0745539 | Diego Fernando Cordoba Avendaño | 3841 | 00:11:16
+0746988 | Heidy Aguilar Mosquera | 3846 | 03:00:00
+0747336 | Sandra Marcela  Bonilla Carrillo  | 3648 | 06:18:07
+0747337 | Yully Vanessa  Bonilla Carrillo  | 3648 | 10:59:09
+0747533 | Kely Johanna Murcia Gómez | 3845 | 06:00:00
+0749278 | Estefania Guzman Palacio | 3846 | 05:19:41
+0750749 | Willian Mauricio  Valera Contreras  | 3648 | 05:23:35
+0751158 | Jorge Andrés  Riaño Ortega | 3841 | 03:24:06
+0753783 | Adriana M. Osorio Escobar | 3845 | 10:39:01
+0764370 | Angelica Maria Jimenez Tabares | 3845 | 00:27:13
+0766912 | Angela Mercedez  Marmolejo Davila | 3845 | 01:00:00
+0767476 | James Edinson Marmolejo Rengifo | 3841 | 00:40:15
+0822996 | Lina Marcela Villamil Meza | 3846 | 16:15:46
+0823512 | Flor Alba Paz Valencia | 3857 | 00:02:09
+0823536 | Jackeline Muñoz Meneses | 3846 | 02:43:33
+0824221 | Julian Arango Ángel | 3846 | 03:00:00
+0824296 | Deybi Jeferson Mondragon Vargas | 3845 | 10:00:00
+0824403 | Jenny Karol Baos Solarte | 3842 | 00:50:43
+0824425 | Ana Maria Rios Giraldo | 3846 | 00:04:42
+0824680 | William Drada CastaÑo | 3845 | 04:00:00
+0825007 | Jairo Alejandro Becerra Jurado | 3841 | 04:54:25
+0825603 | Miller A Camacho Belalcazar | 3845 | 09:00:00
+0826230 | Dario Fernando Ruiz Rios | 3845 | 05:18:27
+0826335 | Christian Arbey Delgado Jamauca | 3845 | 03:54:33
+0826351 | Daniela Elena Guerrero Gasca | 3842 | 03:33:59
+0827212 | Jorge Arlex Correa MuÑoz | 3845 | 00:24:28
+0827219 | Nathalia Sandoval Herrera | 3842 | 02:00:00
+0827344 | Andres Felipe  Peña Becerra | 3842 | 00:00:23
+0827450 | Juan Carlos Ballesteros Garcia | 3845 | 03:37:02
+0827604 | Bonny Rubys Lara Ospino | 3842 | 01:36:01
+0828100 | Ana Maria Marmolejo Duque | 3845 | 05:51:04
+0828138 | Andres Felipe Taquez Hoyos | 3841 | 00:08:42
+0828644 | Carolina Mora Ducuara | 3841 | 00:48:24
+0829711 | Zuleyda Salazar Garcia | 3841 | 03:23:08
+0829788 | Milton Cesar Mosquera Villamarin | 3845 | 00:07:28
+0829979 | Maryury Hernandez Diaz | 3842 | 02:02:58
+0829999 | Grace Albani Cuaran Charfuelan | 3846 | 22:56:53
+0832014 | Stephany Vasquez Delgado | 3842 | 06:00:00
+0832207 | Oscar Mauricio Musse Chantre | 3841 | 01:58:57
+0832419 | Nelson Yesid Otero Piedrahita | 3845 | 17:41:52
+0832559 | Diana Maria Carvajal Trochez | 3845 | 04:00:00
+0832835 | Cristian MuÑoz Morales | 3846 | 05:00:00
+0832863 | Rosaly Stefania  Cruz Mendoza | 3846 | 01:23:01
+0832906 | Sandra Ximena Villaquira Leon | 3846 | 04:38:57
+0835401 | Paola Yineth Acosta Ortiz | 3751 | 00:17:31
+0836231 | Brigitte Marcela Velez Arias  | 3556 | 02:18:01
+0837332 | Alejandro Guaza Renteria | 3846 | 00:59:10
+0837715 | Karen Danitza Ordoñes Solarte | 3842 | 01:18:15
+0838177 | Lina Vanessa Rueda Osorio | 3250 | 02:50:59
+0838537 | Fabio Madrid Giraldo | 3845 | 04:30:58
+0839039 | Adriana Margarita Trejos Tenorio | 3660 | 02:06:35
+0839149 | Diana Katherin Vargas Tamayo | 3846 | 00:59:53
+0839719 | Zoraida Vallejo Kueconamuy | 3651 | 08:57:09
+0839957 | Maria Del Pilar Godoy Escobar | 3845 | 15:36:22
+0839989 | Julian Andres  Martinez Mosquera | 3845 | 33:17:23
+0840095 | Sandra Judith Ordoñez Marin | 3841 | 00:23:57
+0840419 | Johan Alexander  Campo | 3857 | 02:47:48
+0840460 | Francisco Ricardo Molina Mora | 3842 | 01:24:18
+0840515 | Edwin Bravo Dominguez | 3842 | 06:15:53
+0840553 | Daniel Esteban Rengifo | 3842 | -00:12:16
+0840763 | Jonathan  Jaimes Ortega | 3842 | 01:03:45
+0841338 | Mayra Alejandra Barbosa Ospina | 3845 | 00:32:39
+0842145 | Diego Fernando  Vanegas Lopez | 3846 | 04:47:29
+0842181 | Ana Maria Castillo Correa | 3842 | 16:49:03
+0842540 | Katherine Valencia Calvache | 3842 | 05:45:25
+0842596 | Libardo Peres Sinisterra | 3845 | 02:00:00
+0843480 | Ingrid Yaisury Muños Rodriguez | 3842 | 10:20:30
+0843692 | Lenin Camilo  Diaz Jaramillo | 3842 | 03:54:30
+0843739 | Luis Carlos Cabrera Narvaez | 3846 | 44:10:14
+0843836 | Leyder Dagua Trochez | 3845 | 03:07:18
+0843869 | Steven Andres BolaÑos Aquite | 3842 | 05:09:09
+0844114 | Diana Marcela Arias Bonilla | 3845 | 00:26:02
+0844139 | Karol Enith Uribe Benavidez | 3845 | 10:19:23
+0844304 | Juan Pablo Lasso Argote | 3846 | 04:00:00
+0853539 | Junior Andres Hernandez | 3845 | 01:39:53
+0856475 | Jorge Luis Orobio Cortes | 3845 | 02:02:43
+0910035 | Luisa Maria Morales Zapata | 3842 | 03:11:24
+0910383 | Elizabeth  Arisala Montaño | 3845 | 03:00:00
+0923046 | Yamid Andres Castro Mejia | 3845 | 00:45:49
+0923724 | Maria Del Mar Ortiz MuÑos | 3841 | 01:37:48
+0923828 | Jennifer Blandon Rios | 3841 | 04:52:42
+0923885 | Viviana Aparicio Serna | 3841 | 10:41:29
+0923992 | Jose Luis Merino Ruales | 3841 | 09:32:07
+0924130 | Jackeline Alexandra Arias Perafan | 3841 | 20:31:26
+0924232 | Javier Herle Velasquez Estrada | 3857 | 04:30:11
+0924322 | Daniel Alejandro Guasmayan Benavides | 3857 | 03:10:24
+0924327 | Carolina Capera Osorio | 3841 | 12:00:00
+0924470 | Jonnathan MuÑos Tobon | 3845 | 03:35:05
+0924587 | William Arboleda Quinayas | 3845 | 00:59:48
+0924623 | Brenda Eunice Cortes Ferrin | 3857 | 00:11:57
+0924685 | Luz Angela Collazos Medina | 3845 | 06:00:00
+0925005 | Andres Julian Triviño Monar | 3845 | 08:00:00
+0925222 | Diana Marcela Garcia Alarcon | 3857 | 01:29:44
+0925295 | Mariet  Lizeth Cabezas Montenegro | 3845 | 01:08:05
+0925629 | Juan Carlos Jaramillo Mora | 3845 | 03:00:00
+0925653 | Alexandra Restrepo Sanchez | 3841 | 02:21:04
+0925742 | Paola Enriquez Riascos | 3841 | 01:39:53
+0925747 | William Murillo Gomez | 3845 | 01:34:46
+0926016 | Jhon Edward Gomez ZuÑiga | 3841 | 21:52:39
+0926351 | Libardo  Leiton Hoyos | 3841 | 01:41:05
+0926444 | Lizeth Angulo Gutierrez | 3841 | 08:42:04
+0930229 | Alexis Palacios Cuacialpud | 3845 | 00:48:53
+0931088 | Karen Alexandra Benavides | 3645 | 03:47:24
+0931208 | Karen Lorena Hurtado Arrechea | 3660 | 09:58:50
+0931286 | María Teresa Idárraga Bastidas | 3660 | 05:24:50
+0931379 | John Estevan Torres Suarez | 3660 | 03:03:14
+0932073 | Diana Marcela Pantoja Diaz | 3846 | 11:22:33
+0932087 | Antony Garces Hurtado | 3651 | 01:42:00
+0932185 | Juan Jose Ruiz Fernandez | 3842 | 03:41:35
+0932190 | Alejandro Sanchez Guevara | 3842 | 00:33:21
+0932359 | Gizelle Astorquiza Trujillo | 3846 | 06:50:11
+0932674 | Katerine Meneses Ramos | 3842 | 23:00:00
+0933082 | Johana Marcela Guacheta Bomba | 3660 | 14:59:21
+0933117 | Eduar Mauricio Otero G | 3846 | 01:13:52
+0933500 | Jhon Freddy Menza Pavi | 3842 | 02:00:00
+0933550 | Piedad  Ortiz Viveros  | 3846 | 06:58:08
+0933675 | Diego Fernando Hernandez Triana | 3846 | 05:00:00
+0933704 | Olamn Alexander Silva Zuñiga | 3648 | 02:23:50
+0933960 | Ana Maria Henao Rivillas | 3340 | 01:00:00
+0934104 | Erika Cobo Ibarguen | 3846 | 01:50:08
+0934145 | Sandra Milena Acosta Alvarez | 3842 | 02:00:00
+0934228 | Marlon Perez Mendoza | 3841 | 03:18:55
+0934266 | Lina Fernanda Guzman DaraviÑa | 3651 | 05:05:00
+0934296 | Christian Andres Bernal Zuñiga | 3651 | 02:27:00
+0934459 | Gener David Tique Benitez | 3846 | 21:43:20
+0934549 | Yasnaiar Marin Arango | 3846 | 01:41:26
+0934609 | Leandro Guzman Santanilla | 3842 | 02:28:29
+0934716 | Giovanni Sanchez Soto | 3846 | 07:40:05
+0935067 | Nolmy Alejandra Padilla Biojó | 3645 | 04:00:00
+0935147 | Liseth Alexan Carlosama | 3645 | 02:52:33
+0935461 | Giovanny Alexander Zamudio Castellano | 3845 | 06:00:00
+0935675 | Jhonan Fernando Zorrilla Timote  | 3845 | 00:32:52
+0936005 | Alex Fernando Diaz Munoz | 3842 | 02:00:00
+0936012 | Elisa Maria Collazos Loaisa | 3842 | 00:10:27
+0936321 | Diego Fernando  Hoyos Taborda | 3846 | 02:15:22
+0936354 | Andrés Felipe Rivera | 3660 | 00:54:56
+0936625 | Ivan Dario Ramos Vacca | 3846 | 01:57:20
+0936685 | Angela Estrada Lopez | 3660 | 00:32:03
+0936790 | Jessica Tatiana Posse Forero | 3842 | 01:49:44
+0936925 | Diana Marcela Bermudez Vasquez | 3651 | 10:37:31
+0937025 | Paola Alexandra Recalde | 3842 | 06:15:37
+0937351 | Eddna Lorena  Vidal Mendieta | 3660 | 05:10:25
+0937692 | Wanda Jhomally Aguirre Ledezma | 3651 | 00:35:31
+0937712 | Ivan Alexander Lopez Lasso | 3846 | 02:00:00
+0937809 | Karen  Rodriguez  | 3556 | 01:51:32
+0937938 | Ivan Dario Solarte Sarasty | 3846 | 14:20:45
+0938289 | Diana Patricia  Acosta Hernandez | 3842 | 02:36:02
+0939178 | Brian Steven Mesa Acosta | 3846 | 01:14:04
+0939513 | Jessica Natalia Espinosa Martinez | 3842 | 01:00:00
+0939612 | Charlinee Conde Moreno | 3645 | 03:47:51
+0940134 | David Esteban Rincon Jaramillo | 3842 | 03:06:47
+0940301 | Lina Maria PatiÑo Ortiz | 3648 | 04:14:47
+0940435 | Hoover Andres Rosales Velez | 3660 | 17:13:31
+0940884 | Oliver Motaño | 3651 | 02:06:07
+0941113 | Lina Paola Trejos Moreno | 3645 | 00:56:12
+0941565 | Juan  Duque | 3651 | 03:16:49
+0941573 | Erik SaÚl Romero Parra | 3752 | 04:06:12
+0944141 | Jhonatan  Reyes Rosero | 3846 | 03:03:17
+0944320 | Leydi Mayibe Ortega | 3648 | 02:24:15
+0950130 | Jenny Alejandra  Grajales Diaz | 3845 | 00:37:30
+0955498 | Mayra Alejandra Orozco Valdes | 3846 | 04:33:42
+0957237 | Victor Hugo Guevara Suarez | 3846 | 16:10:17
+0957246 | David Alberto Hernandez | 3841 | 00:35:10
+0957393 | Edwin  Perez | 3845 | 02:39:26
+1010014 | Luis Enrique Bonilla Benitez | 3845 | 11:28:51
+1010017 | Maria Isabel Burgos Ortiz | 3841 | 01:18:53
+1010045 | Ximena Perea Torres | 3841 | 06:49:26
+1010105 | Elizabeth Carolina Tobar Gil | 3846 | 03:49:49
+1022864 | Adriana Guerrero Guerrero | 3857 | 01:47:35
+1023049 | Marlen Alexandra Polanco Luna | 3857 | 00:08:44
+1023622 | Yeimmy Cecilia Larrahondo Quintero | 3841 | 05:02:18
+1023634 | Dalis Raquel Tapia Taquez | 3841 | 02:43:55
+1023645 | Willlian Mauricio  Figueroa Prado  | 3841 | 11:00:00
+1023649 | Jeison Andres Escobar Taborda | 3845 | 01:41:54
+1023655 | Angie Pamela Talaga Mejia | 3841 | 06:00:00
+1023829 | Luz Saray  Gonzalez Cortes | 3841 | 05:39:36
+1023850 | Ivonne Stephany Muñoz Ortega | 3845 | 04:35:30
+1023867 | Wilmer Orlando  Delgado Sanchez | 3857 | 18:49:40
+1023953 | Juan Manuel Tobon Rios | 3845 | -00:53:47
+1024209 | Jennifer Barrios Bustamante | 3841 | 00:50:17
+1024346 | Victor Mario Agredo Salazar | 3857 | 05:35:26
+1024430 | Yerly Duque Montoya | 3841 | 08:00:00
+1024442 | Viviana Velasquez | 3841 | 02:07:20
+1024462 | Hugo Andres Aroca Gaviria | 3845 | 03:00:00
+1024506 | Franciney Cardona Lopez | 3841 | 06:00:00
+1024720 | Juan Guillermo Torres Ramirez | 3845 | 00:14:28
+1024915 | Juan Carlos Aguilera Correa | 3845 | 01:17:33
+1024943 | Hugo Cataño Rosero | 3841 | 10:03:09
+1024987 | John Edgar Restrepo Pungo | 3857 | 00:34:41
+1024997 | Jessica Alejandra Garcia Astaiza | 3841 | 00:40:33
+1025032 | Angela Patricia Jimenez Rodriguez | 3857 | 02:00:00
+1025195 | Victor Maurico Molina Martinez | 3845 | 10:00:00
+1025459 | Carlos Dagoberto Zamora Martin | 3841 | 85:52:38
+1025592 | Jaime Antonio Morales Tombe | 3845 | 40:00:00
+1025684 | Martinez Serrato Marcela | 3857 | 05:34:05
+1025825 | Oscar Alberto Lopez Lopez | 3857 | 02:10:06
+1025831 | Heberardo Alexis Vega Vargas | 3845 | 11:00:00
+1025839 | Diana Vanesa Franco | 3845 | 09:00:00
+1026066 | Alexander Riascos Caicedo | 3845 | 11:00:00
+1026101 | Juan Fernando Arias Carmen | 3845 | 02:00:00
+1026219 | Carlos Andres Henao Moreno | 3841 | 03:55:07
+1026384 | Veronica Zapata | 2635 | 09:16:39
+1026413 | Mario Fernando Pajajoy Hernandez | 3841 | 00:52:31
+1026597 | Katherine Sanchez Lomelin | 3845 | 10:00:00
+1026636 | Alvaro Lopez Hernandez | 3845 | 12:00:00
+1026678 | Lizeth Delgado Vargas | 3845 | 06:00:00
+1026726 | Juan David Arias Avila | 3857 | 00:08:11
+1026827 | William Loaiza Rosero | 3845 | 09:57:44
+1026837 | Asdrubal Garcia Pinzon | 3846 | 04:00:00
+1027166 | Cristhian Andres Rojas Zapata | 3842 | 04:53:20
+1027317 | Willington Bautista Ocjoa | 3857 | 04:00:00
+1027376 | Cristian Camilo Miller Cabrera | 3845 | 06:00:00
+1029045 | Diana Carolina Narvaez Cuaran | 3842 | 05:43:58
+1029052 | Diego Bayado Chavez Hernandez | 3842 | 01:58:19
+1030165 | Isabella Pulgliese Rengifo | 3660 | 00:18:53
+1030260 | Diana Carolina Herrera Nagles | 3857 | 02:40:31
+1030354 | Gabriel De Jesus Castaño Muñoz | 3857 | 01:20:57
+1030455 | Maria Fernanda Daza MuÑoz | 3842 | 00:29:49
+1031823 | Vanessa Rivas Benjumea | 3842 | -00:45:51
+1031956 | Erlendy Ibarbo Perlaza | 3857 | 08:24:59
+1032005 | Johanna Sanchez Llorente | 3857 | 28:54:24
+1032032 | Madelein Jimenez | 3661 | 00:22:14
+1032092 | Lady Johanna Sierra | 3842 | 05:47:41
+1032639 | Luis Fernando Motato Castrillon | 3857 | 02:02:20
+1032652 | Angie Lorena  Mera Morales  | 3846 | 03:17:53
+1032707 | Darling Arboleda Gil | 3846 | 04:28:07
+1033493 | Marcel Kogui Lopez Moreno | 3846 | 10:52:13
+1034464 | Stefania Caicedo Pillimue | 3857 | 01:00:00
+1034465 | Kelly Alejandra Serna Ramirez | 3857 | 02:23:25
+1034758 | Juan Jose Oliveros Montoya | 3857 | 00:51:15
+1035042 | Johanna Romero Berdon | 3647 | 01:47:56
+1035301 | Maria De La Paz Fonseca Florido | 3846 | 12:05:20
+1035316 | Juan David Ordoñez Viteri | 3846 | 16:00:39
+1035577 | Judith Marcela Daza Giron | 3857 | 02:52:14
+1035797 | Dayana Quiñonez | 3660 | 04:30:46
+1036082 | Karen Oriola Renteria | 3857 | -00:12:23
+1036098 | Claudia Julieth Carvajal | 3660 | 04:29:40
+1036228 | Christian Yesid Gomez Cordoba  | 3661 | 01:30:21
+1036278 | Kelly Falom Chamorro Armero | 3846 | 12:15:15
+1036387 | Veronica Atsumee  Estupiñan Freire | 3645 | 02:14:27
+1036485 | Julian Mauricio Diaz Sepulveda | 3846 | 02:00:00
+1036499 | Carmen Mejia Ramirez | 3857 | 00:42:51
+1036677 | Leidy Johanna Burbano Ortiz | 3645 | 12:31:10
+1036678 | Jeiner Andres Giraldo Calambas  | 3842 | 03:30:07
+1036684 | Erminzon Hormiga Sanchez | 3842 | 00:31:09
+1036730 | Maryuri Espinosa Barajas | 3842 | 02:15:12
+1036786 | Natalia Lopez Castro | 3857 | 06:35:49
+1036892 | Lizeth Andrea Tunubala Sanchez  | 3857 | 02:26:04
+1036895 | Katherin Adrana Camrgo Cetina | 3857 | 10:31:33
+1036975 | Ginna Rocio Pineda | 3846 | 01:07:05
+1037116 | Julian Steven  Hernandez Rueda | 3660 | 07:39:59
+1037283 | Jorge Fernandez Gallego | 3842 | 01:55:22
+1037361 | Natali Palma Torres | 3857 | 03:34:43
+1037516 | Yeriza  Lilian Molina Rios | 3660 | 03:24:02
+1037575 | Diana Zapata Mamián | 3842 | 02:02:04
+1037625 | Ana Maria Villota Beron | 3660 | 04:24:40
+1037715 | Martha Lucia Garcia Orozco | 3842 | 03:35:15
+1037720 | Samuel Andres  Saavedra Duque  | 3140 | 04:41:47
+1037827 | Juan  Chaguendo Gomez | 3660 | 02:24:13
+1038018 | Lizbeth Yuliet Ocampo Hernandez | 3842 | 04:00:00
+1038199 | Nestor Javier Muelas Calambás | 3846 | 03:57:35
+1038358 | Yimi Andres Tenorio Eraso | 3842 | 21:05:30
+1038395 | Juan Andres Guejia Medina | 3846 | 10:11:43
+1038470 | Salas Zamora Maria Alejandra | 3846 | 00:03:55
+1038514 | Diana Marcela Garces Gonzales | 3846 | 36:30:28
+1038584 | Fabio Andres Gonzalez MuÑoz | 3842 | 01:53:43
+1038910 | Leidy Andrea Giraldo Hoyos | 3842 | 36:53:59
+1038997 | Bermudez Pinzon Jorge Enrique | 2635 | 03:13:24
+1039190 | Melissa Monroy Moreno | 3857 | 06:04:15
+1039197 | Jeferson David Marmolejo Rengifo | 3845 | 01:00:00
+1039348 | Luis Miguel  Benavides | 3660 | 04:28:57
+1039441 | Maria Victoria Rodriguez Chacon | 3842 | 01:37:51
+1039506 | Jhon Alexander Castro Diaz | 3846 | 57:54:37
+1039911 | Jesica Mayeri Martinez Guerrero | 3857 | 00:43:42
+1039975 | Yuly Isabel Cruz Oliva | 3842 | 11:09:48
+1040051 | Luis Fernando Mutis Mora | 3846 | 02:58:53
+1040317 | Diana Marcela Corrales | 3842 | 02:22:15
+1040326 | Magnolia Palomeque Mosquera | 3842 | 02:00:00
+1040446 | Yhensy Liceth Zuluaga | 3647 | 07:03:01
+1040609 | Janier Andres Carmona Idrobo | 3846 | 00:19:53
+1040625 | Carolin Arizabaleta Gonzales | 3846 | 14:00:28
+1040762 | Nathaly Ruiz Torres | 3846 | 05:07:50
+1040896 | Santiago Changuedo Barona | 3846 | 16:19:09
+1040950 | Luis Felipe Valencia Grajales | 3842 | 01:54:13
+1041000 | Jazmin Andrea Salazar Herrera | 3846 | 18:38:24
+1044050 | Monica Dayana Martinez Diafara | 3846 | 09:37:13
+1044058 | Jazmin Riascos Quintero | 3842 | 02:00:00
+1044068 | Edgar David Jaramillo Ubate | 3846 | 05:49:42
+1044087 | Liby Magaly Moreno Casaran | 3647 | 02:38:30
+1044142 | Camila  Cifuentes Sanchez | 2635 | 01:35:44
+1044190 | Jose Bayron Delgado Lopez | 3857 | 02:59:20
+1044200 | Jeferson López Delgado | 3648 | 00:40:32
+1044235 | Tatiana Lorena Clavijo Martínez | 3647 | 00:14:43
+1044246 | Angela Missiu Rodriguez Idrobo | 3846 | 12:53:27
+1044351 | Juan Camilo Gallego Rizo | 3857 | 02:46:19
+1044503 | Stephanie Gonzales | 3857 | 05:00:00
+1044509 | Ivan Dario Camacho Rubio | 3660 | 01:00:30
+1044513 | Mayi Stephanny Gonzales Gomez | 3857 | 44:15:37
+1044532 | Luis Angel  Giraldo Pachon | 3340 | 07:31:22
+1044655 | Carolina Minota Moreno | 3846 | 05:32:23
+1044660 | Diana Patricia Mosquera Flor | 3842 | 02:00:00
+1044673 | Samy Fernando Hernandez Mueces | 3648 | 11:28:30
+1044745 | Angélica Maria Burbano Ortiz | 3846 | 03:56:17
+1044795 | Yoirle Collazos Gomez | 3857 | 06:41:05
+1044817 | Karol Jolyeth  Duque Restrepo | 3648 | 00:52:20
+1052054 | Angela Maria Caicedo Usman | 3645 | 03:08:50
+1052081 | Mauricio Vizcaino Ceballos | 3845 | 00:51:32
+1052152 | Ingri Sulay Gutierrez Guamanga | 3845 | 01:00:00
+1052437 | Maria Isabel CasaÑas Chavez | 3846 | 12:31:45
+1052549 | Max Stephen Diaz Olarte | 3845 | 09:00:00
+1052620 | Hugo Hernan Salcedo Henao | 3845 | 06:00:00
+1052656 | Lina Maria Garcia Antero | 3845 | 08:46:41
+1052776 | Laura Vanessa Gaitan Velez | 3845 | 28:00:00
+1052996 | Clara Ines Morales Martinez | 3845 | 04:00:00
+1104308 | Dorian  Marquez Ramirez | 7880 | 01:51:46
+1110312 | Laura Andrea Espinosa Mosquera | 3646 | 06:20:16
+1110361 | Diana Centeno Perea | 3846 | 06:43:23
+1110392 | Jackeline  Ramos Torres | 3846 | 08:51:33
+1123389 | Brayan Adrian Guerrero Alvarez | 3845 | 74:25:24
+1124096 | Karen Viviana Ortiz Sanchez | 3841 | 16:00:00
+1124402 | Andres Felipe Ayala Marulanda | 2635 | 04:04:28
+1124918 | Mauricio Bastidas Cedeño | 3845 | 02:12:25
+1125129 | Hernan Dario Alvarez Santander | 3841 | 50:09:29
+1125428 | Gloria Stephany Bernal Bermudez | 3841 | 09:10:04
+1125630 | Nathali Barona Lopez | 2635 | 02:00:00
+1125666 | Andrea Patricia  Castañeda Moreno | 3147 | 29:48:20
+1125824 | Alejandra Florez Gonzalez | 3845 | 12:03:23
+1125937 | Lopez Calle Stiwar | 3845 | -00:06:03
+1126039 | Dayana Lorena Ñañez Ramirez | 3845 | 01:38:31
+1126048 | Yessenia Cardozo Aristizabal | 3845 | 10:00:00
+1126239 | Lina Marcela  Rivas Grande  | 3845 | 10:00:00
+1126262 | Claudia Andrea Mosquera Aristizabal | 3845 | 14:00:00
+1126365 | Camilo Andres Vallecilla Colonia | 2635 | 01:00:00
+1126378 | Jhon Jairo Ruiz Velasquez | 3841 | 01:00:00
+1126506 | Heidy Jhoana Chinguad Obando | 3454 | 03:08:06
+1126597 | Natasha Victoria Morales | 3845 | 13:00:00
+1126665 | Gustavo Adolfo Guasaquillo Perdomo | 3841 | -00:51:11
+1126719 | Lizeth Carolina Mamián Cerón | 3845 | 14:00:00
+1126744 | Diana Johanna Volpe Garcia  | 3841 | 12:00:00
+1127135 | Adriana  Cadenas | 3841 | 01:00:00
+1127180 | Heriberto Garcia Becerra | 3845 | 39:00:00
+1127448 | Yilber Antonio Ibarra Buitron | 3845 | 03:23:49
+1127539 | Jhon Filleral Orozco Garci | 3845 | 35:36:56
+1127701 | Kelly Gomez Muñoz | 3841 | 12:00:00
+1127717 | Lizeth  Castro Serrano | 2635 | 02:44:37
+1127844 | Diana Marcela Vallecilla Moreno | 3842 | 06:19:30
+1127862 | Lilian Vanessa Diaz Garcia | 3841 | 23:00:00
+1127969 | Pedro Fernando Cruz Duque | 3845 | 01:39:48
+1128023 | Juan Carlos Rubio Obando | 3454 | 04:31:30
+1128686 | Liliana Maria Morales Trochez | 3841 | 08:00:00
+1129017 | Edwin Esteban Bernal Rodriguez | 3845 | 05:00:00
+1130018 | Leonardo Perez Ossa  | 3845 | 11:00:00
+1130078 | Stephania Lopez Delgado | 3841 | 21:00:00
+1130675 | Laura Lozano Diaz | 3841 | 03:00:00
+1130897 | Magda Yalissa Martinez Ordoñez | 3841 | 03:03:17
+1130903 | Belsy Ximena Urbano Obregon | 3842 | 02:00:00
+1130958 | Ana Maria Hinestroza Carmona | 3841 | 01:14:13
+1130966 | Brayan Mijail Corbacho Marin | 3841 | 13:00:00
+1131000 | Daniel Alvarez Herrera | 3845 | 18:00:00
+1131666 | Cristian Andres Arroyave Redon | 3846 | 05:00:00
+1131721 | Alex  Allin Gonzales | 2635 | 00:35:29
+1132046 | Luis Fernando  Gallego | 3845 | 07:00:00
+1132076 | Jaime  Cordoba | 3845 | 10:00:00
+1133031 | Gloria Patricia Cifuentes Diaz | 3841 | 09:00:00
+1133108 | Hernan Dario Tulande Pardo | 3845 | 12:00:00
+1133145 | Maria Alejandra Florez Rios | 2635 | 02:31:01
+1133217 | Alexandra Largo Daraviña | 3845 | 14:00:00
+1133286 | Lorena Garcia Florez | 3841 | 05:58:45
+1133355 | Natalia Jaramillo Sanchez | 3845 | 02:12:38
+1133422 | Andres Felipe Quijano Zambrano | 3841 | 03:00:00
+1134091 | Yensi Isabel Erazo Delgado  | 3841 | 06:00:00
+1134144 | Tatiana Torres Palacios | 3845 | 04:27:46
+1134330 | Diana Marcela Gil Lopez  | 3841 | 10:00:00
+1135059 | Claudia Patricia Sanchez Medina | 3661 | 04:56:55
+1135457 | Bryan Steven Angulo Prado | 3857 | 00:08:09
+1135459 | Isamar Ortiz | 2635 | 03:10:19
+1135475 | Jhon Lenerth  Chavez Roman  | 3846 | 01:02:21
+1135477 | Yamith Stiven Vinasco Mesa | 3645 | 17:09:18
+1135480 | Erick Sarmiento Bejarano | 3846 | 01:08:22
+1135481 | Jennifer  Villalobos Hernandez | 3842 | 05:12:01
+1136009 | Andre Felipe Gomez Renteria | 3857 | 07:42:41
+1136846 | Juliana Ramirez Rodriguez | 3661 | 01:35:04
+1136864 | Lina Maria Mogrovejo Grueso | 3660 | 02:32:05
+1137044 | Diana Patricia Rodriguez Montenegro | 3645 | 00:33:33
+1137046 | Edwin Ricardo  Lucumi Rivas | 3842 | 12:06:21
+1137202 | Jeiny Jackeline Morales Morales | 3845 | 40:35:36
+1137232 | Jennifer Mesa Gomez | 3842 | 00:04:13
+1137266 | Laura Cristina Vasquez Ramos | 3646 | 01:53:40
+1137279 | Cristian Alfredo Perez Orozco | 3857 | 03:11:22
+1137297 | David Fernando Mendoza Hurtado | 3857 | 00:58:11
+1137390 | Diana Lizeth Rangel Bravo | 3842 | 18:52:04
+1137397 | Hugo Eduardo Espinosa Bravo | 3846 | 01:11:26
+1137534 | Juliana Ramos Chacon | 3648 | 01:34:49
+1137559 | Emmanuel David Suarez Ocampo | 2635 | 03:19:11
+1137583 | Adriano Esteban Rosero Grijalba | 3846 | 11:02:09
+1137756 | Jeinson Enrique  Rojas Arosema | 3842 | 11:19:04
+1137807 | Sonia Maribel Chalapud Inguilan | 3661 | 01:10:57
+1137902 | Angy Vanessa Herrera Zuluaga | 2636 | 03:27:30
+1138054 | Marlin Johana Guevara Marroquin | 3846 | 08:52:23
+1138055 | Jorge Andres Aguirre Paredes | 3845 | 22:25:11
+1138464 | Angie Carolina Guerrero Benitez | 3645 | 02:14:16
+1138696 | Oscar Andres Chicangana Ruiz | 3660 | 00:54:56
+1138700 | Claudia Patricia Rodriguez Fernandez | 3842 | 06:16:09
+1138752 | Falmy Andres Urbano Moreno | 3857 | 29:54:26
+1138998 | Maria Del Mar Castano Rodriguez | 3648 | 07:01:18
+1139029 | Yudi Estefani Dominguez Bambague | 3645 | 01:22:54
+1139048 | Daniela Paredes García | 3857 | 01:58:50
+1139067 | Diana Marcela Rojas Murillo | 3842 | 16:15:02
+1139098 | Maria Camila  Perez Muñoz | 3661 | 04:57:06
+1139148 | Elcy Magali Caranguay Yampuesan | 3846 | 55:19:25
+1139209 | Carol Vanessa  Tascon Solarte | 3651 | 01:06:21
+1139280 | Yohn Alexander Cruz Mora | 3846 | 04:00:00
+1139447 | Jhon Alexander Perez Vezga | 3857 | 05:41:07
+1139583 | Estefania Montoya Quintero | 3857 | 13:43:00
+1139645 | Heriberto Asprilla CastaÑo | 3645 | 00:52:02
+1139884 | Ivan Rodrigo Delgado Cuene | 3857 | 04:49:44
+1139949 | Johan Alexander Campo Aguiño | 3857 | 01:24:21
+1139959 | Juan David Ramirez Hoyos | 3645 | 03:11:54
+1140022 | Paola Marcela Yela Alarcon | 3645 | 12:14:14
+1140129 | Diana Lorena Ceron Chilito | 3661 | 01:11:20
+1140144 | Erika Natalia Ortiz Landeta | 3842 | 00:29:20
+1140240 | Estiben Garcia | 3646 | 04:48:17
+1140290 | Andres Felipe Gonzalez | 3857 | 02:48:58
+1140439 | Jennifer Stefania Acosta Quintero | 3846 | 01:07:26
+1140521 | Leydi Vanessa Brand Giraldo | 3647 | 00:14:35
+1140588 | Natalia Garcia Bedoya | 3648 | 01:46:08
+1140660 | Fernando Saavedra Ramirez | 3842 | 08:33:44
+1140730 | Claudia Nathaly Rosas Palomino | 3645 | 03:34:36
+1140833 | Stefania Porras Rivera | 3842 | 04:08:53
+1140895 | Santiago Granados Duque | 3857 | 05:29:35
+1140975 | Marilyn Liseth Caicedo Navarro | 3647 | 01:00:00
+1140985 | Yanier Tufiño Castillo | 3846 | 14:00:00
+1141040 | Eliana  Rosero Henandez | 3846 | 01:06:21
+1141391 | Vanessa Romero Ocampo | 3846 | 00:08:12
+1141535 | Samuel Cifuentes Castaño | 3846 | 02:00:00
+1141542 | Mary Ann Fuentes CaÑar | 3846 | 15:46:16
+1141615 | Lina Marcela Menees Benitez | 3651 | 00:51:36
+1141620 | Diana Marcela Findlay  Lopez | 3648 | 04:00:00
+1141631 | Tatiana Carolina Trujillo Londoño | 3857 | 02:22:41
+1142028 | Henry  Alejandro Gutierrez Florez | 3846 | 01:25:45
+1142103 | Juan Felipe  Gonzales Rodriguez | 3846 | 01:14:57
+1142820 | Paula Andrea Jaramillo Garcia | 3857 | 03:17:08
+1142914 | Pedro Luis Asprilla | 1111 | 00:00:39
+1142930 | Anllili Paola Castillo Molina | 3857 | 06:32:50
+1142974 | Juan David Anturi Mejia | 3857 | 02:04:45
+1143006 | Lisdany  Becerra Figueroa | 3661 | 01:26:48
+1143245 | Luis Hernando Beltran Narvaez | 3651 | 03:47:49
+1143667 | Angela Patricia Morante Consuegra | 3857 | 03:54:38
+1143811 | Melissa Alegrias Cambindo | 3842 | 03:30:41
+1143868 | Nicole Andrea Duràn Gonzàlez | 3857 | 06:54:18
+1143883 | Beatriz Elena Rayo Perez | 3857 | 00:59:18
+1144000 | Diego Fernando Cuellar Palacios | 3842 | 68:44:41
+1144416 | Brayan  Hurtado | 3842 | 00:03:19
+1144920 | Diego Fernando Arcila Bautista | 3842 | 00:37:35
+1145165 | Angelica Valenzuela Suarez | 3646 | 06:20:29
+1145454 | Oscar  Eduardo Ordoñez Jaramillo | 3842 | 00:07:42
+1145995 | Raul Alberto Gomez Carvajal | 3846 | 02:42:26
+1145999 | Guiovanni Romo Soto | 3646 | 02:53:08
+1146149 | Juan Gabriel  Prado Ramirez | 3842 | 03:00:00
+1146512 | Kelly Johana Aguilar Urbano | 3648 | 00:53:17
+1146546 | Victor Andres Arbelaez Chantre | 3846 | 06:46:14
+1146686 | Daniela Astrid Cometa | 3842 | 07:00:36
+1146790 | Helman Andres Gomez Mosquera | 2635 | 09:38:02
+1146801 | Fransirley Gonzales Jaramillo | 2636 | 31:51:20
+1146815 | Julio Cesar Guerrero Hoyos | 3857 | 00:00:36
+1146823 | Jhon Alexander Guiral Campo | 3646 | 00:38:46
+1146909 | Ingrid Lizeth Lopez Serna | 3651 | 00:09:49
+1146997 | Angela Patricia Mosquera  Sanchez  | 3651 | 01:01:19
+1147052 | Leslie Johana Ortega Muñoz | 3651 | 00:10:05
+1147058 | Diber  Otalvaro | 2635 | 13:44:30
+1147074 | Juan Manuel Pelaez Posso | 2635 | 03:38:12
+1147132 | Mallerlin Reyes Polo | 3842 | 11:49:05
+1147142 | Angie Vanessa Rivas Rodriguez | 2635 | 00:55:44
+1147250 | Jessica Urbano Valdez | 3842 | 04:53:31
+1150946 | Beatriz Adriana Lopez Nieto | 3846 | 02:51:34
+1151377 | Jhoana  Miranda Ceballos | 3845 | 12:00:00
+1153425 | Bivian Fernanda Restrepo | 3845 | 16:00:00
+1204830 | Americo  Mosquera Valencia | 3741 | 00:13:57
+1210057 | Yuly Millan Gonzalez | 3647 | 03:43:51
+1210067 | Luz Edith Perez Trejos | 3646 | 06:57:29
+1210074 | Gerardo Antonio Rincon Castillo | 3647 | 34:36:35
+1210213 | Dayse Julieth Barrios Hurtado | 3646 | 08:36:28
+1210239 | Alejandro  Fernandez Rendon | 3857 | 01:00:00
+1210308 | Jennifer Vargas Ospina  | 3842 | 14:06:14
+1223931 | Jeffrey Alberto Zota Londoño | 3841 | 01:37:31
+1224251 | Yeison  Saavedra Soto | 3841 | 06:16:28
+1224287 | Manuel Ballesteros Martinez | 3841 | 01:31:03
+1224301 | Diana Milena  Lozano Reyes | 3845 | 01:07:46
+1225136 | Cristian Jaramillo Valencia | 3845 | 08:46:07
+1225323 | Yesica Alejandra Ojeda Martinez | 3845 | 00:30:42
+1226016 | Daniel Libar Taimal Cuiacal | 3841 | 00:24:52
+1226136 | Lina Fernanda Lucumi Mosquera | 3841 | 06:18:10
+1226258 | Juan David Ortiz Zapata | 3845 | 02:13:25
+1226270 | Steven Felipe Loaiza Marin | 3845 | 00:46:57
+1226700 | Angela Maria Suarez Galvis | 3841 | 13:20:02
+1226980 | Edixon Fernando Daza Cancimansi | 3841 | 02:00:00
+1227009 | Sandra Patricia Muñoz Toro | 3845 | 08:03:26
+1227122 | Henry  Rivera Diaz | 3841 | 02:10:48
+1227324 | Cristhian Humberto Hernandez Erazo  | 3845 | 14:20:30
+1227520 | Daniela Maria Cruz Armero | 3841 | 02:00:00
+1227551 | Andres Felipe Gutierrez Vasquez | 3845 | 00:12:29
+1227890 | Maria Andrea Lopez Casas | 3845 | 04:22:40
+1227952 | Mariana Gomez Vasquez | 3752 | 01:12:10
+1228900 | Estiben Plazas MuÑoz | 3845 | 23:44:27
+1228930 | Erika Guerrero Lopez | 3845 | 05:00:00
+1228934 | Fernanda Jackeline Obando Cuarán | 3845 | 02:00:00
+1229388 | Juan Camilo  Gutierrez Vergara | 3845 | 07:17:29
+1229476 | Banny Melissa  Gomez Garcia | 3841 | 04:41:55
+1229812 | Natalia Eugenia Zambrano Valencia | 3841 | 01:20:42
+1230194 | Andres Felipe Toro Serrano | 3841 | 01:00:00
+1230230 | Deisy Yuliana Velez Maya | 3841 | 10:09:34
+1230373 | Juan Sebastian Barbosa Fernandez | 3845 | 09:17:31
+1230803 | Manuel Guillermo Caicedo Molina  | 3845 | 65:37:25
+1231664 | Francisco Javier Aguirre Castaño | 3845 | 15:12:11
+1231962 | Gislena  Torres Cordobes | 3841 | 06:00:00
+1235009 | Viviana Valdes Barcos | 3660 | 00:48:28
+1235087 | Monica Andrea Gurrute Calambas | 3846 | 04:20:19
+1235262 | Christian Steven Garcia Tobar | 3857 | 07:46:11
+1235462 | David Florz Osorio | 3842 | 18:06:33
+1235704 | Leidy Yuliana Caro Lopez | 3857 | 04:48:02
+1235727 | Sebastian Florez Rengifo | 3857 | 12:06:35
+1235953 | Jasson Eliecer Torres Jimenez | 3857 | 00:08:49
+1235993 | Victor Hernan  Lopez | 3842 | 01:00:00
+1236091 | Canlos Andres  Pescador Dias | 3842 | 05:13:16
+1236231 | Carolina Holguin Garcia | 3841 | 04:11:35
+1236242 | Jina Mariont Velasco Arias | 3645 | 03:27:11
+1236418 | Luis Esteban Martinez Ortiz  | 3842 | 07:00:12
+1236444 | Edgar David Jaramillo UbatÈ | 2222 | 11:38:03
+1236465 | Lorena Vallejo Labrada | 3660 | 02:42:29
+1236558 | Johana Andrea  Ruiz Martinez  | 3661 | 04:18:53
+1236651 | Lina Yisela Burbano Uribe | 3857 | 22:22:01
+1237065 | Leidy Vanesa Tigreros | 2635 | 02:52:42
+1237105 | Diana Galindez Gómez | 3661 | 06:00:00
+1237198 | Jhoan Fernando MuÑoz Velasco | 3660 | 00:19:44
+1237200 | Edwar Geovanny Dominguez Castro  | 3842 | 04:13:53
+1237212 | Will Fredo Garcia | 3842 | 05:09:56
+1237244 | Ivan Camilo  Guerrero Castañeda | 3842 | 01:00:00
+1237254 | Juan Marcos Molina Rodriguez | 3660 | 02:37:47
+1237298 | Henry  Orozco Escobar  | 3846 | 01:35:45
+1237303 | Astrid Carolina Astaiza Tabares | 3857 | 03:20:24
+1237367 | Bryan Geobany Vivas Trochez | 3842 | 07:36:45
+1237508 | Andrea Yesenia Moncayo Galindez | 3842 | 16:34:55
+1238131 | Paula Andrea  Bastidas Agudelo  | 2635 | 02:57:36
+1238174 | Diana Fernanda Monroy Ladino  | 2635 | 01:00:17
+1238474 | Andres Ricardo Tangua Arias | 3660 | 01:41:39
+1238540 | Jhoan Stiven Rodriguez Ovalle | 3842 | 05:05:52
+1238784 | Lesney Zuleima Vargas Garcia | 3841 | 00:54:00
+1238825 | Yudy Natalia Avirama Fernández | 3842 | 02:13:41
+1239012 | Daniel Santiago Grijalva Zuluaga | 3660 | 00:18:53
+1239155 | Luisa Fernanda Ramirez Ramirez | 3846 | 02:00:00
+1239236 | Leidy Juliana Rodriguez NiÑo | 3846 | 02:21:08
+1240296 | Laura Maria Hurtado Ochoa | 2635 | 01:00:00
+1240300 | Juan Fernando Cepeda Gorrón | 2635 | 02:02:40
+1240840 | Julieth Sofìa Alarcon Garcia | 3842 | 24:00:00
+1241010 | Martin Rodriguez Trujillo | 3660 | 02:00:00
+124110 | Mirlelly Aguilar Peña | 3660 | 01:55:54
+1241313 | Leydi Marcela Luna Acosta | 3842 | 15:00:00
+1241352 | Nathanael Medina Pineda | 3846 | 01:35:34
+1241368 | Diana Carolina Mejia Hernandez | 3660 | 03:32:27
+1241426 | Evelyn Vargas Santamaria | 3841 | 04:00:00
+1241593 | Carolina Guillen Reina | 3842 | 00:54:59
+1241599 | Angie Viviana Aristizabal Lopez | 3857 | 01:21:25
+1241858 | Yeison Dario Chicaiza Botina | 3660 | 00:41:04
+1242043 | Eder Aleison Nieto Carvajal  | 3660 | 10:36:35
+1242053 | Jorge Andrés Florian Agudelo | 3660 | 01:55:47
+1242205 | Johana Alexa  Cifuentes Riascos  | 3846 | 01:12:21
+1242214 | Wilmer Andres Moreno Restrepo | 2636 | 01:22:41
+1242227 | Ivan MuÑoz Bravo | 3846 | 02:43:27
+1242303 | Cristhian Miguel Calderon Sabogal | 3660 | 02:23:22
+1242304 | Juan Camilo Vasquez Arce | 3842 | 04:45:06
+1242510 | Diana Marcela Ponce Cachimbo | 2635 | 02:00:00
+1242515 | Alejandro  Castellanos Solis  | 3842 | 11:05:18
+1242521 | Leidy Viviana  Gonzalez Carmona | 3857 | 03:38:47
+1242563 | Freddy Alexander Beltran Salcedo | 3660 | 03:47:27
+1242580 | Laura Alejandra Osorio Alarcon | 3857 | 02:31:32
+1242714 | Sandra Patricia Rodriguez Toro | 3660 | 02:08:30
+1242719 | Ronald Steven Peña Dominguez | 3857 | 09:30:58
+1243501 | Luz Karine Jaramillo Rodriguez  | 2635 | 09:23:31
+1243541 | Karen Andrea Franco Escobar | 3846 | 00:23:46
+1243647 | Bertha Ruth Caviedes Gomez | 3857 | 00:47:22
+1243700 | Jhon Henry Rivera Diaz | 2635 | 14:28:59
+1243832 | Gustavo Andres  Andrade Patiño  | 2635 | 00:15:02
+1244674 | Jhon Jader  Bedoya Abanis | 3842 | 06:35:23
+1244710 | Heidy Leany  Burbano Quiñones  | 3842 | 01:00:00
+1244751 | Mirian Carolina Castillo Bello | 2635 | 05:47:45
+1244800 | Duvan Manuel Criollo Bolivar | 3842 | 37:00:00
+1244826 | Stephanie Devia Valdez | 3651 | 03:16:32
+1245053 | Nayda Yasir  Mancilla Gonzalez | 2635 | 00:03:54
+1245267 | Maria Alejandra  Ramirez Asmaza  | 2635 | 07:42:26
+1245314 | Deisy Lorena Rodriguez Rivera | 2635 | 01:00:00
+1245329 | Lucero Maria Rotavisque Alacon | 2635 | 01:00:00
+1245414 | Paola Andrea Trujillo Lamus | 3857 | 13:17:50
+1245522 | Maria Isabel Chavez Ibarra | 3857 | 00:12:05
+1245594 | Gustavo Portocarrero Yepes | 2635 | 00:49:09
+1257193 | Fabian Alberto Padilla Cuenca | 3845 | 00:12:24
+1257380 | Cristian  Zambrano  Pino | 3841 | 01:00:00
+1304647 | Edinson Suarez Fandiño | 7880 | 03:09:27
+1310004 | Irma Veronica Almeida Tapasco | 3846 | 07:00:00
+1310005 | Luz Marina Altamirano | 3846 | 04:43:21
+1310045 | Cristian Andres  Guerrero Fernandez | 3660 | 08:52:00
+1310076 | Claudia Milena Moreno | 3846 | 03:00:00
+1310262 | Sebastian Olarte Silva | 3845 | 15:00:00
+1310289 | Andres Felipe Trujillo Gomez | 3842 | 01:48:35
+1317009 | Lina Vanessa OrdoÑez Tamayo | 1631 | 21:24:55
+1317024 | Margarita  Noguera Ramirez | 1631 | 01:29:25
+1317026 | Adriana Castaño Carlosama | 1631 | 04:50:55
+1324408 | Jaime Orlando Aza Aza | 3841 | 27:53:00
+1328028 | Baquero Calderon  German Andres | 3845 | 05:34:10
+1328121 | Jhonatan Alesander Cuervo LondoÑo | 3845 | 00:15:51
+1329376 | Harold Steven Garzón Gomez | 3845 | 00:07:39
+1329802 | Rosa Alexandra Idarraga Rengifo | 3841 | -00:56:36
+1330076 | Omar Alejandro Ceballos Sepulveda | 3841 | 01:52:24
+1330084 | Diana Carolina Zapata Carvajal | 3841 | 02:31:04
+1330396 | Laura Daniela Otalvaro Gómez | 2636 | 01:57:38
+1330415 | Jima Lizeth Diaz Caicedo | 2635 | 01:12:16
+1330562 | Diego Fernando Estrella Bedoya | 3841 | 00:06:43
+1332428 | Estefania Giraldo Muñoz | 3845 | 05:17:57
+1335515 | Carlos Alberto Erazo Lopez | 3846 | 08:37:55
+1335623 | Julian  Galvis | 3647 | 08:35:57
+1335628 | Leon Felipe Meneses Lopez | 3857 | 01:00:00
+1335866 | Angie Vanessa EspaÑa Mamian | 3846 | 04:31:12
+1336830 | Cristian David Zuluaga Vasquez | 3857 | 01:00:00
+1337053 | Yulieth Katherine Paz Payan | 3842 | 14:39:19
+1337083 | Diana Carolina Vallejo Taborda | 3842 | 04:34:15
+1337104 | Estefania  Nuñez Ortega | 3857 | 03:17:25
+1337163 | Oscar Eduardo Castillo Morales | 3842 | 01:34:57
+1337229 | Juan David Ruiz Chavez | 3842 | 34:42:26
+1337302 | Andres Felipe Suarez | 3857 | 04:12:50
+1337540 | Estefania Giraldo | 3857 | 08:45:58
+1337551 | Juan Felipe Velandia Zuluaga | 3842 | 00:23:35
+1337599 | Eileen Juliana Castillo Mazo | 3857 | 05:25:52
+1337633 | Olmer Enrique Mina Segura | 3842 | 04:02:39
+1338047 | Jackeline Realpe Ledezma | 3857 | 01:00:00
+1338058 | Luisa Fernanda Pulgarín Cardona | 3484 | 02:04:36
+1338078 | Aura Cristina Sanabria Dominguez  | 3857 | 03:06:54
+1338091 | Esteban  Quintero Bonilla | 3857 | 03:18:07
+1338213 | Estefany Sanchez Padilla | 3857 | 00:47:30
+1338289 | Juan Pablo Orozco Alzate | 3842 | 06:20:30
+1338431 | Isabella Villanueva Saavedra | 3842 | 05:44:41
+1338439 | Laura Maritza Mazuera Mosquera | 3857 | 00:24:30
+1338744 | John Fernan Hernandez Alvarado | 3846 | 00:28:05
+1340784 | Cindy Julieth EstupiÑan Vallesilla | 3842 | 07:36:19
+1340937 | Genner Aly Mera Yalanda | 3857 | 08:17:54
+1340984 | Gustavo Alberto Urbano Narvaez | 3857 | 00:15:56
+1341047 | Sandra Jazmin Vargas Castillo | 3846 | 01:00:00
+1341152 | Laura Viviana Guarnizo Inchima | 3842 | 05:03:16
+1341243 | Luis Miguel Samboni Chilito  | 3842 | 23:58:17
+1341434 | Jhoan Manuel  Sinisterra Galindo  | 3651 | 02:50:49
+1341435 | Adriana Lucía Tipas Alpala | 3842 | 02:48:17
+1341454 | Yeimi Fernnanda Aguirre Aguirre | 3842 | 00:01:32
+1341501 | Mauricio Morcillo Picon | 3842 | 37:25:33
+1341612 | Maria Alejandra Cardona Morales | 3857 | 00:09:59
+1341700 | Luis Felipe  Gonzalez Saavedra | 3857 | 04:30:07
+1341808 | Jhon Harol Lopez Cadena | 3842 | 16:56:29
+1341937 | Yisel Mabirlly Leon Sanchez | 3842 | 00:00:24
+1341943 | Andres David Garcia Urbano | 3857 | 02:00:00
+1342016 | Luis Alejandro Sarria | 3857 | 00:47:31
+1342202 | Maidy Viviana Vargas OrdoÑez | 3857 | 01:00:00
+1342275 | Andres Aldemar Rodriguez Romo | 3842 | 05:58:06
+1342333 | Raul Andres Lopez Ballesteros | 3841 | 04:28:17
+1342384 | Shareen Marcela Vera Puentes | 3842 | 05:48:41
+1342458 | Larry Fabian Bedoya Contreras | 3842 | 03:19:20
+1342475 | Monica  Vargas Peña | 3857 | 00:19:07
+1342521 | Lady Melisa Montaño Nuñez | 3842 | 16:10:55
+1342686 | Andres Felipe Martinez Lopez | 3842 | 01:53:19
+1342908 | Natalia Andrea  Muriel Marin | 3857 | 00:52:19
+1343100 | Luisa Maria Gonzales Escobar | 3841 | 01:58:21
+1343367 | Freddy Alberto Meneses Tigreros | 3842 | 00:03:00
+1358717 | Edgar Lasso Mezu | 3845 | 06:40:53
+1410110 | Victor Manuel  Rodriguez | 3660 | 02:58:47
+1410121 | Wilmer Armando Valencia Alvarado | 3841 | 22:47:42
+1419203 | Liseth Vanessa Penagos Mejía | 3845 | 02:36:23
+1419204 | Angie Johanna Garcia Lozano | 3846 | 03:30:16
+1419205 | Daniel Hernan De Leon De La Hoz | 3846 | 01:06:30
+1419206 | Paola Andrea Vargas Vera | 3846 | 04:03:13
+1419207 | Angela Tatiana De La Cruz Salazar | 3846 | 02:35:54
+1422572 | Leidy Analidia Ledesma Dominguez | 3841 | 17:00:00
+1422909 | Leydy Carolina Guzman Tosse | 3841 | 07:00:00
+1422916 | Jhon Sebastian Giraldo | 3841 | 05:00:00
+1422928 | Santiago Ospina Perez | 3841 | 01:00:00
+1423339 | Laura Alejandra Martinez Grisales | 2635 | 00:43:47
+1423391 | Daniela Andreina Martinez Garcia | 2635 | 03:09:04
+1424214 | Alejandro Gomez Mosquera | 3845 | 02:28:17
+1424521 | Luis Angel Giraldo Pachon | 3841 | 03:00:00
+1424553 | Julian Andrés  Garay Fernandez | 3841 | 11:00:00
+1424696 | Jhon Jairo Bedoya | 3841 | 06:00:00
+1425020 | Victor Hugo  Duarte Murillo | 3841 | 05:00:00
+1425033 | Leandro Guzman Santanilla | 3841 | 02:45:38
+1425154 | Daniela Andrea Giraldo | 3841 | 08:00:00
+1425563 | Katerine Valderrama Pinto | 2635 | 00:45:25
+1425585 | Jessica Maria Castillo Lucumi | 3841 | 05:00:00
+1425791 | Wilmar Arlex Santana Madrid | 3845 | 08:34:47
+1425920 | Daniela  Rivas Perea | 2635 | 00:44:30
+1425979 | Nicol Dayana Gonzalez Jimenez | 3841 | 13:00:00
+1425984 | Miguel Angel Garcia Medina | 3845 | 02:28:36
+1426146 | Alexandra Ospina Cabrales | 2635 | 00:46:03
+1426147 | Julio Cesar Panesso Rivera | 2635 | 00:46:53
+1426195 | Amanda Ceballos Imbacuan | 2635 | 00:47:11
+1426553 | Angela Maria Imbachi | 3841 | 14:00:00
+1426579 | Daniela Molina Londoño | 3841 | 01:00:00
+1426721 | Rubén Dario  Castillo | 3841 | 06:00:00
+1426766 | Julian Mauricio  Montilla Gamboa  | 3845 | 04:32:28
+1427122 | Jaime Enrique Cundar Zambrano | 3845 | 03:06:04
+1427231 | Dario Fernando Ramirez Ortiz | 2635 | 00:43:28
+1427347 | Robinson Leon Romero | 2635 | 00:49:24
+1427566 | Angelica Maria Gomez Cano | 3845 | 01:17:18
+1427609 | Luisa Maria Yepes Torres | 2635 | 00:45:55
+1427682 | Yaine Bolena Ballesteros | 3841 | 08:00:00
+1427881 | Sebastian Guarnizo Rosero | 3660 | 16:25:00
+1428295 | Laura  Restrepo | 2713 | 02:27:35
+1428320 | Manuel Alejandro Castro | 3841 | 07:00:00
+1428441 | Aldrea Alzate Rodriguez | 2635 | 00:46:28
+1428631 | Leydy Carolina Guzman Tosse | 3841 | 05:00:00
+1428797 | Duvan Alexis Salazar Giraldo | 3841 | 01:49:43
+1428845 | Juan David Rodriguez Alzate | 2635 | 03:08:36
+1429227 | Lina Paola Trejos Moreno | 3263 | 01:39:17
+1429715 | Jessica Manuela Alvarez Cuero | 2635 | 00:48:44
+1429832 | Marisol López Perez | 3841 | 06:00:00
+1429839 | Marisol  Lopez Perez | 3841 | 01:00:00
+1429914 | Carlos  Gil Guerrero | 3845 | 05:22:26
+1430094 | Maira Alejandra  Arévalo | 3841 | 08:00:00
+1430120 | Johathan Martinez Marmolejo | 3841 | 01:25:29
+1430586 | Valeria Alexis  Restrepo Zapata | 3841 | 02:00:00
+1431160 | Paul Cristian Martinez Cardona | 3845 | 04:00:00
+1431693 | Juan Manuel Gomez Macias | 3841 | 09:00:00
+1432687 | Maria Del Mar Delgado Vargas | 2635 | 00:46:37
+1432733 | Cindy Tatiana Ocampo Garcia | 2635 | 00:49:48
+9117150 | Ricardo Cuero Ruiz | 3845 | 08:47:44
+9205617 | Maria Fernanda Ortiz OrdoÑez | 3845 | 03:00:00
+9222342 | Ramiro Mendoza Manrique | 3845 | 00:24:44
+9223717 | Luis Alfredo Ruiz Montao | 3845 | 03:00:00
+9514261 | Paola Andrea Fajardo Garces | 3845 | 07:00:00
+
+

@@ -1,0 +1,10 @@
+Elaborado el... 31 de Marzo de 2008
+Mes:  de  de  al  de  de 
+CODIGO | USUARIO | PLAN |  TIEMPO DE USO
+
+0222083 | HÉctor Javier Ortiz MartÍnez | 3842 | 01:08:57
+0322097 | Jorge Olmedo Renteria Moreno | 3845 | ----
+0339005 | William Andres Polo Diaz | 3842 | 06:23:31
+0428894 | Alvaro Ignacio Rodriguez Lasso | 3846 | 00:18:41
+
+
