@@ -1,42 +1,32 @@
 <?
-	session_start();
-	require "../functions.php";
-	$rootPath = '..';
-	
-	$_GET['item'] = 7;
-	
-	$valign = 'top';
-	$centrar_contenido = false;
-	$width = '100%';
-	PageInit("Nuestra Comunidad");
-	$default_login = (getIP()=='192.168.220.165')? "wilches" : "";
-	?>
-	<H1 class="shiny">Revisar Correo de Univalle</H1>
-	<table ALIGN="CENTER">
-	<tr>
-		<td ALIGN="CENTER">
-		Ingresa aqui el login y password de tu cuenta en Univalle.<br>
-		Por ejemplo si tu correo es <FONT COLOR="green">usuario@univalle.edu.co</FONT>
-		tu login es <FONT COLOR="green">usuario</FONT>.
-		<FORM NAME="form" ACTION="/correo-uv.php" METHOD="POST">
-		<table ALIGN="CENTER">
-		<tr>
-			<td><B>Login:</B></td>
-			<td><INPUT NAME="login_username" VALUE="<?=$default_login?>" TYPE="text" SIZE="12"></td>
-		</tr>
-		<tr>
-			<td><B>Password:</B></td>
-			<td><INPUT NAME="secretkey" TYPE="password" SIZE="12"></td>
-		</tr>
-		<tr>
-			<td COLSPAN="2" ALIGN="CENTER"><INPUT NAME="submit" TYPE="submit" VALUE="Entrar" SIZE="10"></td>
-		</tr>
-		</table>
-		</FORM>
-		</td>
-	</tr>
-	</table>
-	<?
-	
-	PageEnd();
+   require_once "functions.php";
 ?>
+<form name=form action="/correo-uv.php" method=POST>
+<TABLE WIDTH="130" BORDER="0" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#CC6666">
+<TR>
+	<TD COLSPAN="3" ALIGN="CENTER" BGCOLOR="#cc6666"><IMG SRC="/Images/plantilla/correo-normal.gif" WIDTH="120" HEIGHT="20" ALT=""></TD>
+	</TR>
+<TR>
+	<TD COLSPAN="3" BGCOLOR="#f2f2f2"><TABLE WIDTH="130" BORDER="0" ALIGN="CENTER">
+		<TR>
+			<TD ALIGN="CENTER"><B>Login</B></TD>
+			</TR>
+		<TR>
+			<TD ALIGN="CENTER"><INPUT NAME="login_username"  TYPE="text" SIZE="10" STYLE="text-align:center;"></TD>
+			</TR>
+		<TR>
+			<TD ALIGN="CENTER"><B>Password</B></TD>
+			</TR>
+		<TR>
+			<TD ALIGN="CENTER"><INPUT NAME="secretkey" TYPE="PASSWORD" SIZE="10" STYLE="text-align:center;"></TD>
+			</TR>
+		<TR>
+			<TD ALIGN="CENTER"><INPUT NAME="submit" TYPE="submit" VALUE="Entrar"></TD>
+			</TR>
+		<tr><td align="center"><a href="correo/src/login.php">Correo Fayol</a></td></tr>
+		</TABLE>
+	</TD>
+</TR>
+</TABLE>
+
+</form>
