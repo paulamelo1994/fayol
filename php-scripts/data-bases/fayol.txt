@@ -1,0 +1,51 @@
+CREATE TABLE "eventos" (
+        "id" integer NOT NULL DEFAULT nextval('seq_eventos'),
+        "nombre_evento" character varying(300),
+        "fecha" character varying(100),
+        "hora" character varying(100),
+        "lugar" character varying(200),
+        "direccion" character varying(300),
+        "ciudad" character varying(100),
+        "departamento" character varying(100),
+        "pais" character varying(100),
+        "adicionales" text,
+        "organizador" character varying(300),
+        "facultad" character varying(100),
+        "escuela" character varying(100),
+        "email" character varying(100),
+        "telefono1" character varying(100),
+        "fax" character varying(100),
+        "direccion_organizador" character varying(300),
+        "ciudad_organizador" character varying(100),
+        "departamento_organizador" character varying(100),
+        "pais_organizador" character varying(100),
+        "inicia_inscripciones" character varying(100),
+        "finaliza_inscripciones" character varying(100),
+        "codigo_icfes" character varying(100),
+        "enlazado" boolean,
+        "oculto" boolean,
+		"fecha_publicacion" date DEFAULT now(),
+        Constraint "datos_new_pkey" Primary Key ("id")
+);
+CREATE SEQUENCE "seq_eventos" start 1 increment 1 maxvalue 9223372036854775807 minvalue 1 cache 1;
+GRANT SELECT,INSERT,DELETE,UPDATE ON eventos, seq_eventos TO internet;
+
+
+CREATE TABLE "soporte" (
+        "extension" character varying(4),
+        "espacio" character varying(5),
+        "nombre" character varying(101),
+        "division" character varying(101),
+        "inventario" character varying(9),
+        "numpeticion" integer DEFAULT nextval('seq_soporte'::text),
+        "descripcion" text,
+        "ip" character varying(16),
+        "hora" time without time zone,
+        "fecha" date,
+        "estado" integer DEFAULT 0,
+        "comentarios" text,
+        "horaatencion" time without time zone,
+        "fechaatencion" date
+);
+CREATE SEQUENCE "seq_soporte" start 1 increment 1 minvalue 1;
+GRANT SELECT,INSERT,DELETE,UPDATE ON soporte, seq_soporte TO internet;

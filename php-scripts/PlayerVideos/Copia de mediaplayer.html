@@ -1,0 +1,33 @@
+
+<html>
+
+<head>
+
+<script type="text/javascript" src="swfobject.js"></script>
+
+<script type="text/javascript">
+function createPlayer(src)
+{
+	var s1 = new SWFObject("mediaplayer.swf","single","300","200","7");
+	s1.addParam("allowfullscreen","true");
+	s1.addVariable("file",src);
+	s1.addVariable("image","preview.jpg");
+	s1.addVariable("width","300");
+	s1.addVariable("height","200");
+	s1.write("player");
+};
+</script>
+</head>
+<body onload="javascript:createPlayer('libro_cronfly.flv')">
+
+<h3>single file, with preview image:</h3>
+
+
+<div id="player">
+<a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Plugin</a>
+to see this movie.
+</div>
+
+</body>
+
+</html>
